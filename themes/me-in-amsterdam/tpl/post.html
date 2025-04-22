@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="{{tpl:BlogLanguage}}">
+<head>
+		<meta charset="UTF-8" />
+
+  <meta name="ROBOTS" content="{{tpl:BlogMetaRobots}}" />
+
+  <title>{{tpl:EntryTitle encode_html="1"}}</title>
+  <meta name="description" lang="{{tpl:EntryLang}}" content="{{tpl:EntryContent full="1" encode_html="1" remove_html="1" cut_string="180"}}" />
+  <meta name="copyright" content="{{tpl:BlogCopyrightNotice encode_html="1"}}" />
+  <meta name="author" content="{{tpl:EntryAuthorCommonName encode_html="1"}}" />
+  <meta name="date" scheme="W3CDTF" content="{{tpl:EntryDate iso8601="1"}}" />
+
+  <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+
+  <meta name="dc.title" content="{{tpl:EntryTitle encode_html="1"}}" />
+  <meta name="dc.description" lang="{{tpl:EntryLang}}" content="{{tpl:EntryContent full="1" encode_html="1" remove_html="1" cut_string="180"}}" />
+  <meta name="dc.creator" content="{{tpl:EntryAuthorCommonName encode_html="1"}}" />
+  <meta name="dc.language" content="{{tpl:EntryLang}}" />
+  <meta name="dc.publisher" content="{{tpl:BlogEditor encode_html="1"}}" />
+  <meta name="dc.rights" content="{{tpl:BlogCopyrightNotice encode_html="1"}}" />
+  <meta name="dc.date" scheme="W3CDTF" content="{{tpl:EntryDate iso8601="1"}}" />
+  <meta name="dc.type" content="text" />
+  <meta name="dc.format" content="text/html" />
+
+
+  <link rel="top" href="{{tpl:BlogURL}}" title="{{tpl:lang Home}}" />
+  <link rel="contents" href="{{tpl:BlogArchiveURL}}" title="{{tpl:lang Archives}}" />
+
+  <tpl:EntryNext><link rel="next" href="{{tpl:EntryURL}}"
+  title="{{tpl:EntryTitle encode_html="1"}}" /></tpl:EntryNext>
+
+  <tpl:EntryPrevious><link rel="prev" href="{{tpl:EntryURL}}"
+  title="{{tpl:EntryTitle encode_html="1"}}" /></tpl:EntryPrevious>
+
+  {{tpl:include src="_head.html"}}
+
+	<script src="{{tpl:BlogQmarkURL}}pf=post.js"></script>
+  <!-- <script type="text/javascript" src="{{tpl:BlogThemeURL}}/../default/js/post.js"></script>
+  <script type="text/javascript"> -->
+  //<![CDATA[
+  var post_remember_str = '{{tpl:lang Remember me on this blog}}';
+  //]]>
+  </script>
+
+<!-- flattr
+<script src="http://api.flattr.com/js/0.6/load.js?mode=auto"></script>
+-->
+</head>
+<body class="dc-post">
+
+<div id="page">
+{{tpl:EntryPingData}}
+
+{{tpl:include src="_top.html"}}
+
+<div id="topmenu">
+<div class="widget categories ">
+<ul>
+<li><a href="http://meinamsterdam.nl/category/Toering" title="Tourisme, découverte des Pays-Bas.">toering</a></li>
+<li><a href="http://meinamsterdam.nl/category/Nederlandjes" title="Coutumes et spécialités qui font les Néerlandais">nederlandjes</a></li>
+<li><a href="http://meinamsterdam.nl/category/Ik-ben-frans" title="Je suis français aux Pays-Bas, ça se voit">ik ben frans</a></li>
+<li><a href="http://meinamsterdam.nl/category/Dagelijks" title="Les ptits trucs du quotidien">dagelijks</a></li></ul>
+</div>
+</div>
+
+
+
+<div id="wrapper">
+
+<main>
+  <div id="content">
+
+  <p id="navlinks">
+  <tpl:EntryPrevious><a href="{{tpl:EntryURL}}"
+  title="{{tpl:EntryTitle encode_html="1"}}" class="prev">{{tpl:EntryTitle encode_html="1"
+  cut_string="50"}}</a></tpl:EntryPrevious>
+  <tpl:EntryNext> <span>-</span> <a href="{{tpl:EntryURL}}"
+  title="{{tpl:EntryTitle encode_html="1"}}" class="next">{{tpl:EntryTitle encode_html="1"
+  cut_string="50"}}</a></tpl:EntryNext>
+  </p>
+
+<div class="mobile_surtitre">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-6770013384586203";
+    google_ad_slot = "3350549447";
+    google_ad_width = 320;
+    google_ad_height = 50;
+</script>
+<!-- meinamsterdam_mobile_beforetitle -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:50px"
+     data-ad-client="ca-pub-6770013384586203"
+     data-ad-slot="3350549447"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+  <div id="p{{tpl:EntryID}}" class="post">
+    <h1 class="post-title">{{tpl:EntryTitle encode_html="1"}}</h1>
+    <p class="post-info">
+    Le {{tpl:EntryDate}}. <!--{{tpl:EntryTime}}  -->
+     <a href="/admin/post.php?id={{tpl:EntryID}}" rel="nofollow" class="editpost">-</a>
+    <tpl:EntryIf has_category="1">
+     <a href="{{tpl:EntryCategoryURL}}">{{tpl:EntryCategory encode_html="1"}}</a>
+    </tpl:EntryIf>
+<!--    - <a href="{{tpl:EntryURL}}">{{tpl:lang Permalink}}</a> -->
+    </p>
+
+    <tpl:EntryTags>
+    <tpl:TagsHeader><ul class="post-tags"></tpl:TagsHeader>
+    <li><a href="{{tpl:TagURL}}">{{tpl:TagID}}</a></li>
+    <tpl:TagsFooter></ul></tpl:TagsFooter>
+    </tpl:EntryTags>
+
+    <!-- # --BEHAVIOR-- publicEntryBeforeContent -->
+    {{tpl:SysBehavior behavior="publicEntryBeforeContent"}}
+
+    <!-- # Entry with an excerpt -->
+    <tpl:EntryIf extended="1">
+      <div class="post-excerpt">{{tpl:EntryExcerpt}}</div>
+    </tpl:EntryIf>
+
+    <div class="post-content">{{tpl:EntryContent}}</div>
+
+    <!-- # --BEHAVIOR-- publicEntryAfterContent -->
+    {{tpl:SysBehavior behavior="publicEntryAfterContent"}}
+  </div>
+
+
+<div class="horizontal-banner">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-6770013384586203";
+    google_ad_slot = "4214878244";
+    google_ad_width = 468;
+    google_ad_height = 20;
+</script>
+<!-- amsterdam_banniere_468x15_liens -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+  <!-- # Attachments -->
+  <tpl:Attachments>
+    <tpl:AttachmentsHeader>
+      <div id="attachments">
+      <h3>{{tpl:lang Attachments}}</h3>
+      <ul>
+    </tpl:AttachmentsHeader>
+      <li class="{{tpl:AttachmentType}}">
+        <tpl:AttachmentIf is_mp3="1">
+          {{tpl:include src="_mp3_player.html"/}} -
+        </tpl:AttachmentIf>
+        <tpl:AttachmentIf is_flv="1">
+	     {{tpl:include src="_flv_player.html"/}}
+	   </tpl:AttachmentIf>
+	   <tpl:AttachmentIf is_flv="0">
+	   	<a href="{{tpl:AttachmentURL}}"
+		title="{{tpl:AttachmentFileName}} ({{tpl:AttachmentSize}})">{{tpl:AttachmentTitle}}</a>
+        </tpl:AttachmentIf>
+      </li>
+    <tpl:AttachmentsFooter>
+      </ul>
+      </div>
+    </tpl:AttachmentsFooter>
+  </tpl:Attachments>
+
+  <!-- # Comments -->
+  <tpl:EntryIf show_comments="1">
+    <tpl:Comments>
+    <tpl:CommentsHeader>
+      <div id="comments">
+        <h3>{{tpl:lang Comments}}</h3>
+      <dl>
+    </tpl:CommentsHeader>
+      <dt id="c{{tpl:CommentID}}" class="{{tpl:CommentIfMe}} {{tpl:CommentIfOdd}} {{tpl:CommentIfFirst}}">
+      {{tpl:lang by}} {{tpl:CommentAuthorLink}},<br/>
+      {{tpl:lang on}} <a href="#c{{tpl:CommentID}}" class="comment-number">{{tpl:CommentDate}}</a>.
+</dt>
+
+      <dd class="{{tpl:CommentIfMe}} {{tpl:CommentIfOdd}} {{tpl:CommentIfFirst}}">
+      <!-- # --BEHAVIOR-- publicCommentBeforeContent -->
+      {{tpl:SysBehavior behavior="publicCommentBeforeContent"}}
+
+      {{tpl:CommentContent}}
+
+      <!-- # --BEHAVIOR-- publicCommentAfterContent -->
+      {{tpl:SysBehavior behavior="publicCommentAfterContent"}}
+      </dd>
+    <tpl:CommentsFooter>
+      </dl>
+      </div>
+    </tpl:CommentsFooter>
+    </tpl:Comments>
+  </tpl:EntryIf>
+
+  <tpl:EntryIf comments_active="1">
+    <tpl:SysIfFormError>
+      <p class="error" id="pr">{{tpl:SysFormError}}</p>
+    </tpl:SysIfFormError>
+
+    <tpl:SysIfCommentPublished>
+      <p class="message" id="pr">{{tpl:lang Your comment has been published.}}</p>
+    </tpl:SysIfCommentPublished>
+
+    <tpl:SysIfCommentPending>
+      <p class="message" id="pr">{{tpl:lang Your comment has been submitted and
+      will be reviewed for publication.}}</p>
+    </tpl:SysIfCommentPending>
+
+    <!-- # Comment form -->
+    <form action="{{tpl:EntryBasename}}#pr" method="post" id="comment-form">
+      <tpl:IfCommentPreview>
+
+        <div id="pr">
+          <h3>{{tpl:lang Your comment}}</h3>
+
+          <dl class="preview">
+      <dt>
+
+<!--
+TODO:  {{tpl:CommentPreviewEmail}} as
+{{tpl:CommentAuthorMail}} > {{tpl:CommentAuthorMailMD5}}
+<img src="http://www.gravatar.com/avatar/{{tpl:CommentAuthorMailMD5}}?s=32&d=identicon&r=g" class="gravatar" />
+-->
+
+      {{tpl:lang by}} {{tpl:CommentPreviewName}},<br/>
+      Maintenant.
+</dt>
+
+            <dd class="comment-preview">{{tpl:CommentPreviewContent}}</dd>
+
+          <p class="buttons"><input type="submit" class="submit" value="{{tpl:lang send}}" /></p>
+          </dl>
+        </div>
+      </tpl:IfCommentPreview>
+
+      <h3>{{tpl:lang Add a comment}}</h3>
+      <fieldset>
+        <!-- # --BEHAVIOR-- publicCommentFormBeforeContent -->
+        {{tpl:SysBehavior behavior="publicCommentFormBeforeContent"}}
+
+        <p class="field"><label for="c_name">{{tpl:lang Name or nickname}}&nbsp;:</label><br/>
+        <input name="c_name" id="c_name" type="text" size="30" maxlength="255"
+        value="{{tpl:CommentPreviewName encode_html="1"}}" />
+        </p>
+
+        <p class="field"><label for="c_mail">{{tpl:lang Email address}}&nbsp;:</label><br/>
+        <input name="c_mail" id="c_mail" type="text" size="30" maxlength="255"
+        value="{{tpl:CommentPreviewEmail encode_html="1"}}" />
+        </p>
+
+        <p class="field"><label for="c_site">{{tpl:lang Website}} ({{tpl:lang optional}})&nbsp;:</label><br/>
+        <input name="c_site" id="c_site" type="text" size="30" maxlength="255"
+        value="{{tpl:CommentPreviewSite encode_html="1"}}" />
+        </p>
+
+        <p style="display:none"><input name="f_mail" type="text" size="30"
+        maxlength="255" value="" /></p>
+
+        <p class="field"><label for="c_content">{{tpl:lang Comment}}&nbsp;:</label><br/>
+        <textarea name="c_content" id="c_content" cols="35"
+        rows="7">{{tpl:CommentPreviewContent raw="1" encode_html="1"}}</textarea>
+        </p>
+        <p class="form-help">{{tpl:CommentHelp}}</p>
+
+        <!-- # --BEHAVIOR-- publicCommentFormAfterContent -->
+        {{tpl:SysBehavior behavior="publicCommentFormAfterContent"}}
+      </fieldset>
+
+      <fieldset>
+        <p class="buttons"><input type="submit" class="preview" name="preview" value="{{tpl:lang preview}}" />
+        <tpl:IfCommentPreview><input type="submit" class="submit" value="{{tpl:lang send}}" /></tpl:IfCommentPreview></p>
+      </fieldset>
+    </form>
+  </tpl:EntryIf>
+
+
+<script type="text/javascript"><!--
+/* google_ad_client = "ca-pub-6770013384586203"; */
+/* meindam_bottom_topics */
+/* google_ad_slot = "8538748240";
+google_ad_width = 728;
+google_ad_height = 15; */
+//-->
+</script>
+<!--script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script-->
+
+
+  <tpl:EntryIf operator="or" comments_active="1" pings_active="1">
+  <p id="comments-feed"><a class="feed" href="{{tpl:BlogFeedURL type="atom"}}/comments/{{tpl:EntryID}}"
+  title="{{tpl:lang This post's comments Atom feed}}">{{tpl:lang This post's comments feed}}</a></p>
+  </tpl:EntryIf>
+  </div>
+</main> <!-- End #main -->
+
+<div id="sidebar">
+  <div id="blognav">
+    {{tpl:Widgets type="nav"}}
+  </div> <!-- End #blognav -->
+
+  <div id="blogextra">
+    {{tpl:include src="_sidebar.html"}}
+    {{tpl:Widgets type="extra"}}
+
+<div class="photos">
+    <h2>Partager</h2>
+<p>
+supprimé pour cause de spam
+<?php // 
+<a href="{{tpl:BlogURL}}envoyer/{{tpl:EntryID}}" class="sendToFriend">{{tpl:lang Send to friend}}</a>
+?>
+</p>
+</div>
+
+<div class="banner300" style="margin-top: 20px;">
+<!-- ams_rectangle_300x250 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6770013384586203"
+     data-ad-slot="3222236349"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+  </div> <!-- End #blogextra -->
+<br/>
+
+
+</div>
+
+<!-- horiz banner -->
+<div class="horizontal-banner">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-6770013384586203";
+    google_ad_slot = "5970813040";
+    google_ad_width = 468;
+    google_ad_height = 60;
+</script>
+<!-- amsterdam_bannière_468x60 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div> <!-- End #wrapper -->
+
+{{tpl:include src="_footer.html"}}
+</div> <!-- End #page -->
+</body>
+</html>

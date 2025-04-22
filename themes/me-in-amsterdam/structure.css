@@ -1,0 +1,87 @@
+/* top banner header */
+
+#preheader {
+
+}
+
+#page {
+    margin-top:111px;
+}
+
+#top, header {
+    background-color: #ff6f32;
+    border-bottom: 5px solid #000000;
+    margin: 0 auto;
+    padding: 5px 0 0 0;
+    width: 100%;
+    height: 110px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+#top.shrink, header.shrink {
+    border-bottom: 2px solid #000000;
+    padding:2px 0 0 0;
+    height:46px;
+}
+
+/* wrapper main content */
+
+#wrapper { 
+    max-width:990px;
+    margin: 0 auto;
+}
+#main, main { 
+    margin-top:20px;
+    width : 100%;
+    margin : 0 -300px 0 0;
+    float : left;
+}
+#content { 
+    margin : 30px 350px 0 0;
+    padding : 10px;
+}
+
+/* sidebar */
+
+#sidebar { 
+	width : 300px; 
+	float : right;
+	font-size: 0.8em;
+	text-align: right;
+	margin-top: 30px;
+}
+
+/* footer */
+#footer, footer { 
+	clear : both;
+	text-align:center;
+	margin: 100px auto 20px;
+	width:80%;
+}
+
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+
+@media (max-width: 850px) {
+    #main, main {
+        float: none;
+        margin: 0;
+    }
+    #sidebar, #content, #footer, footer { 
+        margin: 0;
+	width : 85%; 
+	float : none;
+        margin: 3px auto;
+    }
+    #content {
+	padding-top: 20px;
+    }
+}

@@ -1,0 +1,1 @@
+$(function(){feeds=['rss2','rss2_comments','atom','atom_comments'];$.each(feeds,function(i){if($("input[name='"+feeds[i]+"']").val().length>0)$("input[name='"+feeds[i]+"']").next('p').show("slow");$("input[name='"+feeds[i]+"']").keyup(function(){if($(this).val().length>0)$(this).next('p').show("slow");if($(this).val().length==0)$(this).next('p').hide("slow")})})})

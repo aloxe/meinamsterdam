@@ -1,0 +1,116 @@
+.jse .noscript{display:none!important;}#superuser{display:block;margin:0;padding:.2em .5em;background-color:#390;font-size:.9em;color:#cfc;position:fixed;bottom:0;right:0;z-index:100;}
+#superuser strong{color:#fff;font-weight:normal;}body{margin:0;padding:0;background:#fff;color:#000;text-align:center;font-family:"trebuchet ms",arial,helvetica,sans-serif;}
+body,div,p,th,td,li,dd,dt{font-size:small;}body,body div,body p,body th,body td,body li,body dd,body dt{font-size:x-small;voice-family:"\"}\"";voice-family:inherit;font-size:small;}
+html>body,html>body div,html>body p,html>body th,html>body td,html>body li,html>body dd,html>body dt{font-size:small;}
+a:link{color:#36c;}a:visited{color:#36c;}a:hover,a:active{color:#36c;text-decoration:underline;}
+.input-default{color:#666;}.pg-width{margin:0 auto;text-align:left;}.popup .pg-width{width:95%;}
+.fxd .pg-width,.product .pg-width{width:56.5em;}.detail .pg-width,.hp .pg-width,.advanced-search .pg-width,.fxd-w .pg-width,.realtor .pg-width,#funda-desk .hp .pg-width{width:962px;}
+.lqd .pg-width,.results .pg-width,.results-realtors .pg-width,.realtor-results .pg-width{margin-left:1em;margin-right:1em;width:auto;}
+#print .pg-width{margin-left:1em;margin-right:1em;}#hdr,#ftr,#main,#main-bottom{clear:both;}
+#hdr{margin-bottom:1em;position:relative;z-index:30;* zoom:1;}#hdr #logo{float:left;margin-top:5px;}
+#hdr #logo a.lustrum,#hdr #logo.hover a.lustrum{background:url("/img/hdr/lustrum.png?5124") no-repeat scroll 50% 0 transparent;float:left;height:38px;line-height:40px;margin-left:-14px;margin-top:-6px;text-decoration:none;width:40px;}
+#hdr #logo.hover a.lustrum{background-image:url("/img/hdr/lustrum-hvr.png?7095");width:90px;}
+.hp #hdr #logo a.lustrum,.hp #hdr #logo.hover a.lustrum,.advanced-search #hdr #logo a.lustrum,.advanced-search #hdr #logo.hover a.lustrum{margin-left:-17px;margin-top:2px;}
+#hdr #logo img{float:left;}#hdr .pg-width{height:55px;line-height:55px;position:relative;}
+.popup #hdr .pg-width{height:40px;line-height:40px;}#funda .hp #hdr,#funda-ib .hp #hdr,#funda .advanced-search #hdr,#funda-ib .advanced-search #hdr{margin-bottom:2em;}
+#funda #my.hp #hdr,#funda-ib #my.hp #hdr{margin-bottom:1em;}#nav-hdr{position:absolute!important;z-index:10;top:0;right:0;}
+#funda #hdr #nav-hdr,#funda-ib #hdr #nav-hdr{line-height:1;top:5px;padding-top:7px;* line-height:15px;* padding-top:6px;}
+#funda .hp #hdr #nav-hdr,#funda-ib .hp #hdr #nav-hdr,#funda .advanced-search #hdr #nav-hdr,#funda-ib .advanced-search #hdr #nav-hdr{top:14px;* top:13px;}
+a#nav-close{padding-left:15px;background:url(/img/icn/icn-close.gif?7730) no-repeat center left;}
+.my-menu-button{float:left;*margin-top:-2px;}.my-menu-dropdown-container{position:relative;right:0;}
+* html .my-menu-dropdown-container{position:absolute;}.my-menu-dropdown{float:left;}
+#funda #nav-hdr strong,#funda-ib #nav-hdr strong{float:left;margin-right:3px;}#funda #nav-hdr .my-menu-container,#funda-ib #nav-hdr .my-menu-container{display:block;float:left;}
+a.my-menu-button{background:url(/img/icn/icn-arr-menu.gif?1608) 100% 2px no-repeat;display:inline-block;margin-right:1px;outline:none;position:relative;text-decoration:none;top:-6px;* top:-4px;}
+a.my-menu-button span{cursor:pointer;display:inline-block;line-height:24px;margin:0 -1px;_margin:0;padding:1px 19px 1px 5px;text-decoration:underline;}
+a.my-menu-button:hover,a.my-menu-button:focus,a.my-menu-button.selected,a.my-menu-button.selected:hover,a.my-menu-button.selected:focus{background-color:#fff;background-position:100% 1px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;text-decoration:none;}
+a.my-menu-button:hover span,a.my-menu-button:focus span,a.my-menu-button.selected span,a.my-menu-button.selected:hover span,a.my-menu-button.selected:focus span{border-left:1px solid #ccc;border-right:1px solid #ccc;padding:0 18px 0 4px;text-decoration:none;}
+#nav-hdr .hide{display:none;}#nav-hdr .nav-dropdown{position:absolute;top:19px!important;right:0;left:auto;z-index:25;}
+#nav-hdr .nav-dropdown li.lst{border-bottom:1px dotted #ccc;}#nav-hdr .nav-dropdown li.logout a{color:#c00!important;}
+#nav-hdr .nav-dropdown li.logout a:hover,#my-menu-dropdown.nav-dropdown li.logout a:active{background-color:#fcc;}
+#hdr #nav-global{background-color:#73cff7;clear:both;height:24px;padding-top:5px;text-align:center;}
+#nav-global ul{margin:0 auto;padding:0;}#nav-global li{float:left;list-style:none;}
+#nav-global a{background-image:url(/img/nav/tab-funda.gif?211);background-repeat:no-repeat;display:inline;float:left;height:24px;margin:0 2px;overflow:hidden;text-indent:-999em;}
+#funda #nav-global ul{width:439px;}#funda #nav-global a{background-image:url(/img/nav/tab-funda.gif?211);}
+#funda .nav-woningaanbod a{background-position:0 0;width:122px;}#funda .nav-woningaanbod a.on{background-position:0 -50px;}
+#funda .nav-bedrijfsaanbod a{background-position:-127px 0;width:123px;}#funda .nav-bedrijfsaanbod a.on{background-position:-127px -50px;}
+#funda .nav-verkoop a{background-position:-255px 0;width:78px;}#funda .nav-verkoop a.on{background-position:-255px -50px;}
+#funda .nav-makelaars a{background-position:-338px 0;width:127px;}#funda .nav-makelaars a.on{background-position:-338px -50px;}
+#funda .nav-my-funda a{background-position:-527px 0;width:95px;}#funda .nav-my-funda a.on{background-position:-527px -50px;}
+#funda-ib #nav-global ul{width:665px;}#funda-ib #nav-global a{background-image:url(/img/nav/tab-fib.gif?3658);}
+#funda-ib .nav-bedrijfsaanbod a{background-position:0 0;width:123px;}#funda-ib .nav-bedrijfsaanbod a.on{background-position:0 -50px;}
+#funda-ib .nav-verhuur-verkoop a{background-position:-128px 0;width:158px;}#funda-ib .nav-verhuur-verkoop a.on{background-position:-128px -50px;}
+#funda-ib .nav-bedrijfsmakelaars a{background-position:-291px 0;width:182px;}#funda-ib .nav-bedrijfsmakelaars a.on{background-position:-291px -50px;}
+#funda-ib .nav-my-fib a{background-position:-478px 0;width:178px;}#funda-ib .nav-my-fib a.on{background-position:-478px -50px;}
+#funda-ib.en #nav-global ul{width:734px;}#funda-ib.en #nav-global a{background-image:url(/img/nav/tab-fib-en.gif?4053);}
+#funda-ib.en .nav-bedrijfsaanbod a{background-position:0 0;width:168px;}#funda-ib.en .nav-bedrijfsaanbod a.on{background-position:0 -50px;}
+#funda-ib.en .nav-verhuur-verkoop a{background-position:-173px 0;width:136px;}#funda-ib.en .nav-verhuur-verkoop a.on{background-position:-173px -50px;}
+#funda-ib.en .nav-bedrijfsmakelaars a{background-position:-314px 0;width:236px;}
+#funda-ib.en .nav-bedrijfsmakelaars a.on{background-position:-314px -50px;}#funda-ib.en .nav-my-fib a{background-position:-555px 0;width:167px;}
+#funda-ib.en .nav-my-fib a.on{background-position:-555px -50px;}#funda-desk #nav-global ul{width:605px;}
+#funda-desk #nav-global a{background-image:url(/img/nav/tab-funda-desk.gif?2428);}
+#funda-desk .nav-home a{background-position:0 0;width:58px;}#funda-desk .nav-home a.on{background-position:0 -50px;}
+#funda-desk .nav-uw-woningaanbod a{background-position:-63px 0;width:122px;}#funda-desk .nav-uw-woningaanbod a.on{background-position:-63px -50px;}
+#funda-desk .nav-uw-bedrijfsaanbod a{background-position:-190px 0;width:123px;}#funda-desk .nav-uw-bedrijfsaanbod a.on{background-position:-190px -50px;}
+#funda-desk .nav-uw-kantoor a{background-position:-318px 0;width:71px;}#funda-desk .nav-uw-kantoor a.on{background-position:-318px -50px;}
+#funda-desk .nav-uw-administratie a{background-position:-394px 0;width:112px;}#funda-desk .nav-uw-administratie a.on{background-position:-394px -50px;}
+#funda-desk .nav-producten a{background-position:-511px 0;width:87px;}#funda-desk .nav-producten a.on{background-position:-511px -50px;}
+#funda-manager #nav-global ul{width:710px;}#funda-manager #nav-global a{background-image:url(/img/nav/tab-funda-manager.gif?1680);}
+#funda-manager .nav-home a{background-position:0 0;width:58px;}#funda-manager .nav-home a.on{background-position:0 -50px;}
+#funda-manager .nav-woningaanbod a{background-position:-63px 0;width:122px;}#funda-manager .nav-woningaanbod a.on{background-position:-63px -50px;}
+#funda-manager .nav-bedrijfsaanbod a{background-position:-190px 0;width:123px;}#funda-manager .nav-bedrijfsaanbod a.on{background-position:-190px -50px;}
+#funda-manager .nav-makelaars a{background-position:-318px 0;width:91px;}#funda-manager .nav-makelaars a.on{background-position:-318px -50px;}
+#funda-manager .nav-contracten a{background-position:-414px 0;width:94px;}#funda-manager .nav-contracten a.on{background-position:-414px -50px;}
+#funda-manager .nav-administratie a{background-position:-516px 0;width:112px;}#funda-manager .nav-administratie a.on{background-position:-516px -50px;}
+#funda-manager .nav-partners a{background-position:-633px 0;width:76px;}#funda-manager .nav-partners a.on{background-position:-633px -50px;}
+#funda-ir #nav-global ul{width:705px;}#funda-ir #nav-global a{background-image:url(/img/nav/tab-funda-ir.gif?5067);}
+#funda-ir .nav-home a{background-position:0 0;width:58px;}#funda-ir .nav-home a.on{background-position:0 -50px;}
+#funda-ir .nav-nieuws a{background-position:-63px 0;width:69px;}#funda-ir .nav-nieuws a.on{background-position:-63px -50px;}
+#funda-ir .nav-organisatie a{background-position:-137px 0;width:98px;}#funda-ir .nav-organisatie a.on{background-position:-137px -50px;}
+#funda-ir .nav-financieel a{background-position:-240px 0;width:160px;}#funda-ir .nav-financieel a.on{background-position:-240px -50px;}
+#funda-ir .nav-aandeelhouders a{background-position:-405px 0;width:131px;}#funda-ir .nav-aandeelhouders a.on{background-position:-405px -50px;}
+#funda-ir .nav-vragen a{background-position:-541px 0;width:160px;}#funda-ir .nav-vragen a.on{background-position:-541px -50px;}
+#funda-ir .nav-contact a{background-position:-706px 0;width:74px;}#funda-ir .nav-contact a.on{background-position:-706px -50px;}
+#nav-global:after{content:".";clear:both;display:block;height:0;line-height:0;overflow:hidden;visibility:hidden;}
+#nav-local{clear:both;margin:0;background-color:#fff;border-bottom:1px solid #ccc;text-align:center;* zoom:1;}
+#nav-local ul{margin:0;padding:.4em 0 .5em 0;}#nav-local ul li{display:inline;list-style:none;margin:0;padding:0;}
+#nav-local ul a{margin:0 .5em 0 .5em;color:#666;text-decoration:none;}#nav-local ul a.on{font-weight:bold;}
+#nav-local ul a.on,#nav-local ul a:focus,#nav-local ul a:hover{padding-bottom:3px;border-bottom:4px solid #ccc;color:#000;}
+#nav-local.decor{border:none;}#ftr{margin-top:20px!important;padding:0;border-top:1px solid #ccc;color:#666;}
+#ftr .pg-width{margin-top:1em!important;* padding-top:1em;}#ftr a{color:#333;text-decoration:none;}
+#ftr a:hover,#ftr a:active{text-decoration:underline;}#ftr p{font-size:.9em;line-height:2em;}
+#ftr #ftr-nvm{float:right;}#ftr-home{float:left;width:100%;padding:1em 0;border-top:1px solid #ccc;color:#666;}
+#ftr-home a{color:#333;text-decoration:none;}#ftr-home a:hover,#ftr a:active{text-decoration:underline;}
+#ftr-home p{font-size:.9em;line-height:2em;}#ftr-home #ftr-nvm{float:right;}#ftr-extra{padding:0;background-color:#eee;border-bottom:1px solid #ccc;text-align:center;height:37px;}
+#ftr-extra .ftr-search{margin:0 auto;width:520px;position:relative;height:36px;padding-left:50px;}
+#ftr-extra .ftr-cut-out{height:39px;width:39px;position:absolute;left:0;top:-1px;text-indent:-999em;}
+#ftr-extra .ftr-cut-out .icn-cutout{top:6px;left:-5px;}#ftr-extra .ftr-cut-out-funda{background-color:#fbaf17;}
+#ftr-extra .ftr-cut-out-funda-ib{background-color:#6ccff6;}#ftr-extra .ftr-cut-out-funda-agr{background-color:#b3cf01;}
+#ftr-extra select{margin:8px 15px 0 0;float:left;width:180px;height:20px;border:1px solid #999;width:180px;}
+#ftr-extra .input-via-funda,#ftr-extra .select-via-funda{margin:8px 15px 0 0;float:left;width:206px;height:15px;border:1px solid #999;padding:2px 2px 1px;}
+#ftr-extra select.select-via-funda{height:22px;padding:0;}#ftr-extra select.select-via-funda.hide{display:none;}
+#ftr-extra p{margin:0;float:left;}#ftr-extra p.txt-in{margin:9px 15px 0 0;float:left;}
+#ftr-extra .button-alt-s{margin:7px 0 0;}#ftr-extra ul{margin:0;padding:0;}#ftr-extra ul li{display:inline;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;padding:0;font-size:.95em;}
+#ftr-extra ul li{*font-size:.9em!important;}#ftr-extra-home{margin-top:20px;padding:5px;background-color:#eee;border-top:1px solid #ccc;}
+#ftr-extra-home p{margin:0;font-size:.9em;text-align:center;}#ftr-extra-home strong{color:#000;font-weight:bold;}
+#ftr-extra-home a:link,#ftr-extra-home a:visited{color:#666;text-decoration:none;}
+#ftr-extra-home a:hover,#ftr-extra-home a:active{color:#000;text-decoration:underline;}
+#ftr-extra-home ul{margin:0;padding:0;}#ftr-extra-home ul li{display:inline;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;padding:0;font-size:.95em;}
+#ftr-extra-home ul li{*font-size:.9em!important;}#funda #hdr{background:#fd7400 url(/img/hdr/funda-bg.jpg?2782) no-repeat top left;}
+#funda #nav-hdr a#my-new{color:#900!important;}#funda #nav-global{background-color:#73cff7;}
+#funda #hdr .pg-width{height:38px;line-height:38px;}#funda .hp #hdr .pg-width,#funda .advanced-search #hdr .pg-width{height:55px;line-height:55px;}
+#funda-ib #hdr{background:#44a5d3 url(/img/hdr/funda-ib-bg.jpg?9378) no-repeat top left;}
+#funda-ib #nav-hdr a#my-new{color:#900!important;}#funda-ib #nav-global{background-color:#84d0f0;}
+#funda-ib #hdr .pg-width{height:38px;line-height:38px;}#funda-ib .hp #hdr .pg-width,#funda-ib .advanced-search #hdr .pg-width{height:55px;line-height:55px;}
+#funda-ib #nav-hdr a.lng-slct{background:url(/img/icn/icn-flg-en.gif?3418) no-repeat 0 3px;padding-left:1.75em;}
+#funda-ib.en #nav-hdr a.lng-slct{background:url(/img/icn/icn-flg-nl.gif?9219) no-repeat 0 3px;}
+#funda-desk #hdr{background:#f70 url(/img/hdr/funda-desk-bg.jpg?2782) no-repeat top left;}
+#funda-desk #nav-hdr,#funda-desk #nav-hdr a{color:#000!important;}#funda-desk #nav-global{background-color:#73cff7;}
+#funda-manager #hdr{background:#f70 url(/img/hdr/funda-mngr-bg.jpg?2782) no-repeat top left;}
+#funda-manager #nav-hdr,#funda-manager #nav-hdr a{color:#000!important;}#funda-manager #nav-hdr a#my-new{color:#900!important;}
+#funda-manager #nav-global{background-color:#73cff7;}#funda-manager #ftr p{text-align:center;}
+#funda-ir #hdr{background:#44a5d3 url(/img/hdr/funda-ir-bg.jpg?9378) no-repeat top left;}
+#funda-ir #nav-hdr,#funda-ir #nav-hdr a{color:#000!important;}#funda-ir #nav-hdr a#my-new{color:#900!important;}
+#funda-ir #nav-global{background-color:#83cee3;}#funda-ihdr{background:transparent!important;}
+#funda-ihdr #hdr{background:none!important;}#funda-ihdr #nav-hdr,#funda-ihdr #nav-hdr a{color:#000!important;}
+#funda-ihdr #nav-hdr a#my-new{color:#900!important;}#funda-ihdr #nav-global{background-color:#83cee3;}
+#funda-ihdr #hdr .pg-width{height:38px;line-height:38px;}#funda-ihdr .hp #hdr .pg-width,#funda-ihdr .advanced-search #hdr .pg-width{height:55px;line-height:55px;}

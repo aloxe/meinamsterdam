@@ -1,0 +1,104 @@
+# French translation of plugin miniSEO for DotClear
+# Copyright (C) 2008.
+# Francis Trautmann <francis@passion-tarn-et-garonne.info>, 2008.
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: plugins/miniseo/index.php:82
+msgid "Diagnostic"
+msgstr "Diagnostic"
+
+#: plugins/miniseo/index.php:83
+msgid "Your DOTCLEAR version"
+msgstr "Votre version de DOTCLEAR"
+
+#: plugins/miniseo/index.php:86
+msgid "For information miniseo is for version 2.0-beta7.3-r1690 and up"
+msgstr "Pour info miniseo fonctionne depuis les version 2.0-beta7.3-r1690 et sup."
+
+#: plugins/miniseo/index.php:95
+msgid "A newest version exist for information : "
+msgstr "Une version plus récente est disponible pour info : "
+
+#: plugins/miniseo/index.php:102
+msgid "not installed"
+msgstr "non installée"
+
+#: plugins/miniseo/index.php:109
+msgid "TAG present"
+msgstr "Présence TAG"
+
+#: plugins/miniseo/index.php:110
+msgid "Used theme :"
+msgstr "Thème utilisé :"
+
+#: plugins/miniseo/index.php:111
+msgid "Path of theme use :"
+msgstr "Chemin du thème :"
+ 
+#: plugins/miniseo/index.php:123 plugins/miniseo/index.php:132
+msgid "Test if run tag is present :"
+msgstr "Test présence tag de lancement :"
+
+#: plugins/miniseo/index.php:121
+msgid "The run Tag is missed in your theme and in default theme"
+msgstr "Ni votre thème ni le thème default posséde la balise permettant le lancement du plugin"
+
+#: plugins/miniseo/index.php:132
+msgid "Ok but not in your theme but in default theme"
+msgstr "Ok mais pas dans votre thème mais dans le thème default"
+
+#: plugins/miniseo/index.php:135
+msgid "Your theme and also  default theme haven't the run tag"
+msgstr "Ni votre thème, ni le thème default posséde la balise permettant le lancement du plugin"
+
+#: plugins/miniseo/index.php:141
+msgid "Duo with plugin Mymeta"
+msgstr "Jumelage avec plugin Mymeta"
+
+#: plugins/miniseo/index.php:145 plugins/miniseo/index.php:154
+msgid "Beware for your referencing<br /> two title will be present in post page<br />"
+msgstr "Attention gros risque pour votre référencement<br />il y aura deux balises title dans la page de consultation des billets<br />"
+
+#: plugins/miniseo/index.php:146 plugins/miniseo/index.php:155
+msgid "Thank's to correct this<br />"
+msgstr "Merci de corriger pour cela :<br />"
+
+#: plugins/miniseo/index.php:147
+msgid "In the file post.html delete line : <br /><br /><strong>&lt;title&gt;{{tpl:EntryTitle encode_html=&quot;1&quot;}} - {{tpl:BlogName encode_html=&quot;1&quot;}}&lt;/title&gt;"
+msgstr "Dans votre post.html supprimez la ligne : <br /><br /><strong>&lt;title&gt;{{tpl:EntryTitle encode_html=&quot;1&quot;}} - {{tpl:BlogName encode_html=&quot;1&quot;}}&lt;/title&gt;"
+
+#: plugins/miniseo/index.php:149 plugins/miniseo/index.php:159
+msgid "Test if tag title is missed in file post.html :"
+msgstr "Test absence balise title dans post.html :"
+
+#: plugins/miniseo/index.php:152
+msgid "1/ Duplicate post.html from <b>default</b> theme in your directory <b>theme</b>"
+msgstr "1/ Dupliquer post.html du thème <b>default</b> dans votre répertoire <b>thème</b>"
+
+#: plugins/miniseo/index.php:153
+msgid "2/ In your file post.html now delete line : <br /><br /><strong>&lt;title&gt;{{tpl:EntryTitle encode_html=&quot;1&quot;}} - {{tpl:BlogName encode_html=&quot;1&quot;}}&lt;/title&gt;"
+msgstr "2/ Dans votre post.html supprimez maintenant la ligne : <br /><br /><strong>&lt;title&gt;{{tpl:EntryTitle encode_html=&quot;1&quot;}} - {{tpl:BlogName encode_html=&quot;1&quot;}}&lt;/title&gt;"
+
+#: plugins/miniseo/index.php:155
+msgid "Ok tag are not present"
+msgstr "Ok balise absente"
+
+#: plugins/miniseo/index.php:173
+msgid "All members forum DC who help me"
+msgstr "Tous les participants sur le fils de discussion du Forum DC"
+
+#: plugins/miniseo/index.php:174
+msgid "Team DC"
+msgstr "L'équipe DC"
+
+#: plugins/miniseo/index.php:175
+msgid "DSL for plugin Mymeta"
+msgstr "DSL pour son plugin Mymeta"
+
+#: plugins/miniseo/index.php:177
+msgid "More informations on plugin with dotaddict"
+msgstr "Plus d'informations sur les plugins avec dotaddict :"
+
+?>

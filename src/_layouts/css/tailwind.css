@@ -1,0 +1,83 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #155dfc; /* blue-600 */
+  --color-secondary: #372aac; /* indigo-800 */
+  --color-tertiary: #162456; /* blue-950 */
+  --color-bg: #ffffff; /* white */
+  --color-bg-hover: #dbeafe; /* blue-100 */
+  --color-text: #0f172b; /* slate-900 */
+  --color-link: #1c398e; /* blue-900 */
+  --color-visited: #312c85; /* indigo-900 */
+  --color-note: #104e64; /* cyan-800 */
+  --color-note-bg: #b8e6fe; /* sky-200 */
+
+  --color-primary-dark: #4657CE; /* blue-400 */
+  --color-secondary-dark: #7591f3; /* blue-300 */
+  --color-tertiary-dark: #7591f3; /* blue-300 */
+  --color-bg-menu-dark: #162456; /* blue-950 */
+  --color-bg-dark: #101828; /* grey-900 */
+  --color-bg-hover-dark: #202838; /* blue-100 */
+  --color-text-dark: #fff; /* slate-900 */
+  --color-link-dark: #8ec5ff; /* blue-200 */
+  --color-visited-dark: #c4b4ff; /* violet-200 */
+  --color-note-dark: #a2f4fd; /* cyan-200 */
+  --color-note-bg-dark: #104e64; /* cyan-900 */
+}
+
+@layer base {
+  /*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+  */
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
+
+/* default styles for markdown and html. Can be overwritten */
+@utility mkdn {
+  & h2 {
+    @apply mt-8 mb-6 text-left text-2xl font-bold leading-tight text-secondary dark:text-secondary-dark;
+  }
+  & h3 {
+    @apply my-4 text-left text-xl font-bold leading-normal text-tertiary dark:text-tertiary-dark;
+  }
+  & p {
+    @apply my-4 text-xl font-light leading-6 text-text dark:text-text-dark;
+  }
+  & ul {
+    @apply my-4 text-xl font-light leading-6 text-text dark:text-text-dark;
+  }
+  & ol {
+    @apply my-4 text-xl font-light leading-6 text-text dark:text-text-dark;
+  }
+  & ul {
+    @apply list-disc;
+  }
+  & ol {
+    @apply list-decimal;
+  }
+  & li {
+    @apply ml-8 mb-2;
+  }
+  & code {
+    @apply text-xl;
+  }
+  & a {
+    @apply text-link underline underline-offset-2 hover:no-underline visited:text-visited dark:text-link-dark dark:visited:text-visited-dark;
+  }
+  & .note {
+    @apply text-note bg-note-bg border p-4 border-note border-l-8 dark:text-note-dark dark:bg-note-bg-dark dark:border-note-dark before:content-['ⓘ_Note:_'] before:font-bold;
+  }
+}

@@ -4,7 +4,6 @@ module.exports = {
       "url": [
         "http://localhost/index.html",
         "http://localhost/documentation/images/",
-        "http://localhost/examples/",
       ],
       staticDistDir: './_site',
       staticDirFileDiscoveryDepth: 1,

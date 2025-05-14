@@ -77,23 +77,84 @@ if ($result->num_rows > 0) {
     // echo "<pre style='color: #669933'>";
     // print_r($row);
     // echo "</pre>";
-    
+    $todo = "";
+
     //////////////////////////////////
-    // format content
+    // copy images in the file
+    
     $content = $row[post_excerpt] . "\n\n" . $row[post_content];
 
-    // images
+    $match_image = "/\(\((\/public\/images\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?\)\)/";
+    preg_match_all($match_image, $content, $matches);
+    // echo "<pre style='color: #cc00ff'>";
+    // print_r($matches);
+    // echo "</pre>";
+    for($i = 0; $i < count($matches[1]); $i++) {
+      if (file_exists(realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i])) {
+        $origin_file = realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i];
+        $destination_file = dirname(__FILE__) . "/" . $folder . "/" . basename($matches[1][$i]);
+        if (!copy($origin_file, $destination_file)) {
+          echo "<pre style='color: #aa0000'>";
+          echo "failed to copy $origin_file...\n";
+          echo "</pre>";
+        } else {
+          echo "<pre style='color: #669900'>";
+          echo $i."· ". basename($matches[1][$i]) . " copied \o/";
+
+          if ($i == 0) {
+            $image = pathinfo($matches[1][0], PATHINFO_BASENAME);
+            $imagealt = $matches[2][0];
+            echo $image . " " . $imagealt . " ←←←←←";
+          }
+          echo "</pre>";
+        }
+      } else {
+        echo "<pre style='color: #660000'>";
+        echo $i." ". $matches[1][$i] . " Exists not " . realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i];
+        echo "</pre>";
+      }
+    }
+
+    if (!$image) {
+      $todo = $todo . "[no image] ";
+    }
+    if (!$imagealt) {
+      $todo = $todo . "[no image alt] ";
+    }
+    // 
+    //////////////////////////////////
+
+
+    //////////////////////////////////
+    // format content
+
+    $description = $row[post_excerpt];
+    $description = preg_replace("/\(\(([^)]*)\)\)/", "", $description); // images
+    $description = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '$1', $description); // links
+    $description = preg_replace("/\!{1,3}(?: )?([\d\p{L}]{1})(.*)/", '$1', $description); // titles
+    $description = preg_replace("/\'\'([^']*)\'\'/", '$1', $description); // styles
+    $description = preg_replace("/__([^_]*)__/", '$1', $description); // styles
+    $description = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $description);  // links
+    $description = str_replace("\n", " ", $description);
+    $description = str_replace("\r", " ", $description);
+    $shortdescription = substr($description, 0, 160);
+    if (strcmp($description, $shortdescription)) {
+      $todo = $todo . "[shortened desc] ";
+    }
+
+    // images (new match to remove path)
     $match_image = "/\(\(\/public\/images\/[0-9a-zA-Z-_.\/]*\/([0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?(?:\|(?:[^|\]]*))?\)\)/";
     $cleancontent = preg_replace($match_image, '![$1]($2){.$3}', $content);
     $match_remote_image = "/\(\((http[s]?\:\/\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?(?:\|(?:[^|\]]*))?\)\)/";
     $cleancontent = preg_replace($match_remote_image, '![$1]($2){.$3}', $cleancontent);
-    $cleancontent = str_replace("]()", "](TODO: ALTIMAGE)", $cleancontent);
+    $cleancontent = str_replace("]()", "]()<!-- TODO: Add image alt -->", $cleancontent);
     $cleancontent = str_replace("{.C}", "{.center}", $cleancontent);
     $cleancontent = str_replace("{.L}", "{.left}", $cleancontent);
     $cleancontent = str_replace("{.R}", "{.right}", $cleancontent);
     $cleancontent = str_replace("{.}", "", $cleancontent);
 
     // titles
+    $cleancontent = preg_replace("/\!{3}(?: )?([\d\p{L}]{1})(.*)/", '### $1$2', $cleancontent);
     $cleancontent = preg_replace("/\!{3}(?: )?([\d\p{L}]{1})(.*)/", '### $1$2', $cleancontent);
     $cleancontent = preg_replace("/\!{2}(?: )?([\d\p{L}]{1})(.*)/", '## $1$2', $cleancontent);
     $cleancontent = preg_replace("/\!{1}(?: )?([\d\p{L}]{1})(.*)/", '# $1$2', $cleancontent);
@@ -113,49 +174,20 @@ if ($result->num_rows > 0) {
 
     echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================";
     echo "\ntitle: ". $row[post_title];
-    echo "\ndescription: ". $row[post_excerpt];
+    echo "\ndescription: ". $shortdescription;
     echo "\nimage: ". $image;
-    echo "\nimage_alt: ". $image_alt;
+    echo "\nimage_alt: ". $imagealt;
     echo "\npermalink: ". $row[post_url];
     echo "\ndate: ". substr($row[post_dt], 0, 10);
     echo "\nupdate: ". substr($row[post_upddt], 0, 10);
+    if ($todo) { echo "\nTODO: ". $todo; }
     echo "\n---";
     echo "\n\n". $cleancontent;
     echo "\n ==========↑ ".$row[post_id]." ↑===================</pre>";
     // 
     //////////////////////////////////
 
-    //////////////////////////////////
-    // copy images in the file
-    
-    // different catch $1
-    // also not copying remot files
-    $match_image = "/\(\((\/public\/images\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?\)\)/";
-    preg_match_all($match_image, $content, $matches);
-    // echo "<pre style='color: #cc00ff'>";
-    // print_r($matches);
-    // echo "</pre>";
-    for($i = 0; $i < count($matches[1]); $i++) {
-      if (file_exists(realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i])) {
-        $origin_file = realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i];
-        $destination_file = dirname(__FILE__) . "/" . $folder . "/" . basename($matches[1][$i]);
-        if (!copy($origin_file, $destination_file)) {
-          echo "<pre style='color: #aa0000'>";
-          echo "failed to copy $origin_file...\n";
-          echo "</pre>";
-        } else {
-          echo "<pre style='color: #669900'>";
-          echo $i."· ". basename($matches[1][$i]) . " copied \o/";
-          echo "</pre>";
-        }
-      } else {
-        echo "<pre style='color: #660000'>";
-        echo $i." ". $matches[1][$i] . " Exists not " . realpath($_SERVER["DOCUMENT_ROOT"]).$matches[1][$i];
-        echo "</pre>";
-      }
-    }
-    // 
-    //////////////////////////////////
+
     echo "<hr>";
   }
 } else {

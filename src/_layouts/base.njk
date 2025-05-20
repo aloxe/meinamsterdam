@@ -12,13 +12,24 @@
     {% endblock %}
 
     {% block main %}
-      <main class="container w-full lg:max-w-4xl mx-auto px-6 py-4 flex-1 {%if ismarkdown %} mkdn{% endif %}" id="maincontent">
+      <main class="container w-full lg:max-w-4xl mx-auto px-6 py-4 flex-1 {%if ismarkdown %} mkdn{% endif %}">
+
+        {% block search %}
+          <div class="w-full lg:max-w-4xl mx-auto px-6 flex-1 mkdn">
+            {% include "search.njk" %}
+          </div>
+        {% endblock %}
+
         {% block header %}
-          {% include "header.njk" %}
+          <div id="maincontent">
+            {% include "header.njk" %}
+          </div>
         {% endblock %}
 
         {% block content %}
-          {{ content | safe }}
+          <article data-pagefind-body id="maincontent">
+            {{ content | safe }}
+          </article>
         {% endblock %}
       </main>
     {% endblock %}

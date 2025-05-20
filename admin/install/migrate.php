@@ -127,7 +127,6 @@ if ($result->num_rows > 0) {
 
     //////////////////////////////////
     // format content
-
     $description = $row[post_excerpt];
     $description = preg_replace("/\(\(([^)]*)\)\)/", "", $description); // images
     $description = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '$1', $description); // links
@@ -171,24 +170,44 @@ if ($result->num_rows > 0) {
     $cleancontent = str_replace("///html", "<!-- HTML -->", $cleancontent);
     $cleancontent = str_replace("///", "<!-- / HTML -->", $cleancontent);
 
+    $fullcontent = "title: ". $row[post_title];
+    $fullcontent .= "\ndescription: ". $shortdescription;
+    $fullcontent .=  "\ntitle: ". $row[post_title];
+    $fullcontent .=  "\ndescription: ". $shortdescription;
+    $fullcontent .=  "\nimage: ". $image;
+    $fullcontent .=  "\nimage_alt: ". $imagealt;
+    $fullcontent .=  "\npermalink: ". $row[post_url];
+    $fullcontent .=  "\ndate: ". substr($row[post_dt], 0, 10);
+    $fullcontent .=  "\nupdate: ". substr($row[post_upddt], 0, 10);
+    if ($todo) { $fullcontent .=  "\nTODO: ". $todo; }
+    $fullcontent .=   "\n---";
+    $fullcontent .=   "\n\n". $cleancontent;
 
     echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================";
-    echo "\ntitle: ". $row[post_title];
-    echo "\ndescription: ". $shortdescription;
-    echo "\nimage: ". $image;
-    echo "\nimage_alt: ". $imagealt;
-    echo "\npermalink: ". $row[post_url];
-    echo "\ndate: ". substr($row[post_dt], 0, 10);
-    echo "\nupdate: ". substr($row[post_upddt], 0, 10);
-    if ($todo) { echo "\nTODO: ". $todo; }
-    echo "\n---";
-    echo "\n\n". $cleancontent;
-    echo "\n ==========↑ ".$row[post_id]." ↑===================</pre>";
+    echo "\n";
+    echo $fullcontent;
+    // echo "\ntitle: ". $row[post_title];
+    // echo "\ndescription: ". $shortdescription;
+    // echo "\nimage: ". $image;
+    // echo "\nimage_alt: ". $imagealt;
+    // echo "\npermalink: ". $row[post_url];
+    // echo "\ndate: ". substr($row[post_dt], 0, 10);
+    // echo "\nupdate: ". substr($row[post_upddt], 0, 10);
+    // if ($todo) { echo "\nTODO: ". $todo; }
+    // echo "\n---";
+    // echo "\n\n". $cleancontent;
+    echo "\n ==========↑ ".$row[post_id]." ↑↑↑===================</pre>";
     // 
     //////////////////////////////////
 
-
+    //////////////////////////////////
+    // save content
+    $filename = dirname(__FILE__) . "/" . $folder . "/" . $row[post_url] . ".md";
+    file_put_contents($filename, $fullcontent);
+    echo "<b> ↑ ".$filename." copied</b>";
     echo "<hr>";
+    // 
+    //////////////////////////////////
   }
 } else {
   echo "0 results";

@@ -2,6 +2,15 @@
 migrate.php 
 <?php
 
+function entreQuote($string) {
+  $string = str_replace("\"", "'", $string);
+  if (mb_strpos($string, ":") !== false || mb_strpos($string, "'") !== false) {
+    $string = '"' . $string . '"';
+  }
+  return $string;
+}
+
+
 // scp -P 2322 admin/install/migrate.php alx@s2.lib.re:~/domains/meinamsterdam.nl/public_html/admin/install/ 
 
 $servername = "localhost";
@@ -20,7 +29,7 @@ echo "connected<br>";
 
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
-// $sql = "SELECT *  FROM dc_post WHERE post_id = 1";
+// $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
 $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
@@ -28,7 +37,7 @@ if ($result->num_rows > 0) {
 
 
 
-  // output data of each row
+  // output data of each row 
   while($row = $result->fetch_assoc()) {
 
 
@@ -81,10 +90,11 @@ if ($result->num_rows > 0) {
 
     //////////////////////////////////
     // copy images in the file
-    
+    $image = "";
+    $imagealt = "";
     $content = $row[post_excerpt] . "\n\n" . $row[post_content];
 
-    $match_image = "/\(\((\/public\/images\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?\)\)/";
+    $match_image = "/\(\((\/public\/images\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{0,1}))?\)\)/";
     preg_match_all($match_image, $content, $matches);
     // echo "<pre style='color: #cc00ff'>";
     // print_r($matches);
@@ -99,7 +109,7 @@ if ($result->num_rows > 0) {
           echo "</pre>";
         } else {
           echo "<pre style='color: #669900'>";
-          echo $i."· ". basename($matches[1][$i]) . " copied \o/";
+          echo $i."· ". basename($matches[1][$i]) . " copied \o/ ";
 
           if ($i == 0) {
             $image = pathinfo($matches[1][0], PATHINFO_BASENAME);
@@ -116,10 +126,10 @@ if ($result->num_rows > 0) {
     }
 
     if (!$image) {
-      $todo = $todo . "[no image] ";
+      $todo = $todo . ", no image ";
     }
     if (!$imagealt) {
-      $todo = $todo . "[no image alt] ";
+      $todo = $todo . ", no image alt ";
     }
     // 
     //////////////////////////////////
@@ -137,14 +147,16 @@ if ($result->num_rows > 0) {
     $description = str_replace("\n", " ", $description);
     $description = str_replace("\r", " ", $description);
     $shortdescription = substr($description, 0, 160);
+    // $shortdescription = str_replace(":", "", $shortdescription);
+    // $shortdescription = preg_replace('/[\x00-\x1F\x7F-\xFF]/', '', $shortdescription);
     if (strcmp($description, $shortdescription)) {
-      $todo = $todo . "[shortened desc] ";
+      $todo = $todo . ", shortened desc ";
     }
 
     // images (new match to remove path)
-    $match_image = "/\(\(\/public\/images\/[0-9a-zA-Z-_.\/]*\/([0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?(?:\|(?:[^|\]]*))?\)\)/";
-    $cleancontent = preg_replace($match_image, '![$1]($2){.$3}', $content);
-    $match_remote_image = "/\(\((http[s]?\:\/\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{1}))?(?:\|(?:[^|\]]*))?\)\)/";
+    $match_image = "/\(\(\/public\/images\/[0-9a-zA-Z-_.\/]*\/([0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{0,1}))?(?:\|(?:[^|\]]*))?\)\)/";
+    $cleancontent = preg_replace($match_image, '![$2]($1){.$3}', $content);
+    $match_remote_image = "/\(\((http[s]?\:\/\/[0-9a-zA-Z-_.\/]*\/[0-9a-zA-Z-_.]*)(?:\|([^|\]]*))?(?:\|([A-Z]{0,1}))?(?:\|(?:[^|\]]*))?\)\)/";
     $cleancontent = preg_replace($match_remote_image, '![$1]($2){.$3}', $cleancontent);
     $cleancontent = str_replace("]()", "]()<!-- TODO: Add image alt -->", $cleancontent);
     $cleancontent = str_replace("{.C}", "{.center}", $cleancontent);
@@ -170,32 +182,28 @@ if ($result->num_rows > 0) {
     $cleancontent = str_replace("///html", "<!-- HTML -->", $cleancontent);
     $cleancontent = str_replace("///", "<!-- / HTML -->", $cleancontent);
 
-    $fullcontent = "title: ". $row[post_title];
-    $fullcontent .= "\ndescription: ". $shortdescription;
-    $fullcontent .=  "\ntitle: ". $row[post_title];
-    $fullcontent .=  "\ndescription: ". $shortdescription;
-    $fullcontent .=  "\nimage: ". $image;
-    $fullcontent .=  "\nimage_alt: ". $imagealt;
-    $fullcontent .=  "\npermalink: ". $row[post_url];
-    $fullcontent .=  "\ndate: ". substr($row[post_dt], 0, 10);
-    $fullcontent .=  "\nupdate: ". substr($row[post_upddt], 0, 10);
-    if ($todo) { $fullcontent .=  "\nTODO: ". $todo; }
-    $fullcontent .=   "\n---";
-    $fullcontent .=   "\n\n". $cleancontent;
+    $title = $row[post_title];
+    if (mb_strpos($title, ':') !== false) {
+      $title = "'" . $title . "'";
+    }
+
+    $fullcontent =   "---";
+    $fullcontent .= "\nlayout: base";
+    $fullcontent .= "\ntitle: " . entreQuote($title);
+    $fullcontent .= "\ndescription: ". entreQuote($shortdescription);
+    $fullcontent .= "\nisMarkdown: true";
+    $fullcontent .= "\nthumbnail: ". $image;
+    $fullcontent .= "\nimage_alt: ". entreQuote($imagealt);
+    $fullcontent .= "\npermalink: ". $row[post_url]."/";
+    $fullcontent .= "\ndate: ". substr($row[post_dt], 0, 10);
+    $fullcontent .= "\nupdate: ". substr($row[post_upddt], 0, 10);
+    if ($todo) { $fullcontent .=  "\nTODO: ". substr($todo, 2); }
+    $fullcontent .= "\n---";
+    $fullcontent .= "\n\n". $cleancontent;
 
     echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================";
     echo "\n";
     echo $fullcontent;
-    // echo "\ntitle: ". $row[post_title];
-    // echo "\ndescription: ". $shortdescription;
-    // echo "\nimage: ". $image;
-    // echo "\nimage_alt: ". $imagealt;
-    // echo "\npermalink: ". $row[post_url];
-    // echo "\ndate: ". substr($row[post_dt], 0, 10);
-    // echo "\nupdate: ". substr($row[post_upddt], 0, 10);
-    // if ($todo) { echo "\nTODO: ". $todo; }
-    // echo "\n---";
-    // echo "\n\n". $cleancontent;
     echo "\n ==========↑ ".$row[post_id]." ↑↑↑===================</pre>";
     // 
     //////////////////////////////////

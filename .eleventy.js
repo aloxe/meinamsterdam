@@ -9,6 +9,7 @@ const mdit = require('markdown-it');
 const mditAttrs = require('markdown-it-attrs');
 const hljs = require('highlight.js/lib/core');
 const Image = require('@11ty/eleventy-img');
+const { execSync } = require('child_process')
 
 // sizes and formats of resized images to make them responsive
 // it can be overwriten when using the "Picture" short code
@@ -177,7 +178,7 @@ module.exports = async function(eleventyConfig) {
 
   // image path for page thumbnail (used in meta tags)
   eleventyConfig.addNunjucksAsyncShortcode("getOGImageUri", async (meta, page, src) => {
-    if (!src) return "/img/vera-460w.jpeg"; // use an existing image as fallback
+    if (!src) return "/vera-600w.webp"; // use an existing image as fallback
     
     const isGlobal = src.slice(0, meta.public_folder.length) === meta.public_folder
 
@@ -196,6 +197,11 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addCollection("documentation", function (collection) {
     return collection.getFilteredByGlob("./src/pages/documentation/**/*.md");
   });
+
+  // pagefind search
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+  })
 
   return {
     dir: {

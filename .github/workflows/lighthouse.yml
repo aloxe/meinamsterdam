@@ -19,7 +19,3 @@ jobs:
         run: |
           npm install -g @lhci/cli@0.14.x
           lhci autorun
-
-          
-
-

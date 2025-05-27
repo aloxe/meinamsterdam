@@ -10,14 +10,26 @@
       <h2>{{ toc}}</h2>
     {% endif %}
 
-    {% for post in collections.all %}
-      {% if post.url.startsWith(page.url) %}
-        {% if post.url !== page.url %}
-          {% if post.url.split("/").length === page.url.split("/").length + 1 %}
-          <p>
-            <a href="{{ post.url }}">{{ post.data.title }}</a><br>
-            <em>{{post.data.headline}}</em>
-          </p>
+    {% set count = [1] %}
+    {% for post in collections.all | reverse %}
+      {% if post.inputPath.startsWith('./src/pages/posts/') %} {# only posts #}
+        {% if post.url.startsWith(page.url) %} {# only posts bellow current #}
+          {% if post.url !== page.url %}
+            {% if (count.length < 10) %} {# only 10 first posts #}
+              {% if post.url.split("/").length === page.url.split("/").length + 1 %}
+                {% set count = (count.push(1), count) %}
+                <p>
+                  <a href="{{ post.url }}">{{ post.data.title }}</a><br>
+                  {% if post.data.headline %}
+                    <em>{{post.data.headline}}</em>
+                  {% else %}
+                    {% if post.data.description %}
+                      <em>{{post.data.description}}</em>
+                    {% endif %}
+                  {% endif %}
+                </p>
+              {% endif %}
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}

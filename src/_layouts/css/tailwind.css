@@ -53,7 +53,7 @@
 /* default styles for markdown and html. Can be overwritten */
 @utility mkdn {
   & h2, & h2 > a {
-    @apply mt-8 mb-6 text-left text-3xl/6 leading-tight text-secondary font-[Advent];
+    @apply mt-8 mb-1 text-left text-3xl/6 leading-tight text-secondary font-[Advent];
   }
   & .index h2 > a {
     @apply text-4xl/6;

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Les enfants de Sloten
-description: 
+description: Il est une époque ou je prenais pas mal les enfants en photo.
 isMarkdown: true
 thumbnail: enfant-frison.jpg
 image_alt: enfant frison

@@ -6,6 +6,7 @@ isMarkdown: true
 thumbnail: deriere-la-balle-580.jpg
 image_alt: enfants derière la balle
 permalink: tous-derriere-la-balle/
+categorie: dagelijks
 date: 2006-10-19
 update: 2006-10-20
 ---

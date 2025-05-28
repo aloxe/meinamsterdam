@@ -96,6 +96,34 @@ module.exports = async function(eleventyConfig) {
   }
   eleventyConfig.setLibrary('md', mdLib)
 
+  // manage excerpt
+  // TODO: handle images in md
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    // Optional, default is "---"
+    // excerpt_separator: '<!-- more -->',
+    // excerpt_alias: "chapo",
+  });
+
+  // add nunjunk filter
+  eleventyConfig.addFilter("date", function(dateObj) { 
+    if (dateObj) {
+      console.log(dateObj);
+      const formatter = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Amsterdam", dateStyle: "full" });
+      return formatter.format(dateObj);
+    } else {
+      return "raté";
+    }
+   });
+
+  // format excerpt in markdown
+  eleventyConfig.addFilter("md", function(rawText) {
+    // console.log("**********************************88 MD:");
+    // console.log(rawText);
+    
+    // return mdLib.render(rawText);
+  });
+
   // Watch targets
   eleventyConfig.addWatchTarget('src/_layouts/css/tailwind.css');
 

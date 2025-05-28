@@ -12,10 +12,10 @@
     {% endblock %}
 
     {% block main %}
-      <main class="container w-full lg:max-w-4xl mx-auto mt-28 px-6 py-4 flex-1 {%if ismarkdown %} mkdn{% endif %}">
+      <main class="container w-full lg:max-w-4xl mx-auto mt-28 px-6 py-4 flex-1 mkdn">
 
         {% block search %}
-          <div class="w-full lg:max-w-4xl mx-auto px-6 flex-1 mkdn">
+          <div class="w-full lg:max-w-4xl mx-auto px-6 flex-1">
             {% include "search.njk" %}
           </div>
         {% endblock %}

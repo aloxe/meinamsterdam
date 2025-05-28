@@ -38,7 +38,7 @@
                       {% if post.data.description %}
                         <em>{{post.data.description}}</em>
                       {% else %}
-                        <p> {{ post.data.page.excerpt }}</p>
+                        <p> {{ post.data.page.excerpt | md | safe }}</p>
                       {% endif %}
                     {% endif %}
                   </p>

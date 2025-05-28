@@ -8,6 +8,7 @@ image_alt: prise de téléphone
 permalink: les-prises-telephoniques/
 categorie: nederlandtjes
 tags: internet, pratique
+comments: [bien, "bof !", super]
 date: 2006-11-13
 update: 2014-11-28
 ---

@@ -65,17 +65,21 @@ module.exports = async function(eleventyConfig) {
 
   // generate responsive images from Markdown
   mdLib.renderer.rules.image = (tokens, idx, options, env) => {
+
+
+    if (Object.keys(env).length === 0) {
+      return ""; //"<!--"+ tokens[idx].attrGet('src') + "-->";
+    }
+
     const token = tokens[idx]
     const imgPath = token.attrGet('src')
     const isGlobal = imgPath.slice(0, env.meta.public_folder.length) === env.meta.public_folder
-
     const imgSrc = isGlobal 
       ? "./" + env.meta.media_folder + imgPath.slice(env.meta.public_folder.length)
       : imgPath.slice(0,1) === "/" 
         ? env.eleventy.directories.input.slice(0, -1) + imgPath
         : env.page.inputPath.substring(0, env.page.inputPath.lastIndexOf('/')+1) + imgPath
-      // TODO: is imgPath.slice(0,1) === "/" ? really necessary?
-
+      // TODO: check if imgPath.slice(0,1) === "/" ? really necessary?
     const imgAlt = token.content
     const imgTitle = token.attrGet('title') ?? ''
     const className = token.attrGet('class')
@@ -97,12 +101,8 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.setLibrary('md', mdLib)
 
   // manage excerpt
-  // TODO: handle images in md
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
-    // Optional, default is "---"
-    // excerpt_separator: '<!-- more -->',
-    // excerpt_alias: "chapo",
   });
 
   // add nunjunk filter
@@ -112,16 +112,14 @@ module.exports = async function(eleventyConfig) {
       const formatter = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Amsterdam", dateStyle: "full" });
       return formatter.format(dateObj);
     } else {
-      return "raté";
+      return "";
     }
    });
 
   // format excerpt in markdown
-  eleventyConfig.addFilter("md", function(rawText) {
-    // console.log("**********************************88 MD:");
-    // console.log(rawText);
-    
-    // return mdLib.render(rawText);
+  eleventyConfig.addFilter("md", function(rawText) { 
+    if (!rawText) return;
+    return mdLib.render(rawText);
   });
 
   // Watch targets

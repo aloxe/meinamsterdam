@@ -46,7 +46,7 @@ The file `tailwind.css` is the css file that imoports tailwind, it loads it anc 
 
 @utility mkdn {
     & h2 {
-    @apply mt-8 mb-6 text-left text-2xl font-bold leading-tight text-secondary dark:text-secondary-dark;
+    @apply mt-8 mb-6 text-left text-2xl leading-tight text-secondary dark:text-secondary-dark;
   }
   (…)
 }

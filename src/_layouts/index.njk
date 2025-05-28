@@ -1,13 +1,21 @@
 {% extends './base.njk' %}
 
-{% block content %}
+  {% block header %}
+    {% if content %}
+      <div id="maincontent">
+        {% include "header.njk" %}
+      </div> 
+    {% endif %}
+  {% endblock %}
+        
+  {% block content %}
   <article id="maincontent" data-pagefind-body>
     {{ content | safe }}
   </article>
 
-  <section class="mkdn"><!-- use default mkdn class for styling -->
+  <section class="index"><!-- use default mkdn class for styling -->
     {% if toc %}
-      <h2>{{ toc}}</h2>
+      <h2>{{ toc }}</h2>
     {% endif %}
 
     {% set count = [1] %}
@@ -18,16 +26,18 @@
             {% if (count.length < 10) %} {# only 10 first posts #}
               {% if post.url.split("/").length === page.url.split("/").length + 1 %}
                 {% set count = (count.push(1), count) %}
-                <p>
-                  <a href="{{ post.url }}">{{ post.data.title }}</a><br>
-                  {% if post.data.headline %}
-                    <em>{{post.data.headline}}</em>
-                  {% else %}
-                    {% if post.data.description %}
-                      <em>{{post.data.description}}</em>
+                  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+                  <p>
+                    {% if post.data.headline %}
+                      <em>{{post.data.headline}}</em>
+                    {% else %}
+                      {% if post.data.description %}
+                        <em>{{post.data.description}}</em>
+                      {% else %}
+                        <em>rien</em>
+                      {% endif %}
                     {% endif %}
-                  {% endif %}
-                </p>
+                  </p>
               {% endif %}
             {% endif %}
           {% endif %}

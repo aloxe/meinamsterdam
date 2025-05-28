@@ -45,27 +45,33 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
   }
+  * {
+    @apply font-[OpenSansRegular];
+  }
 }
 
 /* default styles for markdown and html. Can be overwritten */
 @utility mkdn {
-  & h2 {
-    @apply mt-8 mb-6 text-left text-2xl font-bold leading-tight text-secondary;
+  & h2, & h2 > a {
+    @apply mt-8 mb-6 text-left text-3xl/6 leading-tight text-secondary font-[Advent];
+  }
+  & .index h2 > a {
+    @apply text-4xl/6;
   }
   & h3 {
-    @apply my-4 text-left text-xl font-bold leading-normal text-tertiary;
+    @apply my-4 text-left text-2xl/6 leading-normal text-tertiary font-[Advent];
   }
   & h4 {
-    @apply my-4 text-left text-lg font-bold leading-normal text-secondary;
+    @apply my-4 text-left text-lg leading-normal text-secondary font-[Advent];
   }
   & p {
-    @apply my-4 text-xl font-light leading-6 text-text;
+    @apply my-4 text-lg font-light leading-6 tracking-wide text-text;
   }
   & ul {
-    @apply my-4 text-xl font-light leading-6 text-text;
+    @apply my-4 text-lg font-light leading-6 text-text;
   }
   & ol {
-    @apply my-4 text-xl font-light leading-6 text-text;
+    @apply my-4 text-lg font-light leading-6 text-text;
   }
   & ul {
     @apply list-disc;
@@ -87,6 +93,9 @@
   }
   & a {
     @apply text-link underline underline-offset-2 hover:no-underline visited:text-visited;
+  }
+  & h2 > a {
+    @apply text-secondary no-underline visited:text-tertiary;
   }
   & .note {
     @apply text-note bg-note-bg border p-4 border-note border-l-8 before:content-['ⓘ_Note:_'] before:font-bold;

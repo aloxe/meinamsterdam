@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "'Albert Cuyp : le peintre'"
+title: 'Albert Cuyp : le peintre'
 description: 
 isMarkdown: true
 thumbnail: albert-cuyp-loevenstein.jpg

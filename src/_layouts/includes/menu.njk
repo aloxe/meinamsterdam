@@ -13,17 +13,18 @@
     <a href="/" {% if entry.url == "/" %} aria-current="page" {% endif %}
     class="transition-all ease-in block p-4 text-nowrap text-3xl md:text-4xl text-secondary"
     >
-      <img src="/img/me-amsterdam-72t.png" class="transition-all ease-in-out inline" />
+      <img src="/img/me-amsterdam-72t.png" class="transition-all ease-in-out inline" alt="👤" />
       <span class="transition-all ease-in inline font-[PacificoRegular] ml-[-10px]"> me in Amsterdam</span>
     </a> 
   </div>
-  <input id="hamburger" type="checkbox" name="hamburger" 
+  {# Hiding menu for now #}
+  {# <input id="hamburger" type="checkbox" name="hamburger" 
     class="md:hidden sr-only peer" 
     unchecked aria-label="menu" 
     onkeypress="event.key === 'Enter' && getElementById('hamburger').click()" />
   <label for="hamburger" class="after:float-right after:p-4 after:content-['≡'] peer-checked:after:content-['✕'] md:hidden cursor-pointer after:border-2 after:border-primary after:border-dotted peer-[:focus]:after:border-bg">
     <span class="sr-only">Menu</span>
-  </label>
+  </label> #}
   <ul role="list" class="mt-12 md:mt-0 md:flex hidden peer-checked:block">
     {%- for entry in allEntries %}
       {% if entry.inputPath.startsWith('./src/pages/posts/') %}{% else %} {# remove posts #}
@@ -32,7 +33,9 @@
           length may be different if the site is not directly under the domain 
           → TODO: set length limit based on site base URL
           #}
-          {{ renderNavItem(entry) }}
+          {# Hiding menu for now #}
+          {# TODO: build specific menu when needed #}
+          {# {{ renderNavItem(entry) }} #}
         {% endif %}
       {% endif %}
     {% endfor %}

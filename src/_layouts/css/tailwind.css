@@ -9,10 +9,10 @@
   --color-bg: #ffffff; /* white */
   --color-bg-hover: #dbeafe;  /***************/
   --color-text: #0f172b; /* grey */
-  --color-text-light: #99a1af; /* light grey */
-  --color-link: #3399CC; /* blue */
-  --color-link-hover: #ff6f32; /* darker blue */
-  --color-visited: #1177aa; /* darker blue */
+  --color-text-light: #4a5565; /* light grey */
+  --color-link: #0064B9; /* darker blue */
+  --color-visited: #05319C; /* blue */
+  --color-link-hover: #3399CC; /* darker blue */
   --color-note: #104e64;  /***************/
   --color-note-bg: #b8e6fe;  /***************/
 

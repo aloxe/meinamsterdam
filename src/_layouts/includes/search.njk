@@ -27,7 +27,7 @@
   pageFindInput.classList = searchInput.classList;
   pageFindInput.setAttribute('id', 'searchinput');
   // pageFindInput.setAttribute('tabindex', '1'); // set search as one of the 3 first items of the tabindex (focussable on tab)
-  pageFindInput.classList.add('fixed', 'top-2', 'right-10', 'border-1', 'border-black');
+  pageFindInput.classList.add('fixed', 'top-2', 'right-10', 'border-0', 'border-black', 'md:border-1');
   document.getElementsByClassName('pagefind-ui__search-clear ')[0].classList = 'hidden';
  
   // create a 'Search this site' link on top of the tabindex page
@@ -43,21 +43,18 @@
   const label = document.createElement('LABEL');
   const labelText = document.createTextNode(' 🔎 ');
   label.appendChild(labelText);
-  label.classList.add('md:invisible', 'group-focus-within/search:invisible', 'p-4', 'align-bottom', 'cursor-pointer', 'absolute', 'top-2', 'right-15');
+  label.classList.add('md:invisible', 'group-focus-within/search:invisible', 'p-4', 'align-bottom', 'cursor-pointer', 'absolute', 'top-2', 'right-2');
   label.setAttribute('for', 'searchinput');
   pageFindInput.insertAdjacentElement('beforebegin', label);
 
   // hide page content if there is a search term
   pageFindInput.onkeyup = () => {
-    const header = document.getElementsByTagName('header')[0];
     const article = document.getElementsByTagName('article')[0];
     const sections = [...document.getElementsByTagName('section')];
     if (pageFindInput.value.length > 0) {
-      header.classList.add('hidden');
       article.classList.add('hidden');
       sections.forEach((sections) => { sections.classList.add('hidden'); });
     } else {
-      header.classList.remove('hidden');
       article.classList.remove('hidden');
       sections.forEach((sections) => { sections.classList.remove('hidden'); });
     }

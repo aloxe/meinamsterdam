@@ -84,6 +84,11 @@ module.exports = async function(eleventyConfig) {
     const imgTitle = token.attrGet('title') ?? ''
     const className = token.attrGet('class')
     const ImgOptions = getImgOptions(env.page, imgSrc, imgAlt, className, Images.WIDTHS, Images.FORMATS, Images.SIZES);
+    console.log("image:::::::::::::::", token, Images.WIDTHS);
+    console.log(ImgOptions);
+    
+
+    
     const htmlOptions = {
       alt: imgAlt,
       class: className,
@@ -96,6 +101,9 @@ module.exports = async function(eleventyConfig) {
     const metadata = Image.statsSync(imgSrc, ImgOptions)
     const picture = Image.generateHTML(metadata, htmlOptions)
 
+    console.log(metadata, picture);
+    
+    console.log(":::::::::::::::::::::::::");
     return picture
   }
   eleventyConfig.setLibrary('md', mdLib)

@@ -35,15 +35,15 @@
   const searchThisSiteText = document.createTextNode('Search this site');
   searchThisSite.appendChild(searchThisSiteText);
   searchThisSite.setAttribute('href', '#searchinput');
-  searchThisSite.classList.add('transition', 'right-0', 'bg-white', 'text-bg', 'absolute', 'p-3', 'm-2', '-translate-y-16', 'focus:translate-y-12');
+  searchThisSite.classList.add('fixed', 'transition', 'left-4', 'top-12', 'bg-secondary', 'text-bg', 'absolute', 'p-3', 'm-5', '-translate-x-72', 'focus:translate-x-12', 'z-2');
   const tabindexNav = document.getElementById('tabindexnav');
   tabindexNav.appendChild(searchThisSite);
-  
+
     // create label that shows on small screens
   const label = document.createElement('LABEL');
   const labelText = document.createTextNode(' 🔎 ');
   label.appendChild(labelText);
-  label.classList.add('md:invisible', 'group-focus-within/search:invisible', 'p-4', 'align-bottom', 'cursor-pointer', 'absolute', 'top-2', 'right-2');
+  label.classList.add('md:invisible', 'group-focus-within/search:invisible', 'p-3', 'align-bottom', 'cursor-pointer', 'fixed', 'top-0', 'right-2');
   label.setAttribute('for', 'searchinput');
   pageFindInput.insertAdjacentElement('beforebegin', label);
 
@@ -81,4 +81,4 @@
     attributeFilter: ['class']
   });
   
-"></script>
+" defer></script>

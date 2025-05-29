@@ -84,8 +84,12 @@ module.exports = async function(eleventyConfig) {
     const imgTitle = token.attrGet('title') ?? ''
     const className = token.attrGet('class')
     const ImgOptions = getImgOptions(env.page, imgSrc, imgAlt, className, Images.WIDTHS, Images.FORMATS, Images.SIZES);
-    console.log("image:::::::::::::::", token, Images.WIDTHS);
-    console.log(ImgOptions);
+    console.log("IMAGE :::::::::::::::::::::::::");
+    // console.log("image:::::::::::::::", token, Images.WIDTHS);
+    console.log(token.attrs[0][1]);
+    
+
+    // console.log(ImgOptions);
     
 
     
@@ -101,8 +105,13 @@ module.exports = async function(eleventyConfig) {
     const metadata = Image.statsSync(imgSrc, ImgOptions)
     const picture = Image.generateHTML(metadata, htmlOptions)
 
+    if (token.attrs[0][1] === "cadenas-velo.jpg") {
+      console.log(token.attrs[0][1]);
+      console.log("image:::::::::::::::", token, Images.WIDTHS);
     console.log(metadata, picture);
-    
+    console.log(":=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=");
+
+    }
     console.log(":::::::::::::::::::::::::");
     return picture
   }

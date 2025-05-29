@@ -9,6 +9,7 @@
          url('/fonts/pacifico.svg#PacificoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-display: fallback;
 }
 
 @font-face {
@@ -20,6 +21,7 @@
          url('/fonts/pacifico.svg#PacificoRegular') format('svg'); */
     font-weight: normal;
     font-style: normal;
+    font-display: fallback;
 }
 
 @font-face {
@@ -31,7 +33,7 @@
          url('/fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -43,7 +45,7 @@
          url('/fonts/OpenSans-LightItalic-webfont.svg#OpenSansLightItalic') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -55,7 +57,7 @@
          url('/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -67,7 +69,7 @@
          url('/fonts/OpenSans-Italic-webfont.svg#OpenSansItalic') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -79,7 +81,7 @@
          url('/fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -91,7 +93,7 @@
          url('/fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSansSemiboldItalic') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -103,7 +105,7 @@
          url('/fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -115,7 +117,7 @@
          url('/fonts/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -127,7 +129,7 @@
          url('/fonts/OpenSans-ExtraBold-webfont.svg#OpenSansExtrabold') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }
 
 @font-face {
@@ -139,5 +141,5 @@
          url('/fonts/OpenSans-ExtraBoldItalic-webfont.svg#OpenSansExtraboldItalic') format('svg');
     font-weight: normal;
     font-style: normal;
-
+    font-display: fallback;
 }

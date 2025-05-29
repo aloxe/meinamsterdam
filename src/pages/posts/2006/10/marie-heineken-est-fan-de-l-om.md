@@ -3,7 +3,7 @@ layout: base
 title: "Marie Heineken est fan de l'Olympique de Marseille"
 description: 
 isMarkdown: true
-thumbnail: marie-heineken-love-OM-550.jpg
+thumbnail: marie-heineken-love-om.jpg
 image_alt: OM sur Marie Heineken
 permalink: marie-heineken-est-fan-de-l-om/
 date: 2006-10-11
@@ -16,7 +16,7 @@ Marie Heineken est le nom donné à une place tout près de chez moi. C'est une 
 
 Comme je passe souvent sur cette place, je vous en parlerais surement encore. Ce qui a attiré mon appareil photo cette fois ci c'est la grande peinture de sol qui est au milieu de la place depuis le mois d'août. O.M. avec un Cœur au milieu...
 
-![OM sur Marie Heineken](marie-heineken-love-OM-550.jpg){.center}
+<!-- ![OM sur Marie Heineken](marie-heineken-love-om.jpg){.center} -->
 
 En bon français, je me suis dit que cela voulait dire « **Olympique de Marseille** ». Un touriste un peu fan serait venu cet été après [la coupe du monde](/on-est-en-finale) et n'aurait pas osé écrire le nom de l'équipe nationale. Alors, en prévision d'un match de la coupe des clubs champions contre l'[Ajax](http://www.ajax.nl/web/show), il a tracé en gros les lettres OM au millieu de la place.
 

@@ -32,6 +32,19 @@
           </article>
           {% include "commentaires.njk" %}
         {% endblock %}
+
+        {% block subfooter %}
+          {# nunjunk doesn't support to import variables 
+          https://github.com/mozilla/nunjucks/issues/539
+          so you can't use renderFile with a variable in the file path
+          sotution: use the filter renderContent with the file path 
+          https://www.11ty.dev/docs/plugins/render/ #}
+          {% if subfooter %}
+            {% set filePath = "{% renderFile './src/static/subfooter/"+subfooter+".md' %}" %}
+            {{ filePath | renderContent("njk") | safe }}
+          {% endif %}
+        {% endblock %}
+
       </main>
     {% endblock %}
 

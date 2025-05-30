@@ -100,4 +100,13 @@
   & .note {
     @apply text-note bg-note-bg border p-4 border-note border-l-8 before:content-['ⓘ_Note:_'] before:font-bold;
   }
+  & img.center {
+    @apply my-0 mx-auto block;
+  }
+  & img.left {
+    @apply float-left mr-4;
+  }
+  & img.right {
+    @apply float-right ml-4;
+  }
 }

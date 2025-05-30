@@ -132,6 +132,10 @@ module.exports = async function(eleventyConfig) {
     return mdLib.render(rawText);
   });
 
+  // allows to include subfooters
+  const { RenderPlugin } = await import("@11ty/eleventy");
+  eleventyConfig.addPlugin(RenderPlugin);
+
   // Watch targets
   eleventyConfig.addWatchTarget('src/_layouts/css/tailwind.css');
 

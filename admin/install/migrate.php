@@ -3,6 +3,8 @@ migrate.php
 <?php
 
 function entreQuote($string) {
+  echo "entreQuote ";
+  echo $string;
   $string = str_replace("\"", "'", $string);
   if (mb_strpos($string, ":") !== false || mb_strpos($string, "'") !== false) {
     $string = '"' . $string . '"';
@@ -30,7 +32,7 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-$sql = "SELECT *  FROM dc_post WHERE post_id = 19";
+$sql = "SELECT *  FROM dc_post WHERE post_id = 696";
 // $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
@@ -193,9 +195,6 @@ if ($result->num_rows > 0) {
     $cleancontent = str_replace("///", "<!-- / HTML -->", $cleancontent);
 
     $title = $row[post_title];
-    if (mb_strpos($title, ':') !== false) {
-      $title = "'" . $title . "'";
-    }
 
     $fullcontent =   "---";
     $fullcontent .= "\nlayout: base";

@@ -30,7 +30,8 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
+$sql = "SELECT *  FROM dc_post WHERE post_id = 19";
+// $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -171,8 +172,16 @@ if ($result->num_rows > 0) {
     $cleancontent = preg_replace("/\!{1}(?: )?([\d\p{L}]{1})(.*)/", '# $1$2', $cleancontent);
 
     // styles italic bold
-    $cleancontent = preg_replace("/\'\'([^']*)\'\'/", '*$1*', $cleancontent);
-    $cleancontent = preg_replace("/__([^_]*)__/", '**$1**', $cleancontent);
+    $cleancontent = preg_replace("/\'\'([^']*)\'\'/", '*$1*', $cleancontent); // italic
+    $cleancontent = preg_replace("/__([^_]*)__/", '**$1**', $cleancontent); // bold
+    $cleancontent = preg_replace("/@@([^@]*)@@/", '`$1`', $cleancontent); // code
+
+    // footnotes
+    preg_match_all('/\$\$([^\$]*)\$\$/', $cleancontent, $contentnotes);
+    foreach ($contentnotes[1] as $key=>$value) {
+      $count = (int)$key + 1;
+      $cleancontent = str_replace('$$'.$value.'$$', '[^'.$count.']', $cleancontent);
+    } // [^1] ref for footnotes
 
     // links
     $cleancontent = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
@@ -200,9 +209,13 @@ if ($result->num_rows > 0) {
     if ($todo) { $fullcontent .=  "\nTODO: ". substr($todo, 2); }
     $fullcontent .= "\n---";
     $fullcontent .= "\n\n". $cleancontent;
+    $fullcontent .= "\n---";
+    foreach ($contentnotes[1] as $key=>$value) { // footnotes
+      $count = (int)$key + 1;
+      $fullcontent .= "\n[^".$count."]: ".$value;
+    }
 
-    echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================";
-    echo "\n";
+    echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================\n";
     echo $fullcontent;
     echo "\n ==========↑ ".$row[post_id]." ↑↑↑===================</pre>";
     // 

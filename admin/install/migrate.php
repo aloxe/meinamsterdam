@@ -3,17 +3,12 @@ migrate.php
 <?php
 
 function entreQuote($string) {
-  echo "entreQuote ";
-  echo $string;
   $string = str_replace("\"", "'", $string);
   if (mb_strpos($string, ":") !== false || mb_strpos($string, "'") !== false) {
     $string = '"' . $string . '"';
   }
   return $string;
 }
-
-
-// scp -P 2322 admin/install/migrate.php alx@s2.lib.re:~/domains/meinamsterdam.nl/public_html/admin/install/ 
 
 $servername = "localhost";
 $username = 'root';
@@ -196,10 +191,24 @@ if ($result->num_rows > 0) {
 
     $title = $row[post_title];
 
+    // $tags = "Arraye  =  ";
+    // echo "TAGS: ";
+    preg_match_all('/\"([^\"]*)\"/', $row[post_meta], $metags);
+    $tags = array_shift($metags[0]);
+    $taglist = implode(", ", $metags[0]);
+    // echo $taglist;
+    // foreach ($metags[0] as $value) {
+    //   echo "\n TAG " . $value;
+    //   $tags .= $value.", ";
+    // }
+
+    $categories = array ("none", "toering", "nederlandjes", "ik-ben-frans", "dagelijks");
     $fullcontent =   "---";
     $fullcontent .= "\nlayout: base";
     $fullcontent .= "\ntitle: " . entreQuote($title);
     $fullcontent .= "\ndescription: ". entreQuote($shortdescription);
+    $fullcontent .= "\ncategorie: ". $categories[$row[cat_id]];
+    $fullcontent .= "\ntags: [". $taglist . "]";
     $fullcontent .= "\nisMarkdown: true";
     $fullcontent .= "\nthumbnail: ". $image;
     $fullcontent .= "\nimage_alt: ". entreQuote($imagealt);
@@ -214,8 +223,14 @@ if ($result->num_rows > 0) {
       $count = (int)$key + 1;
       $fullcontent .= "\n[^".$count."]: ".$value;
     }
+    if ($row[post_notes]) {
+      $fullcontent .= "\n<!-- notes:\n";
+      $fullcontent .= $row[post_notes];
+      $fullcontent .= "\n--->\n";
+    }
 
     echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." ↓===================\n";
+    echo "\n";
     echo $fullcontent;
     echo "\n ==========↑ ".$row[post_id]." ↑↑↑===================</pre>";
     // 

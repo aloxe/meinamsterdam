@@ -175,6 +175,7 @@ if ($result->num_rows > 0) {
     $cleancontent = preg_replace("/\'\'([^']*)\'\'/", '*$1*', $cleancontent); // italic
     $cleancontent = preg_replace("/__([^_]*)__/", '**$1**', $cleancontent); // bold
     $cleancontent = preg_replace("/@@([^@]*)@@/", '`$1`', $cleancontent); // code
+    $cleancontent = str_replace("%%%", "  ", $cleancontent); // line break
 
     // footnotes
     preg_match_all('/\$\$([^\$]*)\$\$/', $cleancontent, $contentnotes);

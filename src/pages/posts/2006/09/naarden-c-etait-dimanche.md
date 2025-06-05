@@ -2,6 +2,8 @@
 layout: base
 title: "Naarden, c'etait dimanche"
 description: Que peut-on faire un dimanche après-midi où le soleil nous propose un air à 24°C ?
+categorie: toering
+tags: []
 isMarkdown: true
 thumbnail: naarden-vesting-150.jpg
 image_alt: Naarden
@@ -23,3 +25,7 @@ hein ?# que peut-on faire putain de narden ?!
 Nous avons préféré [bronzer dans l'herbe](http://sophie.fodil.co.uk/fruit/land/500/img_6590-Naarden.jpg) et [boire des coups](http://sophie.fodil.co.uk/fruit/normal/500/IMG_1127-Wien.JPG) parce qu'il n'y a qu'à Naarden qu'ils nous est offert de le faire en si bonne condition.
 
 ![panoramique dans l'herbe](panoramique-herbe-580.jpg){.center}
+---
+<!-- notes:
+http://www.fotofestival.com/
+--->

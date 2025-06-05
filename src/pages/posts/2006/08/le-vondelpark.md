@@ -2,6 +2,8 @@
 layout: base
 title: Le Vondelpark
 description: 
+categorie: toering
+tags: []
 isMarkdown: true
 thumbnail: vondelpark-1-velo-200.jpg
 image_alt: vélo dans le Vondelpark
@@ -22,3 +24,4 @@ Le parc a une histoire. Elle a commencé en 1864 quand un groupe d'Amstelodamois
 À chaque rayon de soleil le parc est pris d'assault par les habitants et les touristes. Les habitants, y viennent pour lire, bronzer ou pic-niquer avec des amis. Chacun se pose sur son metre-carré vital avec ses provisions ou des affaires, des bobos avec une glacière, des jeunes avec une radio, des mamans avec les couches du bambin. Les vélos vont et viennent dans tous les sens en doublant les joggeurs du dimanche. Parfois les kiosques sont utilisés pour des concerts ou des radio-crochets. Bref, c'est un endroit blindé dès qu'il fait beau mais on y retourne parce qu'on y passe des bons moments.
 
 ![Le Vondelpark](vondelpark-blinde.jpg){.center}
+---

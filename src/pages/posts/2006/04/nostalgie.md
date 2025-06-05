@@ -2,6 +2,8 @@
 layout: base
 title: Nostalgie ?
 description: Avant de repartir à Paris pour chercher mes dernières affaires, je dispose les bibelots sur les étagères... Une petite photo qui fera surement plaisir à qu
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: tour-eiffel-in-pijp.jpg
 image_alt: Tour Eiffel in Pijp
@@ -16,3 +18,4 @@ Avant de repartir à Paris pour chercher mes dernières affaires, je dispose les
 ![Tour Eiffel in Pijp](tour-eiffel-in-pijp.jpg){.center}
 
 Merci [Aline](/briquets-aline) et Élodie
+---

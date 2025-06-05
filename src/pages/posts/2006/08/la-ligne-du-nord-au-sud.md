@@ -2,6 +2,8 @@
 layout: base
 title: La ligne du nord au sud
 description: "Amsterdam est une ville toujours en travaux. Je n'ai pas connu une seule journée sans croiser de déviation. Il faut dire que j'habite près de la future ligne"
+categorie: toering
+tags: ["Amsterdam", "transports"]
 isMarkdown: true
 thumbnail: noord-zuidlijn.jpg
 image_alt: noord zuid lijn kaart
@@ -30,3 +32,4 @@ Contrairement à ce qui est annoncé sur le journal, l'ouverture de la ligne n'e
 * [Noord-zuidlijn : Ceintuurbaan station](/noord-zuidlijn-ceintuurbaan-station)
 * [Les maisons d'Amsterdam s'enfoncent](/les-maisons-s-enfoncent)
 * Vous pouvez voir quelques images des travaux en passant [Noël sur Ferdinand Bolstraat](/noel-sur-ferdinand-bolstraat)...
+---

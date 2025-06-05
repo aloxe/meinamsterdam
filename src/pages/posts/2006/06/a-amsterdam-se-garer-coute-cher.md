@@ -2,6 +2,8 @@
 layout: base
 title: Se garer à Amsterdam, ça coûte cher
 description: "Une place libre en plein centre ville dans une rue calme et tranquille. Juste à l'ombre d'un arbre, on se croirait dans un village... Pas de signe d'interdicti"
+categorie: toering
+tags: ["Amsterdam", "transports", "voiture", "planet", "amsterdam", "transports"]
 isMarkdown: true
 thumbnail: parlementer-pour-un-sabot.jpg
 image_alt: parlementer pour un sabot
@@ -25,3 +27,4 @@ Se garer coute cher à Amsterdam et c'est grâce à ça que ceux qui payent le p
 Il y a aussi des parkings souterrains dans la ville mais les tarifs ne sont pas beaucoup plus avantageux (souvent plus de 3 € par heure). 
 
 Je ne saurais trop vous conseiller de venir en centre-ville en transport en commun après [avoir laissé votre voiture dans un Park & Ride](/pour-ceux-qui-viennent-nous-voir-en-voiture).
+---

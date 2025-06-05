@@ -2,6 +2,8 @@
 layout: base
 title: Le Volkskrant devient gratuit ?
 description: 
+categorie: nederlandjes
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -18,3 +20,4 @@ Le [Volkskrant](http://fr.wikipedia.org/wiki/De_Volkskrant) est le troisième jo
 Les journaux d'information gratuits, diffusés dans les gares et les lieux de passage sont arrivés aux aux Pays-Bas en même temps que dans les autres pays Européens. [Metro](http://www.clubmetro.nl/index.php) et [Split](http://www.spitsnet.nl/) occupent ce créneau avec succès sans réellement attaquer la clientèle des journaux traditionnels. Seulement, les journaux traditionnels ont de plus en plus de mal à renouveler leur lectorat et aimeraient bien atteindre les jeunes actifs qui sont plutôt consomateurs de journaux gratuits et de presse en ligne. C'est l'objectif de ce nouveau journal qui sera lancé par De Volkskrant très prochainement.
 
 En février 2006, [NRC Handelsblad](http://fr.wikipedia.org/wiki/NRC_Handelsblad), le quatrième titre des Pays-Bas en terme de tirage, a lancé un journal du matin au format tabloïde : nrc.next. Ce quotidien, evndu au prix de 1 euro, vise un lectorat éduqué qui ne lit pas la presse tous les jours.
+---

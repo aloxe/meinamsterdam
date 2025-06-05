@@ -2,6 +2,8 @@
 layout: base
 title: 34 millions de Néerlandais ?
 description: 
+categorie: nederlandjes
+tags: []
 isMarkdown: true
 thumbnail: deux-hollandais-en-malaisie.jpg
 image_alt: deux Néerlandais en Malaisie
@@ -20,3 +22,4 @@ Bien sûr la population des Pays-Bas est bien de 16 334 378 hab. selon les derni
 **La période estivale est très favorable au déplacement des Néerlandais**. On en croise beaucoup en voiture (le coffre plein) sur les routes européennes. Ils partent après avoir vérifié si [la météo de la destination](/meteo-europeenne) était favorable, puis ils occupent les plages, les campings et les maisons qu'ils ont acheté en France... 
 
 Ailleurs dans le monde, ils font partie de ces routards et autres *backpackers* qu'on croise dans les *pensions* et les *hostels*. On les voit fréquenter les lieux touristiques surtout à la saison européenne. Ils se font remarquer par une langue que les autres touristes ne comprennent pas et par leur envie constante de faire des polders et des digues. Sur la photo ci-contre, nous retrouvons deux jeunes Néerlandais ayant réalisé une digue sur la rivière Tembeling en Malaisie.
+---

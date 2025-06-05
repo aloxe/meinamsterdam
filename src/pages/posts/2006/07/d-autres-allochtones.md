@@ -2,6 +2,8 @@
 layout: base
 title: "d'autres allochtones"
 description: "A force d'aller à mon consulat, de faire des sorties bateau et de regarder les matchs de foot avec des compatriotes et de lire des blogs francophones on va fin"
+categorie: ik-ben-frans
+tags: []
 isMarkdown: true
 thumbnail: italiennes-500.jpg
 image_alt: italiennes à Rembrandtplein
@@ -16,3 +18,4 @@ A force d'aller [à mon consulat](/carte-inutile), de faire des [sorties bateau]
 Pour preuve, ce groupe d'italiennes croisées dimanche dernier à [Rembrandtplein](http://www.amsterdam.info/fr/visite/rembrandtplein/). Elles avaient l'air d'être joyeuses.
 
 ![italiennes à Rembrandtplein](italiennes-500.jpg){.center}
+---

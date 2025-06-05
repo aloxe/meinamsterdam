@@ -2,6 +2,8 @@
 layout: base
 title: Choisir une banque
 description: Pour mes réglements quotidiens et encaisser un jour mon salaire, il me faut ouvrir un compte en banque. Mais comment choisir une banque dans un nouveau pays al
+categorie: nederlandjes
+tags: ["administratif", "sociétés", "tag", "sociétés"]
 isMarkdown: true
 thumbnail: geldautomaat-abn-amro-250.jpg
 image_alt: 
@@ -26,29 +28,19 @@ Bon, ces sites web sont en neerlandais ce qui n'aide pas trop si on ne parle pas
 
 J'ai aussi essayé de regarder les distributeurs de billets. Pourquoi ne pas choisir ma banque en fonction de l'aspect de ses distributeurs de billets. On dirait qu'ici, certaines banques s'attachent à habiller leurs *Geldautomaat* de jolies couleurs. Voici quelques échantillons :
 
-![](geldautomaat-abn-amro-250.jpg)
-
-
+![](geldautomaat-abn-amro-250.jpg)  
 Ronce de noyer chez [ABN-AMRO](/abn-amro-banque)
 
-![](fortis-bank-200.png)
-
-
+![](fortis-bank-200.png)  
 Fortis s'habille de rouge
 
-![](giromaat-250.jpg)
-
-
+![](giromaat-250.jpg)  
 L'[ex banque étatique](/postbank-amsterdam) dont le bleu se voit de loin
 
-![](rabobank-200.jpg)
-
-
+![](rabobank-200.jpg)  
 Un logo bizare pour la banque coopérative
 
-![](ing-bank-250.jpg)
-
-
+![](ing-bank-250.jpg)  
 ING utilise le *oranje* national
 
 Je suis toujours à la recherche d'**un distributeur SNS** mais impossible d'en trouver un à Amstedam
@@ -70,3 +62,4 @@ Je suis toujours à la recherche d'**un distributeur SNS** mais impossible d'en 
  **[Changement de banque: Rabobank](/changement-de-banque-rabobank)**
 
  **[Postbank devient ING](/postbank-devient-ing-officielement)**
+---

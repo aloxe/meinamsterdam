@@ -2,6 +2,8 @@
 layout: base
 title: Ik ga naar de school
 description: "Il n'est pas facile de se mettre au néerlandais sans aide. Essayer de lire les étiquettes des boites de céréales et regarder les programmes pour enfants ne "
+categorie: ik-ben-frans
+tags: []
 isMarkdown: true
 thumbnail: learndutch-mug.png
 image_alt: "Learn dutch : MUG"
@@ -19,3 +21,4 @@ Depuis lundi, je suis des cours intensifs de néerlandais à [the school for dut
 Le cursus pour grands débutants que nous suivons s'appelle *[survival](http://www.learndutch.com//specialcourses.cfm)*. Pour ma part, j'ai justement l'impression de surnager dans un flot de nouveau trucs. Le programme est assez dense et j'ai beaucoup de mal à mémoriser les quelques mots de vocabulaire que je note. Il me semble avoir toutes les armes pour survivre mais ne pas en maîtriser encore le maniement. Au quatrième jour, je me retrouve déjà avec 8 chapitres et deux CD qu'il me faudra digérer pendant les semaines à venir.
 
 Ce sont donc les semaines suivantes qui vont être décisives pour mon apprentissage. Comme pour chaque apprentisssage, la pratique , - ici la répétition des rheurheu - est le seul moyen de progresser.
+---

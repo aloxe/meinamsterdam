@@ -2,6 +2,8 @@
 layout: base
 title: Space invader
 description: 
+categorie: toering
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -24,3 +26,9 @@ TODO: no image , no image alt
 <map name="invader">
 <area shape="rect" alt="Space invader" coords="314,146,331,162" href="http://www.flickr.com/photos/13274211@N00/176195613/">
 </map>
+---
+<!-- notes:
+http://www.flickr.com/photos/meteorry/sets/723988/
+
+http://www.space-invaders.com/amsterdam.html
+--->

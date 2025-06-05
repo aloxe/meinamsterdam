@@ -2,6 +2,8 @@
 layout: base
 title: "Qu'allons nous faire de nos wuppies ?"
 description: 
+categorie: nederlandjes
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -31,3 +33,7 @@ Les wuppies sont même sur <a href="https://commons.wikimedia.org/wiki/File:Wk_w
 Maintenant que l'équipe des Pays-Bas est rentrée à la maison, le wuppie a moins la cote (encore qu'[il se vend encore bien sur eBay](http://search.ebay.nl/wuppie-wuppies_W0QQfkrZ1QQfromZR8QQsatitleZQ28wuppieQ2cwuppiesQ29)...). Une idée serait de garder les bleus les blancs et les rouges pour soutenir une équipe ce soir... Pour les oranges, il faut attendre la [fête de la reine](/koninginnedag) l'année prochaine...
 
 voir aussi **[Albert Hein Bonuskaart](/les-semaines-du-hamster)** et [On schtroumpf bien les smurfs|]
+---
+<!-- notes:
+http://www.youtube.com/watch?v=R21LvR8uTUc
+--->

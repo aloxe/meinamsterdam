@@ -2,6 +2,8 @@
 layout: base
 title: en attendant le 6/6/6
 description: "Aujourd'hui, 6 juin 2006, reprise des billets sur ce blog. On peut dire que j'ai attendu..."
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -29,3 +31,4 @@ Voilà, depuis [mon anniversaire](/joyeux), j'ai attendu. J'ai attendu avant de 
 Vous aurez plus de détail dans les jours à venir
 
 Lire aussi [mon billet du 7/7/7, ou je reparle du 6/6/6|/date-marquante||un ticket de parking avec une numéro singulier].
+---

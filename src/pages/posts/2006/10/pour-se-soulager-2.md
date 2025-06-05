@@ -2,6 +2,8 @@
 layout: base
 title: Pour se soulager (2)
 description: 
+categorie: nederlandjes
+tags: ["amsterdam"]
 isMarkdown: true
 thumbnail: vespasienne-ancienne.jpg
 image_alt: ancienne vespasienne
@@ -21,3 +23,7 @@ voir aussi:
 * [Pour se soulager (1)](/pour-se-soulager-1)
 * [Pour se soulager (3)](/pour-se-soulager-3)
 * [Pour se soulager (4)](/pour-se-soulager-4)
+---
+<!-- notes:
+http://www.theculturedtraveler.com/Archives/AUG2001/En_Pissant.htm
+--->

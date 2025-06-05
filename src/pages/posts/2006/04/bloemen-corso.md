@@ -2,6 +2,8 @@
 layout: base
 title: Bloemencorso, le défilé de fleurs
 description: "  Il y avait ce samedi un défilé de fleurs qui traversait la Hollande-du-Nord du sud au nord, soit de Noordwijk à Haarlem : le bloemencorso. Un défilé de c"
+categorie: toering
+tags: ["fleurs"]
 isMarkdown: true
 thumbnail: fille-bloemencorso.jpg
 image_alt: fille au Bloemencorso
@@ -24,3 +26,4 @@ Il y a en fait plusieurs bloemencorso dans ce pays mais celui que j'ai vu a [son
 
 * [Les autres photos sont en ligne](http://meinamsterdam.nl/jonge-bloemencorso)
 * [Les trois visites «fleurs» du printemps](/les-fleurs-du-printemps)
+---

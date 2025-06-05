@@ -2,6 +2,8 @@
 layout: base
 title: Mes premiers pas comme immigré
 description: "Je vous ai déjà dit que je m'étais enregsitré aux impots. Je me suis aussi enregistré à la mairie."
+categorie: dagelijks
+tags: ["administration"]
 isMarkdown: true
 thumbnail: passeport-amsterdam-250.jpg
 image_alt: passeport et cachet Amsterdam
@@ -19,25 +21,13 @@ Les renseignements administratifs donnés dans cette page ne sont plus à jour. 
 <!-- / HTML -->
 
 
-J'ai fait ça le jour de l'obtention de mon [SoFi nummer](/sophie-pas-numero). Je suis allé à une antenne spéciale de la mairie qui se chargeait de l'enregsitrement des étrangers.
-
-
+J'ai fait ça le jour de l'obtention de mon [SoFi nummer](/sophie-pas-numero). Je suis allé à une antenne spéciale de la mairie qui se chargeait de l'enregsitrement des étrangers.  
 ![passeport et cachet Amsterdam](passeport-amsterdam-250.jpg){.right}
-**Gemeente Amsterdam Dienst Persoonsgegevens** 
-
-
-**Unit Immigratie en nationaliteiten** 
-
-
-Johan Huizingalaan 757 à Amsterdam (dans le bâtiment de la police des étrangers)
-
-
-tel :  020.551.9252 ([site web](http://www.amsterdam.nl/gemeente/diensten_bedrijven/dienst/over_de_dienst))
-
-
-Heures d'ouverture : lundi à vendredi de 08h30 à 15h30.
-
-
+**Gemeente Amsterdam Dienst Persoonsgegevens**   
+**Unit Immigratie en nationaliteiten**   
+Johan Huizingalaan 757 à Amsterdam (dans le bâtiment de la police des étrangers)  
+tel :  020.551.9252 ([site web](http://www.amsterdam.nl/gemeente/diensten_bedrijven/dienst/over_de_dienst))  
+Heures d'ouverture : lundi à vendredi de 08h30 à 15h30.  
 
 # Tout dépend du fonctionnaire qu'on a en face
 
@@ -55,3 +45,4 @@ Je me demande d'ailleurs si cet enregistrement à l'IND ne va pas à l'encontre 
 
 ----
 A noter qu'aux Pays-Bas, on ne parle pas d'*immigré* mais d'*allochtone*. J'utiliserais ce dernier terme qui me semble plus exact.
+---

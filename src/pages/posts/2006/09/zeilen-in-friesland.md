@@ -2,6 +2,8 @@
 layout: base
 title: Zeilen in Friesland
 description: 
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: nos-deux-bateaux.jpg
 image_alt: deux bateaux
@@ -32,12 +34,8 @@ Samedi dernier, Michiel nous a invité à faire de la voile (Zeilen) en Frise ([
 
 [![](bateau-profil.jpg)|http://alix.guillard.fr/phototeque/view_photo.php?set_albumName=zeil-friesland&id=P5img_6832] Nous sommes repartis
 
-[![](depose-du-mat.jpg)|http://alix.guillard.fr/phototeque/view_photo.php?set_albumName=zeil-friesland&id=P5img_6830] Il a fallut enlever le mat
-
-
-
-
-
+[![](depose-du-mat.jpg)|http://alix.guillard.fr/phototeque/view_photo.php?set_albumName=zeil-friesland&id=P5img_6830] Il a fallut enlever le mat  
+  
 Il faut démonter le mat avant d'arriver au niveau du pont sur le canal. Sinon, on ne peut pas passer sans casser le bateau. Il y a aussi possibilité de demander à faire lever le pont. Un écriteau annonce que toute ouverture de pont coûte 2 euros. Le *garde-pont* collecte les péages avec [un sabot](http://alix.guillard.fr/phototeque/view_photo.php?set_albumName=zeil-friesland&id=P5img_6896) accroché au bout d'une canne à pêche. Comme il y avait des Néerlandais avec nous, nous avons préféré retirer le mat.
 
 [![le pêcheur d'euros](pecheur-d-euro.jpg)|http://alix.guillard.fr/phototeque/view_photo.php?set_albumName=zeil-friesland&id=P5img_6895] Sinon il faut payer
@@ -49,3 +47,4 @@ Il faut démonter le mat avant d'arriver au niveau du pont sur le canal. Sinon, 
 [![Gros voilier](bateau-a-voile.jpg)|http://www.flickr.com/photos/13274211@N00/249734188/] Encore un gros voilier
 
 [![Proues de bateaux rangées](proues-garrees.jpg)|http://www.flickr.com/photos/13274211@N00/249734184/] Retour au parking à bateaux
+---

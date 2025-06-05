@@ -2,6 +2,8 @@
 layout: base
 title: Révisions sous le soleil
 description: 
+categorie: nederlandjes
+tags: ["coutumes", "planet", "habitudes"]
 isMarkdown: true
 thumbnail: voisins-au-soleil-300.jpg
 image_alt: voisins au soleil
@@ -25,3 +27,4 @@ Dans cette réimplantation généralisée en plein air, les étudiants en profit
 voir aussi : 
 * [Prendre le soleil (autre solution)](/prendre-le-soleil-autre-solution)
 * [Travailler au soleil](/travailler-au-soleil)
+---

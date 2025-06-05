@@ -2,6 +2,8 @@
 layout: base
 title: Le Randstad
 description: "Peut-être que je vous parlerais de l'agence de travail temporaire un jour mais je vais présenter ici un exemple de conurbation particulier. La grande agglomé"
+categorie: toering
+tags: ["Amsterdam", "La Haye", "Rotterdam", "Utrecht", "géographie"]
 isMarkdown: true
 thumbnail: randstad-kaart.jpg
 image_alt: kaart Randstad
@@ -13,7 +15,7 @@ TODO: shortened desc
 
 Peut-être que je vous parlerais de l'agence de travail temporaire un jour mais je vais présenter ici un exemple de conurbation particulier. La grande agglomération néerlandaise qu'on appelle **Randstad**.
 
-En France, la plupart des grandes villes sont les points centraux d'une agglomération plus importante. Le meilleur exemple est Paris (2 millions d'habitants) au centre d'une agglomération de presque **10 millions d'habitants**. La commune la plus peuplée de la région parisienne est Boulogne-Billancourt dont tout le monde se fout et qui pourtant avec plus de 113.085 habitants$$Voir la [liste des communes de France par population](https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es) sur Wikipedia$$, est aussi peuplée que Nancy ou Rouen. Mais Nancy et Rouen sont au centre d'agglomérations bien plus peuplées qui font de ces villes des centres bien plus attractifs que Boulogne-Billancourt.
+En France, la plupart des grandes villes sont les points centraux d'une agglomération plus importante. Le meilleur exemple est Paris (2 millions d'habitants) au centre d'une agglomération de presque **10 millions d'habitants**. La commune la plus peuplée de la région parisienne est Boulogne-Billancourt dont tout le monde se fout et qui pourtant avec plus de 113.085 habitants[^1], est aussi peuplée que Nancy ou Rouen. Mais Nancy et Rouen sont au centre d'agglomérations bien plus peuplées qui font de ces villes des centres bien plus attractifs que Boulogne-Billancourt.
 
 ## Une conurbation
 
@@ -26,3 +28,5 @@ Le centre de la Randstad, -et c'est là sa spécificité- est vert, peu peuplé 
 Pendant le siècle d'or, la Hollande était la province la plus riche des provinces unies. Le commerce maritime a favorisé le dévoloppement des ports comme Amsterdam sur la Zuidersee et Rotterdam le long de la Meuse. Les autres villes de la province étaient florissantes aussi (La Haye, Haarlem, Utrecht...) grâce à l'essort du commerce ( certaines villes ont encore aujourd'hui des spécialitées connues  comme Delft et Gouda ). au XXe siècle, le développement urbain autour de pôles économiques comme Schiphol où administratif comme La Haye a achevé la conurbation. 
 
 Aujourd'hui, **le Randstad compte plus de 7 millions d'habitants** (dont moi), ce qui fait **presque la moitié de la population des Pays-Bas**. C'est dire son importance.
+---
+[^1]: Voir la [liste des communes de France par population|https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es] sur Wikipedia

@@ -2,6 +2,8 @@
 layout: base
 title: Appellez moi gratuitement
 description: Depuis décembre 2005 Free a annoncé la gratuité de certains appels internationnaux avec la freebox. Neuf a emboité le pas quelque temps après avec une offr
+categorie: ik-ben-frans
+tags: ["administration"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -31,12 +33,8 @@ Je ne suis plus dans l'annuaire mais vous pouvez quand même relire ces tranches
 <a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
 <!-- / HTML -->
 ![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**
-
-
-
-
-
+**Katja Shuurmann**  
+  
 Découvrez la cover-girl des pages jaunes néerlandaises.
 <!-- HTML -->
 </a></div>
@@ -47,13 +45,13 @@ Découvrez la cover-girl des pages jaunes néerlandaises.
 <a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
 <!-- / HTML -->
 ![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**
-
-
-
-
-
+**Les numéros de service NL**  
+  
 La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
 <!-- HTML -->
 </a></div>
 <!-- / HTML -->
+---
+<!-- notes:
+http://nationaletelefoongids.goudengids.nl/search/amsterdam/guillard.html
+--->

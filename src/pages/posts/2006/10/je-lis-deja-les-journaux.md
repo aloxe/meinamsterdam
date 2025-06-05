@@ -2,6 +2,8 @@
 layout: base
 title: "La presse d'ici en français"
 description: 
+categorie: ik-ben-frans
+tags: ["web"]
 isMarkdown: true
 thumbnail: ambassade_la-haye.jpg
 image_alt: ambassade de France à La Haye
@@ -24,3 +26,4 @@ Lire aussi:
 * [Renouvellement diplomatique](/renouvellement-diplomatique)
 * [La nouvelle ambassade de France](/Une-nouvelle-Ambassade-de-France)
 * [Un ambassadeur qui tombe à pic](/Un-ambassadeur-qui-tombe-a-point-nomme)
+---

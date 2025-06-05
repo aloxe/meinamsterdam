@@ -2,6 +2,8 @@
 layout: base
 title: Planifier un déplacement à Amsterdam
 description: "Aujourd'hui, j'ai deux rendez-vous, un sur Centuurbaan et un autre près de Sloterdijk. Je vais essayer de ne pas arriver en retard."
+categorie: nederlandjes
+tags: ["sociétés", "transports"]
 isMarkdown: true
 thumbnail: 9292banner234X60.GIF
 image_alt: 9292 OV
@@ -21,3 +23,4 @@ En 1992, le Ministère des transport a mis en place ce service téléphonique d'
 
 ----
 Ceux qui veinnent [nous voir en voiture](/pour-ceux-qui-viennent-nous-voir-en-voiture) peuvent déjà planifier leurs sorties...
+---

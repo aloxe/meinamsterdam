@@ -2,6 +2,8 @@
 layout: base
 title: Les livres dans la cuisine
 description: <p>De notre déménagement, il reste un seul carton à vider. Il traîne dans la cuisine. Mais en fait il est bien là où il est.</p>
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -29,3 +31,4 @@ Le livre que Alix s'est fait offrir un jour
 
 
 <p>Aujourd'hui, nous avons mis en commun nos ouvrages sur la cuisine dans le même carton. Le déséquilibre que l'on peut constater entre l'apport de la fille et l'apport du garçon ne reflète pas la répartition des tâches dans la cuisine (heureusement).</p>
+---

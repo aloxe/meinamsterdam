@@ -2,6 +2,8 @@
 layout: base
 title: Le jour du Prinsjesdag
 description: Le Prinsjesdag est un jour important dans la politique Néerlandaise. Il a lieu chaque année, le troisième mardi de septembre. Ce jour là, les États Génér
+categorie: nederlandjes
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -28,3 +30,4 @@ Cette année, le premier ministre Balkenende a décidé de maintenir l'embargo s
 [Le site de l'ambassade de France a couvert ce sujet](http://www.ambafrance.nl/article.php?id_article=7698). dans sa revue de presse.
 
 Lire aussi [Encore un troisième mardi de septembre](/encore-un-troisieme-mardi-de-septembre)
+---

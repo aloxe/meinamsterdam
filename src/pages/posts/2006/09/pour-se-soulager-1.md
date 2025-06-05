@@ -2,6 +2,8 @@
 layout: base
 title: Pour se soulager (1)
 description: "Rien de spécial aujourd'hui, juste allé au supermarché pour acheter des choses qui allaient manquer à la maison..."
+categorie: dagelijks
+tags: ["habitudes"]
 isMarkdown: true
 thumbnail: pipi-toiletpapier.jpg
 image_alt: pipi toiletpapier
@@ -22,3 +24,4 @@ voir aussi:
 * [Pour se soulager (2)](/pour-se-soulager-2)
 * [Pour se soulager (3)](/pour-se-soulager-3)
 * [Pour se soulager (4)](/pour-se-soulager-4)
+---

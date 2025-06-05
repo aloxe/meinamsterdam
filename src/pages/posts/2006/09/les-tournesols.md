@@ -2,6 +2,8 @@
 layout: base
 title: Les tournesols
 description: 
+categorie: dagelijks
+tags: ["fleurs"]
 isMarkdown: true
 thumbnail: les-tournessols-300.jpg
 image_alt: les tournesols
@@ -21,3 +23,4 @@ En cette fin d'été, les fleurs de saison, ce sont les tournesols ('[zonnebloem
 ## Nouveau mot : Zonnebloem
 
 Tournesol donc...
+---

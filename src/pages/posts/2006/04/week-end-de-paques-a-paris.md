@@ -2,6 +2,8 @@
 layout: base
 title: Week end de Pâques à Paris
 description: "Week end de pâques à Paris. j'en profite pour finir plein de travaux et faire un peu de cartons"
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: appart-paris-paques-2006.jpg
 image_alt: 
@@ -17,3 +19,4 @@ Week end de pâques à Paris. j'en profite pour finir plein de travaux et faire 
 
 
 promis, je déménage bientôt !
+---

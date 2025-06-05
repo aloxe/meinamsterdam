@@ -2,6 +2,8 @@
 layout: base
 title: Les derniers jours de Keukenhof
 description: 
+categorie: toering
+tags: ["fleurs"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -20,3 +22,4 @@ Au millieu du printemps les compositions florales et les plantations sont en ple
 Quand on vient d'Amsterdam en voiture, il est toujours agréable de reprendre la route vers le nord, vers [den Helder](http://www.denhelder.nl/) (dans le nord de la Hollande du nord), les champs de tulipes de toutes les couleurs s'étandent à perte de vue sur des kilometres. Welkom in Nederland.
 
 Voir aussi : [Au pays des vélos des moulins et des tulipes](/pays-des-velos-moulins-tulipes)
+---

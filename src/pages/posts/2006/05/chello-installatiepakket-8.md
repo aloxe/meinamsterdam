@@ -2,6 +2,8 @@
 layout: base
 title: Chello installatiepakket 8
 description: "Depuis quelques semaines déjà, nous avons un abonnement internet par le câble. Il semblerait, si j'en crois les quelques remarques et anecdotes que l'on nous"
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: cd-chello.jpg
 image_alt: "CD d'installation de Chello UPC"
@@ -16,3 +18,4 @@ Depuis quelques semaines déjà, nous avons un abonnement internet par le câble
 ![CD d'installation de Chello UPC](cd-chello.jpg){.center}
 
 C'est en rangeant quelques affaires que je suis retombé sur ce CD d'installation qui ne nous a jamais servi. En voyant les quelques mot en français, je m'interroge : Est ce qu'ils ont voulu m'aider à faire mes branchements en traduisant ces quelques mots ou bien est ce que le responsable du *Chello installatiepakket 8* a relu le bon à tirer le vendredi soir à 17h ? Connaissant la réputation de UPC, je penche plutôt pour la deuxième solution.
+---

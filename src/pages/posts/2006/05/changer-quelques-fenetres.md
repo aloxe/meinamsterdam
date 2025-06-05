@@ -2,6 +2,8 @@
 layout: base
 title: Changer quelques fenêtres
 description: "Le propriétaire nous avait prévenu : «Nous devrions être un peu dérangé pendant 2 jours au mois de mai parce que les fenêtres allaient être changées.»"
+categorie: dagelijks
+tags: ["architecture"]
 isMarkdown: true
 thumbnail: gros-travaux.jpg
 image_alt: 
@@ -15,7 +17,6 @@ Le propriétaire nous avait prévenu : «Nous devrions être un peu dérangé pe
 
 Je vous laisse une photo de la cuisine au troisième jour des travaux pour que vous vous rendiez compte que nous ne sommes pas trop dérangés.
 
-c'était hier :
-
-
+c'était hier :  
 ![](gros-travaux.jpg)
+---

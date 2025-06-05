@@ -2,6 +2,8 @@
 layout: base
 title: Résultat des élections
 description: "Comme promis, voici les résultats des élections de L'Assemblée des Français de l'étranger pour la circonscription d'Amsterdam."
+categorie: ik-ben-frans
+tags: ["administratif", "tag", "politique"]
 isMarkdown: true
 thumbnail: Affiche-AFE-18-juin-2006.jpg
 image_alt: affiche VOTEZ!
@@ -14,32 +16,18 @@ update: 2014-05-30
 
 [![affiche VOTEZ!](Affiche-AFE-18-juin-2006.jpg){.left}|/public/images/scans/Affiche-AFE-18-juin-2006.jpg]
 
-Nombre d'électeurs inscrits : **10728**
-
-
-Nombre de votants : **1221**
-
-
-Nombre de suffrages exprimés : **1214**
-
-
+Nombre d'électeurs inscrits : **10728**  
+Nombre de votants : **1221**  
+Nombre de suffrages exprimés : **1214**  
 
 Candidat sortant : [Maryse Meijer-Imbault](http://assemblee-afe.fr/rubrique.php3?id_rubrique=22&ID_WEBUSER=138) (UFE)
 
 ### Suffrages obtenus par les candidats :
-Bernadette BRIGOT (ADFE) : **531**
+Bernadette BRIGOT (ADFE) : **531**  
+Maryse IMBAULT (UFE) : **282**  
+Tanguy LE BRETON (Lion Bleu) : **659**  
 
-
-Maryse IMBAULT (UFE) : **282**
-
-
-Tanguy LE BRETON (Lion Bleu) : **659**
-
-
-
-> Candidat élu : [Tanguy LE BRETON](http://www.deblauweleeuw.nl/candidats.htm)
-
-
+> Candidat élu : [Tanguy LE BRETON](http://www.deblauweleeuw.nl/candidats.htm)  
 > (Suppléante : Hélène Degryse)
 ----
 
@@ -59,3 +47,4 @@ Le site du Sénat publie [la liste des nouveaux conseillers](http://www.expatrie
 * [Test du vote par internet en 2012](/voter-par-internet)
 * [Rencontre autour du vote électronique en 2012](/Rencontre-vote-electronique)
 * [Les nouveaux conseillers consulaires de 2014](/Les-nouveaux-conseillers-consulaires)
+---

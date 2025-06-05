@@ -2,6 +2,8 @@
 layout: base
 title: La météo européenne
 description: 
+categorie: nederlandjes
+tags: ["coutumes", "météo", "télé"]
 isMarkdown: true
 thumbnail: meteo-europeene.jpg
 image_alt: "la météo avec carte d'Europe"
@@ -19,3 +21,4 @@ Le matin sur la 2e chaine, il y a les nouvelles en continu. Un journal de cinq m
 ![la météo avec carte d'Europe](meteo-europeene.jpg){.center}
 
 On ne fait pas plus voyageurs que les Neerlandais. Ils sont nombreux à partir sur les côtes du sud de l'Europe dès que le temps est favorable. Ceux qui restent au pays sont, quant à eux, au courant de ce que leurs compatriotes vacanciers subissent.
+---

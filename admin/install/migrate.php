@@ -27,8 +27,8 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-$sql = "SELECT *  FROM dc_post WHERE post_id = 696";
-// $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
+// $sql = "SELECT *  FROM dc_post WHERE post_id = 1";
+$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -240,14 +240,70 @@ if ($result->num_rows > 0) {
     // save content
     $filename = dirname(__FILE__) . "/" . $folder . "/" . $row[post_url] . ".md";
     file_put_contents($filename, $fullcontent);
-    echo "<b> ↑ ".$filename." copied</b>";
+    echo "<br><b> ↑ ".$filename." copied</b>";
     echo "<hr>";
     // 
     //////////////////////////////////
+
+    //////////////////////////////////
+    // commentaires. fetching by post
+    $sql_com = "SELECT *  FROM dc_comment WHERE post_id = ".$row[post_id];
+    $result_com = $conn->query($sql_com);
+
+    if ($result_com->num_rows > 0) {
+        echo "il y a des commentaires<br>";
+
+
+
+    //   // output data of each row 
+      while($row_com = $result_com->fetch_assoc()) {
+        if ($row_com[comment_status] > 0) {
+
+          $comcontent =   "---";
+          $comcontent .= "\ndate: ". substr($row_com[comment_dt], 0, 10);
+          $comcontent .= "\nauthor: ". $row_com[comment_author];
+          $comcontent .= "\nemail: ". $row_com[comment_email];
+          $comcontent .= "\nsite: ". $row_com[comment_site];
+          $comcontent .= "\n---";
+          $comcontent .= "\n\n". $row_com[comment_content];
+          $comcontent .= "\n---";
+
+          echo "<pre style='width:100%; text-wrap: auto;'> ==========↓ ".$row[post_id]." comments ↓===================\n";
+          echo $comcontent;
+          echo "\n ==========↑ ".$row[post_id]." ↑↑↑ commment ".$row_com[comment_id]."===================</pre>";
+
+          //////////////////////////////////
+          // save content
+
+          if (!file_exists(dirname(__FILE__) . "/" . $folder . "/" . $row[post_url])) {
+            mkdir(dirname(__FILE__) . "/" . $folder . "/" . $row[post_url], 0777, true);
+            echo "<pre style='color: #226600'>";
+            echo "FOLDER " . $row[post_url] . " created";
+            echo "</pre>";
+          } else {
+            echo "<pre style='color: #cc6600'>";
+            echo "FOLDER " . $row[post_url] . " dejà là";
+            echo "</pre>";
+          }
+
+
+          $filename = dirname(__FILE__) . "/" . $folder . "/" . $row[post_url] . "/comment-" .$row_com[comment_id] . ".md";
+          file_put_contents($filename, $comcontent);
+          echo "<br><i> ↑ ".$filename." copied</i>";
+          // 
+          //////////////////////////////////
+        }
+      }
+    } else {
+        echo "no comment";
+    }
+
+
   }
 } else {
   echo "0 results";
 }
+
 $conn->close();
 ?> 
 

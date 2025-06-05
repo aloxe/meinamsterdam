@@ -11,7 +11,16 @@
 <h2>Commentaires</h2>
   <article>
   {%- for entree in entrees -%}
-      <li>par 
+      <li class="list-none !ml-0 pb-9">
+        {% if entree.data.email %}{% set email = entree.data.email %}{% else %}{% set email = "anonymous@example" %}{% endif %}
+        <img
+          src="{% gravatar email, 48, "retro" %}" 
+          title="{{ entree.data.email }}"
+          alt="{{ entree.data.author }} Avatar"
+          width="48"
+          height="48"
+          class="float-left mr-2"
+        /> par 
         {% if entree.data.site %}
           <a href="{{ entree.data.site }}">{{ entree.data.author }}</a><br>
         {% else %}

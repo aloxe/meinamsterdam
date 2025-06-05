@@ -3,6 +3,7 @@ date: 2009-05-13
 author: Cleo
 email: 
 site: 
+tags: comment
 ---
 
 <p>bonjour,<br />

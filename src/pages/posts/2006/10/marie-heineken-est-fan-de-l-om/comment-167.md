@@ -3,6 +3,7 @@ date: 2006-10-11
 author: Anne-Vicky
 email: annevicky.carlier@gmail.com
 site: http://annevickycarlier.blogspot.com/
+tags: comment
 ---
 
 <p>As-tu essayé de chercher OM dans Google (version hollandaise) <br />

@@ -7,6 +7,7 @@ const tailwind = require('@tailwindcss/postcss');
 const cssnano = require('cssnano');
 const mdit = require('markdown-it');
 const mditAttrs = require('markdown-it-attrs');
+const mditFtNote = require('markdown-it-footnote');
 const hljs = require('highlight.js/lib/core');
 const Image = require('@11ty/eleventy-img');
 const { execSync } = require('child_process')
@@ -38,7 +39,7 @@ module.exports = async function(eleventyConfig) {
     linkify: true,
     typographer: true,
   }
-  const mdLib = mdit(mditOptions).use(mditAttrs)
+  const mdLib = mdit(mditOptions).use(mditAttrs).use(mditFtNote);
 
   // Load any languages you need to highlight
   hljs.registerLanguage('javascript', require('highlight.js/lib/languages/javascript'));

@@ -1,0 +1,25 @@
+{% set entrees = [] %}
+{%- for comment in collections.comment -%}
+  {% set length = comment.url.split("/").length %}
+  {% set slug = "/"+comment.url.split("/")[length-3]+"/" %}
+  {% if slug === page.url %}
+    {% set entrees = (entrees.push(comment), entrees) %}
+  {% endif %}
+{%- endfor -%}
+
+{% if entrees.length %}
+<h2>Commentaires</h2>
+  <article>
+  {%- for entree in entrees -%}
+      <li>par 
+        {% if entree.data.site %}
+          <a href="{{ entree.data.site }}">{{ entree.data.author }}</a><br>
+        {% else %}
+          {{ entree.data.author }}<br>
+        {% endif %}
+      <em class="text-text-light">le {{ entree.date | date }}</em><br>
+        {{ entree.content | safe }}
+      </li>
+  {%- endfor -%}
+  </article>
+{% endif %}

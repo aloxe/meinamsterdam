@@ -3,6 +3,7 @@ date: 2006-11-19
 author: Ninouki
 email: 
 site: http://www.ninamsterdam.canalblog.com/
+tags: comment
 ---
 
 <p>Salut Alix,<br />

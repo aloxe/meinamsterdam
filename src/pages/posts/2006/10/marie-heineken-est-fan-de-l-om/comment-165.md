@@ -3,6 +3,7 @@ date: 2006-10-16
 author: etienne
 email: et.titou@laposte.net
 site: http://heineken.collection.over-blog.com
+tags: comment
 ---
 
 <p>une bière excellente et qui ne me déssoie jamais.<br />

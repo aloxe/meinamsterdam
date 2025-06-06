@@ -264,6 +264,7 @@ if ($result->num_rows > 0) {
           $comcontent .= "\nauthor: ". $row_com[comment_author];
           $comcontent .= "\nemail: ". $row_com[comment_email];
           $comcontent .= "\nsite: ". $row_com[comment_site];
+          $comcontent .= "\ntags: ". "comment";
           $comcontent .= "\n---";
           $comcontent .= "\n\n". $row_com[comment_content];
           $comcontent .= "\n---";

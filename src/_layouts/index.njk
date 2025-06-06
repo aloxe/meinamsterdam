@@ -52,8 +52,16 @@
                     {% endif %}
                     <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2">
                       <em class="text-primary"> ✍</em>
-                      {% if post.data.comments %}
-                          {{ post.data.comments.length }} commentaire{% if post.data.comments.length > 1 %}s{% endif %}
+                      {% set entrees = [] %}
+                      {%- for comment in collections.comment -%}
+                        {% set length = comment.url.split("/").length %}
+                        {% set slug = "/"+comment.url.split("/")[length-3]+"/" %}
+                        {% if slug === post.data.page.url %}
+                          {% set entrees = (entrees.push(comment), entrees) %}
+                        {% endif %}
+                      {%- endfor -%}
+                      {% if entrees.length %}
+                          {{ entrees.length }} commentaire{% if entrees.length > 1 %}s{% endif %}
                       {% else %}
                         pas de commentaire
                       {% endif %}

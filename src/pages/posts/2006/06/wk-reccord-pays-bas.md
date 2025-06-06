@@ -10,7 +10,7 @@ image_alt:
 permalink: wk-reccord-pays-bas/
 date: 2006-06-26
 update: 2006-09-29
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 

@@ -10,7 +10,7 @@ image_alt: kaart Randstad
 permalink: le-randstad/
 date: 2006-07-21
 update: 2015-03-17
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Peut-être que je vous parlerais de l'agence de travail temporaire un jour mais je vais présenter ici un exemple de conurbation particulier. La grande agglomération néerlandaise qu'on appelle **Randstad**.
@@ -29,4 +29,4 @@ Pendant le siècle d'or, la Hollande était la province la plus riche des provin
 
 Aujourd'hui, **le Randstad compte plus de 7 millions d'habitants** (dont moi), ce qui fait **presque la moitié de la population des Pays-Bas**. C'est dire son importance.
 ---
-[^1]: Voir la [liste des communes de France par population|https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es] sur Wikipedia
+[^1]: Voir la [liste des communes de France par population](https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es) sur Wikipedia

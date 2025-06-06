@@ -10,7 +10,7 @@ image_alt:
 permalink: en-attendant-le-6/
 date: 2006-06-06
 update: 2014-12-12
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 Aujourd'hui, 6 juin 2006, reprise des billets sur ce blog. On peut dire que j'ai attendu...

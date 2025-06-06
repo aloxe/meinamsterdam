@@ -3,6 +3,7 @@ date: 2006-06-20
 author: Tanguy
 email: tanguy@deblauweleeuw.nl
 site: http://www.lelionbleu.nl
+tags: comment
 ---
 
 <p>Merci Alix pour toutes ces informations tres claires et bien developpees. Merci aussi pour tes felicitations.<br />

@@ -3,6 +3,7 @@ date: 2007-02-09
 author: Pierre Vandeginste
 email: 
 site: http://aietech.com/
+tags: comment
 ---
 
 <p>voir aussi : <br />

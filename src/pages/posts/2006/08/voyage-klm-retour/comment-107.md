@@ -3,6 +3,7 @@ date: 2006-08-11
 author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
+tags: comment
 ---
 
 <p>de rien, Alix !<br />

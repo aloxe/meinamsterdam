@@ -10,7 +10,7 @@ image_alt:
 permalink: appellez-moi-gratuitement/
 date: 2006-08-01
 update: 2014-11-28
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc, subfooters
 ---
 
 Depuis décembre 2005 Free a annoncé la gratuité de certains appels internationnaux avec la freebox. Neuf a emboité le pas quelque temps après avec une offre un peu différente.
@@ -52,6 +52,6 @@ La liste des numéros directs vers les services téléphoniques les plus courant
 </a></div>
 <!-- / HTML -->
 ---
-<!-- notes:
+<!-- post notes:
 http://nationaletelefoongids.goudengids.nl/search/amsterdam/guillard.html
 --->

@@ -10,7 +10,7 @@ image_alt: fille au Bloemencorso
 permalink: bloemen-corso/
 date: 2006-04-22
 update: 2016-04-21
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 ![fille au Bloemencorso](fille-bloemencorso.jpg){.right}

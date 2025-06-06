@@ -26,10 +26,10 @@ En 2003, **Ahold** a fait l'actualité aux États-Unis à cause d'une affaire de
 
 voir aussi **[Albert Hein Bonuskaart](/les-semaines-du-hamster)** et [On schtroumpf bien les smurfs](/schtroumphs-smurf)
 ---
-[^1]: Le jour d'après[...|/joyeux]
-[^2]: L'année d'après[...|/joyeux]
-[^3]: voir : [Koninklijk, le prédicat royal|/koninklijk-le-predicat-royal]
+[^1]: Le jour d'après[...](/joyeux)
+[^2]: L'année d'après[...](/joyeux)
+[^3]: voir : [Koninklijk, le prédicat royal](/koninklijk-le-predicat-royal)
 [^4]: C'est d'ailleurs l'entreprise elle même qui a signalé cette fraude au fisc.
-<!-- notes:
+<!-- post notes:
 http://eccentricity.m78.com/images/2004/Thalys.jpg
 --->

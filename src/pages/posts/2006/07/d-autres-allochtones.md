@@ -10,7 +10,7 @@ image_alt: italiennes à Rembrandtplein
 permalink: d-autres-allochtones/
 date: 2006-07-13
 update: 2006-07-14
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 A force d'aller [à mon consulat](/carte-inutile), de faire des [sorties bateau](/sortie-en-bateau) et de [regarder les matchs de foot](/on-est-en-finaale) avec des compatriotes et de lire des [blogs francophones](/kreukreuscopie) on va finir par croire que les seuls étranger qui vivent à Amsterdam sont des français. Il n'en est rien.

@@ -10,7 +10,7 @@ image_alt: logo orange
 permalink: wanadoo-devient-orange/
 date: 2006-09-11
 update: 2007-10-02
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Annoncé via moult publicités en France au printemps dernier, la dilution de la marque Wanadoo [dans Orange](http://super.orange.fr/) a aussi eu lieu dans le pays dont la couleur nationale ressemble à cet opérateur téléphonique.
@@ -48,4 +48,4 @@ En 2004, alors que Mobistar ne s'appelle toujours pas Orange, KPN mobile envisag
 ### Voir aussi [France Telecom vends Orange Nederland à Deutsche Telekom](/les-petites-courses-de-l-ete) (septembre 2007)
 ---
 [^1]: Aux Pays-Bas Orange à repris les activités de Dutchtone, un consortium créé avec France-Télécom, Deutsche Telekom, ABN AMRO et Rabobank. Les trois derniers acteurs se sont rapidement retirés du consortium, à commencer par Deutsche Telekom qui commercialise aujourd'hui l'offre T-mobile aux Pays-Bas.
-[^2]: C'est la société de [Li Ka-shin|http://www.forbes.com/lists/2006/10/SO0W.html], l'homme le plus riche d'Asie...
+[^2]: C'est la société de [Li Ka-shin](http://www.forbes.com/lists/2006/10/SO0W.html), l'homme le plus riche d'Asie...

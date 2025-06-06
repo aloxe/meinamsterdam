@@ -26,6 +26,6 @@ Nous avons préféré [bronzer dans l'herbe](http://sophie.fodil.co.uk/fruit/lan
 
 ![panoramique dans l'herbe](panoramique-herbe-580.jpg){.center}
 ---
-<!-- notes:
+<!-- post notes:
 http://www.fotofestival.com/
 --->

@@ -10,7 +10,7 @@ image_alt:
 permalink: le-nom-des-villes/
 date: 2006-09-15
 update: 2019-01-14
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 

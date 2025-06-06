@@ -3,6 +3,7 @@ date: 2007-04-12
 author: The Register
 email: 
 site: http://www.theregister.co.uk/2006/06/08/europe_quadplay_war/
+tags: comment
 ---
 
 <p>

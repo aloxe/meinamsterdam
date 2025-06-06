@@ -3,6 +3,7 @@ date: 2006-10-19
 author: me in Amsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/
+tags: comment
 ---
 
 <!-- TB -->

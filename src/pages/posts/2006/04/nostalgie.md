@@ -10,7 +10,7 @@ image_alt: Tour Eiffel in Pijp
 permalink: nostalgie/
 date: 2006-04-20
 update: 2012-09-11
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Avant de repartir à Paris pour chercher mes dernières affaires, je dispose les bibelots sur les étagères... Une petite photo qui fera surement plaisir à quelqu'un...

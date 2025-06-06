@@ -3,6 +3,7 @@ date: 2010-05-11
 author: Blague
 email: 
 site: 
+tags: comment
 ---
 
 <!-- http://www.mort2rire.com -->

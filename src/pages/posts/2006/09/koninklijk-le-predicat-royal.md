@@ -10,7 +10,7 @@ image_alt:
 permalink: koninklijk-le-predicat-royal/
 date: 2006-09-19
 update: 2012-12-12
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 C'est aujourd'hui [Prinsjesdag](/le-jour-du-prinsjesdag), une journée spéciale ou la reine fait un discours à la deuxième chambre. Tout ceci se passe à La Haye et je suis à Amsterdam. Alors, pour rester dans la thématique monarchique, je vais plutôt vous parler du prédicat royal, le Koninklijk.

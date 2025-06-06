@@ -10,7 +10,7 @@ image_alt:
 permalink: le-volkskrant-devient-gratuit/
 date: 2006-10-02
 update: 2006-10-31
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 

@@ -10,7 +10,7 @@ image_alt:
 permalink: le-jour-du-prinsjesdag/
 date: 2006-09-21
 update: 2015-09-15
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 Le Prinsjesdag est un jour important dans la politique Néerlandaise. Il a lieu chaque année, le troisième mardi de septembre. Ce jour là, les États Généraux sont réunis devant le trône qui prononce un discours. Dans ce discours, le gouvernement précise sa politique pour l'année à venir. La constitution Néerlandaise indique aussi que c'est ce jour là qu'est présenté le budget par le ministre des finances.

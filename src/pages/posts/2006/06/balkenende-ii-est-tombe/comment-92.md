@@ -3,6 +3,7 @@ date: 2006-06-30
 author: Et pendant ce temps...
 email: 
 site: http://eucd.info
+tags: comment
 ---
 
 Et pendant ce temps le DADVSI est voté à la va vite la veille des vacances...

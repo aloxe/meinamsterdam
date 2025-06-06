@@ -3,6 +3,7 @@ date: 2006-12-27
 author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
+tags: comment
 ---
 
 <p>Il y a quelques différences entre les prises françaises et néerlandaises parce que la prise de terre ne se trouve pas au même endroit</p>

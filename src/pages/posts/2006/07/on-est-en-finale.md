@@ -22,5 +22,5 @@ Pour la coupe du monde de football, beaucoup de néerlandais [ont fait des paris
 
 ![Allez les bleus de nuit](allez-les-bleus-nuit.jpg){.center}
 ---
-[^1]: des fois je me demande si gagner par pénalty ou [aux tirs aux buts|http://www.menteur.com/chronik/060705.html] est vraiment mérité...
-[^2]: moi je vais au Coco outbacks, sur Rembrandtplein mais il y a [d'autres lieux de rendez-vous|http://www.leforum.nl/phpBB/viewtopic.php?p=63204#63204].
+[^1]: des fois je me demande si gagner par pénalty ou [aux tirs aux buts](http://www.menteur.com/chronik/060705.html) est vraiment mérité...
+[^2]: moi je vais au Coco outbacks, sur Rembrandtplein mais il y a [d'autres lieux de rendez-vous](http://www.leforum.nl/phpBB/viewtopic.php?p=63204#63204).

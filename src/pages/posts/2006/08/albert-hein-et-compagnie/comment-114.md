@@ -3,6 +3,7 @@ date: 2008-07-14
 author: Lalo
 email: pitite_angele@hotmail.com
 site: 
+tags: comment
 ---
 
 <p>bonjour à toi,<br />

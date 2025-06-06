@@ -10,7 +10,7 @@ image_alt:
 permalink: la-hollande-pour-la-france/
 date: 2006-05-24
 update: 2006-05-24
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 Il y a quelque temps, le lien [hollandepourlafrance.com](http://www.hollandepourlafrance.com/) a circulé parmi les quelques français que je connais à Amsterdam.

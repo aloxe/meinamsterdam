@@ -38,6 +38,6 @@ Ce numéro est le résultat d'une démarche simple mais administrative entamée 
 [^1]: SoFi signifie Sociaal Fiscaal
 [^2]: Comme le sexe, l'age ou le lieu de naissance.
 [^3]: tapez 2, puis 1 puis 4 à l'écoute des menus en néerlandais
-<!-- notes:
+<!-- post notes:
 261387832
 --->

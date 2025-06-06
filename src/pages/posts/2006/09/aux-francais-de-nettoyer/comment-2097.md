@@ -3,6 +3,7 @@ date: 2016-08-31
 author: Libé
 email: libe@blog.re
 site: http://www.liberation.fr/planete/2016/08/18/probo-koala-dix-ans-de-fleau_1473279
+tags: comment
 ---
 
 <h3><strong>«Probo Koala», dix ans de fléau</strong><br />

@@ -3,6 +3,7 @@ date: 2006-09-09
 author: alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
+tags: comment
 ---
 
 <p>Est ce que tu comptes aussi les néerlandophones des antilles néerlandaises ? du Surinam et d'Aruba ? les Surinamais qui vivent à Saint-Laurent-du-Maroni ? <br />

@@ -10,7 +10,7 @@ image_alt:
 permalink: j-ai-rate-x-tech/
 date: 2006-05-23
 update: 2006-05-23
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 [X-Tech](http://xtech06.usefulinc.com/) est encore une de ces grandes conférences technologiques qui ont lieu au Grand Hotel Krasnapolsky (sur Dam).

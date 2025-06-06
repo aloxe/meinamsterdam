@@ -3,6 +3,7 @@ date: 2006-05-09
 author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
+tags: comment
 ---
 
 <p>Alix, désolé de t'ôter cet espoir mais les rétropédalages s'usent aussi !<br />

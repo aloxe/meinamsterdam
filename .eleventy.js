@@ -129,6 +129,8 @@ module.exports = async function(eleventyConfig) {
   // format excerpt in markdown
   eleventyConfig.addFilter("md", function(rawText) { 
     if (!rawText) return;
+    // rawText = rawText.replace("/\[^([^\]]*)\]/", ' ', rawText); // remove footer ref
+    rawText = rawText.replace(/\[\^[0-9]*\]/g, ' ', rawText); // remove footer ref
     return mdLib.render(rawText);
   });
 

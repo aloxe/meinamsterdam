@@ -3,6 +3,7 @@ date: 2006-05-23
 author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
+tags: comment
 ---
 
 <p>

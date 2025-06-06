@@ -21,12 +21,9 @@ Je me suis laissé dire une fois que lorsqu'on faisait une recherche sur [gouden
 
 J'ai donc cherché mon réparateur sur le Gouden Gids papier qui est par contre très bien. Il y a un index en anglais. J'ai ainsi appris que *Washing machines and washer driers - maintainance and repairs* me conduisait à *Wasmachine and Wasdrogers onderhoud and reparatie* ce qui doit vouloir dire la même chose dans deux langues germaniques. Le réparateur est arrivé hier. 20 minutes et 189 euros plus tard, la pompe à eau de la machine était changée et je peux donc faire une machine ce matin.
 ---
-<!-- notes:
-http://www.robertpennekamp.nl/katjaschuurman.html
-
-http://krizzz.nl/img/050720-covergroot.jpg
-
-http://www.goudengids.nl/static05/images/katja_station.gif
-
+<!-- post notes:
+http://www.robertpennekamp.nl/katjaschuurman.html 
+http://krizzz.nl/img/050720-covergroot.jpg 
+http://www.goudengids.nl/static05/images/katja_station.gif 
 Katja Schuurman
 --->

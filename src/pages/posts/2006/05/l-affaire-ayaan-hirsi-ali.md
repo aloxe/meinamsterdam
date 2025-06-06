@@ -10,7 +10,7 @@ image_alt:
 permalink: l-affaire-ayaan-hirsi-ali/
 date: 2006-05-17
 update: 2017-01-24
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 Hier, je suis allé à de Jaren. Les images de Hirsi Ali que j'ai vu à longueur de journée à la télé bien disait bien qu'il se passait quelque chose. De Jaren est un lieu de rendez-vous pour Francophones et Néerlandais francophiles pour pratiquer quelques échanges linguistiques[^1]. J'ai pu enfin comprendre ce qu'était cette affaire Hirsi Ali.
@@ -26,4 +26,4 @@ Il se trouve que le VVD est [actuellement au pouvoir](http://fr.wikipedia.org/wi
 
 Ayaan Hirsi Ali a donc démissionné hier et a été déchue sa nationalité néerlandaise.
 ---
-[^1]:  Voir aussi:[La reprise du Jaren|/la-reprise-du-jaren]
+[^1]:  Voir aussi:[La reprise du Jaren](/la-reprise-du-jaren)

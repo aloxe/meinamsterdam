@@ -10,7 +10,7 @@ image_alt:
 permalink: qu-allons-nous-faire-de-nos-wuppies/
 date: 2006-06-27
 update: 2016-02-26
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 
@@ -34,6 +34,6 @@ Maintenant que l'équipe des Pays-Bas est rentrée à la maison, le wuppie a moi
 
 voir aussi **[Albert Hein Bonuskaart](/les-semaines-du-hamster)** et [On schtroumpf bien les smurfs|]
 ---
-<!-- notes:
+<!-- post notes:
 http://www.youtube.com/watch?v=R21LvR8uTUc
 --->

@@ -3,6 +3,7 @@ date: 2006-10-05
 author: kippetje
 email: 
 site: http://www.flickr.com/photos/kippetje
+tags: comment
 ---
 
 <p>another photo :<br />

@@ -3,6 +3,7 @@ date: 2006-09-18
 author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
+tags: comment
 ---
 
 <p>je ne savais pas pour Dunkerque, mais cela signifie donc &quot;l'église de la dune&quot; !<br />

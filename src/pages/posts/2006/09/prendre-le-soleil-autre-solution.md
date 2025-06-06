@@ -10,7 +10,7 @@ image_alt: lire à la fenêtre
 permalink: prendre-le-soleil-autre-solution/
 date: 2006-09-08
 update: 2012-12-12
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Nous avons déjà vu que les amstelo-damois aimaient prendre le soleil dès qu'il apparaissait. Les moment ensoleillés sont trop rares pour les laisser passer. En voici une nouvelle preuve.

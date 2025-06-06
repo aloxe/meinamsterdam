@@ -10,7 +10,7 @@ image_alt:
 permalink: le-lapin-cochon-avec-appeltjes/
 date: 2006-05-14
 update: 2014-09-18
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 *varkenshaas* qu'est ce que c'est que le *varkenshaas* ? Sophie a acheté ces barquettes de viande pensant que *haas* était du lapin et *varken* du porc. Peut-être que c'est un lapin-cochon ?

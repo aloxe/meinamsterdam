@@ -10,6 +10,7 @@ image_alt: vélos bleus (sauf le B-twin
 permalink: un-b-twin-a-amsterdam/
 date: 2006-05-07
 update: 2014-04-25
+TODO: subfooters
 ---
 
 

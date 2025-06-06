@@ -10,7 +10,7 @@ image_alt:
 permalink: aux-francais-de-nettoyer/
 date: 2006-09-20
 update: 2007-02-16
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 En suivant les informations françaises sur TV5, j'ai entendu parler d'une pollution en Côte d'Ivoire provoquée par un navire étranger venu déverser là des déchets malodorants.

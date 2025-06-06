@@ -3,6 +3,7 @@ date: 2007-07-09
 author: Noos
 email: 
 site: 
+tags: comment
 ---
 
 <p>UPC, c'est le Noos francais non ?<br />

@@ -10,6 +10,7 @@ image_alt: prise de téléphone
 permalink: les-prises-telephoniques/
 date: 2006-11-13
 update: 2014-11-28
+TODO: subfooters
 ---
 
 

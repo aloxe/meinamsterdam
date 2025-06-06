@@ -10,7 +10,7 @@ image_alt:
 permalink: changer-quelques-fenetres/
 date: 2006-05-06
 update: 2012-09-04
-TODO: no image alt 
+TODO: no image alt
 ---
 
 Le propriétaire nous avait prévenu : «Nous devrions être un peu dérangé pendant 2 jours au mois de mai parce que les fenêtres allaient être changées.»

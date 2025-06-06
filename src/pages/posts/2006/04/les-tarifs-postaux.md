@@ -27,6 +27,6 @@ Pour les pays bas (*Nederland*), le timbre est à 0,39€ pour l'union européen
 
 Bien sûr, on pourrait rétorquer que le tarif postal est élevé qu'en France, que l'on peut payer moins cher le même envoi en France et que pour affranchir au plus juste, il suffit d'acheter une vignette à un distributeur automatique. Cela est vrai mais tout le monde n'ayant pas un distributeur automatique dans son salon, il y a quand même un coté pratique qu'on ne saurait retirer à **TPG Post**. Une idée à exporter.
 ---
-<!-- notes:
+<!-- post notes:
 http://www.tntpost.nl/voorthuis/brieven-en-kaarten/tarieven/
 --->

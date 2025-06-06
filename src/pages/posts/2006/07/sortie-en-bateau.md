@@ -10,7 +10,7 @@ image_alt:
 permalink: sortie-en-bateau/
 date: 2006-07-11
 update: 2012-09-14
-TODO: no image alt 
+TODO: no image alt
 ---
 
 [Dimanche, j'ai pris l'avion](/hier-en-fokker) et lundi, j'ai pris le bateau. Non pas pour me déplacer mais pour faire le tour de la ville le temps d'une sympatique soirée.

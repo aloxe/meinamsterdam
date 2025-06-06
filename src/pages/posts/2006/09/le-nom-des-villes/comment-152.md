@@ -3,6 +3,7 @@ date: 2007-05-02
 author: Alix
 email: meinamsterdam@blog.re
 site: 
+tags: comment
 ---
 
 Je ne résiste pas au plaisir de partager ce commentaire qui n'a pas pu être validé parce que le captcha était trop difficile

@@ -10,7 +10,7 @@ image_alt: carte consulaire
 permalink: carte-inutile/
 date: 2006-07-12
 update: 2012-10-17
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Mon passeport n'est pas périmé mais j'ai du le faire refaire parce que la photo se décollait et les douaniers avaient pris pour habitude de la décoller encore plus pour voir si ce n'était pas un faux.
@@ -27,4 +27,4 @@ J'ai fait faire un nouveau passeport (avec la puce) et -après insistance- je n'
 ---
 [^1]: Tous les services d'état civil, d'inscriptions sur les listes électorales et tout ça, peuvent être faites là bas.
 [^2]: J'ai préféré avoir la possibilité de m'exprimer aux prochaines municipales en 2008
-[^3]: Les anciens passeports (non optiques) et ceux délivrés après le 26 octobre 2005 et ne possédant pas la puce obligent leur titulaires à faire une demande de visa pour aller aux États-Unis. [La faute à qui ?|http://pangloss.blog.lemonde.fr/pangloss/2006/03/raffarinades_ga.html]...
+[^3]: Les anciens passeports (non optiques) et ceux délivrés après le 26 octobre 2005 et ne possédant pas la puce obligent leur titulaires à faire une demande de visa pour aller aux États-Unis. [La faute à qui ?](http://pangloss.blog.lemonde.fr/pangloss/2006/03/raffarinades_ga.html)...

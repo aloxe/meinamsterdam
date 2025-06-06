@@ -3,6 +3,7 @@ date: 2006-09-08
 author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
+tags: comment
 ---
 
 <p>salut Alix ! <br />

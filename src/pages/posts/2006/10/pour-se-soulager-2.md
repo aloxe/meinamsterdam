@@ -24,6 +24,6 @@ voir aussi:
 * [Pour se soulager (3)](/pour-se-soulager-3)
 * [Pour se soulager (4)](/pour-se-soulager-4)
 ---
-<!-- notes:
+<!-- post notes:
 http://www.theculturedtraveler.com/Archives/AUG2001/En_Pissant.htm
 --->

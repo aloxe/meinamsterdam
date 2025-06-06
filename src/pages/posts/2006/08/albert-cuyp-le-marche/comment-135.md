@@ -3,6 +3,7 @@ date: 2008-11-11
 author: Alix
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl
+tags: comment
 ---
 
 <p>

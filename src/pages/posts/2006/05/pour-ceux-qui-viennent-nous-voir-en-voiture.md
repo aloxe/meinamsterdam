@@ -39,4 +39,4 @@ Une fois garé dans le parking, il y a un bureau où il faut demander ses ticket
 ---
 [^1]: **Park & Ride :** Déjà vu à Bruxelles où à Lille, ces parkings en périphérie des villes des Pays-Bas, vous permettent de garer votre voiture facilement puis de rejoindre le centre ville à bon prix grâce aux transports en commun à proximité. Le prix de parking est compris dans le ticket de transport. À Amsterdam, c'est plutôt recommandé d'utiliser les P+R parce que le stationnement dans le centre est **très** cher.
 [^2]: Direction *Central Station* arrêt *Albert Cuypstraat*.
-[^3]:  Vous trouverez beaucoup de renseignements sur les différents moyens de se garer à Amsterdam sur le site [Naar Amsterdam en anglais|http://naarad04.asp4all.nl/engels/index.htm]
+[^3]:  Vous trouverez beaucoup de renseignements sur les différents moyens de se garer à Amsterdam sur le site [Naar Amsterdam en anglais](http://naarad04.asp4all.nl/engels/index.htm)

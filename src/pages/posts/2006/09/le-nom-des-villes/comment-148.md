@@ -3,6 +3,7 @@ date: 2006-09-18
 author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
+tags: comment
 ---
 
 <h2>Quelques villes en plus</h2>

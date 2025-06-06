@@ -10,7 +10,7 @@ image_alt:
 permalink: space-invader/
 date: 2006-08-11
 update: 2006-08-28
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 
@@ -27,8 +27,7 @@ TODO: no image , no image alt
 <area shape="rect" alt="Space invader" coords="314,146,331,162" href="http://www.flickr.com/photos/13274211@N00/176195613/">
 </map>
 ---
-<!-- notes:
-http://www.flickr.com/photos/meteorry/sets/723988/
-
+<!-- post notes:
+http://www.flickr.com/photos/meteorry/sets/723988/ 
 http://www.space-invaders.com/amsterdam.html
 --->

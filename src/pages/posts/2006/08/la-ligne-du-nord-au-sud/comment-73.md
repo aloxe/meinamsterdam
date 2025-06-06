@@ -3,6 +3,7 @@ date: 2008-12-22
 author: Yannick
 email: 
 site: 
+tags: comment
 ---
 
 <p>J'espere qu'ils n'utiliseront pas ces vieilles rames de metro, inconfortables, qui datent des annees 70.<br />

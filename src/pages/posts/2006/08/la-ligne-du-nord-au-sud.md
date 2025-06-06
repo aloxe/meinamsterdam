@@ -10,7 +10,7 @@ image_alt: noord zuid lijn kaart
 permalink: la-ligne-du-nord-au-sud/
 date: 2006-08-04
 update: 2009-01-21
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Amsterdam est une ville toujours en travaux. Je n'ai pas connu une seule journée sans croiser de déviation. Il faut dire que j'habite près de la future ligne de métro Noord / Zuid.

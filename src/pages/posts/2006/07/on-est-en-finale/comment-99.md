@@ -3,6 +3,7 @@ date: 2008-12-01
 author: aloxe
 email: info@meinamtsredam.nl
 site: http://www.flickr.com/photos/13274211@N00/
+tags: comment
 ---
 
 <p>&nbsp;</p>

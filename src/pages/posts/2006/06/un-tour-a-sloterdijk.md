@@ -10,7 +10,7 @@ image_alt: Crystal Tower Sloterdijk - main vue
 permalink: un-tour-a-sloterdijk/
 date: 2006-06-27
 update: 2014-12-18
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 La semaine dernière je suis retourné à Sloterdijk, un de ces n?uds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour aller à Haarlem, Schiphol ou La Haye sans passer par le centre. Il y a aussi une station de métro et des terminus de trams et de bus. le Ring (autautoute A10) qui passe à coté peut vous conduire jusqu'à [un Park and Ride](/a-amsterdam-se-garer-coute-cher) proche de cette gare.

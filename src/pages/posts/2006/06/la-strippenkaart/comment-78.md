@@ -3,6 +3,7 @@ date: 2006-10-31
 author: Chani
 email: 
 site: http://la-page-blanche-d-anais.skynetblogs.be/
+tags: comment
 ---
 
 <p>Salut,<br />

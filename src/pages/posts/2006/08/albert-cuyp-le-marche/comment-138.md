@@ -3,6 +3,7 @@ date: 2010-12-24
 author: pm
 email: 
 site: 
+tags: comment
 ---
 
 <p>Ok très bien, mais d'après google tu es la seule à utiliser cette expression sur tout le web...<br />

@@ -10,7 +10,7 @@ image_alt: "Learn dutch : MUG"
 permalink: ik-ga-naar-de-school/
 date: 2006-06-15
 update: 2006-06-15
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Il n'est pas facile de se mettre au néerlandais sans aide. Essayer de lire les étiquettes des boites de céréales et regarder les programmes pour enfants ne sont pas des choses simples quand on a aucune base. J'ai quelque peu besoin qu'on me fasse la courte-echelle pour mettre ce pied à l'étrier. Je me suis donc inscrit à l'école de hollandais.

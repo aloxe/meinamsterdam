@@ -3,6 +3,7 @@ date: 2006-05-02
 author: PoL N.
 email: 
 site: http://www.radio-narden.be
+tags: comment
 ---
 
 <p><a href="/images/photos/2006-03/inventaire-cartons.jpg" title="inventaire-cartons.jpg" rel="nofollow">.../inventaire-cartons.jpg</a><br />

@@ -3,6 +3,7 @@ date: 2010-12-23
 author: pm
 email: 
 site: 
+tags: comment
 ---
 
 <p>Ca veut dire quoi des &quot;sacs d'arabe&quot;?<br />

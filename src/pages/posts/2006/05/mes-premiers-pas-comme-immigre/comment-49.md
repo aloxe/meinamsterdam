@@ -3,6 +3,7 @@ date: 2006-05-23
 author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
+tags: comment
 ---
 
 <p>tu oublies de préciser que ça se prononce &quot;alors, taune&quot; !<br />

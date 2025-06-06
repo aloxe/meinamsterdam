@@ -10,7 +10,7 @@ image_alt: Petit soviet aviateur
 permalink: hoeden/
 date: 2006-05-05
 update: 2013-02-04
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 Mes problèmes avec UPC et les fenêtres ne sont pas finis alors, une échapatoire : les souvenirs de [Koninginnedag](/koninginnedag) avec cette fois ci, une collection de chapeaux (*hoeden*) oranges :

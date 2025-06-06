@@ -3,6 +3,7 @@ date: 2006-10-06
 author: Stadstoezicht
 email: 
 site: http://www.stadstoezicht.amsterdam.nl/
+tags: comment
 ---
 
 <p>

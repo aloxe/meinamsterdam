@@ -10,7 +10,7 @@ image_alt:
 permalink: les-derniers-jours-de-keukenhof/
 date: 2006-05-19
 update: 2008-10-10
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 

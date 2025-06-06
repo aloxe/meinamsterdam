@@ -27,7 +27,7 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-// $sql = "SELECT *  FROM dc_post WHERE post_id = 90";
+// $sql = "SELECT *  FROM dc_post WHERE post_id = 72";
 $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
@@ -37,8 +37,6 @@ if ($result->num_rows > 0) {
 
   // output data of each row 
   while($row = $result->fetch_assoc()) {
-
-
 
     //////////////////////////////////
     // find folder name (year and month)
@@ -124,11 +122,12 @@ if ($result->num_rows > 0) {
     }
 
     if (!$image) {
-      $todo = $todo . ", no image ";
+      $todo = $todo . ", no image";
     }
     if (!$imagealt) {
-      $todo = $todo . ", no image alt ";
+      $todo = $todo . ", no image alt";
     }
+
     // 
     //////////////////////////////////
 
@@ -145,10 +144,8 @@ if ($result->num_rows > 0) {
     $description = str_replace("\n", " ", $description);
     $description = str_replace("\r", " ", $description);
     $shortdescription = substr($description, 0, 160);
-    // $shortdescription = str_replace(":", "", $shortdescription);
-    // $shortdescription = preg_replace('/[\x00-\x1F\x7F-\xFF]/', '', $shortdescription);
     if (strcmp($description, $shortdescription)) {
-      $todo = $todo . ", shortened desc ";
+      $todo = $todo . ", shortened desc";
     }
 
     // images (new match to remove path)
@@ -191,8 +188,12 @@ if ($result->num_rows > 0) {
     $cleancontent = str_replace("///html", "<!-- HTML -->", $cleancontent);
     $cleancontent = str_replace("///", "<!-- / HTML -->", $cleancontent);
 
-    $title = $row[post_title];
+    // str_contains only with php8
+    if (strpos($cleancontent, 'border:2px solid #FF5521') !== false) {
+      $todo = $todo . ", subfooters";
+    }
 
+    $title = $row[post_title];
 
     preg_match_all('/\"([^\"]*)\"/', $row[post_meta], $metags);
     $tags = array_shift($metags[0]);
@@ -219,9 +220,12 @@ if ($result->num_rows > 0) {
       $count = (int)$key + 1;
       $fullcontent .= "\n[^".$count."]: ".$value;
     }
+    // post notes are saved as a html comment bellow the content
     if ($row[post_notes]) {
-      $fullcontent .= "\n<!-- notes:\n";
-      $fullcontent .= $row[post_notes];
+      $fullcontent .= "\n<!-- post notes:\n";
+      // remove line breaks in comments so markdown undderstands there is one block
+      $postnotes = str_replace("\r\n\r\n", " \r\n", $row[post_notes]);
+      $fullcontent .= $postnotes;
       $fullcontent .= "\n--->\n";
     }
 

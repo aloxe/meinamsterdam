@@ -2,13 +2,15 @@
 layout: base
 title: Voyage retour, voyage KLM
 description: 
+categorie: nederlandjes
+tags: ["schiphol", "sociétés", "transports"]
 isMarkdown: true
 thumbnail: roald-amunsdsen-150.jpg
 image_alt: 
 permalink: voyage-klm-retour/
 date: 2006-08-08
 update: 2019-11-19
-TODO: no image alt 
+TODO: no image alt, subfooters
 ---
 
 
@@ -26,32 +28,20 @@ Dans les exemples en photo ci-dessous, trois Boeing 737 avec les noms de deux ex
 <!-- HTML -->
 <table align=center cellpadding=3><tr><td align=center>
 <!-- / HTML -->
-[![](roald-amunsdsen-150.jpg)|http://www.flickr.com/photos/13274211@N00/210053288/] 
-
-
-**Roald Amunsdsen**
-
-
+[![](roald-amunsdsen-150.jpg)](http://www.flickr.com/photos/13274211@N00/210053288/)   
+**Roald Amunsdsen**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210053288/)
 <!-- HTML -->
 </td><td align=center>
 <!-- / HTML -->
-[![](Herring-gull-150.jpg)|http://www.flickr.com/photos/13274211@N00/210176345/] 
-
-
-**Herring gull**
-
-
+[![](Herring-gull-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176345/)   
+**Herring gull**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210176345/)
 <!-- HTML -->
 </td><td align=center>
 <!-- / HTML -->
-[![](sir-henry-m-stanley-150.jpg)|http://www.flickr.com/photos/13274211@N00/210176344/]
-
-
-**Sir Henry M. Stanley**
-
-
+[![](sir-henry-m-stanley-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176344/)  
+**Sir Henry M. Stanley**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210176344/)
 <!-- HTML -->
 </td></tr></table>
@@ -73,3 +63,4 @@ Dans les exemples en photo ci-dessous, trois Boeing 737 avec les noms de deux ex
 </div>
 </div>
 <!-- / HTML -->
+---

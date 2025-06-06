@@ -2,6 +2,8 @@
 layout: base
 title: Bénéfices franco-néerlandais
 description: 
+categorie: dagelijks
+tags: ["sociétés"]
 isMarkdown: true
 thumbnail: airfrance-klm.png
 image_alt: Air-France-KLM
@@ -22,3 +24,4 @@ voir aussi
 * [Les avions de la KLM ont tous des petits noms](/voyage-klm-retour)
 * [Les Vliegtuigspotters de Schiphol](/vliegtuigspotters)
 * [Frances - Pays-Bas : les différences ne sont pas si grandes](http://blog.re/me-in-amsterdam/ecrire/poster.php?post_id=262)
+---

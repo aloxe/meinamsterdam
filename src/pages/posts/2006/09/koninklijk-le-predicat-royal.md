@@ -2,13 +2,15 @@
 layout: base
 title: Koninklijk, le prédicat royal
 description: "C'est aujourd'hui Prinsjesdag, une journée spéciale ou la reine fait un discours à la deuxième chambre. Tout ceci se passe à La Haye et je suis à Amsterda"
+categorie: nederlandjes
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
 permalink: koninklijk-le-predicat-royal/
 date: 2006-09-19
 update: 2012-12-12
-TODO: no image , no image alt , shortened desc 
+TODO: no image, no image alt, shortened desc
 ---
 
 C'est aujourd'hui [Prinsjesdag](/le-jour-du-prinsjesdag), une journée spéciale ou la reine fait un discours à la deuxième chambre. Tout ceci se passe à La Haye et je suis à Amsterdam. Alors, pour rester dans la thématique monarchique, je vais plutôt vous parler du prédicat royal, le Koninklijk.
@@ -55,3 +57,4 @@ Les grands bâtiments comme théatre Schouwburg à La Haye ou le palais royal de
 
 # note
 J'ai honteusement décidé de pomper l'article que j'ai écrit [pour Wikipedia](http://fr.wikipedia.org/wiki/Koninklijk). Celà dit, si vous y avez trouvé des erreurs et des fautes, je vous invite à le [corriger directement](http://fr.wikipedia.org/w/index.php?title=Koninklijk&action=edit) ;o)
+---

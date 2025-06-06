@@ -2,13 +2,15 @@
 layout: base
 title: Un WK reccord pour les Pays-Bas
 description: 
+categorie: nederlandjes
+tags: ["sport"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
 permalink: wk-reccord-pays-bas/
 date: 2006-06-26
 update: 2006-09-29
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 
@@ -24,3 +26,4 @@ Son prédécesseur, (aux Pays-Bas mais aussi en Corée du Sud) **Guus Hiddink**,
 Le tableau ne serait pas complet sans l'entraineur de l'équipe *oranje* : **Marco van Basten**, ancien joueur renommé (plusieurs fois joueur de l'année) qui est *bondscoach* de l'équipe depuis deux ans. 
 
 *Helaas* depuis hier soir, avec [la défaite des Pays-Bas par 2 cartons rouges à 2 face au Portugal](http://fifaworldcup.yahoo.com/06/en/w/match/template.html?id=52), les *oranje* quittent le tournoi et avec eux, le dernier entraineur Néerlandais.
+---

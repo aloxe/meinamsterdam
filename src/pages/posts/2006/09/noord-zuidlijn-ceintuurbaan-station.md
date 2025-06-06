@@ -1,7 +1,9 @@
 ---
 layout: base
-title: "'Noord-zuidlijn : Ceintuurbaan station'"
+title: "Noord-zuidlijn : Ceintuurbaan station"
 description: 
+categorie: toering
+tags: ["administratif"]
 isMarkdown: true
 thumbnail: noordzuidlijn-ceintuurbaan-300.jpg
 image_alt: noord zuidlijn ceintuurbaan metrostation
@@ -22,3 +24,4 @@ Cette pancarte indique que la ligne devrait ouvrir en 2011 mais [la mairie vient
 * La suite de la suite [Des travaux qui n'en finissent toujours pas](/travaux-n-en-finissent-toujours-pas) ou l'on apprends que les travaux sont repoussés à 2015.
 
 Vous pouvez voir quelques images des travaux en passant [Noël sur Ferdinand Bolstraat](/noel-sur-ferdinand-bolstraat)...
+---

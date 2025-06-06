@@ -30,7 +30,23 @@
           <article data-pagefind-body id="maincontent">
             {{ content | safe }}
           </article>
+          {% include "commentaires.njk" %}
         {% endblock %}
+
+        {% block subfooter %}
+          {# nunjunk doesn't support to import variables 
+          https://github.com/mozilla/nunjucks/issues/539
+          so you can't use renderFile with a variable in the file path
+          sotution: use the filter renderContent with the file path 
+          https://www.11ty.dev/docs/plugins/render/ #}
+          {# also the page will not be hot rendered when a subfooter is modified
+          also markdown is not supported and images will even break the buid #}
+          {% if subfooter %}
+            {% set filePath = "{% renderFile './src/static/subfooter/"+subfooter+".html' %}" %}
+            {{ filePath | renderContent("njk") | safe }}
+          {% endif %}
+        {% endblock %}
+
       </main>
     {% endblock %}
 

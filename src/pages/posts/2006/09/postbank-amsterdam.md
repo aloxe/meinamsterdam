@@ -2,6 +2,8 @@
 layout: base
 title: I Postbank Amsterdam
 description: 
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: tram-postbank-400.jpg
 image_alt: I Postbank Amsterdam sur un tram
@@ -23,3 +25,4 @@ En fait, je dis que j'ai choisi une banque, je suis plutôt allé dans la seule 
 * [Da Internetbankieren experience selon Postbank](/internetbankiren-experience)
 * [J'appartiens à la société (Fortis) anonyme](/j-appartiens-a-la-societe-fortis-anonyme)
 * [Postbank devient ING](/postbank-devient-ing-officielement)
+---

@@ -2,6 +2,8 @@
 layout: base
 title: La strippenkaart
 description: 
+categorie: nederlandjes
+tags: ["administration", "transports", "planet", "découverte", "transports"]
 isMarkdown: true
 thumbnail: strippenkaart.jpg
 image_alt: strippenkaart
@@ -33,3 +35,4 @@ Autre avantage, la *strippenkaart* n'est pas nomimnative et il est donc possible
 * Voir aussi: [Ma carte pas orange](/ma-carte-pas-orange)
 
 Le prix des Strippenkaart est disponible [sur les site web des transports municipaux](http://www.gvb.nl/REIZIGERS/KAARTJEKOPEN/Pages/Strippenkaart.aspx).
+---

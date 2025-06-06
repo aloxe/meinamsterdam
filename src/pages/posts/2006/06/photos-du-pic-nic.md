@@ -2,13 +2,15 @@
 layout: base
 title: Photos du pic nic
 description: "C'était le 27 mai dernier. Malgré la pluie annoncée, nous avons pu poser notre bâche sur l'herbe et manger quelques spécialités. Voici quelques photos du "
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: petit_img_4239-vert.jpg
 image_alt: 
 permalink: photos-du-pic-nic/
 date: 2006-06-07
 update: 2006-06-08
-TODO: no image alt , shortened desc 
+TODO: no image alt, shortened desc
 ---
 
 C'était le 27 mai dernier. Malgré la pluie annoncée, nous avons pu poser notre bâche sur l'herbe et manger quelques spécialités. Voici quelques photos du Sarphatipark puis du pic-nic avec Pascale, Stéphanie, Tjalling, Sophie, Soade, Tanguy.
@@ -33,3 +35,4 @@ C'était le 27 mai dernier. Malgré la pluie annoncée, nous avons pu poser notr
 ![](petit_img_4815.jpg)
 ![](petit_DSCN1715.JPG)
 ![](petit_DSCN1716.JPG)
+---

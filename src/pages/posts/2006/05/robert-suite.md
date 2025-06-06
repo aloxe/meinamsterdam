@@ -2,6 +2,8 @@
 layout: base
 title: Robert (suite)
 description: 
+categorie: dagelijks
+tags: ["fleurs"]
 isMarkdown: true
 thumbnail: fleurs-robert-200.jpg
 image_alt: fleurs
@@ -22,3 +24,4 @@ Robert nous avait prévenu que les fenêtres allaient êtres changées en deux j
 ![fleurs](fleurs-robert-200.jpg){.right}
 ## Robert seuse
 Ce matin, Robert est passé à la maison, alors que je portais des rideaux à la laverie et qu'une femme de ménage briquait l'étage. Robert a fait le tour de nos derniers griefs. Puis il est revenu avec un bouquet de fleurs. *Pour nous aider à nous sentir à nouveau chez nous*. ( J'avais déjà acheté des tulipes hier pour Sophie, j'ai l'air de quoi maintenant ? ). Je peux enfin débaler mes étagères achetées il y a une semaine pour pouvoir me sentir chez moi pour de bon. Voyez ci-contre les fleurs entourées de nos bouquins, ça a quand même une autre gueule qu'un [tas de briques](/changer-quelques-fenetres).
+---

@@ -7,9 +7,11 @@ const tailwind = require('@tailwindcss/postcss');
 const cssnano = require('cssnano');
 const mdit = require('markdown-it');
 const mditAttrs = require('markdown-it-attrs');
+const mditFtNote = require('markdown-it-footnote');
 const hljs = require('highlight.js/lib/core');
 const Image = require('@11ty/eleventy-img');
-const { execSync } = require('child_process')
+const { execSync } = require('child_process');
+const crypto = require('crypto');
 
 // sizes and formats of resized images to make them responsive
 // it can be overwriten when using the "Picture" short code
@@ -38,7 +40,7 @@ module.exports = async function(eleventyConfig) {
     linkify: true,
     typographer: true,
   }
-  const mdLib = mdit(mditOptions).use(mditAttrs)
+  const mdLib = mdit(mditOptions).use(mditAttrs).use(mditFtNote);
 
   // Load any languages you need to highlight
   hljs.registerLanguage('javascript', require('highlight.js/lib/languages/javascript'));
@@ -127,8 +129,14 @@ module.exports = async function(eleventyConfig) {
   // format excerpt in markdown
   eleventyConfig.addFilter("md", function(rawText) { 
     if (!rawText) return;
+    // rawText = rawText.replace("/\[^([^\]]*)\]/", ' ', rawText); // remove footer ref
+    rawText = rawText.replace(/\[\^[0-9]*\]/g, ' ', rawText); // remove footer ref
     return mdLib.render(rawText);
   });
+
+  // allows to include subfooters
+  const { RenderPlugin } = await import("@11ty/eleventy");
+  eleventyConfig.addPlugin(RenderPlugin);
 
   // Watch targets
   eleventyConfig.addWatchTarget('src/_layouts/css/tailwind.css');
@@ -144,6 +152,9 @@ module.exports = async function(eleventyConfig) {
   
   // process css
   eleventyConfig.addNunjucksAsyncFilter('postcss', postcssFilter);
+
+  // Expose the shortcode for gravatar
+  eleventyConfig.addShortcode('gravatar', gravatarShortcode);
 
   // Image shortcode with <picture>
   eleventyConfig.addShortcode("Picture", async (
@@ -322,3 +333,19 @@ const stringifyAttributes = (attributeMap) => {
     }
     return options;
   }
+
+  const gravatarShortcode = (email, size = 72, defaultImage = 'mp') => {
+    // Clean up the email address
+    // - Remove any leading or trailing spaces
+    // - Make it lowercase
+    const cleanEmail = email.trim().toLowerCase();
+
+    // Create an MD5 hash from the cleaned email address
+    const emailHash = crypto
+        .createHash('md5')
+        .update(cleanEmail)
+        .digest('hex');
+
+    // Return a URL image with the hash appended
+    return `https://www.gravatar.com/avatar/${emailHash}?s=${size}&d=${defaultImage}`;
+};

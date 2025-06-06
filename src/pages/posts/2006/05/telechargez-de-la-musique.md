@@ -2,13 +2,15 @@
 layout: base
 title: Téléchargez de la musique
 description: 
+categorie: dagelijks
+tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
 permalink: telechargez-de-la-musique/
 date: 2006-05-08
 update: 2012-09-11
-TODO: no image , no image alt 
+TODO: no image, no image alt
 ---
 
 
@@ -18,3 +20,4 @@ Penant que [Paris manifestait](http://stopdrm.info/index.php?2006/05/08/70-les-p
 Ce qui veut dire « Surfer et télécharger musique et films sera encore plus rapide ».
 
 Ça ne rêgle toujours pas [les problèmes techniques que j'ai avec eux](/chello-installatiepakket-8).
+---

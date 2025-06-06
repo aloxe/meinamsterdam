@@ -2,6 +2,8 @@
 layout: base
 title: Bert is Weg
 description: 
+categorie: dagelijks
+tags: ["animaux"]
 isMarkdown: true
 thumbnail: bert-is-weg.jpg
 image_alt: Bert is weg
@@ -20,18 +22,11 @@ Un jour, en regardant par la fenêtre, j'ai vu Bert. Il se prélassait doucettem
 
 ![Bert is hier](bert-dort.jpg){.center}
 
-***Missing: Bert*** 
-
-
-*Bert is skittish and scared, especially in the to him unknown outside world*
-
-
+***Missing: Bert***   
+*Bert is skittish and scared, especially in the to him unknown outside world*  
 *Please call if you have seen Bert*
 
-***Bert est perdu*** 
-
-
-''Bert est espiègle et peureux, spécialement dans le monde de dehors qu'il ne connait pas*
-
-
+***Bert est perdu***   
+''Bert est espiègle et peureux, spécialement dans le monde de dehors qu'il ne connait pas*  
 *Merci d'appeller si vous avez vu Bert''
+---

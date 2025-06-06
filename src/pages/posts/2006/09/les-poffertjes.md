@@ -2,6 +2,8 @@
 layout: base
 title: Les Poffertjes
 description: 
+categorie: nederlandjes
+tags: ["coutumes", "cuisine", "produits"]
 isMarkdown: true
 thumbnail: poffertjes-400.jpg
 image_alt: préparation des poffertjes
@@ -19,3 +21,4 @@ J'ai découvert ça à [koninginnedag](/koninginnedag). Ce sont de petites galet
 Il semblerait que la saison chaude ne soit pas la saison des poffertjes. Mais c'est quand même la saison des fraises et un dessert avec poffertjes, fraises et chantilly, c'est exquis !
 
 *La photo ci dessus vous montre la préparation des poffertjes dans les camions ambulants*
+---

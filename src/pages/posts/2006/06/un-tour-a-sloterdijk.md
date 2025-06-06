@@ -2,13 +2,15 @@
 layout: base
 title: Un tour à Sloterdijk
 description: La semaine dernière je suis retourné à Sloterdijk, un de ces n?uds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour al
+categorie: toering
+tags: ["Amsterdam", "architecture"]
 isMarkdown: true
 thumbnail: tour-cristal-300.jpg
 image_alt: Crystal Tower Sloterdijk - main vue
 permalink: un-tour-a-sloterdijk/
 date: 2006-06-27
 update: 2014-12-18
-TODO: shortened desc 
+TODO: shortened desc
 ---
 
 La semaine dernière je suis retourné à Sloterdijk, un de ces n?uds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour aller à Haarlem, Schiphol ou La Haye sans passer par le centre. Il y a aussi une station de métro et des terminus de trams et de bus. le Ring (autautoute A10) qui passe à coté peut vous conduire jusqu'à [un Park and Ride](/a-amsterdam-se-garer-coute-cher) proche de cette gare.
@@ -21,3 +23,4 @@ Cette fois, j'ai eu droit de monter au 24e étage de la [Crystal Tower](http://w
 ![Crystal Tower Sloterdijk - main vue](tour-cristal-300.jpg){.center}
 
 Voici donc cette tour, l'une des plus grande du coin et de la métropole amstelodamoise : 20.373 m² de bureaux dans une tour de 95 m de haut. Elle a été achevé en 2002 et est l'?uvre de [AGS Architekten & Planners](http://www.ags.nl/projects/projects_NL.asp?ID=6). Elle abrite des entreprises comme Deloite et Kelkoo mais ce n'est pas eux que je suis allé voir...
+---

@@ -27,7 +27,7 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-// $sql = "SELECT *  FROM dc_post WHERE post_id = 1";
+// $sql = "SELECT *  FROM dc_post WHERE post_id = 90";
 $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 $result = $conn->query($sql);
 
@@ -174,6 +174,12 @@ if ($result->num_rows > 0) {
     $cleancontent = preg_replace("/@@([^@]*)@@/", '`$1`', $cleancontent); // code
     $cleancontent = str_replace("%%%", "  ", $cleancontent); // line break
 
+    // links
+    $cleancontent = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
+
+    // link on image (with mkdown syntax)
+    $cleancontent = preg_replace("/\[(\!\[[^\)]+\))\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
+
     // footnotes
     preg_match_all('/\$\$([^\$]*)\$\$/', $cleancontent, $contentnotes);
     foreach ($contentnotes[1] as $key=>$value) {
@@ -181,26 +187,16 @@ if ($result->num_rows > 0) {
       $cleancontent = str_replace('$$'.$value.'$$', '[^'.$count.']', $cleancontent);
     } // [^1] ref for footnotes
 
-    // links
-    $cleancontent = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
-
     // html clean
-    $cleancontent = str_replace("%%%", "\n\n", $cleancontent);
     $cleancontent = str_replace("///html", "<!-- HTML -->", $cleancontent);
     $cleancontent = str_replace("///", "<!-- / HTML -->", $cleancontent);
 
     $title = $row[post_title];
 
-    // $tags = "Arraye  =  ";
-    // echo "TAGS: ";
+
     preg_match_all('/\"([^\"]*)\"/', $row[post_meta], $metags);
     $tags = array_shift($metags[0]);
     $taglist = implode(", ", $metags[0]);
-    // echo $taglist;
-    // foreach ($metags[0] as $value) {
-    //   echo "\n TAG " . $value;
-    //   $tags .= $value.", ";
-    // }
 
     $categories = array ("none", "toering", "nederlandjes", "ik-ben-frans", "dagelijks");
     $fullcontent =   "---";

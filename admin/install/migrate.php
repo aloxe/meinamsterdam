@@ -27,8 +27,9 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 476";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 468";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
-// $sql = "SELECT *  FROM dc_post WHERE post_id = 72";
-$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
+// $sql = "SELECT *  FROM dc_post WHERE post_id = 108";
+// $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
+$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 101 AND 300";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -175,7 +176,7 @@ if ($result->num_rows > 0) {
     $cleancontent = preg_replace("/\[([^|\]]+)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
 
     // link on image (with mkdown syntax)
-    $cleancontent = preg_replace("/\[(\!\[[^\)]+\))\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
+    $cleancontent = preg_replace("/\[(\!\[[^\)]+\)(?:{.*(?:left|right|center)})?)\|([^|\]]+)(\|[a-z]{2})?\]/", '[$1]($2)', $cleancontent);
 
     // footnotes
     preg_match_all('/\$\$([^\$]*)\$\$/', $cleancontent, $contentnotes);
@@ -191,6 +192,10 @@ if ($result->num_rows > 0) {
     // str_contains only with php8
     if (strpos($cleancontent, 'border:2px solid #FF5521') !== false) {
       $todo = $todo . ", subfooters";
+    }
+
+    if (strpos($cleancontent, '![]') !== false) {
+      $todo = $todo . ", image without alt";
     }
 
     $title = $row[post_title];

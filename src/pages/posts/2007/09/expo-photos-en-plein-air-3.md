@@ -21,13 +21,17 @@ Au mois de juillet, j'ai croisé cette affiche sur **la place des musées** (*mu
 <!-- HTML -->
 <table align=center cellpadding=0 cellspacing=0><tr><td align=center>
 <!-- / HTML -->
+
+
+<!--   
+[![http://farm2.static.flickr.com/1411/776354660_a19776f7fc_s.jpg]()- TODO: Add image alt |http://www.flickr.com/photos/pinpanpunchi/776354660/]
+[![http://farm2.static.flickr.com/1368/793340262_ee548ddd8c_s.jpg]()- TODO: Add image alt |http://www.flickr.com/photos/eisuke/793340262/]
   
-[![http://farm2.static.flickr.com/1411/776354660_a19776f7fc_s.jpg]()<!-- TODO: Add image alt -->|http://www.flickr.com/photos/pinpanpunchi/776354660/]
-[![http://farm2.static.flickr.com/1368/793340262_ee548ddd8c_s.jpg]()<!-- TODO: Add image alt -->|http://www.flickr.com/photos/eisuke/793340262/]
-  
-[![http://farm2.static.flickr.com/1155/698411181_5b23950f03_s.jpg]()<!-- TODO: Add image alt -->|http://www.flickr.com/photos/melissathompson/698411181/]
-[![http://farm2.static.flickr.com/1412/660927201_e6bd3c5c6c_s.jpg]()<!-- TODO: Add image alt -->|http://www.flickr.com/photos/greenolivetree/660927201/]
-  
+[![http://farm2.static.flickr.com/1155/698411181_5b23950f03_s.jpg]()- TODO: Add image alt |http://www.flickr.com/photos/melissathompson/698411181/]
+[![http://farm2.static.flickr.com/1412/660927201_e6bd3c5c6c_s.jpg]() TODO: Add image alt |http://www.flickr.com/photos/greenolivetree/660927201/]
+   -->
+
+
 <!-- HTML -->
 </td></tr>
 </table>

@@ -51,7 +51,7 @@ En fait la querelle linguistique des belges est plutôt récente, elle suit la p
 Les développements récents des querelles linguistiques et les problèmes rencontrés à la création du gouvernement Letherme ont été largement décriées en France comme aux Pays-Bas. Pourtant, aux Pays-Bas aussion a aussi l'habitude des [longues négociations avant la création d'un gouvernement](/la-formation-du-gouvernement). On a entendu quelques français souhaiter acceuillir la Wallonie dans la république et c"est maintenant aux Pays-Bas de proposer à recevoir la Flandre dans leur royaume[^1]. L'idée vient de Gert Wilders, probablement l'homme politique qui fait le plus parler de lui sans n'avoir jamais dit une une seule chose intelligente. Je doute que les Flamands soient disposés à se jeter dans les bras de leurs ennemis d'hier.
 
 ### Pour en savoir plus
-[![Tour de Zélande](.carte-tour-zelande_t.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]
+[![Tour de Zélande](carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]
 Je suis retourné dans la région lors d'une boucle à vélo. Cela m'a permis d'écrire trois article sur cette région venteuse mais pas seulement, que traverse l'estuaire de l'Escault.
 
 * [Voyage en Zélande : Un petit tour à vélo](/a-nouveau-en-zelande)

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Le modèle de polder
-description: "{{J'ai un champ un peu trop humide. Si je creuse un canal pour évacuer toute l'eau vers un point bas, il est fort probable que j'inonde le champ du voisin en c"
+description: "J'ai un champ un peu trop humide. Si je creuse un canal pour évacuer toute l'eau vers un point bas, il est fort probable que j'inonde le champ du voisin en c"
 categorie: nederlandjes
 tags: []
 isMarkdown: true
@@ -13,7 +13,7 @@ update: 2014-04-03
 TODO: no image, no image alt, shortened desc
 ---
 
-{{J'ai un champ un peu trop humide. Si je creuse un canal pour évacuer toute l'eau vers un point bas, il est fort probable que j'inonde le champ du voisin en contrebas et que j'assèche le champs du voisin situé plus haut que le mien.}} 
+> J'ai un champ un peu trop humide. Si je creuse un canal pour évacuer toute l'eau vers un point bas, il est fort probable que j'inonde le champ du voisin en contrebas et que j'assèche le champs du voisin situé plus haut que le mien.
 
 Chacun de mes voisins pourraient aussi entreprendre
 des travaux qui m'apporteraient des nuisances. Il est donc important de

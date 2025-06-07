@@ -3,7 +3,7 @@ layout: base
 title: "9 mai: fête de l'Europe (Europadag)"
 description: "C'est aujourd'hui la fête de l'Europe. L'Europe, c'est grâce à elle que je peux bosser et vivre à l'étranger sans avoir à faire un parcours du combattant "
 categorie: dagelijks
-tags: []
+tags: ["Europe"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -30,7 +30,7 @@ Sur toute l'Europe, je constate que de nombreuses activités sont prévues **à 
 
 Il est question de **Luxemburg**, **Barcelona**, **Tallinn**, **Oostenrijk** et **Ljubljana**. rien sur Amsterdam. Décidément, on dirait que je suis dans un pays qui a rejeté le projet de constitution européenne. Ce n'est pas en ne montrant pas l'Europe que la mentalité du pays est prêt d'évoluer...
 
-![http://www.ambafrance.nl/IMG/jpg/europe_bandeau.jpg]()<!-- TODO: Add image alt -->{.center}
+<!-- ![](http://www.ambafrance.nl/IMG/jpg/europe_bandeau.jpg)TODO: Add image alt{.center} -->
 
 ## Quelques jeunes rattrapent le coup
 

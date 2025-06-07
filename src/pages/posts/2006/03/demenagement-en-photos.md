@@ -10,7 +10,7 @@ image_alt:
 permalink: demenagement-en-photos/
 date: 2006-03-31
 update: 2006-05-02
-TODO: no image alt
+TODO: no image alt, image without alt
 ---
 
 Nous avons trouvé un nouvel appartement, signature du bail le 30 mars. Juste à temps pour rendre les clefs de l'ancien appart le 31 mars.

@@ -1,0 +1,10 @@
+---
+date: 2007-12-25
+author: Ofo
+email: 
+site: 
+tags: comment
+---
+
+<p>Un Joyeux Noël aux Français exilés à Amsterdam !!</p>
+---

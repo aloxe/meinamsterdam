@@ -14,7 +14,7 @@ update: 2007-02-24
 
 
 
-[![vélo dans le Vondelpark](vondelpark-1-velo-200.jpg){.left}|http://flickr.com/photos/13274211@N00/220282761/]
+[![vélo dans le Vondelpark](vondelpark-1-velo-200.jpg){.left}](http://flickr.com/photos/13274211@N00/220282761/)
 Parmi les lieux préférés des Amstelodamois pour [prendre le soleil](/revisions-sous-le-soleil), il y a **le Vondelpark**. Un rectangle de **49 hectares de verdure** en plein centre ville (enfin, plutôt au sud du centre ville). L'entrée principale donne sur la Leizeplein mais il y a des entrées tout autour du parc, donnant sur des grands axes où de minuscules impasses. Ce parc dispose de pelouses, de bois touffus, de lacs et de petits cours d'eau que des passerelles enjambent. On y retrouve aussi des cafés, des terrains de tennis et même **le musée du cinéma** dont la programmation est à surveiller. 
 
 ## Un peu d'histoire

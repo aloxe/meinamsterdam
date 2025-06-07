@@ -10,6 +10,7 @@ image_alt: deux bateaux
 permalink: zeilen-in-friesland/
 date: 2006-09-22
 update: 2008-12-03
+TODO: image without alt
 ---
 
 

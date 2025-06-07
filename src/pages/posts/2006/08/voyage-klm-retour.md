@@ -10,7 +10,7 @@ image_alt:
 permalink: voyage-klm-retour/
 date: 2006-08-08
 update: 2019-11-19
-TODO: no image alt, subfooters
+TODO: no image alt, subfooters, image without alt
 ---
 
 

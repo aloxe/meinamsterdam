@@ -19,7 +19,7 @@ En France, la plupart des grandes villes sont les points centraux d'une agglomé
 
 ## Une conurbation
 
-[![kaart Randstad](randstad-kaart.jpg){.left}|http://www.nai.nl/regie_e/new/rand1_e.html]
+[![kaart Randstad](randstad-kaart.jpg){.left}](http://www.nai.nl/regie_e/new/rand1_e.html)
 On retrouve ce modèle d'agglomération dans le monde entier. **Amsterdam** et ses 700 000 habitants est aussi entouré de quelques villes (**Amstelveen**, **Diemen**, **Haarlemmermeer**, **Zaanstad**...) qui en font une agglomération. Mais la proximité d'autres pôles (**Utrecht**, **Almere**, **Haarlem** et plus au sud **La Haye**, **Rotterdam**...) dilue beaucoup le pouvoir d'attraction de la capitale. Toutes ces agglomérations se touchent ou sont reliés par d'autres villes (**Gouda**, **Delft**, **Hilversum**, **Leyde**...) qui en font une seule et grande agglomération urbaine mais sans véritable centre : [La Randstad](http://www.regio-randstad.nl/index_eng.php). En Europe, je crois qu'il n'y a que **la Ruhr** qui correspond à ce modèle qu'on appelle **conurbation**. (les néerlandais disent *conurbatie*)
 
 ## De Groen hart

@@ -10,7 +10,7 @@ image_alt: crochets
 permalink: de-haak-crochet/
 date: 2006-04-27
 update: 2012-09-04
-TODO: shortened desc
+TODO: shortened desc, image without alt
 ---
 
 ![crochets](crochets-s.jpg){.left}

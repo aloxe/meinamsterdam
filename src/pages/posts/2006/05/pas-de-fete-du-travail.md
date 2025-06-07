@@ -10,7 +10,7 @@ image_alt:
 permalink: pas-de-fete-du-travail/
 date: 2006-05-01
 update: 2012-09-04
-TODO: no image alt, shortened desc
+TODO: no image alt, shortened desc, image without alt
 ---
 
 Pas de jour férié ici le 1er mai. Je vous rappelle qu'il y a 2 jours c'était férié et qu'il ne faut pas abuser. A la demande générale, quelques photos du [29 (Oranje) avril](/koninginnedag).

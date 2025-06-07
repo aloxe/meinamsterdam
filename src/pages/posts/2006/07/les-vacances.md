@@ -10,7 +10,7 @@ image_alt:
 permalink: les-vacances/
 date: 2006-07-16
 update: 2006-07-17
-TODO: no image alt
+TODO: no image alt, image without alt
 ---
 
 

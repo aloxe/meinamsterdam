@@ -10,7 +10,7 @@ image_alt:
 permalink: apres-koninginnedag/
 date: 2006-04-30
 update: 2014-06-10
-TODO: no image alt
+TODO: no image alt, image without alt
 ---
 
 Évidement le lendemein, on est un peu fatigué mais je vous montrerais les photos un autre jour. Pour le moment, il faut récupérer...

@@ -14,7 +14,7 @@ update: 2014-05-30
 
 [Comme promis](/assemblee-francais-etranger), voici les résultats des élections de L'Assemblée des Français de l'étranger pour la circonscription d'Amsterdam.
 
-[![affiche VOTEZ!](Affiche-AFE-18-juin-2006.jpg){.left}|/public/images/scans/Affiche-AFE-18-juin-2006.jpg]
+[![affiche VOTEZ!](Affiche-AFE-18-juin-2006.jpg){.left}](/public/images/scans/Affiche-AFE-18-juin-2006.jpg)
 
 Nombre d'électeurs inscrits : **10728**  
 Nombre de votants : **1221**  

@@ -10,7 +10,7 @@ image_alt:
 permalink: choisir-une-banque/
 date: 2006-06-13
 update: 2017-12-11
-TODO: no image alt, shortened desc
+TODO: no image alt, shortened desc, image without alt
 ---
 
 Pour mes réglements quotidiens et encaisser un jour mon salaire, il me faut ouvrir un compte en banque. Mais comment choisir une banque dans un nouveau pays alors que les commentaires de chacuns sont toujours subjectifs ? L'esthétique peut-être ?

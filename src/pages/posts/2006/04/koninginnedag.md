@@ -15,7 +15,7 @@ update: 2014-06-06
 
 
 Je suis un peu fatigué en cette fin de journée, je n'ai pas le temps de vous expliquer comment que c'était le délire.
-[![Panoramique Orange](panorange-500.jpg){.center}|/pas-de-fete-du-travail]
+[![Panoramique Orange](panorange-500.jpg){.center}](/pas-de-fete-du-travail)
 
 Autres billets sur le sujet :
 * [Après konninginnedag](/apres-koninginnedag)

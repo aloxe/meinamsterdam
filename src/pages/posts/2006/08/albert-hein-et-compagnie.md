@@ -16,7 +16,7 @@ Albert Heijn est un épicier bien connu au Pays-Bas. Contrairement à Félix Pot
 
 L'aventure **Albert Hein** a commencé le 27 mai[^1] 1887 avec l'ouverture de la première épicerie du même nom à Oostzaan, près de Zaandam (ville au nord d'Amsterdam). L'épicer a eu la bonne idée de nommer son épicerie de son patronyme. Il a ensuite conservé le nom en ouvrant plusieurs sucursales dans tout le pays dès le début du XXe siècle. Son développement s'est poursuivit tout au long du siècle dernier avec l'ouverture d'autres enseignes aux Pays Bas et aussi de chaines de distribution à l'étranger. Le groupe s'est surtout développé dans les pays hispanophones, aux États Unis et plus récement dans les pays de l'est.
 
-[![http://farm3.static.flickr.com/2074/2454265942_ddeca8b70c_m.jpg](Magazin Albert Hein aujourdhui à Zaandam){.center}|http://www.flickr.com/photos/13274211@N00/2454265942/]
+[![http://farm3.static.flickr.com/2074/2454265942_ddeca8b70c_m.jpg](Magazin Albert Hein aujourdhui à Zaandam){.center}](http://www.flickr.com/photos/13274211@N00/2454265942/)
 
 Aujourd'hui (et depuis 1973[^2]) le groupe s'appelle *Koninklijke Ahold N.V.*[^3] (Ahold Royal N.V.) et c'est une des 25 plus importantes entreprises Néerlandaises. Si je vous en parle aujourd'hui, c'est parce que j'ai lu un article dans le journal qui en parlait et qui racontait que certains actionnaires essayait de faire pression sur la direction pour céder ses activités aux États Unis parce que jugées peu rentables.
 

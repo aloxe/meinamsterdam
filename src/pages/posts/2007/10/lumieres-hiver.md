@@ -25,9 +25,10 @@ Sinon, la vie continue normalement et tout le monde prend son vélo pour faire v
 20€, c'est pas énorme, mais quand même, on aimerait toujours les dépenser autrement en cette période hivernale. Pour ma part, j'ai acheté des petites [lumières de poche](http://www.flickr.com/photos/mjaquet/1505368808) [chez HEMA](/le-design-c-est-hema) pour 4?. Ces lumières ont gagné le concours de design HEMA il y a quelques années et elles sont très bien pour ne pas laisser [mon vélo](/un-b-twin-a-amsterdam) dans le noir.
 
 ## Lire aussi :   
+<!-- 
+TODO: add back
 !![Les nouvelles lampes de la nuit](/les-nouvelles-lampes-de-la-nuit)   
-!![Les lampes vélo HEMA](/les-lampes-velo-hema)
-
+!![Les lampes vélo HEMA](/les-lampes-velo-hema) -->
 
 <!-- HTML -->
 <div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">

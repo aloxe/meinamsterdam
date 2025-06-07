@@ -58,7 +58,6 @@ Cette question est importante pour savoir si on soit mettre un anorack orange ou
 http://kunst-en-cultuur.infonu.nl/feestdagen/4099-koninginnedag-programma-amsterdam-2008.html 
 http://www.amsterdam.nl/?ActItmIdt=122749 
 http://www.amsterdamtourist.nl/en/home/events/article/xp/content_artikel.Eventsalg+-+75QueensDay2008/default.aspx 
- 
 2006
 http://www.noordzuidlijn.amsterdam.nl/live/bijlagen/bereikbaaramsterdam/figuren/uk/nieuws/plattegrond_kaart.pdf
 --->

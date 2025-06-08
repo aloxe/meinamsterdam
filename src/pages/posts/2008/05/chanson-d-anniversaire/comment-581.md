@@ -27,7 +27,7 @@ I promissed a long time ago to tell what I thought about my present (the beers o
 <b>Rochefort 10</b> : Dark herfty and well balanced. As perfect as usual<br/>
 <b>Terrapin</b> : Fresh lager. Tasty but too lager still<br/>
 <b>Keiser Karel</b> : Very soft and fruity with that little bitter taste you expect from a beer<br/>
-<b>*rapin</b> : Beefy but sweet (I don't realy know what I meant here)<br/>
+<b>*Rapin</b> : Beefy but sweet (I don't realy know what I meant here)<br/>
 <b>Colombus</b> : Probably the best local beer<br/>
 </p>
 <p align="center"><img src="http://blog.re/me-in-amsterdam/images/photos/2008-04/les-bieres-et-la-cuite.jpg" /></p>

@@ -29,7 +29,7 @@ Un clip qui n'est presque pas éxagéré quand on voit comment certaines personn
 
 <!-- HTML -->
 <div  style="text-align:center;">
-<object width="425" height="344" style="text-align:center;><param name="movie" value="http://www.youtube.com/v/79GJHd_ZOX8&hl=en"></param><embed src="http://www.youtube.com/v/79GJHd_ZOX8&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<object width="425" height="344" style="text-align:center;"><param name="movie" value="http://www.youtube.com/v/79GJHd_ZOX8&hl=en"></param><embed src="http://www.youtube.com/v/79GJHd_ZOX8&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
 </div>
 <!-- / HTML -->
 

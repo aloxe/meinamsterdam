@@ -24,7 +24,7 @@ Il a cru bon a un moment de parler de sa résidence secondaire en France et de s
 
 L'office du tourisme de Pologne a aussi repris avec humour l'image du plombier polonais pour promouvoir le pays[^1]...
 <!-- HTML -->
-<table align="center" border="0"><tr<td>
+<table align="center" border="0"><tr><td>
 <!-- / HTML -->
 ![Piotr Adamski à la campagne](plombier_pologne_campagne.jpg){.center}
 <!-- HTML -->

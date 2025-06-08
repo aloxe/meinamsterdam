@@ -4,6 +4,7 @@ author: greenpowwa
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>pour info &quot;(Belga) La ville néerlandaise de Maastricht veut chasser les touristes de la drogue des coffeeshops pendant une période test. La ville a demandé pour ce faire un subside de 1,4 million d'euros au ministère de l'Intérieur, écrit Het Belang van Limburg mardi. <br />

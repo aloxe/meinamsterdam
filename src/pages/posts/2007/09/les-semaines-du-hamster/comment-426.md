@@ -4,6 +4,7 @@ author: Kerdekel
 email: kerdekel@gmail.com
 site: http://blog.virgule.info
 tags: comment
+permalink: false
 ---
 
 <p>Salut! :)<br />

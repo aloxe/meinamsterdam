@@ -4,6 +4,7 @@ author: Tristan
 email: 
 site: http://standblog.org/
 tags: comment
+permalink: false
 ---
 
 <p>

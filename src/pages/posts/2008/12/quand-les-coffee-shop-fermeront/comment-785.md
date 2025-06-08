@@ -4,6 +4,7 @@ author: Weed06
 email: jtefock_06@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour à tous ! <br />

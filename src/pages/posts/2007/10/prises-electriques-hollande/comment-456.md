@@ -4,6 +4,7 @@ author: aloxe
 email: meinamsterdam@blog.re
 site: http://www.leforum.nl/phpBB/memberlist.php?mode=viewprofile&amp;amp;u=1019&amp;amp;sid=2dd5055f69980fe438a818275fe4d0e2
 tags: comment
+permalink: false
 ---
 
 <p>

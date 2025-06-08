@@ -4,6 +4,7 @@ author: Ofo
 email: 
 site: http://www.ofotheblog.org/
 tags: comment
+permalink: false
 ---
 
 <p>Joli score !</p>

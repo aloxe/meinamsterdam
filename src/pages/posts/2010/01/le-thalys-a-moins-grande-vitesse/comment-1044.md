@@ -4,6 +4,7 @@ author: nerik
 email: erik.escoffier@gmail.com
 site: http://www.neriksworkshop.com
 tags: comment
+permalink: false
 ---
 
 <p>C'est marrant moi j'ai l'impression que les problèmes ont toujours lieu entre la frontière belge et Bruxelles... Donc sur le chemin de fer antique belge et non sur le tronçon HSL, non?<br />

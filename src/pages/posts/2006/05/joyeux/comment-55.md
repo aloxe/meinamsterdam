@@ -4,6 +4,7 @@ author: PoL
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Parait qu'il existe une compil Putumayo pour les p'tits!<br />

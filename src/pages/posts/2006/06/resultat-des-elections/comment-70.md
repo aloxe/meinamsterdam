@@ -4,6 +4,7 @@ author: Tanguy
 email: tanguy@deblauweleeuw.nl
 site: http://www.lelionbleu.nl
 tags: comment
+permalink: false
 ---
 
 <p>Merci Alix pour toutes ces informations tres claires et bien developpees. Merci aussi pour tes felicitations.<br />

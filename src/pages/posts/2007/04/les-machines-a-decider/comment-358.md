@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://blog.re/me-in-amsterdam/
 tags: comment
+permalink: false
 ---
 A noter que quelcandidat.com affiche la somme des résultats des consultations sur son site.
 

@@ -4,6 +4,7 @@ author: jeansé
 email: jeanse.alluard@laposte.net
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour,<br />

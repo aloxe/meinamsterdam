@@ -4,6 +4,7 @@ author: Triskel
 email: Triskel@to.to
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci bien!</p>

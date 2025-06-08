@@ -4,6 +4,7 @@ author: Yannick
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Moi, j'ai fait le chemin inverse. <br />

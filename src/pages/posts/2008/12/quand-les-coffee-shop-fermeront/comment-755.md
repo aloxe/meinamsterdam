@@ -4,6 +4,7 @@ author: john
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p><a href="http://www.encod.org/info/CONSEIL-DE-LA-COUR-EUROPEENNE-LA.html" title="http://www.encod.org/info/CONSEIL-DE-LA-COUR-EUROPEENNE-LA.html" rel="nofollow">www.encod.org/info/CONSEI...</a><br />

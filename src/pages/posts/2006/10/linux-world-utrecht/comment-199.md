@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p><i>Les photos sont interdites dans le Hall et je me suis fait attrapé par un gardien peu aimable, juste le temps de faire cette photo pourrie (celle du haut) que je vous impose en illustration.</i>

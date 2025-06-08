@@ -4,6 +4,7 @@ author: Michael
 email: mics@beingblue.net
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ton post m'a fait regarder avec encore plus d'attention les plaques dans la rue, quelques remarques:<br />

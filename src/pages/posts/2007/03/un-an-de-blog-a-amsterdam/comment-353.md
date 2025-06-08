@@ -4,6 +4,7 @@ author: Katrintje
 email: 
 site: http://catherinewelog.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>Super Alix ! Cest encourageant pour une petite nouvelle qui est à Adam depuis quelques mois !<br />

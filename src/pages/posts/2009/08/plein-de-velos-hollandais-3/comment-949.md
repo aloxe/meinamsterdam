@@ -4,6 +4,7 @@ author: [Pierrot²]
 email: pierre@pluviaud.net
 site: http://pluviaud.eu
 tags: comment
+permalink: false
 ---
 
 <p>Moi je roule en pointer.. legerement pimpe :)<br />

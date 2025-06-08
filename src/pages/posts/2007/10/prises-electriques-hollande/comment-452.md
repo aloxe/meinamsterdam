@@ -4,6 +4,7 @@ author: alix
 email: meinamsterdam@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour blablah,<br />

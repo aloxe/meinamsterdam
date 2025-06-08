@@ -4,6 +4,7 @@ author: ThoVer
 email: 
 site: http://www.orangedansletour.com
 tags: comment
+permalink: false
 ---
 
 <p>C'est sympa de parler de moi et de notre blog Orange dans le Tour ! Merci :-)</p>

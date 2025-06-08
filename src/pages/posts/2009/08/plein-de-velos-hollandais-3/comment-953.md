@@ -4,6 +4,7 @@ author: elmagnifico65
 email: gosselet.bruno@live.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour à tous!<br />

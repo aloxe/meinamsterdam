@@ -4,6 +4,7 @@ author: aloxecorton
 email: 
 site: http://twitter.com/aloxecorton
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: guillard
 email: 
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Désolé En manque d'information mais je ne peux pas dire grand chose sur ce sujet... peut-être cette page :<br />

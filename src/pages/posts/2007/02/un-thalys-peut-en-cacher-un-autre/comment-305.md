@@ -4,6 +4,7 @@ author: kerdekel
 email: kerdekel@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>A propos de déguisements, je faisai des ptites recherches sur la commedia dell'arte sur wikipedia et de fil en aiguille, je suis tombée (après avoir lu la page des masques puis des carnavals et bals masqués) sur cette page:<br />

@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p>J'ai appris hier sur Wikipedia que ce mot avait une traduction française : Pilarisation. <br />

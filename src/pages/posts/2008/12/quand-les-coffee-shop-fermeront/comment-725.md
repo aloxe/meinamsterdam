@@ -4,6 +4,7 @@ author: mr-finch
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour, j'ai trouver ce forum francais et je souhaiterais avoir quelques renseignements, partent en hollande pour les grandes vacances. Je souhiaterai simplement connaitre les coffees-schop qui sont suseptible de me fournir mes 5g d'herbes sans pour autant consommer sur place, (je la fume roulée au tabac), les herbes les meilleures en rapport qualité prix selon ces coffees, et bien sur d'après vos expériences.<br />

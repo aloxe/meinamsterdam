@@ -4,6 +4,7 @@ author: amb
 email: 
 site: http://www.ambafrance.nl/article.php?id_article=7821
 tags: comment
+permalink: false
 ---
 
 <p>

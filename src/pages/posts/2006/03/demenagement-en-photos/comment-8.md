@@ -4,6 +4,7 @@ author: PoL N.
 email: 
 site: http://www.radio-narden.be
 tags: comment
+permalink: false
 ---
 
 <p><a href="/images/photos/2006-03/inventaire-cartons.jpg" title="inventaire-cartons.jpg" rel="nofollow">.../inventaire-cartons.jpg</a><br />

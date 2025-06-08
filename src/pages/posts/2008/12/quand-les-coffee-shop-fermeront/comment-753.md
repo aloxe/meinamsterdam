@@ -4,6 +4,7 @@ author: Peche
 email: marion---v@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je suis francais je pars a mass le 10 aout est ce que je pourrai acceder au coffee shop ? me poser ? acheter ? fumer ??????<br />

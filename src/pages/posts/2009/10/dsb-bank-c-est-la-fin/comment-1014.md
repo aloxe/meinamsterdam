@@ -4,6 +4,7 @@ author: Damien
 email: damien@rtbf.be
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Les belges aussi sont touchés par la Faillite de DSB<br />

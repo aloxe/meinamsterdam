@@ -4,6 +4,7 @@ author: Drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>Sinon, je me suis déjà pris en photo depuis le haut de ce parking, Il faut monter mais la vue y vaut le détour.</p>

@@ -4,6 +4,7 @@ author: Baloux
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>je part normalement la semaine pro sur mass jespere que tout et ouvert pour me faire plaisir pour la 1ere fois que jy vais.<br />

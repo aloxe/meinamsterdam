@@ -4,6 +4,7 @@ author: ST ART
 email: st-artgallery@blog.re
 site: https://st-artgallery.nl
 tags: comment
+permalink: false
 ---
 
 <p>le dessin s'appelle Banned Frank et il existe une peinture avec le keffieh vert. A vendre € 1.500,00.</p>

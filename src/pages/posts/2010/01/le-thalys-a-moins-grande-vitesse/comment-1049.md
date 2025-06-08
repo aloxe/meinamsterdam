@@ -4,6 +4,7 @@ author: Bundy_al01
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je fais l'aller-retour Paris Amsterdam une fois par semaine depuis plus d'un an. Je ne pense pas exagérer en disais que le train est en retard 8 fois sur 10 mais tout dépend de ce que l'on entend par retard.<br />

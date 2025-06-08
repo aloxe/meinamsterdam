@@ -4,6 +4,7 @@ author: RV
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p><br />

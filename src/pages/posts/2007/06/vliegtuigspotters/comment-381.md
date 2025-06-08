@@ -4,6 +4,7 @@ author: flightlog
 email: 
 site: http://www.airfleets.net/flightlog/?file=result&amp;opp=KLM
 tags: comment
+permalink: false
 ---
 
 <p>

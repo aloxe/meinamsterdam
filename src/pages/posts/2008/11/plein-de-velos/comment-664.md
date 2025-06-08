@@ -4,6 +4,7 @@ author: elo
 email: eloise.braets@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Très beaux croquis et très instructif d'avoir les noms en hollandais!<br />

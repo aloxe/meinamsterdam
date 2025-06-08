@@ -4,6 +4,7 @@ author: Romain
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ils font quoi ces 4 expatriés ? Ils ont des sites, des sociétés, ils travaillent dans quel secteur ? Simple curiosité... </p>

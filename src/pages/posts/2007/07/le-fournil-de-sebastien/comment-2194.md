@@ -4,6 +4,7 @@ author: milien
 email: milien@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>par milien ,<br />

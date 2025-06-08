@@ -4,6 +4,7 @@ author: AP
 email: 
 site: http://fr.news.yahoo.com/11112006/5/dans-l-arkansas-un-candidat-obtient-zero-voix-meme-pas.html
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: Nordique
 email: daploca@yahoo.ca
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour!<br />

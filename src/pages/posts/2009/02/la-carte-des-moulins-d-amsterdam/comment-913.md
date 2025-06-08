@@ -4,6 +4,7 @@ author: drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>J'ai quelques photos de ces moulins sur mon blog, voyez plutôt:<br />

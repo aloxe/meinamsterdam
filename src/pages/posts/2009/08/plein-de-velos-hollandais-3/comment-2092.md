@@ -4,6 +4,7 @@ author: alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Ouahou, Blankenberge, ça me rappelle des souvenirs pas très reluisants de l'époque où je pensais qu'on pouvait parler français partout en Belgique…</p>

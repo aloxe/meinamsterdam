@@ -4,6 +4,7 @@ author: Les Déboussolés
 email: deboussoles@gmail.com
 site: http://les-deboussoles.over-blog.com/
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

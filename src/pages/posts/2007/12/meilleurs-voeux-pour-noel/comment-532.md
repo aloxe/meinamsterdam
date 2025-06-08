@@ -4,6 +4,7 @@ author: Ofo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Un Joyeux Noël aux Français exilés à Amsterdam !!</p>

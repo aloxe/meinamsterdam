@@ -4,6 +4,7 @@ author: Stam jaap 31
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour a tous<br />

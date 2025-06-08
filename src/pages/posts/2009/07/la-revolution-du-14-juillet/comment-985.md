@@ -4,6 +4,7 @@ author: bakchich
 email: 
 site: http://www.bakchich.info/
 tags: comment
+permalink: false
 ---
 
 <p>Pendant ce temps là le budget de l'Élysée explose<br />

@@ -4,6 +4,7 @@ author: Blogexpat
 email: blogexpat@blogexpat.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

@@ -4,6 +4,7 @@ author: Rolang
 email: rolang@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p><br />

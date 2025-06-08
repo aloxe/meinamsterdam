@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Sur la pub on peut lire le titre &quot;Déjà 3 millions mais chacun est unique&quot; mais qu'est-ce qui est écrit sur les yeux des 3 personnages en photo ?<br />

@@ -16,8 +16,8 @@ const crypto = require('crypto');
 // sizes and formats of resized images to make them responsive
 // it can be overwriten when using the "Picture" short code
 const Images = {
-  WIDTHS: [426, 460, 580, 768, 1200], // sizes of generated images
-  FORMATS: ['webp', 'jpeg'], // formats of generated images
+  WIDTHS: [426], // WIDTHS: [426, 460, 580, 768, 1200], // sizes of generated images
+  FORMATS: ['jpeg'], // ['webp', 'jpeg'], // formats of generated images
   SIZES: '(max-width: 1200px) 70vw, 1200px' // size of image rendered
 }
 
@@ -68,7 +68,6 @@ module.exports = async function(eleventyConfig) {
   // generate responsive images from Markdown
   mdLib.renderer.rules.image = (tokens, idx, options, env) => {
 
-
     if (Object.keys(env).length === 0) {
       return ""; //"<!--"+ tokens[idx].attrGet('src') + "-->";
     }
@@ -118,7 +117,6 @@ module.exports = async function(eleventyConfig) {
   // add nunjunk filter
   eleventyConfig.addFilter("date", function(dateObj) { 
     if (dateObj) {
-      console.log(dateObj);
       const formatter = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Amsterdam", dateStyle: "full" });
       return formatter.format(dateObj);
     } else {
@@ -233,7 +231,7 @@ module.exports = async function(eleventyConfig) {
 
     const ImgOptions = getImgOptions(page, src, "", "", [600], ["webp"], undefined);
     const metadata = await Image(imgSrc, ImgOptions)
-    console.log("RETURN image " + metadata.webp[0].url);
+    // console.log("RETURN image " + metadata.webp[0].url);
     
     return metadata.webp[0].url
   })
@@ -263,7 +261,7 @@ module.exports = async function(eleventyConfig) {
 }; // end config
 
 function htmlminTransform(content, outputPath) {
-  if( outputPath.endsWith(".html") ) {
+  if(outputPath && outputPath.endsWith(".html") ) {
     let minified = htmlmin.minify(content, {
       useShortDoctype: true,
       removeComments: true,
@@ -311,6 +309,7 @@ const stringifyAttributes = (attributeMap) => {
   }
 
   const getImgOptions = (page, src, alt, className, widths, formats, sizes) => {
+    if (!page.outputPath) return;
     let outputFolder = page.outputPath.slice(0, page.outputPath.lastIndexOf('/')+1) // remove index.html
     
     let urlPath = outputFolder.split("/")

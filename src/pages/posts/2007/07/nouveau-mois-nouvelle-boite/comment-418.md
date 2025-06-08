@@ -4,6 +4,7 @@ author: Jul
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bon courage pr le nouveau taffe ;)</p>

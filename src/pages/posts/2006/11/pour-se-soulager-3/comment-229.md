@@ -4,6 +4,7 @@ author: Amphet
 email: 
 site: http://www.ampnet.co.uk/femorabilia/pee_standing.html
 tags: comment
+permalink: false
 ---
 
 <p>

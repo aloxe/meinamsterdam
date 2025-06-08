@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p>Un collègue vient de me demander comment demander compensation à Thalys, j'ai oublié d'undiquer ou se trouvait le formulaire en ligne à mes lecteurs. Vaut mieux tard que jamais:<br />

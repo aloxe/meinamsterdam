@@ -4,6 +4,7 @@ author: Harrtmut Seidler
 email: Harrtmut@Seidler.de
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>&nbsp;&nbsp;&nbsp; Sehr geehrter Herr<br />

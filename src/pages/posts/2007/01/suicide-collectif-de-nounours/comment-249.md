@@ -4,6 +4,7 @@ author: la hienne
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>est-ce vraiment un suicide ?<br />

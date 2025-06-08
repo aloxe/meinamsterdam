@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>je m'interroge : pourquoi les pays-bas sont-ils si peu intéressés par le logiciel libre ?<br />

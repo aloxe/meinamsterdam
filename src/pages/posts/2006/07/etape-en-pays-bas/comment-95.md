@@ -4,6 +4,7 @@ author: Blague
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <!-- http://www.mort2rire.com -->

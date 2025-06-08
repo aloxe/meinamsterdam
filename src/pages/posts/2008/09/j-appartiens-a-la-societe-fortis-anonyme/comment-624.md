@@ -4,6 +4,7 @@ author: Tuxboard etc.
 email: 
 site: http://www.tuxboard.com/?300000-euros-en-piece-de-1-cent-d-euro-a-amsterdam
 tags: comment
+permalink: false
 ---
 
 <p>

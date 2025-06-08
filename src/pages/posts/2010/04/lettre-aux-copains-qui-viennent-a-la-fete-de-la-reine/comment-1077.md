@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>En plus de ça, nous sommes invités à une gig à 4000m de là ou votre bateau est parqué<br />

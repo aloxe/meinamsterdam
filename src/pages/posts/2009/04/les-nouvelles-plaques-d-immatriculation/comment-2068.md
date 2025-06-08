@@ -4,6 +4,7 @@ author: Marc
 email: mrcfrncs@yahoo.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

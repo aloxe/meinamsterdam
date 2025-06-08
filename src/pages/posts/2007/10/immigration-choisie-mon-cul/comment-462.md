@@ -4,6 +4,7 @@ author: Africa in the Dutch press
 email: 
 site: http://www.bureauafrique.nl/autresdepartements/africa/pressreview/africainthedutchpress240907
 tags: comment
+permalink: false
 ---
 
 <p>

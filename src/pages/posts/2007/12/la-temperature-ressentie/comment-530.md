@@ -4,6 +4,7 @@ author: Ruben
 email: ruben@verweg.com
 site: http://ruben.is.verweg.com/blog/
 tags: comment
+permalink: false
 ---
 
 <p>Il fait froid! Il est temps pour les photos Anton Pieck!<br />

@@ -4,6 +4,7 @@ author: Mister T
 email: 
 site: http://www.flickr.com/photos/mister_tee/
 tags: comment
+permalink: false
 ---
 
 <p>

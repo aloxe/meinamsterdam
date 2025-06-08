@@ -4,6 +4,7 @@ author: marianne
 email: mary1331@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

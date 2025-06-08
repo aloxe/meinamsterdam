@@ -4,6 +4,7 @@ author: Marc
 email: marc@marcdouville.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

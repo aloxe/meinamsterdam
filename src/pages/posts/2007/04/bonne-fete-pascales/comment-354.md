@@ -4,6 +4,7 @@ author: katrintje
 email: catylaf@yahoo.fr
 site: http://catherinewelog.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>En fait nous devons nous croiser tous les dimanches. <br />

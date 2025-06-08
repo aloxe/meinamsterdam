@@ -4,6 +4,7 @@ author: meinAmsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/
 tags: comment
+permalink: false
 ---
 
 <p>Super, ta remarque va me permettre de faire un nouvel article avec des timbres néerlandais au design si particulier.</p>

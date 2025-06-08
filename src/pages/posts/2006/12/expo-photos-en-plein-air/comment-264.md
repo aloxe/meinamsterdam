@@ -4,6 +4,7 @@ author: Ambassade
 email: 
 site: http://www.ambafrance.nl/article.php?id_article=3149
 tags: comment
+permalink: false
 ---
 
 <p>Il y a aussi un article sur cette expo ici :<br />

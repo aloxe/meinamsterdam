@@ -4,6 +4,7 @@ author: Sabine
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Pas mal, pas mal ! Je suis morte de rire.<br />

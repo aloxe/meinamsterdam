@@ -4,6 +4,7 @@ author: "? Carmen ?"
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Il y en a pourtant d'autre des maison avec des jolies couleurs vives a Amsterdam<br />

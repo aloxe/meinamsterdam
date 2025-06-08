@@ -4,6 +4,7 @@ author: AT5
 email: 
 site: http://tip.at5.nl/2007/10/05/hondenhok/
 tags: comment
+permalink: false
 ---
 
 <p>Hondenhok Hier:<br />

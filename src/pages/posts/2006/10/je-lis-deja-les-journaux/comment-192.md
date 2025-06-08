@@ -4,6 +4,7 @@ author: Ninouki
 email: 
 site: http://www.ninamsterdam.canalblog.com/
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix,<br />

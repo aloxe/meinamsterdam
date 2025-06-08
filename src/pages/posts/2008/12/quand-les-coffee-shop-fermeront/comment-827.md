@@ -4,6 +4,7 @@ author: Poppy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Mise à jour [décembre 2011]. Rien de changé pour les touristes à Amsterdam<br />

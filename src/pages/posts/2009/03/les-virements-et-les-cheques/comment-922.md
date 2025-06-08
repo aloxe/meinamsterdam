@@ -4,6 +4,7 @@ author: wanguard2D
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>En France :<br />

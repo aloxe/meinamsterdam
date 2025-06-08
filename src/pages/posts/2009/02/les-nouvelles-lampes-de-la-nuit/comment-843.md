@@ -4,6 +4,7 @@ author: FilleAinee
 email: 
 site: http://damebrunehilde.canalblog.com
 tags: comment
+permalink: false
 ---
 
 <p>une fois j'ai eu 20 euros d'amende parce que ma lumière CLIGNOTAIT !!! pffff ...<br />

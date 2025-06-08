@@ -4,6 +4,7 @@ author: wallonien
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour ou bonsoir à tous.<br />

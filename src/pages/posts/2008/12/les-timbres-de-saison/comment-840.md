@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <a name="areva" id="areva"></a>

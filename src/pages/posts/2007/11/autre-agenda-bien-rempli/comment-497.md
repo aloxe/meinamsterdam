@@ -4,6 +4,7 @@ author: Alix
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Hey les copains. Moi aussi je m'appelle Alix... et j'ai vécu à Duivendrecht. C'est fou non ?</p>

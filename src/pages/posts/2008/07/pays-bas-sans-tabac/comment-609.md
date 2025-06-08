@@ -4,6 +4,7 @@ author: Presse néerlandaise
 email: 
 site: http://www.ambafrance-nl.org/spip.php?article10337
 tags: comment
+permalink: false
 ---
 
 <p>

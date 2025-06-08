@@ -4,6 +4,7 @@ author: BRYAN
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>FERMER LES COOFEE PUISKE FERMER VOUS PLAIT,LA CONSOMATION NE SE FERA PLUS LA, MAIS DANS LA RUE ,LECHANGE,TRAFFIC,<br />

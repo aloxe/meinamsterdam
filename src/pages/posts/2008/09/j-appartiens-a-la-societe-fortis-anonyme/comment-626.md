@@ -4,6 +4,7 @@ author: St?phane Bortzmeyer
 email: stephane+blogre@bortzmeyer.org
 site: http://www.bortzmeyer.org/
 tags: comment
+permalink: false
 ---
 
 <p>Attention , depuis peu, ton serveur Web annonce :<br />

@@ -4,6 +4,7 @@ author: Stéphane Bortzmeyer
 email: stephane+me-amsterdam@bortzmeyer.org
 site: http://www.bortzmeyer.org/
 tags: comment
+permalink: false
 ---
 
 <p>Félicitations et bonne chance (je ne sais pas le dire en néerlandais).<br />

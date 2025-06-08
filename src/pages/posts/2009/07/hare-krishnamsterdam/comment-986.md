@@ -4,6 +4,7 @@ author: cosmoreyez
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Michael jackson flashmob amsterdam vs hare krishna<br />

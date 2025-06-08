@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Excellent, cet article signalé par Sabine.<br />

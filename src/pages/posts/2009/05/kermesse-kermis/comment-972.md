@@ -4,6 +4,7 @@ author: Elisa
 email: elisanievas@gmail.com
 site: http://www.elisaorigami.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>Tu as ajouté une belle photo. J´ai trouvé ton blog par hasard. Je vais le suivre.<br />

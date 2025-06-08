@@ -4,6 +4,7 @@ author: Laurent C
 email: moi@laurentchambon.com
 site: http://laurentchambon.blogspot.com/
 tags: comment
+permalink: false
 ---
 
 <p>

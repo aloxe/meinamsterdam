@@ -4,6 +4,7 @@ author: Kameo
 email: Kameo@to.to
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci beaucoup pour ces explications! Je vais pouvoir prendre le portable sans avoir à dépenser 1 pour des adaptateurs.<br />

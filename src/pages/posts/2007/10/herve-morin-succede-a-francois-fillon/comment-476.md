@@ -4,6 +4,7 @@ author: christophe
 email: 
 site: http://www.liberation.fr/actualite/monde/289127.FR.php
 tags: comment
+permalink: false
 ---
 
 <p>

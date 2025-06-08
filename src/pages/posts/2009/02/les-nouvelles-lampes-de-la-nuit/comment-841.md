@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Je ne peux pas m'empêcher de commenter ; tu connais ma passion pour le vélo ;-)<br />

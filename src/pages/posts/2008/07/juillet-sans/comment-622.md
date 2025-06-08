@@ -4,6 +4,7 @@ author: El ambassador
 email: 
 site: http://www.ambafrance.nl/
 tags: comment
+permalink: false
 ---
 
 <p>

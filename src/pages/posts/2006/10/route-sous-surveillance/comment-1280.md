@@ -4,6 +4,7 @@ author: André
 email: mail@buzio.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>C'est pas une DS que je vois en dessous du panneau ?</p>

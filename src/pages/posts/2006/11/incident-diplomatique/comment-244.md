@@ -4,6 +4,7 @@ author: maggy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je crois savoir de qui il s'agit,le defenseur de la cause palestinienne est en<br />

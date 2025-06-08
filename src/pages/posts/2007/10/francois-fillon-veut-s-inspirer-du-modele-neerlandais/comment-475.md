@@ -4,6 +4,7 @@ author: Ambassade de France
 email: 
 site: http://www.ambafrance.nl/article.php?id_article=8969
 tags: comment
+permalink: false
 ---
 
 <p>Rencontre Jan Peter Balkenende et François Fillon<br />

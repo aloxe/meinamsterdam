@@ -4,6 +4,7 @@ author: pm
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ca veut dire quoi des &quot;sacs d'arabe&quot;?<br />

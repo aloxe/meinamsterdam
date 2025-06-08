@@ -4,6 +4,7 @@ author: Loïg
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>normalement 2012 , tout les coffees seront interdit pour les étrangers :<br />

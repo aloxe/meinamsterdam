@@ -4,6 +4,7 @@ author: MOI
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>A quoi sert un moulin ?</p>

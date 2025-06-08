@@ -4,6 +4,7 @@ author: Stadstoezicht
 email: 
 site: http://www.stadstoezicht.amsterdam.nl/
 tags: comment
+permalink: false
 ---
 
 <p>

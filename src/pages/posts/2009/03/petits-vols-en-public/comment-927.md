@@ -4,6 +4,7 @@ author: kerdekel
 email: kerdekel@gmail.com
 site: http://blog.virgule.info
 tags: comment
+permalink: false
 ---
 
 <p>Pas besoin de rajouter &quot;de train&quot;, tu peux dire carrément que Voyages-Sncf est un des sites les plus pourris au mondes, tous domaines confondus, je pense. ;)<br />

@@ -4,6 +4,7 @@ author: Christel
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Au fait, j ai vu que tu avais change de boulot, c est interessant ??<br />

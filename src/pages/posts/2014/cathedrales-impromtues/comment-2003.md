@@ -4,8 +4,9 @@ author: alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
+Super référence Gallixa, il y en a même des noirs et blanc disponibles en ligne. J'adore le design de ces plans, en noir et blanc ça en jette encore plus. On peut comprendre l'obsession de **Marinus Boezem** pour ce dessin à l'équilibre parfait. Tiens, en voilà un exemple pour la peine.
 
-<p>Super référence Gallixa, il y en a même des noirs et blanc disponibles en ligne. J'adore le design de ces plans, en noir et blanc ça en jette encore plus. On peut comprendre l'obsession de <strong>Marinus Boezem</strong> pour ce dessin à l'équilibre parfait. Tiens, en voilà un exemple pour la peine.</p>
-<p><br /><img alt="monuEglise5" src="monuEglise5.gif" /></p>
+![monuEglise](monuEglise5.gif)
 ---

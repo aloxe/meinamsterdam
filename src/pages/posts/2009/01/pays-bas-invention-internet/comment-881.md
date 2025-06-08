@@ -4,6 +4,7 @@ author: Michiel Leenaars
 email: 
 site: http://isoc.nl/
 tags: comment
+permalink: false
 ---
 
 Dear Alix,

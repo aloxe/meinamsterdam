@@ -4,6 +4,7 @@ author: Elvis
 email: 
 site: http://blog.re/elvis
 tags: comment
+permalink: false
 ---
 
 <p>Moi je dis au contraire, ils ont bien fait. T'es un ouf alix, un ouf dangereux</p>

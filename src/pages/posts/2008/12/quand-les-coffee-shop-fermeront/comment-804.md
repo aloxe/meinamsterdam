@@ -4,6 +4,7 @@ author: dodol
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>aux dernieres nouvelles toujours aucun problemes pour les coffees. l'accès pour les étrangers est toujours autorisé.<br />

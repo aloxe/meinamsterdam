@@ -4,6 +4,7 @@ author: mimi du val
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>&nbsp;&nbsp;&nbsp; il y en a qui font de la publicité mensongère pour des raisons qui leur sont personnelles.Peut-être des concurrents d'ailleurs....<br />

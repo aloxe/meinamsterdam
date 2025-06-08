@@ -4,6 +4,7 @@ author: subprimes
 email: b5sigma@yahoo.fr
 site: http://www.chermou.org
 tags: comment
+permalink: false
 ---
 
 <p>Crise des subrimes : une explication simple pour ceux qui essaient encore de comprendre.<br />

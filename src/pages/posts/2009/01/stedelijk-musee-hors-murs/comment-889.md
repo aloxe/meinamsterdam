@@ -4,6 +4,7 @@ author: lulu
 email: avearahi@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour toutes ces infos. Mais où peut-on trouver les infos des expos actuelles en anglais ?<br />

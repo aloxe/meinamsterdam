@@ -4,6 +4,7 @@ author: alain64
 email: alain.barbedette@wanadoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

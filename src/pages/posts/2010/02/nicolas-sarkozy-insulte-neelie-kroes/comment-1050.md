@@ -4,6 +4,7 @@ author: philippe
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ce qui est grave c'est cette commissaire européenne capable de faire plier un gourvenement<br />

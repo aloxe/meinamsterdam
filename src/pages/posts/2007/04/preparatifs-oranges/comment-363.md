@@ -4,6 +4,7 @@ author: François
 email: 
 site: http://www.bayrou.fr/
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: Laurent Chambon
 email: laurentchambon@gmail.com
 site: https://fr.wikipedia.org/wiki/Laurent_Chambon
 tags: comment
+permalink: false
 ---
 
 <p><em>Je reproduis ici, l'histoire des vélos Kronan par Laurent Chambon sur son blog Kreukreuscopie qui a depuis disparu</em></p>

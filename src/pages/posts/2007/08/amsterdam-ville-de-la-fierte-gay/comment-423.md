@@ -4,6 +4,7 @@ author: Rico From TRIVAGO
 email: dallasmo200@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci à vous pour cette petite description sur la Gay Attitude d'Amsterdam :)) C'est sympa à vous d'en souligner l'attrait :)) Bonne continuation à vous<br />

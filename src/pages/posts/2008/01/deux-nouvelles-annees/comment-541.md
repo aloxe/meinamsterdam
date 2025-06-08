@@ -4,6 +4,7 @@ author: jb
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>eh eh Aloxe, on se boit du Corton ? Faut vraiment que je vienne aux NL... Dès que j'ai ma moto, je prépare une excursion... je t'informe si on peut se voir ?<br />

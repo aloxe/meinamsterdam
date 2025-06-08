@@ -4,6 +4,7 @@ author: bobby69
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>kaporal  arête de craquer  avec tes délires d'ado attardé.<br />

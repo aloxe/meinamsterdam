@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Tu veux donner un coup de main pour la peinture ? Je sais que tu sais faire...<br/>

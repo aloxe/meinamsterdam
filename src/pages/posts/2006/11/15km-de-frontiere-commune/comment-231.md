@@ -4,6 +4,7 @@ author: pwi
 email: 
 site: http://www.leforum.nl/phpBB/viewtopic.php?f=5&amp;t=1462&amp;p=276316#p276316
 tags: comment
+permalink: false
 ---
 
 <p><a href="http://fr.wikipedia.org/wiki/Saint-Martin_(%C3%AEle)" title="http://fr.wikipedia.org/wiki/Saint-Martin_(%C3%AEle)" rel="nofollow">fr.wikipedia.org/wiki/Sai...</a><br />

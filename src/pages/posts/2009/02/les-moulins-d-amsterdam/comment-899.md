@@ -4,6 +4,7 @@ author: Rachel
 email: rachel@mespetitsbonheurs.com
 site: http://www.mespetitsbonheurs.com
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour ce répertoire très détaillé.<br />

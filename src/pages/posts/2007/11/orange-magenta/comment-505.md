@@ -4,6 +4,7 @@ author: freemagenta
 email: 
 site: http://www.freemagenta.nl/
 tags: comment
+permalink: false
 ---
 
 <div style="top:-80px; right:0px; position:absolute;">

@@ -4,6 +4,7 @@ author: Alexx87
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

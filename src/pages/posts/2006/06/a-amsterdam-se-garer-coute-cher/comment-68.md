@@ -4,6 +4,7 @@ author: freeamsterdam
 email: me-in-amsterdamblog@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Tip gratis parkeren: in Amstelveen bij metrohalte uilenstede in de buurt, gratis, paar haltes onder Amsterdam (via @ruudschilders) </p>

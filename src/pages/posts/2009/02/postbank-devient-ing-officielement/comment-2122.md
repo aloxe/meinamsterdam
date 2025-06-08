@@ -4,6 +4,7 @@ author: Tanguy
 email: tanguy@lelionbleu.nl
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>les services informatiques sont fusionnes depuis presque 2 ans mois mais les systemes restaient jusqu'à present separes. Le but de l'operation informatique est de reutiliser tous les systemes de Postabnk (300 applications) et de les adapter de maniere a ce que les numeros de banques de 9 caractereres (comme ING) puissent etre acceptes (du coup le numeros de Giro de 7 caracteres sont passes a 9 caractère aussi). C'est une toute petite modif qui mobilisent 1500 personnes<br />

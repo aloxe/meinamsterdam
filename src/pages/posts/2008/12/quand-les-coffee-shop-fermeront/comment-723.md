@@ -4,6 +4,7 @@ author: monsy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>un ptit boloss j'adore :')</p>

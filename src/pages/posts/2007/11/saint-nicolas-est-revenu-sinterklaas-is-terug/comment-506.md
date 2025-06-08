@@ -4,6 +4,7 @@ author: Jap
 email: 
 site: http://tip.at5.nl/2007/11/18/sinterklaas-op-de-nieuwe-herengracht/
 tags: comment
+permalink: false
 ---
 
 <p>Il y a aussi le reportage sur Sinterklaas dans Amsterdam sur AT5<br />

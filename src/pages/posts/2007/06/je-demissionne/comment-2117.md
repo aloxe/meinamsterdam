@@ -4,6 +4,7 @@ author: Jeroen
 email: jeroen@blink.nl
 site: 
 tags: comment
+permalink: false
 ---
 
 Tu as vue?

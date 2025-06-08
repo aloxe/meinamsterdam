@@ -4,6 +4,7 @@ author: Yannick
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>J'espere qu'ils n'utiliseront pas ces vieilles rames de metro, inconfortables, qui datent des annees 70.<br />

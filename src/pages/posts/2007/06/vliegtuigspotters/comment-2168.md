@@ -4,6 +4,7 @@ author: Airbus
 email: airbus@airbus.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Est ce qu'à Schiphol on voit passer des Airbus Beluga comme à Toulouse?</p>

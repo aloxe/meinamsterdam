@@ -4,6 +4,7 @@ author: lolo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>le 7 fevrier j'y eté et tout les coffee etaient encore ouvert :)</p>

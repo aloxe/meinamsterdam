@@ -4,6 +4,7 @@ author: El A-rab
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>APA = Algemene Plaatselijke Verordening<br />

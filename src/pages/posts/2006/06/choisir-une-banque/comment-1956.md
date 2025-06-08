@@ -4,6 +4,7 @@ author: Elena
 email: elenacastia0772@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Excellent blog ! J'ai beaucoup aimé votre article et surtout celui ci sur les printemps oranges ! :)<br />

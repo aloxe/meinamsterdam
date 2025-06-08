@@ -22,7 +22,7 @@ Plusieurs fois transformé pour acceuillir plus de monde ou de nouvelles compét
 
 
 <!-- HTML -->
-<table align="center" border="0"><tr<td>
+<table align="center" border="0"><tr><td>
 <!-- / HTML -->
 [![http://farm4.static.flickr.com/3013/2658746090_e030ba4c47_m.jpg](foot et vélo){.center}](http://www.flickr.com/photos/13274211@N00/2658745992/)
 <!-- HTML -->

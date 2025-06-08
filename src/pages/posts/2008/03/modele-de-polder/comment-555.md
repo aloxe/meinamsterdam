@@ -4,6 +4,7 @@ author: AFP
 email: 
 site: http://www.lesechos.fr/info/inter/afp_00058189.htm
 tags: comment
+permalink: false
 ---
 
 <p>

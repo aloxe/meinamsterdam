@@ -4,6 +4,7 @@ author: alix guillard
 email: alix@guillard.fr
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Oui et même que certaines photo de moi son publiées dans le tas, voir par exemple ici:<br />

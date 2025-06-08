@@ -4,6 +4,7 @@ author: Didier
 email: 
 site: http://www.eurotopics.net/fr/presseschau/autorenindex/autor_burg_didier/
 tags: comment
+permalink: false
 ---
 
 <p>

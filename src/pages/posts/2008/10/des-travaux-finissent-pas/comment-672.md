@@ -4,6 +4,7 @@ author: al
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>L'appartement est maintenant en vente ici:<br />

@@ -4,6 +4,7 @@ author: barboz
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>ou as tu achetez cet adaptateur?<br />

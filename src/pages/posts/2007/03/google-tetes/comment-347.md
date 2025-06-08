@@ -4,6 +4,7 @@ author: Olivier
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

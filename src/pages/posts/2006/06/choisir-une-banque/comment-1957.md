@@ -4,6 +4,7 @@ author: meinamsterdam
 email: meinamsterdam@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Oui Hervé, c'est un très bon choix le logo Zarbi, c'est là que je suis allé une fois que <a href="/postbank-devient-ing-officielement" title="Postbank devient ING">la Postbank a disparu</a>.&nbsp;</p>

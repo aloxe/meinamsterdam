@@ -4,6 +4,7 @@ author: Léon Bloem
 email: 
 site: http://www.estherenleon.nl/2004/04/bloemen_bloemen.html
 tags: comment
+permalink: false
 ---
 
 <p>

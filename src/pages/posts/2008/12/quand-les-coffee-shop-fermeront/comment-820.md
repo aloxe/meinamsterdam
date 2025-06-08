@@ -4,6 +4,7 @@ author: le ch'ti
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>salut !!<br />

@@ -4,6 +4,7 @@ author: Cleo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour,<br />

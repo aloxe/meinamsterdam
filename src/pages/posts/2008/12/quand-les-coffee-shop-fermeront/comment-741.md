@@ -4,6 +4,7 @@ author: groumpfinet
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Pourquoi vous limiter à Amsterdam ou Maastricht ? Visitez la Hollande ! N'y allez pas QUE pour vous péter la tronche, il y a tant de belles choses à voir.<br />

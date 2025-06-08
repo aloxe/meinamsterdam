@@ -4,6 +4,7 @@ author: drooderfiets
 email: drooderfiets@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

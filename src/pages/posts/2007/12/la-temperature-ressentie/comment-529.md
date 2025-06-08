@@ -4,6 +4,7 @@ author: jb
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>touriste ! Vraiment, après un an et demi tu en est encore à ces galipettes photographiques... <br />

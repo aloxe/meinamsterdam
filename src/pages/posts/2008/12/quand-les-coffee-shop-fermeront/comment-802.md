@@ -4,6 +4,7 @@ author: monsy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>putin mais les mecs arrêter de trop fumer. ouvrez les yeux j'ai posté  <br />

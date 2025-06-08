@@ -4,6 +4,7 @@ author: Math
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

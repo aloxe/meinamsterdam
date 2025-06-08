@@ -4,6 +4,7 @@ author: bob chelou
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>tout à fait d'accord avec toi vincent.<br />

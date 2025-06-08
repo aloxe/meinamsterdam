@@ -4,6 +4,7 @@ author: Sasa
 email: Sasa@to.to
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Nickel ! Je pars ce soir à Amsterdam, ça me rassure =p !!</p>

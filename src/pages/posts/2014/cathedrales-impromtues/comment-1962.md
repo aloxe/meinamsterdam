@@ -4,6 +4,7 @@ author: gallixa
 email: gallica@blog.re
 site: http://gallica.bnf.fr/
 tags: comment
+permalink: false
 ---
 
 Pour info, le plan de la cathédrale de Reims, ça ressemble à ça :

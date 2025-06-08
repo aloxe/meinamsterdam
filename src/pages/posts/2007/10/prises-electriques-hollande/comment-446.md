@@ -4,6 +4,7 @@ author: lara
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>merci beaucoup<br />

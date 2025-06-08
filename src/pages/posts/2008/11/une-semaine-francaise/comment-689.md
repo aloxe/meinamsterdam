@@ -4,6 +4,7 @@ author: meinamsterdam.nl
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl
 tags: comment
+permalink: false
 ---
 
 <p>

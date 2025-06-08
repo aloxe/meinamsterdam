@@ -4,7 +4,7 @@ author: mathfontaine
 email: 
 site: 
 tags: comment
+permalink: false
 ---
-
-<p>Ca à l'air sympa!! j'espère que j'aurai l'occasion de visiter à l'ascension!!</p>
+Ca à l'air sympa!! j'espère que j'aurai l'occasion de visiter à l'ascension!!
 ---

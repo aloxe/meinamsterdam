@@ -4,6 +4,7 @@ author: Laurent
 email: moi@laurentchambon.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je suis si triste que les PB soient éliminés autant pour cette sympathique équipe que pour son talentueux sélectionneur. Je suis certain qu'on les retrouvera en bonne position pour le prochain Mondial (malheureusement sans Van der Sar qui vient de prendre sa retraite internationale...).<br />

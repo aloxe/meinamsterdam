@@ -4,6 +4,7 @@ author: jdbouvier
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

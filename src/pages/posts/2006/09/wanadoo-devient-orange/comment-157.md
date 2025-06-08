@@ -4,6 +4,7 @@ author: reunion
 email: 
 site: http://www.reunionweb.org/
 tags: comment
+permalink: false
 ---
 
 <p>

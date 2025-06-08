@@ -4,6 +4,7 @@ author: denkrahm
 email: 
 site: http://www.flickr.com/photos/station_nord/186985813/
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: Lalo
 email: pitite_angele@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>quelle nourriture aimerais tu voir arrivée en France?<br />

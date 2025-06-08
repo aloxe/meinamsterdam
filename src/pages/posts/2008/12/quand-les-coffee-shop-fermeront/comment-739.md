@@ -4,6 +4,7 @@ author: tek
 email: tekfrank@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

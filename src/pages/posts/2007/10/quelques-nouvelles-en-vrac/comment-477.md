@@ -4,6 +4,7 @@ author: Laurent
 email: moi@laurentchambon.com
 site: http://www.cherryjuicerecordings.com
 tags: comment
+permalink: false
 ---
 
 <p>J'ai été à l'ADE... et on a gagné un concours avec notre chanson &quot;Motion&quot;, choisie par Kevin Saunderson et Dave Clarke comme la meilleure. Fabuleux, non?<br />

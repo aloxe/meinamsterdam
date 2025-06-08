@@ -4,6 +4,7 @@ author: Christian
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Alix est le Vliegtuigspotterspotter...</p>

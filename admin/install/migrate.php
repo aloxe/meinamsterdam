@@ -29,7 +29,9 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 15";
 // $sql = "SELECT *  FROM dc_post WHERE post_id = 108";
 // $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
-$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 101 AND 300";
+// $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 101 AND 300";
+// $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 301 AND 500";
+$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 301 AND 500";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {

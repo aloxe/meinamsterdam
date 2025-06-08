@@ -4,6 +4,7 @@ author: Laurent
 email: 
 site: http://laurentchambon.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <h3><a href="http://laurentchambon.blogspot.com/2008/03/endroits-indispensables-pour-survivre.html">Les endroits indispensables pour survivre dans le Pijp</a></h3>

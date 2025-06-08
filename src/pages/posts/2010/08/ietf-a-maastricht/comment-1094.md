@@ -4,6 +4,7 @@ author: Hervé,
 email: renault.herve@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix,<br />

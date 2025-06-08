@@ -4,6 +4,7 @@ author: Et pendant ce temps...
 email: 
 site: http://eucd.info
 tags: comment
+permalink: false
 ---
 
 Et pendant ce temps le DADVSI est voté à la va vite la veille des vacances...

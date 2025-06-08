@@ -4,6 +4,7 @@ author: chryst
 email: thorfenn@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>franchement , que de boulot.<br />

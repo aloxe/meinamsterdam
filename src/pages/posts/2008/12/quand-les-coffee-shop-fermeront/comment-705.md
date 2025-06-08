@@ -4,6 +4,7 @@ author: monsy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour, j'était venu ici dans l'espoir de savoir si la loi concernant la vente dans les coffee shop <br />

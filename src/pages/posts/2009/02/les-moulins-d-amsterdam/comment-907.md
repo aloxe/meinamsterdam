@@ -4,6 +4,7 @@ author: toiture innov
 email: toiture.innov@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>je ne sais pas quels materiaux de toiture sont utilisés pour ces moulins????<br />

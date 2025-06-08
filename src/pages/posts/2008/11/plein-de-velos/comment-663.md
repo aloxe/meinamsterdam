@@ -4,6 +4,7 @@ author: Thomas
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Très sympa ce blog !<br />

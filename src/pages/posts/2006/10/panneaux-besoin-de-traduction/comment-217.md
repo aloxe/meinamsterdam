@@ -4,6 +4,7 @@ author: Babelfish
 email: 
 site: http://world.altavista.com
 tags: comment
+permalink: false
 ---
 
 <p>1 : ...openlijk exposer, à offrir ou a apporter... <br />

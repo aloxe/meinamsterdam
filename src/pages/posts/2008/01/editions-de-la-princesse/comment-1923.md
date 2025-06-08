@@ -4,6 +4,7 @@ author: Alix Guillard
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Ça fait un bail tout ça, depuis je ne bosse plus dans cette boite mais c'est toujours utile de la connaitre...</p>

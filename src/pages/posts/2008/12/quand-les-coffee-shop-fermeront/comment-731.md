@@ -4,6 +4,7 @@ author: pierro transfontalier
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bj a tous,<br />

@@ -4,6 +4,7 @@ author: Ambassade de France
 email: 
 site: http://www.ambafrance.nl
 tags: comment
+permalink: false
 ---
 
 <p>

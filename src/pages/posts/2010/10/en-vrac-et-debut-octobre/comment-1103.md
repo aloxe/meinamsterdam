@@ -4,6 +4,7 @@ author: Huayingdebaba
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je pense que ça a chauffé. Me trouvant dans le Jordaan samedi soir, je me suis trouvé entre les krakers et la Police.<br />

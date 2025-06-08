@@ -4,6 +4,7 @@ author: Valoue
 email: serial_val27@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour je viens de lire la plupart des com's et voila moi ayant 17 ans et voulant grandement visiter amsterdam j'ai decider apres avoir acquis ma majoriter pour l'acces au coffee-shop .<br />

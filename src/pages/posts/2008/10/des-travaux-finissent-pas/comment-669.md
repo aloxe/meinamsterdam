@@ -4,6 +4,7 @@ author: La maman d'Adrien
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ben dis donc ... ça me rappelle vaguement les travaux à &quot;Maraîchers&quot; !<br />

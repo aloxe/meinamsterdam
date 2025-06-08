@@ -4,6 +4,7 @@ author: Carelitto
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Les gens, j'ai été a maas cette semaine comme d'ab et j'ai demander au personnel du Lucky <br />

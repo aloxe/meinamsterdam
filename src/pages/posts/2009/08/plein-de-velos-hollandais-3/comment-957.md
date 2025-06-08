@@ -4,6 +4,7 @@ author: a_velo
 email: w@vermeulen.tv
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

@@ -4,6 +4,7 @@ author: gg
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Alors quel qu un a il été recament a mass??<br />

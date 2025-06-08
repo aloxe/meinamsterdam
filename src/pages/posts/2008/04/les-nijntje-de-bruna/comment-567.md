@@ -4,6 +4,7 @@ author: mickael
 email: ibiza095@caramail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut,<br />

@@ -4,6 +4,7 @@ author: ChevignoN
 email: ChevignoN@example.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci =)<br />

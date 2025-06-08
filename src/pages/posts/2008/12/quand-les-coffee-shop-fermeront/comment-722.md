@@ -4,6 +4,7 @@ author: adman
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>tiboloss!!!!</p>

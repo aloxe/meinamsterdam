@@ -4,6 +4,7 @@ author: mali
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonsoir je voulais savoir , je vis en france , et j'ai une carte de sejour je suis malien je pourrais aller dans les coffee pour les fetes de fin d'anné ??</p>

@@ -4,6 +4,7 @@ author: me in Amsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/les-enfants-de-sloten
 tags: comment
+permalink: false
 ---
 
 <!-- TB -->

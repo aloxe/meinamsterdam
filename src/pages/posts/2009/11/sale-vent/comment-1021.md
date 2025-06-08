@@ -4,6 +4,7 @@ author: radned
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>AD runs front-page pictures of the chaos caused by what it calls yesterday's autumn storm that raced across the country. In one photo, scaffolding, four storeys high, is shown torn from a block of flats by the high winds in Hoogeveen. In another, the rear section of a juggernaut lorry hangs precariously over a ditch having been blown from a road in Zwartsluis.<br />

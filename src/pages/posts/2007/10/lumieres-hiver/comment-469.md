@@ -4,6 +4,7 @@ author: Politie
 email: 
 site: http://www.politieamsterdam.nl/frameset/
 tags: comment
+permalink: false
 ---
 
 <p><br />

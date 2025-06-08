@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 **Et zut, en plus la NS m'avait prévenu, en triant mes mails j'ai vu que j'avait un message du 1er octobre me parlant de cette journée test**

@@ -4,6 +4,7 @@ author: rootsmax
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>salut a tous et toutes<br />

@@ -4,6 +4,7 @@ author: Anne-Vicky
 email: annevicky.carlier@gmail.com
 site: http://annevickycarlier.blogspot.com/
 tags: comment
+permalink: false
 ---
 
 <p>As-tu essayé de chercher OM dans Google (version hollandaise) <br />

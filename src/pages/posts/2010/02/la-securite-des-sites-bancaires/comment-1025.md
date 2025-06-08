@@ -4,6 +4,7 @@ author: thorfenn
 email: thorfenn@yahoo.fr
 site: http://www.aleuredelinformatique.com
 tags: comment
+permalink: false
 ---
 
 <p>chiffrer assez fortement c est quoi???  <br />

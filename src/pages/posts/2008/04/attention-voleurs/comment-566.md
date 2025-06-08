@@ -4,6 +4,7 @@ author: Lalo
 email: pitite_angele@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>je ne connais pas vraiment Amsterdam, a part grace a la fameuse chanson de Jacques Brel, et aussi grace a la seule et unique visite que j'y ai fait!<br />

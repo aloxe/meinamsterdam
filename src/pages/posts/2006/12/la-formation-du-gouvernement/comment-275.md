@@ -4,6 +4,7 @@ author: Presse néerlandaise
 email: presse@blog.re
 site: http://www.ambafrance.nl/article.php?id_article=7988
 tags: comment
+permalink: false
 ---
 
 <p>Aujourd'hui, mardi 12 décembre 2006, c'est toujours pas gagné<br />

@@ -4,6 +4,7 @@ author: Elvis
 email: elvis@blog.re
 site: http://elvis.ref.re/
 tags: comment
+permalink: false
 ---
 
 <p>Peux-tu me ramener le costume de soeur au centre stp?</p>

@@ -4,6 +4,7 @@ author: Noos
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>UPC, c'est le Noos francais non ?<br />

@@ -4,6 +4,7 @@ author: kerdekel
 email: kerdekel@gmail.com
 site: http://blog.virgule.info
 tags: comment
+permalink: false
 ---
 
 <p>Oui, fais-nous un dessin. ^^<br />

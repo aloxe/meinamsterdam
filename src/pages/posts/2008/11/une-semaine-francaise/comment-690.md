@@ -4,6 +4,7 @@ author: Natacha
 email: natasha@oh-la-la.nl
 site: http://www.oh-la-la.nl/?pagename=contact
 tags: comment
+permalink: false
 ---
 
 <p>

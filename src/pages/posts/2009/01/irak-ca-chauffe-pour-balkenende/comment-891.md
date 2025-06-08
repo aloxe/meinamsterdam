@@ -4,6 +4,7 @@ author: Dans la revue de presse
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

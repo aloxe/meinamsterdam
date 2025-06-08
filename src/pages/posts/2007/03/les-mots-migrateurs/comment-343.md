@@ -4,6 +4,7 @@ author: Annabel
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>&quot;Champignons&quot;(prononcé &quot;Champions&quot;) pour champignons de Paris uniquement (<a href="http://blog.re/me-in-amsterdam/index.php/la-fin-des-champignons">les champignons</a> se disant &quot;Paddenstoelen&quot;),<br />

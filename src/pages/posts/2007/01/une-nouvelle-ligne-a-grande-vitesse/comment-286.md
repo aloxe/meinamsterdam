@@ -4,6 +4,7 @@ author: thover
 email: 
 site: http://paris.thover.com/?f=meinamsterdamThalys
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour le compliment :-). Tu aurais du me laisser ton commentaire sur mon blog ... j'aurai réagi plus rapidement ;-) =&gt; n'hésite pas à laisser des commentaires sur mon blog d'ailleurs !<br />

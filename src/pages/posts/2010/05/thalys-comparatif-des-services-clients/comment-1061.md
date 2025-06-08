@@ -4,6 +4,7 @@ author: cile78
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

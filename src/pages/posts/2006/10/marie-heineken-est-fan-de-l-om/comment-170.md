@@ -4,6 +4,7 @@ author: Clément
 email: cl.trumeau@free.fr
 site: http://www.leblogdeclement.fr
 tags: comment
+permalink: false
 ---
 
 <p>Salut, je vais monter à Amsterdam durant le week-end du 4 aout. Le seul souci c'est que je vais rater le 1er match de la saison ... Strasbourg/OM ...<br />

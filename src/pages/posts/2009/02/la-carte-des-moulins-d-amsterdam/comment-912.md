@@ -4,6 +4,7 @@ author: Ambassades
 email: www@ambassades-en-ligne.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Cool,<br />

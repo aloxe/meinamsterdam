@@ -4,6 +4,7 @@ author: drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>Je crois que tu as oublié un moulin à vent dans ta liste:<br />

@@ -4,6 +4,7 @@ author: florence
 email: f.courtenay@infopromotions.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>alors les résultats des tes entretiens battaves ?...</p>

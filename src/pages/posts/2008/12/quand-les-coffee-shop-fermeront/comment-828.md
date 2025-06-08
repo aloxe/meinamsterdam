@@ -4,6 +4,7 @@ author: Kick&amp;quot;s
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Revenu de amsterdam hier.aucun pb pour acheter dans les coffees.Certains acceptent de vous en vendre + des 5 g classiques.<br />

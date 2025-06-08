@@ -4,6 +4,7 @@ author: fr.transnationale.org
 email: 
 site: http://fr.transnationale.org/entreprises/abn_amro.php
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: aloxe
 email: info@meinamtsredam.nl
 site: http://www.flickr.com/photos/13274211@N00/
 tags: comment
+permalink: false
 ---
 
 <p>&nbsp;</p>

@@ -4,6 +4,7 @@ author: Lionel
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>En relation avec ce sujet:<br />

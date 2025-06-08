@@ -4,6 +4,7 @@ author: Picture of the day
 email: 
 site: http://commons.wikimedia.org/wiki/Commons:Picture_of_the_day
 tags: comment
+permalink: false
 ---
 
 <p>

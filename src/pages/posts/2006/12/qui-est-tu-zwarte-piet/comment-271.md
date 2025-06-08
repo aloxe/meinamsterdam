@@ -4,6 +4,7 @@ author: Boris
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Un seul d'entres-vous est-il noir ?<br />

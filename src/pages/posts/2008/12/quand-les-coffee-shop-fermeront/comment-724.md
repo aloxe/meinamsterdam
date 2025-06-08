@@ -4,6 +4,7 @@ author: Mr Fantasy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ne t'inquiètes pas tibo, seuls les majeurs peuvent aller dans les coffees! Toi, tu restes en France et tu t'achètes des cigarettes en chocolat.<br />

@@ -4,6 +4,7 @@ author: Koné
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Il est vraiment beau ton vélo. Je ne doute pas du tout de sa résistance bien qu'il soit rouillé.<br />

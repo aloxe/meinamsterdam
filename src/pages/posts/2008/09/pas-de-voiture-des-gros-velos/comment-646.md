@@ -4,6 +4,7 @@ author: me in Amsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/
 tags: comment
+permalink: false
 ---
 
 <p> très fort!</p>

@@ -4,6 +4,7 @@ author: breton29
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonsoir ! <br />

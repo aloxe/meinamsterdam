@@ -4,6 +4,7 @@ author: Alix Guillard
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Bien vu, André, ceci est un clin d'œil au fait que&nbsp;<strong style="font-family: OpenSansRegular, Verdana, Helvetica, Arial, sans-serif; color: rgb(79, 79, 79); font-size: 14px; text-align: justify; ">Citroën soit la marque automobile française la plus néerlandaise</strong> Il faudrait que je fasse cet article <a href="/bon-anniversaire-la-2cv" title="article sur la deuche">promis de longue date</a> quand même.</p>

@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p><a href="http://www.e-citizen.tv/wordpress/2008/09/29/vraiment-rien-quun-velo-ne-puisse-faire/" title="http://www.e-citizen.tv/wordpress/2008/09/29/vraiment-rien-quun-velo-ne-puisse-faire/" rel="nofollow">www.e-citizen.tv/wordpres...</a><br />

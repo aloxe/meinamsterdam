@@ -4,6 +4,7 @@ author: Maxou
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>salut les mecs<br />

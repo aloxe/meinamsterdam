@@ -4,6 +4,7 @@ author: niko
 email: nicolas.paul@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut, <br />

@@ -4,6 +4,7 @@ author: gryzor
 email: g@soulas.net
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>&quot;Tout dépend du fonctionnaire qu'on a en face&quot;<br />

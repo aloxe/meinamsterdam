@@ -4,6 +4,7 @@ author: Onedayindam
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Je suis tres content que tu abordes cette tradition que les jeunes generations de hollandais semblent oublier, ce qui m'attriste un peu tant je trouvais cela typique d'amsterdam et des pays bas en general.<br />

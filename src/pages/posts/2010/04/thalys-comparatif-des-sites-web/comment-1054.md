@@ -4,6 +4,7 @@ author: luclebreton
 email: luclebreton@live.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p> je vends  ma voiture 4x4 volkswagen touareg v6 2006 en tres bon etat de marche  a 8500uros . <br />

@@ -4,6 +4,7 @@ author: galy
 email: galy2711@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Ce que vous dite m'interesse beaucoup, d'autant plus que je suis en visite en hollande le week end prochain. <br />

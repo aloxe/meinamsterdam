@@ -4,6 +4,7 @@ author: Chmouel
 email: chmouel@chmouel.com
 site: http://whereis.chmouel.com
 tags: comment
+permalink: false
 ---
 
 <p>Hey Alix,<br />

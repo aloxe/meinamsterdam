@@ -4,6 +4,7 @@ author: Léa.
 email: 
 site: http://biip-tchi-b0um.skyblog.com
 tags: comment
+permalink: false
 ---
 
 <p>J'y suis allée il y a 2 ans , j'y retourne cette année<br />

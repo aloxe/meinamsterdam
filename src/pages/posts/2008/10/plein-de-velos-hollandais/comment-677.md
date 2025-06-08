@@ -4,6 +4,7 @@ author: Toutencarton
 email: toutencarton@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Een nederlandse fiets in Bretanie !<br />

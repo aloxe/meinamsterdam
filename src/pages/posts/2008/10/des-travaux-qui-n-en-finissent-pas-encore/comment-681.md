@@ -4,6 +4,7 @@ author: La Soir de Bxl
 email: 
 site: http://www.lesoir.be/regions/liege/transport-la-ligne-express-2008-11-25-666093.shtml
 tags: comment
+permalink: false
 ---
 
 <p>

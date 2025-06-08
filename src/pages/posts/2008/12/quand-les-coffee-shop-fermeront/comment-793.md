@@ -4,6 +4,7 @@ author: findesexams !!!
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour à tous, <br />

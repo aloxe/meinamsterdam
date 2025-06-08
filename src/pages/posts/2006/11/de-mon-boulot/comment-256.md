@@ -4,6 +4,7 @@ author: me in Amsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/mon-nouveau-boulot-2
 tags: comment
+permalink: false
 ---
 
 <!-- TB -->

@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>&lt;cite&gt;Cette année, le programme est aussi eclectique que d'habitude et nous permet de voir ici les films français qui ont marqué l'année avec Entre les murs, Regarde-moi ou Regarde-moi.&lt;/cite&gt;<br />

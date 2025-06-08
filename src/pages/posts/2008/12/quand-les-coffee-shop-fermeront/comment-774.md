@@ -4,6 +4,7 @@ author: colorstone
 email: fredericschleimer@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjours à tous,<br />

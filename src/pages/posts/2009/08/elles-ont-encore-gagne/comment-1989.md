@@ -4,6 +4,7 @@ author: Snippers
 email: contact@snipperscomic.nl
 site: http://www.snipperscomic.nl/
 tags: comment
+permalink: false
 ---
 
 <p>

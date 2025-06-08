@@ -4,6 +4,7 @@ author: Stéphane Bortzmeyer
 email: stephane+blogre@bortzmeyer.org
 site: http://www.bortzmeyer.org/
 tags: comment
+permalink: false
 ---
 
 <p>&gt; Il faut donc aller sur le site de l'AFNIC pour avoir une <br />

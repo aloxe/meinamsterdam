@@ -4,6 +4,7 @@ author: erwan
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>merci. C'est une très bonne idée que de laisser des infos précieuses comme celle-ci pour éviter aux autres les galères administratives.<br />

@@ -4,6 +4,7 @@ author: Usine Azor
 email: 
 site: http://azor.nl/
 tags: comment
+permalink: false
 ---
 
 C'est de cette même usine que sortent la plupart des bakfiets qu'on voit ici aux Pays-Bas? Voici un reportage du Volkskrant sur cette usine de vélos.

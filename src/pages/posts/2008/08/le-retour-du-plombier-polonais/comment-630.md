@@ -4,6 +4,7 @@ author: Jean Luc
 email: 
 site: http://www.jean-luc-melenchon.fr/2009/11/entre-deux-cauchemars/
 tags: comment
+permalink: false
 ---
 
 <p>

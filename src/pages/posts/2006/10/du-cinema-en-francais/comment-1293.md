@@ -4,6 +4,7 @@ author: drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>domage que les affiches des anciennes éditions ne soit plus accessible, elles étaient jolies.</p>

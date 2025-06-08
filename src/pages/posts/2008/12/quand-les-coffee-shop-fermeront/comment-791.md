@@ -4,6 +4,7 @@ author: ZiggY
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Compte-rendu de la situation, printemps 2011: <br />

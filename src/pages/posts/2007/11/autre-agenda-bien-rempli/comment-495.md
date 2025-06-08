@@ -4,6 +4,7 @@ author: alix
 email: atlantispower@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour<br />

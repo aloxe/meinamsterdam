@@ -4,6 +4,7 @@ author: Peter Bakker, CEO van TNT
 email: 
 site: http://www.tntpost.nl/voorthuis/postzegelverkiezing/postzegels2007/decemberkraszegels.aspx
 tags: comment
+permalink: false
 ---
 
 <p>

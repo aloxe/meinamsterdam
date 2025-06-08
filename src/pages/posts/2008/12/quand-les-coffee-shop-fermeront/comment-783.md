@@ -4,6 +4,7 @@ author: gloups
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>J'ai posé la question sur l'interdiction de l'accès aux coffee pour les ressortissants français à un avocat.<br />

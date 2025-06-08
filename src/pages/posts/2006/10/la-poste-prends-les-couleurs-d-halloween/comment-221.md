@@ -4,6 +4,7 @@ author: Christian Fontanneau
 email: christian.fontanneau@free.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour !<br />

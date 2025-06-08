@@ -4,6 +4,7 @@ author: leo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>j'aurai voulu savoir si tous les coffe shop d'amsterdam demandai une carte d'identite pour voir si on est majeur ou pa <br />

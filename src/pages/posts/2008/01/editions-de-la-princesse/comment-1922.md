@@ -4,6 +4,7 @@ author: do_56
 email: fem4837@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Appris deux choses:<br />

@@ -4,6 +4,7 @@ author: Pascal
 email: 
 site: http://fasmz.org/~pterjan/blog/
 tags: comment
+permalink: false
 ---
 
 <p>T'as raison, si on faisait comme les Etats-Unis ?</p>

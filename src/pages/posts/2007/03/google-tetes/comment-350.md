@@ -4,6 +4,7 @@ author: chuckbiscuito
 email: 
 site: http://www.flickr.com/photos/chuckbiscuito/2186468314/
 tags: comment
+permalink: false
 ---
 
 <p>

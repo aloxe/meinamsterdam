@@ -4,6 +4,7 @@ author: Pedr
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>A Amsterdam, pas de souci pour les étrangers pour le moment (y ait été ce w e). <br />

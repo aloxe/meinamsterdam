@@ -4,6 +4,7 @@ author: Véro
 email: vero.godard@orange.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

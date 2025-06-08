@@ -4,6 +4,7 @@ author: La communauté RIPE
 email: 
 site: http://ripe.net/ripe/
 tags: comment
+permalink: false
 ---
 
 <p>

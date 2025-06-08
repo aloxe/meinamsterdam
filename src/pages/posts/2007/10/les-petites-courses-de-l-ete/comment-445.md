@@ -4,6 +4,7 @@ author: TECHNIP
 email: 
 site: http://www.technip.com/francais/press/articles/2008/2008-07-07.htm
 tags: comment
+permalink: false
 ---
 
 <p><br />

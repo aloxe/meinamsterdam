@@ -4,6 +4,7 @@ author: Caro
 email: kroduboix@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix!<br />

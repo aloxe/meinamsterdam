@@ -4,6 +4,7 @@ author: alix
 email: alix@guillard.fr
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p>Héyo Clark,</p>

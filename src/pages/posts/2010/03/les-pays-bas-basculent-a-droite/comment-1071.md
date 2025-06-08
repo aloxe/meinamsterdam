@@ -4,6 +4,7 @@ author: Ricco
 email: ricco2009@live.be
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Cher Monsieur,<br />

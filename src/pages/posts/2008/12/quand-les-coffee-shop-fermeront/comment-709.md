@@ -4,6 +4,7 @@ author: jerem
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut à tous, je n'ai pas entendu la même chose que toi thomas : &quot;Des rumeurs disent que la vente aux étrangers serait limitée à 3grammes et uniquement 3 grammes !!!&quot;<br />

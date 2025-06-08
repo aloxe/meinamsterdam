@@ -4,6 +4,7 @@ author: 118218
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Doedoeioedoei !</p>

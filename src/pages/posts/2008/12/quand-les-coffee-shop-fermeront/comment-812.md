@@ -4,6 +4,7 @@ author: Hi
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Nous partons entre amis à Eindhoven dans la province de Brabant-Septentriona ce 21 octobre.<br />

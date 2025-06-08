@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://www.flickr.com/photos/13274211@N00/
 tags: comment
+permalink: false
 ---
 
 <p>

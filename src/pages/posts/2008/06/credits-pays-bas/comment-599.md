@@ -4,6 +4,7 @@ author: Aie
 email: 
 site: http://frogouda.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>A éviter, les aléas du belegging, trop dépendant de la bourse. Ou alors il faut être joueur.<br />

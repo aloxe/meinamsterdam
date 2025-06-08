@@ -4,6 +4,7 @@ author: Maarten Albrecht
 email: 
 site: http://www.flickr.com/photos/maartenalbrecht/
 tags: comment
+permalink: false
 ---
 
 <p>

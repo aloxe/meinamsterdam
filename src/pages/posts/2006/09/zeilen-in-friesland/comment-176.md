@@ -4,6 +4,7 @@ author: custom paper
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <!-- http://www.rushessay.com/custom_paper.php chatdate@thankyou2010.com -->

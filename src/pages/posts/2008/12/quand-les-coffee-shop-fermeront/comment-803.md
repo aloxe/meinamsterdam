@@ -4,6 +4,7 @@ author: adrein 69
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>je pars jeudi a dam toujours pas de changement les cofees me seront ouvert ???<br />

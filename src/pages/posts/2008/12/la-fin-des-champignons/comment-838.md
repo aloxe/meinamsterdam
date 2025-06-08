@@ -4,6 +4,7 @@ author: La presse néerlandaise
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <h2><a href="http://www.ambafrance-nl.org/spip.php?article10387#Champignons-hallucinogenes" rel="nofollow">Champignons hallucinogènes</a></h2>

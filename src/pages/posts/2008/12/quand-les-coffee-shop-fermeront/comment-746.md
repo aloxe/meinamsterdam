@@ -4,6 +4,7 @@ author: cyrilr
 email: cyrilravon@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>une réponse fiable svp...!!!<br />

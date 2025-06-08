@@ -4,6 +4,7 @@ author: old baby
 email: baby_clean@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>suis a la recherche d'un vélo d'occasion si le coeur vous en dit je serais à amsterdam demain dans la journée .<br />

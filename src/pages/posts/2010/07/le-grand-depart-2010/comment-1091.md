@@ -4,6 +4,7 @@ author: DUT SRC
 email: vanessa.boutier@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <!-- http://www.etudinfo.com/diplome/formation-dut-iut-src.html -->

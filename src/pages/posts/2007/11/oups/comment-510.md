@@ -4,6 +4,7 @@ author: caro
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>En Belgique on dit Non Di Dju ;-)<br />

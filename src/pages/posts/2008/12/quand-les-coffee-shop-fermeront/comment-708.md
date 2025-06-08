@@ -4,6 +4,7 @@ author: Bobo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour cette information Monsy !<br />

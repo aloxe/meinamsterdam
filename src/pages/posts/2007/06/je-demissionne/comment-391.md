@@ -4,6 +4,7 @@ author: JB
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>la vue ? Et les photos sont où ???<br />

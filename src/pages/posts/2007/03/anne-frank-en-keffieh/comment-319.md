@@ -4,6 +4,7 @@ author: wojofoto
 email: 
 site: http://www.flickr.com/photos/wolfgangjosten/330221442/
 tags: comment
+permalink: false
 ---
 
 <p>de Wojofoto<br />

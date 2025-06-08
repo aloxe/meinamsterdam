@@ -23,6 +23,7 @@
     {% set count = [1] %}
     {% for post in collections.all | reverse %}
       {% if post.inputPath.startsWith('./src/pages/posts/') %} {# only posts #}
+      {% if post.url %} {# not comments #}
         {% if post.url.startsWith(page.url) %} {# only posts bellow current #}
           {% if post.url !== page.url %}
             {% if (count.length < 6) %} {# only 10 first posts #}
@@ -54,8 +55,8 @@
                       <em class="text-primary"> ✍</em>
                       {% set entrees = [] %}
                       {%- for comment in collections.comment -%}
-                        {% set length = comment.url.split("/").length %}
-                        {% set slug = "/"+comment.url.split("/")[length-3]+"/" %}
+                        {% set length = comment.filePathStem.split("/").length %}
+                        {% set slug = "/"+comment.filePathStem.split("/")[length-2]+"/" %}
                         {% if slug === post.data.page.url %}
                           {% set entrees = (entrees.push(comment), entrees) %}
                         {% endif %}
@@ -71,6 +72,7 @@
             {% endif %}
           {% endif %}
         {% endif %}
+      {% endif %}
       {% endif %}
     {% endfor %}
   </section>

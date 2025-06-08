@@ -4,6 +4,7 @@ author: Sabine Cessou (A Amsterdam)
 email: 
 site: http://www.liberation.fr/actualite/monde/303179.FR.php
 tags: comment
+permalink: false
 ---
 
 <p>

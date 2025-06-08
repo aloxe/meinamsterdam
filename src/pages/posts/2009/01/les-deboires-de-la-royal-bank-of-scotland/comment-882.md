@@ -4,6 +4,7 @@ author: Monsieur Loyal
 email: 
 site: http://fr.wikipedia.org/wiki/Le_Plus_Grand_Cirque_du_monde
 tags: comment
+permalink: false
 ---
 
 <p>

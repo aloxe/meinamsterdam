@@ -4,6 +4,7 @@ author: AmsterS@m - The Wicked Reflectah's
 email: 
 site: http://www.amstersam.com/main.html
 tags: comment
+permalink: false
 ---
 
 <p>

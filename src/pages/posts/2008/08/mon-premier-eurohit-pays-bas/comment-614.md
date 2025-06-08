@@ -4,6 +4,7 @@ author: Ô. d'Evian
 email: olivier.canada@gmail.com
 site: http://www.olivierdemontreal.ca
 tags: comment
+permalink: false
 ---
 
 <p>Un seul hit, pour le moment. Il n'y a pas beaucoup d'EBTers dans ma région... </p>

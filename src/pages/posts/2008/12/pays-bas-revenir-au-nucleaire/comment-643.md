@@ -4,6 +4,7 @@ author: le nucléaire ...
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>et surtout pas si rentable qu'on voudrait bien nous le faire croire<br/>

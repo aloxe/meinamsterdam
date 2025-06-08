@@ -4,6 +4,7 @@ author: Jeux de voiture
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

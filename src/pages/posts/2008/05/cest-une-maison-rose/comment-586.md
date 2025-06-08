@@ -4,6 +4,7 @@ author: kreukreuscopie
 email: moi@laurentchambon.com
 site: http://kreukreuscopie.blogspot.com/2009/01/politique-locale-peut-mieux-faire.html
 tags: comment
+permalink: false
 ---
 
 <p>

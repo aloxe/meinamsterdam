@@ -4,6 +4,7 @@ author: Libé
 email: libe@blog.re
 site: http://www.liberation.fr/actualite/sports/268132.FR.php
 tags: comment
+permalink: false
 ---
 
 <p><b>Le porteur du maillot jaune Michael Rasmussen a été exclu le 26 juin de la fédération danoise de cyclisme pour ne pas avoir averti l'Agence mondiale anti-dopage de ses déplacements. De lourdes suspicions traînent donc à nouveau sur le potentiel vainqueur du Tour.</b><br />

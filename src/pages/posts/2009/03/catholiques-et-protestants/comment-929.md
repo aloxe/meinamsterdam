@@ -4,6 +4,7 @@ author: Lionel
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>La fin de l'article a disparu ? Dommage c'etait interessant.<br />

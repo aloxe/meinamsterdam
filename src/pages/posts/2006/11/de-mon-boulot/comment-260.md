@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p><a href="/le-fournil-de-sebastien">La boulangerie a ouvert ses portes</a> !!!</p>

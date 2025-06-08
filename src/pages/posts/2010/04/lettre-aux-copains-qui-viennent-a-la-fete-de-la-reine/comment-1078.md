@@ -4,6 +4,7 @@ author: TLB
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Le plan du bateau pour cette fête de la Reine ne va pas hélas fonctionner,<br />

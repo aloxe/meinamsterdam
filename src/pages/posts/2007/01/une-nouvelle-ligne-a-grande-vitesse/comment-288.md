@@ -4,6 +4,7 @@ author: thover
 email: 
 site: http://paris.thover.com/?f=meinamsterdamThalys
 tags: comment
+permalink: false
 ---
 
 <p>Peut-être tu avais mis une URL dans le message. Cette erreur n'est affichée que quand si le commentaire contient http:// (si on veut mettre un site web, un champ spécifique est prévu pour ça).<br />

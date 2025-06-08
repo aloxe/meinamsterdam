@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 <p>
 Ça c'est une bonne idée, il y a plein de belles photos de l'évènement sur Flickr

@@ -4,6 +4,7 @@ author: patrick31
 email: pat-toulouse@laposte.net
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>j'ai arrêté depuis 8 ans et je ne m'en porte pas plus mal.<br />

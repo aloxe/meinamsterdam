@@ -4,6 +4,7 @@ author: aide juridique
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>quelqu'un pour confirmer?</p>

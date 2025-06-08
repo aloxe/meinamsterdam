@@ -4,6 +4,7 @@ author: Bert
 email: 
 site: http://www.secret-wg.org
 tags: comment
+permalink: false
 ---
 
 <p>

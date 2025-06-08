@@ -4,6 +4,7 @@ author: Nilo
 email: nil71230@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour à tous, j'ai en ma possession un superbe vélo hollandais homme de la marque AMSTERDAM. Il est vraiment dans un état exceptionnel pour son âge (que je ne connais pas !) C'est justement pour ça que je fais appel à vous. Qui connait cette marque ?<br />

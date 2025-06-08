@@ -4,6 +4,7 @@ author: Le forum
 email: leforum@leforum.nl
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>le vendredi, 20 juillet 2007.</p>

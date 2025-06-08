@@ -4,6 +4,7 @@ author: Marco
 email: 
 site: http://www.geheimwapen.nl/
 tags: comment
+permalink: false
 ---
 
 <h3>Vertrouwelijke informatie alleen voor oranjefans</h3>

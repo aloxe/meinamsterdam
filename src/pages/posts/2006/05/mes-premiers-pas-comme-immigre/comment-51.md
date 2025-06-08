@@ -4,6 +4,7 @@ author: Alix Guillard
 email: meinamsterdam@blog.re
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 Alorhh thôône ... Pas si petit que ça le raclement de gorge ... ;o)

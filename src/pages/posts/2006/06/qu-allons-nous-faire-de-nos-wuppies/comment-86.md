@@ -4,6 +4,7 @@ author: Herv*
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>il parait qu'une automobiliste a *t* verbalis*e par la police parce que son pare-brise *tait obstru* tellement elle y avait mis de wuppies ?<br />

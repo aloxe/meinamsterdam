@@ -4,6 +4,7 @@ author: Van Rijn
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Les timbres de France et des Pays-Bas mérite la comparaison. C'est d'ailleurs ce que Van Rijn a fait à l'ambassade de France le 19 mars dernier:<br />

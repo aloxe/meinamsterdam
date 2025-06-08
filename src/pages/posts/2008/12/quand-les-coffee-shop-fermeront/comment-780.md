@@ -4,6 +4,7 @@ author: Lolivier
 email: 
 site: http://www.saveaworld.com
 tags: comment
+permalink: false
 ---
 
 <p>A breda, la plupart des coffee sont encore ouverts (j'y ai été ya une semaine), je suppose qu'à Amsterdam c'est pareil ...<br />

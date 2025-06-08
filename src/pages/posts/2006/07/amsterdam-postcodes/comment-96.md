@@ -4,6 +4,7 @@ author: Nicole
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 geschikt kaart

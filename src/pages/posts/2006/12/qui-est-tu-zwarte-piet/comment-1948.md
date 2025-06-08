@@ -4,6 +4,7 @@ author: pirate simple
 email: rencontres3@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>.<br />

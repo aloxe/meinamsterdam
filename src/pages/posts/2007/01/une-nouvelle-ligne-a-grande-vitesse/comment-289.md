@@ -4,6 +4,7 @@ author: Meteorry
 email: 
 site: http://www.flickr.com/people/meteorry/
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: Ambassade de France à La Haye
 email: 
 site: http://www.ambafrance.nl/article.php?id_article=8875
 tags: comment
+permalink: false
 ---
 
 <p>Aujourd'hui revue de presse en français sur la  Note des Millions<br />

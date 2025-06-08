@@ -4,6 +4,7 @@ author: Ludo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Parce que le parlement ne sert à rien, c'est une coquille vide<br />

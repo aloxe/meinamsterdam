@@ -4,6 +4,7 @@ author: cartolla
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>aahh des nouvelles d'alix from amsterdam<br />

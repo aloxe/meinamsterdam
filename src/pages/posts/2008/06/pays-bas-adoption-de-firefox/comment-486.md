@@ -4,6 +4,7 @@ author: Ronan
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

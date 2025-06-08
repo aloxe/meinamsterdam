@@ -4,6 +4,7 @@ author: Monsieur Poireau
 email: filaplomb@skynet.be
 site: http://monsieurpoireau.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>Tout à fait impressionnant comme édifice, y compris sur le plan architectural. Je ne suis pas étonné qu'on y perde sa monture !<br />

@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>On aime mieux cet aspect des Pays-Bas que l'autre G.W., là... !<br />

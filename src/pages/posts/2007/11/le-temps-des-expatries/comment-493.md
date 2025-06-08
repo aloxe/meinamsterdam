@@ -4,6 +4,7 @@ author: erik
 email: erik.escoffier@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour tous ces posts ô combien précieux pour un futur expat' !<br />

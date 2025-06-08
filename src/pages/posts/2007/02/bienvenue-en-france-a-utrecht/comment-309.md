@@ -4,6 +4,7 @@ author: hervé
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>excellent le manuel de français intitulé &quot;MERDE !&quot; ;)<br />

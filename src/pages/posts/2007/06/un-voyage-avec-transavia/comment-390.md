@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonsoir David,<br/><br/>

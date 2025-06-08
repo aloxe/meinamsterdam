@@ -4,6 +4,7 @@ author: candidats.fr
 email: 
 site: http://www.candidats.fr
 tags: comment
+permalink: false
 ---
 
 <p>

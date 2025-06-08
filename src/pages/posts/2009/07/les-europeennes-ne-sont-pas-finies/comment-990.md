@@ -4,6 +4,7 @@ author: Franck Scemama
 email: franck.scemama@gmail.com
 site: http://francaisdumonde-quebec.org
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

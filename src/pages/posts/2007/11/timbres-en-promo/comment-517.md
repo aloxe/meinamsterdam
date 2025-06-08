@@ -4,6 +4,7 @@ author: nourreiev
 email: 
 site: http://nourreiev34.free.fr
 tags: comment
+permalink: false
 ---
 
 <p>putain gars je veux acheter ces timbres ! ! ! ! <br />

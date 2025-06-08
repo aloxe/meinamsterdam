@@ -4,6 +4,7 @@ author: Rémy
 email: remy@blogodomaines.com
 site: http://www.blogodomaines.com
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour ce partage de point de vue.<br />

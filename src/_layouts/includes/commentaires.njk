@@ -1,7 +1,7 @@
 {% set entrees = [] %}
 {%- for comment in collections.comment -%}
-  {% set length = comment.url.split("/").length %}
-  {% set slug = "/"+comment.url.split("/")[length-3]+"/" %}
+  {% set length = comment.filePathStem.split("/").length %}
+  {% set slug = "/"+comment.filePathStem.split("/")[length-2]+"/" %}
   {% if slug === page.url %}
     {% set entrees = (entrees.push(comment), entrees) %}
   {% endif %}

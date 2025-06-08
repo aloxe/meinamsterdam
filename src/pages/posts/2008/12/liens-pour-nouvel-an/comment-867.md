@@ -4,6 +4,7 @@ author: myrilefo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>lolllllllllllllllllll<br />

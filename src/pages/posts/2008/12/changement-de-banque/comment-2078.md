@@ -4,6 +4,7 @@ author: changer comportement banques
 email: blondellstepp@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Oui, il est possible de changer le comportement des banques</p>

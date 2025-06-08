@@ -4,6 +4,7 @@ author: Pierre Vandeginste
 email: 
 site: http://aietech.com/
 tags: comment
+permalink: false
 ---
 
 <p>voir aussi : <br />

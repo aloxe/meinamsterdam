@@ -4,6 +4,7 @@ author: maurytablasse@yahoo.fr
 email: maurytablasse@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>muchos saludos a mi queridisimo amigo el señor de vita!<br />

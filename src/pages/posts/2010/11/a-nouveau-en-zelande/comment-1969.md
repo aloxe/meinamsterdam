@@ -4,6 +4,7 @@ author: Alix Guillard
 email: alix@guillard.fr
 site: http://alix.guillard.fr/
 tags: comment
+permalink: false
 ---
 
 <p>\o/ Peut-être que c'est pour sponsoriser mon prochain voyage à vélo.</p>

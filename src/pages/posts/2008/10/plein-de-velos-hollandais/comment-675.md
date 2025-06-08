@@ -4,6 +4,7 @@ author: drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>Et moi je vous dit que j'ai aussi posé devant ce moulin. La preuve :<br />

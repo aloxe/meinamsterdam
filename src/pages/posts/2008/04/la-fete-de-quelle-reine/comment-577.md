@@ -4,6 +4,7 @@ author: virg
 email: virg_1984@hotmail.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut,<br />

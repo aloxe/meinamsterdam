@@ -4,6 +4,7 @@ author: Kaporal
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Peut-on ouvrir un coffee shop en Hollande alors que je suis français, et combien coute l'ouverture, si je ne parle pas leurs langue est- ce un problème et mon âge (18).<br />

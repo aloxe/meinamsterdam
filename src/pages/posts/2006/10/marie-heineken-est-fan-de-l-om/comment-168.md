@@ -4,6 +4,7 @@ author: me in Amsterdam
 email: meinamsterdam@blog.re
 site: http://meinamsterdam.nl/tous-derriere-la-balle
 tags: comment
+permalink: false
 ---
 
 <!-- TB -->

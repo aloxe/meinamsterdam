@@ -4,6 +4,7 @@ author: Emilien
 email: Emilien@blog.re
 site: http://www.flickr.com/yes-pictures
 tags: comment
+permalink: false
 ---
 
 <p>&nbsp;&nbsp;&nbsp; Excellent, je demenage a dam ce mois ci (j'habite a Arnhem depuis 4 ans deja) et enfin je vais trouver une boulangerie digne de ce nom ;) Merci pour le conseil!</p>

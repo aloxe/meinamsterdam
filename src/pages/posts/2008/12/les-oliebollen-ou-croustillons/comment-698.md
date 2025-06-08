@@ -4,6 +4,7 @@ author: chantalje
 email: vdkchantal@free.fr
 site: http://chantalje.over-blog.com
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour, <br />

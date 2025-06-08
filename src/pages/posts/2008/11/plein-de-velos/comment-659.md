@@ -4,6 +4,7 @@ author: Enjoae
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci pour ces infos, c'es exactement ce que je recherchais, sinon:<br />

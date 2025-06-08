@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Tu m'as fait peur, en lisant l'accroche j'ai cru qu'il s'était jeté dans un canal ou je ne sais quelle mort atroce !<br />

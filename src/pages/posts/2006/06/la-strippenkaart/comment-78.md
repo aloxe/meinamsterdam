@@ -4,6 +4,7 @@ author: Chani
 email: 
 site: http://la-page-blanche-d-anais.skynetblogs.be/
 tags: comment
+permalink: false
 ---
 
 <p>Salut,<br />

@@ -4,6 +4,7 @@ author: Pouax
 email: Pouax@example.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p><br />

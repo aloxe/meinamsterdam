@@ -4,6 +4,7 @@ author: dd
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour, comme antul je part en juillet , les coffee seront tjs ouverts??? quelqu'un est il allé récemment ?</p>

@@ -4,6 +4,7 @@ author: jeepee
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour<br />

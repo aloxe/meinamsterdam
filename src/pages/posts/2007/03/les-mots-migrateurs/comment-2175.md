@@ -4,6 +4,7 @@ author: Luis
 email: luis.decalpe@yahoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Sauf que abricot n'est pas un mot arabe mais latin !<br />

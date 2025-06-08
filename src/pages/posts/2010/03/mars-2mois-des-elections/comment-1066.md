@@ -4,6 +4,7 @@ author: Geo
 email: grivat@sicfa.net
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>alors franchement c'est pas mal :)<br />

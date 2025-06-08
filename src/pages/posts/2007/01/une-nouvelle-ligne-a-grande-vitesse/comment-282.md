@@ -4,6 +4,7 @@ author: thover
 email: 
 site: http://paris.thover.com?f=meinamsterdamThalys
 tags: comment
+permalink: false
 ---
 
 <p>Salut !<br />

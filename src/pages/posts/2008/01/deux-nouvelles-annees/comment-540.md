@@ -4,6 +4,7 @@ author: Libération
 email: 
 site: http://www.liberation.fr/actualite/monde/303179.FR.php?rss=true
 tags: comment
+permalink: false
 ---
 
 <p>

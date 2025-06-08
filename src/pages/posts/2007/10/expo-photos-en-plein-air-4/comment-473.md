@@ -4,6 +4,7 @@ author: Katrintje
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Oui je vois que tu as de l'avance sur moi. Les cartes postales sont en mauvais état à présent !<br />

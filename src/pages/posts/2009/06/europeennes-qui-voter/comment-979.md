@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>La tête de liste de D66 s'appelle donc "Sophie dans le Champ" (Sophie in 't Veld)<br />

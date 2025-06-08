@@ -4,6 +4,7 @@ author: ????
 email: 
 site: http://eccentricity.m78.com/
 tags: comment
+permalink: false
 ---
 
 <p>

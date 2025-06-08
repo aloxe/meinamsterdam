@@ -4,6 +4,7 @@ author: brb
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Le chiotte de mes rêves ;)</p>

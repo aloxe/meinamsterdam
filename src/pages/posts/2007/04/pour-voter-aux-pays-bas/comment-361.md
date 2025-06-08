@@ -4,6 +4,7 @@ author: lelionbleu
 email: 
 site: http://www.lelionbleu.nl/
 tags: comment
+permalink: false
 ---
 
 <p>

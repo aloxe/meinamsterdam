@@ -4,6 +4,7 @@ author: Julie Gabutto
 email: j.gabutto@wanadoo.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>I research a girl whose name is &quot;Yet&quot;. She came at my home when I was at the lycée.<br />

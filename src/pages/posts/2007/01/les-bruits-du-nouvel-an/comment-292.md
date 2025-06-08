@@ -4,6 +4,7 @@ author: myrilefo
 email: 
 site: http://www.aufeminin.com/blog/myrilefo
 tags: comment
+permalink: false
 ---
 
 <p>coucou!! ah ben c'est partout pareil aux Pays-Bas, a Eindhoven c'était idem!!!!!! je garde le lien de ton blog j'irai lire plus tard<br />

@@ -4,6 +4,7 @@ author: bedo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>salut a tous je doit passé noël a amsterdam seriez vous au courant si les coffee nous laisse encore rentré nous les francais <br />

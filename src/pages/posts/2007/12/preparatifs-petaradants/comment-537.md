@@ -4,6 +4,7 @@ author: Revue de presse
 email: 
 site: http://www.ambafrance.nl/article.php?id_article=9174
 tags: comment
+permalink: false
 ---
 
 <p>

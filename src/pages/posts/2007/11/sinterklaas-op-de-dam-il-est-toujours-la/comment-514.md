@@ -4,6 +4,7 @@ author: rue89
 email: 
 site: http://www.rue89.com/blog/infusion-de-sciences/de-nicolas-le-turc-a-coca-la-veritable-histoire-du-pere-noel
 tags: comment
+permalink: false
 ---
 
 <p>

@@ -4,6 +4,7 @@ author: Sabine
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Le Volkskrant parle de cette anniversaire et rappelle ce qui a motivé la création de cette voiture, quatre roues et un parapluie<br />

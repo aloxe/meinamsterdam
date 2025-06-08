@@ -4,6 +4,7 @@ author: Monsy
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>a savoir roosendaal totalement fermer par contre maas ne vous inquiétez pas.<br />

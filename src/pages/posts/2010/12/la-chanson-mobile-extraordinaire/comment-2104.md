@@ -4,6 +4,7 @@ author: Framboise
 email: christinapolidori@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Génial!! Je savais pas que tu avais prêté ta voix pour la promotion de cet engin ma foi fort intéressant :)</p>

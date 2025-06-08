@@ -4,6 +4,7 @@ author: Shalima
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

@@ -4,6 +4,7 @@ author: patard
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour <br />

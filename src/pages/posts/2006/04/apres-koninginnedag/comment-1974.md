@@ -4,6 +4,7 @@ author: Drooderfiets
 email: drooderfiets@blog.re
 site: http://drooderfiets.tumblr.com/
 tags: comment
+permalink: false
 ---
 
 <p>Ça ne change pas, toujours après La fête de la reine ou la fête du roi, c'est toujours sale et pas propre dans les rues. Il faut slalomer entre les ordures quand on est à vélo</p>

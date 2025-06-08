@@ -4,6 +4,7 @@ author: apo34
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>bonjour à tous !<br />

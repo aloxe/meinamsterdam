@@ -4,6 +4,7 @@ author: caro
 email: kroduboix@hotmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Mais pourquoi ce ton désagréable Daniel?<br />

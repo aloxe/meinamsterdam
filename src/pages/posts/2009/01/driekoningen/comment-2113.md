@@ -4,6 +4,7 @@ author: Flaire
 email: flaire@blog.re
 site: 
 tags: comment
+permalink: false
 ---
 
 <p><a href="https://www.fler.cz/zbozi/betlem-iii-6928397" title="https://www.fler.cz/zbozi/betlem-iii-6928397">https://www.fler.cz/zbozi/betlem-ii...</a></p>

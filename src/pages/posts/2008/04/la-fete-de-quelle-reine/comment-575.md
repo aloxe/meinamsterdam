@@ -4,6 +4,7 @@ author: Stéphane Bortzmeyer
 email: stephane+blogre@bortzmeyer.org
 site: http://www.bortzmeyer.org/
 tags: comment
+permalink: false
 ---
 
 <p>Le féminin de Guillaume, en français, est Guillemette, pas Guillaumette (prénom qui ne semble pas exister en français).<br />

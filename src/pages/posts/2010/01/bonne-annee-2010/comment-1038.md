@@ -4,6 +4,7 @@ author: Mama
 email: mdeye@club-internet.fr
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix,<br />

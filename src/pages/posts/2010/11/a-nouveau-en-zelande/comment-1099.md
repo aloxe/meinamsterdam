@@ -4,6 +4,7 @@ author: jean
 email: jean@easytobook.com
 site: http://www.easytobook.com/fr/
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour Alix,<br />

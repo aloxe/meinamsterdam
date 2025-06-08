@@ -4,6 +4,7 @@ author: Romain
 email: romain.sarels@e-absolutely.com
 site: http://www.les-expats.com
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour,<br />

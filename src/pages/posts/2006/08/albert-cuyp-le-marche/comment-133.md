@@ -4,6 +4,7 @@ author: kippetje
 email: 
 site: http://www.flickr.com/photos/kippetje
 tags: comment
+permalink: false
 ---
 
 <p>another photo :<br />

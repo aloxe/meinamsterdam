@@ -4,6 +4,7 @@ author: sindändùne
 email: 
 site: http://www.flickr.com/photos/sindandune/
 tags: comment
+permalink: false
 ---
 
 <p>

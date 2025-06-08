@@ -4,6 +4,7 @@ author: alix
 email: alix@guillard.fr
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p>C'était un peu l'impro avec un texte parfois trop compliqué mais je me suis bien débrouillé je trouve…</p>

@@ -13,8 +13,6 @@ update: 2008-12-14
 TODO: no image, no image alt
 ---
 
-
-
 C'est la crise, les banquiers sont obligés de faire le pitre dans les parcs pour gagner *trois-francs-six-sous*[^1].
 
 <!-- HTML -->

@@ -4,6 +4,7 @@ author: kerdekel
 email: kerdekel@gmail.com
 site: http://blog.virgule.info
 tags: comment
+permalink: false
 ---
 
 <p>Je ne sais pas qui l'a lancée, mais même nous on a du y passer et j'ai bien passé le relai. ^^<br />

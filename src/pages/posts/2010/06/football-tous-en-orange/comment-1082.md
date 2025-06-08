@@ -4,6 +4,7 @@ author: Hervé
 email: renault.herve@gmail.com
 site: http://herverenault.fr/
 tags: comment
+permalink: false
 ---
 
 <p>Bon, mais quand est-ce que les Pays-Bas jouent contre la France ? ;-)</p>

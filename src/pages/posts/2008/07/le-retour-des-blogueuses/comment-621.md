@@ -4,6 +4,7 @@ author: Ninouki
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix,<br />

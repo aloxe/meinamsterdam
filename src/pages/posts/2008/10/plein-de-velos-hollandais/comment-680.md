@@ -4,6 +4,7 @@ author: jan beeldrijk
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>&quot;Il y a aussi un vin qui s'appelle le vélo volé&quot; <br />

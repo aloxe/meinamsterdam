@@ -4,6 +4,7 @@ author: Chris
 email: 
 site: http://alix.guillard.fr
 tags: comment
+permalink: false
 ---
 
 <p>

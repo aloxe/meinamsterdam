@@ -4,6 +4,7 @@ author: Daniel
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Zwarte Piet en père fouettard: quoi de plus faux?<br />

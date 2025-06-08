@@ -4,6 +4,7 @@ author: momo
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>AUCUN SOUCIS à AMSTERDAM, je dirais même que c'est encore plus cool qu'avant. moins de trafic dans la rue, dans les coffee, ils vérifient presque tout le temps l'age des gens (-18ans).<br />

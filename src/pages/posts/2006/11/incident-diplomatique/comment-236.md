@@ -4,6 +4,7 @@ author: PoL Nioumane
 email: 
 site: http://www.radio-narden.be
 tags: comment
+permalink: false
 ---
 
 <p>Nan mais il se prend pour qui l'autre là qui t'a arreté ??? :))</p>

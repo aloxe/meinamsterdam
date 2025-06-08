@@ -4,6 +4,7 @@ author: Lycee français
 email: webmaster@lyceevangogh.nl
 site: http://www.lyceevangogh.nl
 tags: comment
+permalink: false
 ---
 
 <p>AMSTERDAM - SEPTEMBRE 2009 : une nouvelle école française dans le &quot;Pijp&quot;...<br />

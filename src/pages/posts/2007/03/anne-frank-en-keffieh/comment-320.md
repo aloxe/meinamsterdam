@@ -4,6 +4,7 @@ author: Ninouki
 email: 
 site: http://ninamsterdam.canalblog.com
 tags: comment
+permalink: false
 ---
 
 <p>Tu pourrais me dire ou tu en as vu??<br />

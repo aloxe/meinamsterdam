@@ -4,6 +4,7 @@ author: kerdekel
 email: kerdekel@gmail.com
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Eh bien on aura eu du bol, ces derniers jours avec la carte 3j/15 euros, elles ont bien marché toutes les deux, et les deux petits jeunes qui nous ont aidé étaient juste adorables (pas comme le vieux guichetier aimable comme une porte de prison à la première machine).<br />

@@ -4,6 +4,7 @@ author: Elisa
 email: elisanievas@gmail.com
 site: http://elisaorigami.blogspot.com
 tags: comment
+permalink: false
 ---
 
 <p>Salut à nouveau!<br />

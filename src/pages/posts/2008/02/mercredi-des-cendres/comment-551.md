@@ -4,6 +4,7 @@ author: Alix
 email: meinamsterdam@blog.re
 site: http://blog.re/me-inamsterdam/
 tags: comment
+permalink: false
 ---
 
 <p>

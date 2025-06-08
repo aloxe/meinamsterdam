@@ -4,6 +4,7 @@ author: sr miryam
 email: communaute@abbayejouarre.org
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Merci Alix ! tu es fidèle, et moi, un escargot pour te répondre : d'abord, qu'à Noël, heu, y a pas que le Papa Noel ! aussi le petit Jésus, et plein de santons !<br />

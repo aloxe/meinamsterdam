@@ -4,6 +4,7 @@ author: Stéphane Bortzmeyer
 email: stephane+blogre@bortzmeyer.org
 site: http://www.bortzmeyer.org/
 tags: comment
+permalink: false
 ---
 
 <p>Je te rassure, le gateau d'anniversaire était excellent.<br />

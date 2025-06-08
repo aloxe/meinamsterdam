@@ -4,6 +4,7 @@ author: Azrael
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Salut,<br />

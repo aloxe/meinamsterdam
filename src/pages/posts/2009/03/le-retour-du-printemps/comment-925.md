@@ -4,6 +4,7 @@ author: Michel
 email: diversbal@orange.fr
 site: http://www.instantspresents.com/blog/
 tags: comment
+permalink: false
 ---
 
 <p>Salut Alix,<br />

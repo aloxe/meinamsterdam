@@ -4,6 +4,7 @@ author: Joelitie
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>Bonjour bonjour.<br />

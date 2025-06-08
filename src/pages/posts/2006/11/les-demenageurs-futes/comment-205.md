@@ -4,6 +4,7 @@ author: Dass
 email: 
 site: 
 tags: comment
+permalink: false
 ---
 
 <p>

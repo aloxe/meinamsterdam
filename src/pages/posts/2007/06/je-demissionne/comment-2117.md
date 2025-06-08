@@ -1,14 +1,12 @@
 ---
 date: 2008-01-16
 author: Jeroen
-email: jeroen@blog.re
+email: jeroen@blink.nl
 site: 
 tags: comment
 ---
 
 <p>Tu as vue?</p>
-
-<p> </p>
 
 <blockquote>
 <p>T-mobile Refund for 2007-05-29<br />

@@ -19,7 +19,7 @@ Il y a bien longtemps, je suis allé visiter **plan delta**, ce projet fou de pl
 
 J'avais posé une question [sur le forum](http://www.leforum.nl/phpBB/viewtopic.php?f=9&t=6204&p=340670) pour découvrir ce que tout cela signifiait mais sans grand succès. J'ai trouvé la réponse tout seul, que je vous livre ici.
 
-![https://farm1.staticflickr.com/218/518315259_39dffa439d.jpg](la cathédrale de Reims sur Neeltje Jans (photo : Max Froumentin)){.center}
+<!-- ![https://farm1.staticflickr.com/218/518315259_39dffa439d.jpg](la cathédrale de Reims sur Neeltje Jans (photo : Max Froumentin)){.center} TODO: distant content -->
 
 Ces cailloux sont l'œuvre de **Marinus Boezem** qui reproduit ici les plans de **la cathédrale de Reims**. Les plans de cathédrales gothiques ont un graphisme bien équilibré et je trouve que Reims est un bon choix. L'histoire ne dit pas si c'est ce qui a inspiré Marinus Boezem.
 

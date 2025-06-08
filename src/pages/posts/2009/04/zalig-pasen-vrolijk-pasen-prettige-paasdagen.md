@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Zalig Pasen, Vrolijk Pasen, Prettige Paasdagen
-description: "Voilà le week-end de pâques, il fait beau entre deux averses alors j'en profite pour prendre le soleil (comme le font les autochtones). C'est ma seule excuse "
+description: "Voilà le week-end de pâques, il fait beau entre deux averses alors j'en profite pour prendre le soleil (comme le font les autochtones). C'est ma seule excuse"
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -21,13 +21,13 @@ Choisissez le votre et vous aussi souhaitez de joyeuses pâques autour de vous. 
 ## Jolies cartes
 Si vous voulez envoyer des v?ux par courrier pour pâques, sachez que c'est possible. Ce n'est pas une tradition alors vous ne trouverez pas de cartes spéciales dans les postes et les carteries mais vous pourrez en trouver dans les cafés. En effet, comme partout dans les monde, des cartes postales publicitaires sont disponibles dans les cafés Néerlandais. Pour l'ensemble du pays, c'est la société Boomerang qui occupe ce créneau. Ce, depuis 1993 à Amsterdam. Cette société diffuse aussi des cartes créatives et ces dernières sont aussi disponible en ligne sur le site [boomerang](http://www.boomerang.nl). Je vous laisse choisir votre préféré dans [la section pasen'](http://www.boomerang.nl/?collection=pasen) (**pâques**) de la galerie. Quelques exemples :
 
-![1426579983paaseiblauw.jpg](.1426579983paaseiblauw_s.jpg){.left}
-![30462_lost.jpg](.30462_lost_s.jpg){.left}
+![1426579983paaseiblauw.jpg](1426579983paaseiblauw.jpg){.left}
+![30462_lost.jpg](30462_lost.jpg){.left}
 <!-- HTML -->
 <div style="clear:both"></div>
 <!-- / HTML -->
-![48729_jc1.jpg](.48729_jc1_s.jpg){.left}
-![36017_depaasballen.jpg](.36017_depaasballen_s.jpg){.left}
+![48729_jc1.jpg](48729_jc1.jpg){.left}
+![36017_depaasballen.jpg](36017_depaasballen.jpg){.left}
 
 <!-- HTML -->
 <div style="clear:both"></div>

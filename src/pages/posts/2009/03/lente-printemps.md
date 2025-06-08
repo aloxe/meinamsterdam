@@ -21,7 +21,7 @@ Le [Van Dale](http://www.vandale.nl/vandale/opzoeken/woordenboek/?zoekwoord=lent
 <!-- HTML -->
 <div style="border:1px solid black; background-color:#FFF; padding-left:10px;">
 <!-- / HTML -->
-{{**len·te** de; v(m) -s eerste jaargetijde, nl. van 21 maart tot 21 juni; voorjaar}}
+> **len·te** de; v(m) -s eerste jaargetijde, nl. van 21 maart tot 21 juni; voorjaar
 <!-- HTML -->
 </div>
 <!-- / HTML -->
@@ -35,7 +35,7 @@ Les néerlandophones aussi on un mot pour parler du premier temps de l'année, c
 <!-- HTML -->
 <div style="border:1px solid black; background-color:#FFF; padding-left:10px;">
 <!-- / HTML -->
-{{**voor·jaar** het; o -jaren lente}}
+> **voor·jaar** het; o -jaren lente
 <!-- HTML -->
 </div>
 <!-- / HTML -->

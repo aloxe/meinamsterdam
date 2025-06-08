@@ -16,7 +16,7 @@ TODO: shortened desc
 Il reste **huit moulins visibles dans la ville d'Amsterdam**, auxquels j'ai rendu visite depuis que je suis ici. J'ai ensuite créé la notice Wikipedia de chacun de ces moulins et essayé autant que possible d'y ajouter une jolie photo. Quatre à l'intérieur du ring, quatre à l'extérieur, un au nord, 7 au sud, un visitable et trois habités, **voici donc la liste exhaustive des huit [moulins d'Amsterdam](/les-moulins-d-amsterdam)**.
 
 ### De Gooyer
-[![http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg/120px-De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg](De Gooyer){.right}](http://commons.wikimedia.org/wiki/File:De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg)
+<!-- [![http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg/120px-De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg](De Gooyer){.right}](http://commons.wikimedia.org/wiki/File:De-Gooyer-Molen-ij-brouwerij-img_4031carre800.jpg) -->
 De Gooyer est le nom d'un moulin à galerie situé à Amsterdam entre la Sarphatistraat et la Singelgracht sur le quai Funen. L'envergure du moulin est de 26,6 m.
 
 Ce moulin est le dernier d'un important groupe de moulins à blé implantés entre le XVIIe siècle et fin du XIXe siècle sur les remparts extérieurs du Singelgracht. A l'époque cette situation, à la périphérie de la ville, était idéale, ils bénéficiaient ainsi de suffisamment de vent. Les derniers moulins de ce groupe à l'exception du De Gooyer ont été démolis vers 1900.
@@ -40,7 +40,7 @@ Le moulin a été remonté en 1961 à quelques 8 kilomètres de là au bord de l
 <a name="1100roe"></a>
 <!-- / HTML -->
 ### De 1100 Roe
-[![http://farm3.static.flickr.com/2173/2275226657_6084d390a7_m.jpg](De 1100 Roe){.right}](http://www.flickr.com/photos/13274211@N00/2275226657/)
+<!-- [![http://farm3.static.flickr.com/2173/2275226657_6084d390a7_m.jpg](De 1100 Roe){.right}](http://www.flickr.com/photos/13274211@N00/2275226657/) -->
 De 1100 Roe est un moulin à vent de poler situé à Amsterdam dans le quartier d'Osdorp. Autrefois, ce moulin se trouvait sur le Haarlemmerweg, la route qui mène à Haarlem. Il tient son nom (1100 'batons') de la distance qui le séparait de la Haarlemmerpoort, soit environ quatre kilomètres.
 
 Ce moulin a été construit en 1674 après la construction du Haarlemmertrekvaart et a servi à l'assèchement des polders de Sloterbinnen et Middelveld. Le moulin a été rénové en 1757 et en 1951. A cette dernière date, le moulin a perdu sa fonction de moulin de polder. En 1961 le moulin a été démonté pour être remonté en 1965 près du complexe sportif *Ookmeer*. Il assure aujourd'hui la régulation de la wateringue du complexe sportif. De par sa nouvelle situation, ce moulin est aussi connu aujourd'hui en tant que **Ookmeermolen**.
@@ -50,20 +50,20 @@ Ce moulin a été construit en 1674 après la construction du Haarlemmertrekvaar
 <!-- / HTML -->
 ----
 ### De 1200 Roe
-[![http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1200-roe.jpg/120px-1200-roe.jpg](De 1200 Roe){.right}](http://fr.wikipedia.org/wiki/Fichier:1200-roe.jpg)
+<!-- [![http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1200-roe.jpg/120px-1200-roe.jpg](De 1200 Roe){.right}](http://fr.wikipedia.org/wiki/Fichier:1200-roe.jpg) -->
 De 1200 Roe est un moulin à vent de poler situé à Amsterdam sur le Haarlemmerweg, la route qui mène à Haarlem. Il tient son nom (1200 batons) de la distance qui le sépare de la Haarlemmerpoort, soit environ quatre kilometres.
 
 Ce moulin a été construit en 1632 après la construction du Haarlemmertrekvaart et a servi à la régulation de la wateringue du polder intérieur d'Osdorp (Osdorper Binnenpolder). En 1951 ce moulin a arrêté d'exercer cette fonction mais il fut laissé sur place en souvenir du passé. Il a été restauré entre 1977 et 1979 et sert aujourd'hui d'habitation privée. Il n'est donc pas possible de le visiter. Mais on peut le voir de l'extérieur et voir en même temps les éoliennes de Sloterdijk.
 
 ----
-[![http://farm2.static.flickr.com/1063/634276388_b1f62dd7f2_m.jpg](De Bloem){.right}](http://www.flickr.com/photos/13274211@N00/634276388/)
+<!-- [![http://farm2.static.flickr.com/1063/634276388_b1f62dd7f2_m.jpg](De Bloem){.right}](http://www.flickr.com/photos/13274211@N00/634276388/) -->
 ### De Bloem
 De Bloem (où De Blom) est un moulin à blé situé à Amsterdam sur le Haarlemmerweg, la route qui mène à Haarlem. Ce moulin à vent a été construit en 1786 et faisait partie des dixaines de moulins à blé qui opéraient sur les remparts extérieurs du Singelgracht jusqu'en 1878.
 
 C'est le premier moulin que j'ai pris [en photo](http://www.flickr.com/photos/13274211@N00/634276388/) à Amsterdam, sur le [chemin de Sloterdijk](/un-tour-a-sloterdijk).
 
 ----
-[![http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Molen-van-Sloten.jpg/85px-Molen-van-Sloten.jpg](Molen de Sloten){.right}](http://commons.wikimedia.org/wiki/File:Molen-van-Sloten.jpg)
+<!-- [![http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Molen-van-Sloten.jpg/85px-Molen-van-Sloten.jpg](Molen de Sloten){.right}](http://commons.wikimedia.org/wiki/File:Molen-van-Sloten.jpg) -->
 ### Moulin de Sloten
 
 De Moulin de Sloten (*Molen van Sloten*) est un moulin à vent de polder dans le village de Sloten au sud-ouest d'Amsterdam. Ce moulin sert a réguler le niveau d'eau des wateringues au bord du *Ringvaart*, le canal de ceinture du polder d'Haarlemmermeer.
@@ -71,7 +71,7 @@ De Moulin de Sloten (*Molen van Sloten*) est un moulin à vent de polder dans le
 Ce moulin est **le seul moulin d'Amsterdam ouvert aux visiteurs et aussi l'un des seuls moulins des Pays-Bas que l'on peut visiter tous les jours**. Depuis avril 2005 la maison à proximité du moulin a été aménagée en musée de la tonnellerie.
 
 ----
-[((http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/D%27Admiraal_Molen.jpg/104px-D%27Admiraal_Molen.jpg|D'admiraal|R))|http://commons.wikimedia.org/wiki/File:D%27Admiraal_Molen.jpg]
+<!-- [((http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/D%27Admiraal_Molen.jpg/104px-D%27Admiraal_Molen.jpg|D'admiraal|R))|http://commons.wikimedia.org/wiki/File:D%27Admiraal_Molen.jpg] -->
 ### Moulin d'Admiraal
 
 Moulin d'Admiraal est un moulin à vent Néerlandais situé dans l'ancien village de Buiksloot au nord de la commune d'Amsterdam. Ce moulin a été construit en 1792 et servait à broyer la craie. C'est le dernier exemplaire de ce type encore debout.
@@ -79,7 +79,7 @@ Moulin d'Admiraal est un moulin à vent Néerlandais situé dans l'ancien villag
 Le moulin a été construit en 1792 et 1793 par Symon Krol pour le compte de Roelof de Leeuw. Roelof de Leeuw était marié à Elisabeth Admiraal qui a donné son nom au moulin. Le moulin a servit a moudre du tuf. Mélangé à de la chaux, le tuf broyé servait à faire du mortier de construction.
 
 ----
-[![http://farm2.static.flickr.com/1027/707403921_700b84f0be_m.jpg](De Otter){.right}](http://www.flickr.com/photos/13274211@N00/707403921/)
+<!-- [![http://farm2.static.flickr.com/1027/707403921_700b84f0be_m.jpg](De Otter){.right}](http://www.flickr.com/photos/13274211@N00/707403921/) -->
 ### De Otter
 
 De Otter est un moulin à bois d'Amsterdam situé dans le quartier de Westerpark à l'ouest de la ville. C'est le dernier moulin d'un groupe de moulins à bois construits entre le XVIIe siècle et la fin le XIXe siècle à l'ouest du Singelgracht qui à l'époque formait la limite de la ville. Le moulin De Otter, construit en 1631, et est le plus ancien moulin du type Paltrokmolen dont seul cinq exemplaires subsistent aux Pays-Bas. Les quatre autres exemplaires sont situés à Haarlem, Zaandam, Zaanse Schans et Arnhem.

@@ -25,13 +25,13 @@ Les cigarettes d'il y a 4 ans sont toujours en vente mais elle ne gagneront pas 
 
 ## Les bannières et les fanions
 
-![http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs047.ash2/35708_1510347241169_1308995352_31391288_3019747_n.jpg]()<!-- TODO: Add image alt -->{.center}
+<!-- ![http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs047.ash2/35708_1510347241169_1308995352_31391288_3019747_n.jpg]() TODO: Add image alt {.center} -->
 
 Ici, les habitants de ce quartier ont essayé de battre le record de la plus longue bannière (*photo perdue*)
 
 ## Le t-shirt qui rugit
 
-![Le t-shirt qui rugit](.brulshirt_m.jpg){.center}
+![Le t-shirt qui rugit](brulshirt.jpg){.center}
 
 Blokker, magasin à l'enseigne orange a déjà marqué les esprits avec [un T-shirt stupide qui rugit](https://www.youtube.com/watch?v=H1BeH45biQ0). Ici c'est un plateau repas patriote qu'ils proposent pour moins de 8 euros.
 
@@ -55,12 +55,14 @@ Blokker, magasin à l'enseigne orange a déjà marqué les esprits avec [un T-sh
 
 
 L'interdiction de cette robe a eu lieu après que les mannequins ci-dessous ait été bien en vu lors du match contre le Danemark. Il semble que la présence de ces manequins soit une opération organisée par Bavaria qui n'est pas le sponsor officiel de la coupe du monde. Cela a donc valut à certaines d'entre elles de se faire arrêter.
-![Bavaria Dutch Dress jurk WK 2010](.bavariadressjurkjewk2010_1200_2000_m.jpg){.center}
+![Bavaria Dutch Dress jurk WK 2010](bavariadressjurkjewk2010_1200_2000.jpg){.center}
 
 ## C'est quoi cette bouteille de lait ?
 Dernière photo, glanée sur facebook, puis ailleurs. Photo qui vous fait penser, même là ils mettent du orange... et oui, c'est partout qu'on mange du foot aux Pays-Bas.
 
-![https://c1.staticflickr.com/5/4053/4718142990_89ee582590_z.jpg](bouteilles de lait){.center}
+<!-- ![https://c1.staticflickr.com/5/4053/4718142990_89ee582590_z.jpg](bouteilles de lait){.center} 
+TODO: external ressource
+-->
 ---
 <!-- post notes:
 https://endasscicli.wordpress.com/2010/06/30/mondiali2010-le-bionde-hostess-birraie-olandesi/ 

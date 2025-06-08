@@ -13,7 +13,7 @@ update: 2018-01-01
 TODO: shortened desc
 ---
 
-Le week end du 8 août Je suis [retourné en Zélande|] pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo|], apprécierait le paysage. La dernière fois que j'y suis allé, [en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire une [petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) ([voir carte](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs284.snc4/40519_1248303986569_1798535697_501696_1344739_n.jpg)) dans cette province maritime du sud.
+[![Tour de Zélande](carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end du 8 août Je suis [retourné en Zélande|] pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo|], apprécierait le paysage. La dernière fois que j'y suis allé, [en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire une [petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) ([voir carte](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs284.snc4/40519_1248303986569_1798535697_501696_1344739_n.jpg)) dans cette province maritime du sud.
 
 Sa proximité avec la Belgique souligne une frontière singulière et poreuse qui nous oblige à nous souvenir de l'histoire de [l'indépendance de la Belgique](/voyage-en-zelande-l-independance-de-la-belgique).
 

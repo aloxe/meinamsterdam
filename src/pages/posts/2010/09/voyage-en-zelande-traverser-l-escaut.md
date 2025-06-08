@@ -13,7 +13,7 @@ update: 2014-08-20
 TODO: shortened desc
 ---
 
-[![Tour de Zélande](.carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end d'août Je suis retourné en Zélande pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), apprécieraient le paysage. [La dernière fois que j'y suis allé, en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) dans cette province maritime du sud.
+[![Tour de Zélande](carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end d'août Je suis retourné en Zélande pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), apprécieraient le paysage. [La dernière fois que j'y suis allé, en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) dans cette province maritime du sud.
 
 ## 1ère partie: Traverser l'Escaut
 

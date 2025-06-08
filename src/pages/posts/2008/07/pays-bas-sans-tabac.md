@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Pays-Bas : Seizième jour sans tabac"
-description:   > Lensemble des médias néerlandais relève que linterdiction de fumer dans lhôtellerie-restauration, qui est en vigueur depuis le 1er juillet, est bi
+description: "L'ensemble des médias néerlandais relève que l'interdiction de fumer dans l'hôtellerie-restauration, qui est en vigueur depuis le 1er juillet, st bien respectée… Pour l'instant."
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -14,7 +14,7 @@ TODO: no image, no image alt, shortened desc
 ---
 
 ![http://www.eatock.com/files/gimgs/th-255_benjeffery.jpg](no smoking){.right}
-> Lensemble des médias néerlandais relève que linterdiction de fumer dans lhôtellerie-restauration, qui est en vigueur depuis le 1er juillet, est bien respectée. LAutorité de surveillance des denrées et marchandises (VWA) a contrôlé un millier détablissements les deux dernières semaines et constaté que 96 pour cent des hôtels, cafés et restaurants visités respectent les règles.
+> L'ensemble des médias néerlandais relève que l'interdiction de fumer dans lhôtellerie-restauration, qui est en vigueur depuis le 1er juillet, est bien respectée. L'Autorité de surveillance des denrées et marchandises (VWA) a contrôlé un millier détablissements les deux dernières semaines et constaté que 96 pour cent des hôtels, cafés et restaurants visités respectent les règles.
 > Maintenant que les Néerlandais nont plus le droit de fumer dans lhôtellerie-restauration, il semble que beaucoup en profitent pour essayer de sarrêter définitivement. Cest ce que la *Stichting Volksgezondheid en Roken* (Fondation Santé publique et Tabac, Stivoro) a fait savoir hier.
 
 Cette citation de [la revue de presse Néerlandaise](http://www.ambafrance.nl/spip.php?article9871) de l'ambassade de France, montre qu'ici aussi la presse fait oeuvre de complaisance en ne s'attardant pas sur les oppositions à cette loi. Je ne suis personnelement pas opposé à cette loi, depuis quinze jours j'ai pu apprécier le fait de rentrer du pub sans que mes vettements sentent autre chose que ma sueur. Mais les journalistes si promps à chercher là petites bêtes sont ici bien peu critiques aux Pays-Bas comme en France.

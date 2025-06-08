@@ -1,9 +1,9 @@
 ---
 layout: base
 title: La maison des années 20
-description: [|/la-maison-des-annees-20]  Après la guerre de 1914-1918, les rescapés de la grande guerre rentrent chez eux, la révolution industrielle poursuit son cours 
+description: Après la guerre de 1914-1918, les rescapés de la grande guerre rentrent chez eux, la révolution industrielle poursuit son cours avec un exode rural qui contraint les villes à s'agrandir. 
 categorie: toering
-tags: []
+tags: ["architecture"]
 isMarkdown: true
 thumbnail: maison-annees-20_s.jpg
 image_alt: Maison des années 20
@@ -26,7 +26,7 @@ Aux Pays-Bas les maisons construites durant les années 20 l'ont été sur un mo
 
 Je l'ai trouvée, la fameuse *maison des années 1920* construite au début du siècle dernier. (Ceux qui suivent mes envois de [photos sur flickr](/la-centieme-photo) on déjà vu cette photo).
 
-Ceux qui tenteraient un rapprochement avec [les HBM parisiens](http://www.parisbalades.com/Voc/vocabulaH-M.htm#HBM) ne doivent pas être pris à faux car des ensembles correspondent à peux de chose près à la même approche immobilière dans une même période. Au 19è siècle avec la révolution industrielle, les villes on connu un afflux massif de nouvelles personnes venant de loin pour travailler dans les industries naissantes. Ces derniers se logent tant bien que mal à proximité des usines mais leur logement n'est pas pris en charge et l'insalubrité rêgne. Certains mouvements paternalistes, [hygienistes](http://fr.wikipedia.org/wiki/Mouvement_hygi%C3%A9niste), [chrétiens](http://fr.wikipedia.org/wiki/Catholicisme_social) ou [socialistes](http://fr.wikipedia.org/wiki/Socialisme) font entendrent leur voix pour que les ouvriers soient mieux logés et que le logement des plus pauvres soit pris en charge par ceux qui ont les moyens. Les constructions collectives et les aménagements ad hoc ont donc commencés dans les grandes capitales à la fin du 19e siècle emmenés par des corporation et des fondations privées. Après la première guerre mondiale, les gouvernement on commencés à se soucier de logement social et cela a aboutit à la construction des HBM autour de Paris et des *maisons des années 20* autour d'Amsterdam.
+Ceux qui tenteraient un rapprochement avec [les HBM parisiens](http://www.parisbalades.com/Voc/vocabulaH-M.htm#HBM) ne doivent pas être pris à faux car des ensembles correspondent à peux de chose près à la même approche immobilière dans une même période. Au 19è siècle avec la révolution industrielle, les villes on connu un afflux massif de nouvelles personnes venant de loin pour travailler dans les industries naissantes. Ces derniers se logent tant bien que mal à proximité des usines mais leur logement n'est pas pris en charge et l'insalubrité rêgne. Certains mouvements paternalistes, [hygienistes](http://fr.wikipedia.org/wiki/Mouvement_hygi%C3%A9niste), [chrétiens](http://fr.wikipedia.org/wiki/Catholicisme_social) ou [socialistes](http://fr.wikipedia.org/wiki/Socialisme) font entendre leur voix pour que les ouvriers soient mieux logés et que le logement des plus pauvres soit pris en charge par ceux qui ont les moyens. Les constructions collectives et les aménagements ad hoc ont donc commencés dans les grandes capitales à la fin du 19e siècle emmenés par des corporation et des fondations privées. Après la première guerre mondiale, les gouvernement on commencés à se soucier de logement social et cela a aboutit à la construction des HBM autour de Paris et des *maisons des années 20* autour d'Amsterdam.
 ---
 <!-- post notes:
 http://fr.wikipedia.org/wiki/Cit%C3%A9_ouvri%C3%A8re#Origines_et_sources_d.27inspiration 

@@ -13,11 +13,11 @@ update: 2014-08-04
 TODO: shortened desc, subfooters
 ---
 
-[![Tour de Zélande](.carte-tour-zelande_t.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]Le week end d'août Je suis retourné en Zélande pour voir si Drooderfiets, mon nouveau vélo, apprécieraient le paysage. La dernière fois que j'y suis allé, en 2008, j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle](/voyage-en-zelande-traverser-l-escaut) à vélo dans cette province maritime du sud.
+[![Tour de Zélande](../09/carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]Le week end d'août Je suis retourné en Zélande pour voir si Drooderfiets, mon nouveau vélo, apprécieraient le paysage. La dernière fois que j'y suis allé, en 2008, j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle](/voyage-en-zelande-traverser-l-escaut) à vélo dans cette province maritime du sud.
 
 ### Une petite boucle
 
-[![Tour de Zélande](.carte-tour-zelande_m.jpg){.center}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]
+[![Tour de Zélande](../09/carte-tour-zelande.jpg){.center}|/public/images/scans/cartes/carte-tour-zelande.jpg||Mon tour de Zélande sur une carte]
 
 Comme vous pouvez le voir sur la carte ci-dessus (que Drooderfiets a posté [sur sa page facebook](http://www.facebook.com/photo.php?fbid=1248303986569&set=a.1229858125434.27441.1798535697)), j'ai fait quelques kilomètres en Zélande. 109 en tout. Les premières heures, je n'avançais pas très vit parce que je m'arrêtais souvent pour prendre des photos. Le temps passant, je me suis rendu compte que je prenais du retard, il a fallut activer. Je suis arrivé à temps pour le premier (et seul) ferry m'emmenant au sud, en **Flandre zélandaise** (*Zeeuws-Vlaanderen*), pour le ferry du retour, j'ai raté l'horaire que je visais, j'ai du attendre le suivant 40 minutes et je suis rentré directement en train parce qu'il se faisait tard et que c'était **le dernier train pour Amsterdam**.
 

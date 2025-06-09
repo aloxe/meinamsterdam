@@ -31,7 +31,7 @@ echo "connected<br>";
 // $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 1 AND 100";
 // $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 101 AND 300";
 // $sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 301 AND 500";
-$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 301 AND 500";
+$sql = "SELECT *  FROM dc_post WHERE post_id BETWEEN 501 AND 800";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -272,6 +272,7 @@ if ($result->num_rows > 0) {
           $comcontent .= "\nemail: ". $row_com[comment_email];
           $comcontent .= "\nsite: ". $row_com[comment_site];
           $comcontent .= "\ntags: ". "comment";
+          $comcontent .= "\npermalink: ". "false";
           $comcontent .= "\n---";
           $comcontent .= "\n\n". $row_com[comment_content];
           $comcontent .= "\n---";

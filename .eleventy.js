@@ -241,6 +241,12 @@ module.exports = async function(eleventyConfig) {
     return collection.getFilteredByGlob("./src/pages/documentation/**/*.md");
   });
 
+  eleventyConfig.addCollection("posts", function (collection) {
+  return collection.getFilteredByGlob("./src/pages/posts/**/*.md") // all posts
+    .filter((item) => !item.data.tags.includes("comment")) // without comments
+    .sort((a, b) => a.date - b.date); // sort descending
+  });
+
   // pagefind search
   eleventyConfig.on('eleventy.after', () => {
     execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })

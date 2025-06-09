@@ -1,7 +1,7 @@
 ---
 date: 2014-04-14
 author: gallixa
-email: gallica@blog.re
+email: gallica@wanadoo.re
 site: http://gallica.bnf.fr/
 tags: comment
 permalink: false

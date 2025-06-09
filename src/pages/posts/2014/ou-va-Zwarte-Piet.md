@@ -15,7 +15,9 @@ TODO: no image, no image alt, shortened desc
 
 [Saint Nicolas est revenu](/saint-nicolas-est-revenu-sinterklaas-is-terug) comme tous les ans et cette année encore il est accompagné de ses serviteurs peints en noir, les **zwarte Piet**. Chose nouvelle cette année, les zwarte Piet ammènent avec eux la discorde et les polémiques. Le joyeux drille ne fait plus rire tout le monde, ses opposants trouvent la création de ce **personnage raciste** et veulent fêter *Sinterklaas* (Saint-Nicolas) sans eux.
 
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zwarte-Piet-img_3749carre800.jpg/480px-Zwarte-Piet-img_3749carre800.jpg]()<!-- TODO: Add image alt -->{.center}|https://commons.wikimedia.org/wiki/File:Zwarte-Piet-img_3749carre800.jpg]
+<!-- [![https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zwarte-Piet-img_3749carre800.jpg/480px-Zwarte-Piet-img_3749carre800.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zwarte-Piet-img_3749carre800.jpg/480px-Zwarte-Piet-img_3749carre800.jpg)<!-- TODO: Add image alt -{.center}|https://commons.wikimedia.org/wiki/File:Zwarte-Piet-img_3749carre800.jpg] 
+TODO: external
+-->
 
 ## Le débat est houleux
 Déjà, ils avaient manifesté lors de plusieurs parades l'année dernière avec des [t-shirts «Zwarte Piet is racisme»](http://zwartepietisracisme.tumblr.com/post/13611051074/dordrecht-pic-by-mimi-young). Faire ça devant les enfants, ce n'était pas dans l'esprit de la fête. Alors, ils ont été embarqués violemment par la police ce qui était encore moins festif[^1]. Leur visibilité a invité l'incorrection de zwarte Piet sur les plateaux de télé et dans les colonnes des journaux. Comme [je l'écrivais en 2006](http://meinamsterdam.nl/qui-est-tu-zwarte-piet), le **faux noir serviteur et stupide** est une idée offensante. Les néerlandais noirs, d'origine surinamaise ou antillaise commencent à le dire plus fort qu'avant, ce ne sont pas les seuls. Ils ont commencé en 2012 à la suite de **Quincy Gario**, le leader de la contestation. Les contestataires font face à des réactions épidermiques de conservateurs qui ne veulent pas changer leurs souvenirs d'enfants et qui se posent (parfois très violemment) en défenseurs de la tradition néerlandaise. Un nouveau mot est né : *het Zwarte Pietendebat* et ''de Zwarte Pietendiscussie"[^2].
@@ -25,7 +27,7 @@ Les opposants à zwarte Piet ont attaqué la mairie d'Amsterdam, organisatrice d
 
 Amsterdam a fait appel de la décision en août 2014 et le jugement d'appel n'a pas encore été rendu, cela permet de gagner du temps et ne pas remettre en cause la parade (*Sinterklaastoch*) qui aura lieu cette année. En même temps **Eberhard van der Laan**, le maire de la ville a annoncé que cette année, le noir de Piet ne sera pas un maquillage de «black face» mais des traces de suie parce que le serviteur de Saint-Nicolas s'est couvert de suie en passant par la cheminée.
 
-[![https://farm3.staticflickr.com/2125/2044474482_86c54f12c0.jpg]()<!-- TODO: Add image alt -->{.center}|https://www.flickr.com/photos/13274211@N00/2044474482/]
+<!-- [![https://farm3.staticflickr.com/2125/2044474482_86c54f12c0.jpg](https://farm3.staticflickr.com/2125/2044474482_86c54f12c0.jpg) TODO: external image alt {.center}|https://www.flickr.com/photos/13274211@N00/2044474482/] -->
 
 ## Un débat créatif
 Depuis que le débat a enflé, zwarte Piet est moins présent sur les brochures publicitaires des supermarchés. Certaines mairies ont abandonné les zwarte Piet dans leur parade de Saint Nicolas mais une majorité les garde. Les comités d'organisations aimeraient garder ces accompagnateurs du saint, même s'ils doivent changer de ton ou de couleur[^3]. Certains pensent se maquiller de toutes les couleurs comme [le Sinterklaasjournaal](/sinterklaas-est-arrive) l'avait tenté en 2006[^4] 
@@ -55,7 +57,7 @@ J'aimerais quand même savoir dès aujourd'hui ce que zwarte Piet va devenir, d'
 [^2]: L'année dernière, Laurent Chambon a osé la comparaison entre les défenseurs de zwarte Piet et les opposant au mariage pour tous (lire *[Le Père Fouettard, la colère et les privilèges](http://www.minorites.org/index.php/2-la-revue/1536-le-pere-fouettard-la-colere-et-les-privileges.html)* sur minorites.org). Même si les néerlandais ont l'avantage de se battre pour ce qui les touche directement, on a ici deux mouvement comparables, conservateur et raciste-qui-ne-veut-pas-se-l'avouer. Laurent creuse très bien la question
 [^3]: Les Piet d'Amsterdam ont proposé de [varier les couleurs](http://www.nrc.nl/nieuws/2014/07/03/amsterdam-moet-intocht-met-zwarte-piet-opnieuw-bekijken/) au cours des débats organisés par la mairie à l'issue du procès.
 [^4]: Pendant leur voyage en bateau depuis l'Espagne, les zwarte Piet sont passé dans un arc en ciel. Ce dernier a coloré les zwarte Piet de toutes les couleurs.
-[^5]: Comme cette [présentation du Piet plein de suie](http://www.nieuws.nl/algemeen/20140617/Reacties-op-nieuwe-Zwarte-Piet-Centrum-voor-Volkscultuur-neemt-voorstel-Nieuwsnl-over) (*nieuwe Zwarte Piet*) qui est un peux grotesque avec son maquillage et sa perruque crépue
+[^5]: Comme cette [présentation du Piet plein de suie](http://www.nieuws.nl/algemeen/20140617/Reacties-op-nieuwe-Zwarte-Piet-Centrum-voor-Volkscultuur-neemt-voorstel-Nieuwsnl-over) (*nieuwe Zwarte Piet*) qui est un peu grotesque avec son maquillage et sa perruque crépue
 [^6]: On m'a parlé d'[Endia Beal](http://endiabeal.com/) il y a peu, mais je m'égare...
 <!-- post notes:
 http://seenthis.net/sites/364602 

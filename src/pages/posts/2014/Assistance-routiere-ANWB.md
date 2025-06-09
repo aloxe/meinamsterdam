@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc, subfooters
 
 Nombreuses sont les personnes qui m'ont fait remarquer le design biscornu des bornes de secours au bord des routes hollandaises. Alors que dans presque tous les pays elles sont oranges, ici, elles sont jaunes avec des pointes effilées en tête.
 
-![Voiture en panne le 14 septembre](.voiture-en-panne-le-2014-0914_m.jpg){.center}
+![Voiture en panne le 14 septembre](voiture-en-panne-le-2014-0914.jpg){.center}
 
 Pour répondre à vos interrogations, **j'ai décidé de tomber en panne sur l'autoroute**, afin de vous faire profiter de mon expérience avec l´une de ces bornes et de l'assistance qu'elle est sensée apporter.
 

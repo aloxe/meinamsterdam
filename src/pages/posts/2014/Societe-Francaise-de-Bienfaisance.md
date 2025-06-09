@@ -19,7 +19,7 @@ Avec les élections des conseillers consulaires qui ont lieu cette année, de no
 
 Aux Pays-Bas, c'est particulier puisque depuis le 18 mai 1883[^1], une association[^2] vient en aide des français les plus démunis vivants aux Pays-Bas. Le consulat de France à Amsterdam reçoit les demandes d'aide sociale comme partout ailleurs dans le monde mais il s'appuie sur cette association pour assurer son action. 
 
-[![Société Français de Bienfaisance aux Pays-Bas](.SFB_m.jpg){.center}](http://sfb-paysbas.nl/)
+[![Société Français de Bienfaisance aux Pays-Bas](SFB.jpg){.center}](http://sfb-paysbas.nl/)
 
 Les liens entre les institutions françaises et l'association sont ténues puisque l'Ambassadeur de France à la Haye et le Consul Général de France à Amsterdam sont membres statutaires du comité d'honneur de l'association. Il n'en reste pas moins que ce sont sont les bénévoles de l'association qui mènent ces actions sociales et que cette dernière est réalisée grâce à la cotisation des membres et à des dons privés.
 

@@ -27,7 +27,7 @@ La facilité d'enregistrement, de copie et de transport de ce support va faire n
 
 Lou Ottens a passée toute sa carrière chez Philips et il a quitté la multinationale néerlandaise en 1986 mais il est passé par plusieurs divisions notamment celles qui ont mis au point le format Video 2000 qui n'a pas percé et **le compact disc**, développé avec Joop Sinjou qui lui, a cartonné grâce à l'alliance que Ottens a su passer avec Akio Morita avant même la fin de la phase de développement. 
 
-![le compact disc](.CompactDiscDigitalAudio_m.png){.center}
+![le compact disc | Digital audio](CompactDiscDigitalAudio.png){.center}
 
 Beaucoup d'entreprises cherchaient déjà un support musical utilisant le numérique. Sony était plus avancé que Philips mais l'entreprise néerlandaise a réussi à les doubler pour la fabrication d'un objet suffisamment petit avec assez de données pour tenir une heure de musique. Les deux entreprises ont donc décidées d'unir leurs efforts sur ce produit et Philips et Sony sont donc devenus les deux propriétaires du brevet du compact disc. Et là encore, la licence était gratuite.
 

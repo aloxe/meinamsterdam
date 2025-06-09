@@ -12,8 +12,6 @@ date: 2013-04-03
 update: 2014-04-19
 ---
 
-
-
 Encore une fois je vais comparer **la France** et **les Pays-Bas** dans les classements mondiaux. Encore une fois je vais prouver que les deux pays sont très différents et que tout deux sont les meilleurs dans leur catégorie[^1]. Une fois n'est pas coutûme, l'étude sera très légère sur un sujet qui intéresse bon nombre de nos contemporains, il s'aggit d'une compilation des recherches effectuées sur un moteur suisse de matériel pornographique. Les données ont été compilées par pays sur une base inconnue (les origines géographiques des adresses IP sont parfois difficiles à déterminer) et la quantité de données collectée n'est même pas donnée. C'est à douter du sérieux de l'étude. 
 
 Donc voilà je vais vous en parler pour le fun (pour les *lulz*) et aussi pour augmenter l'audience de mon blog puisque je vais parler de sexe et de porn. L'étude est [encore en ligne](http://www.pornmd.com/sex-search) et est consultable au boulot sans risque. **Voici les Global Internet Porn Habits**.

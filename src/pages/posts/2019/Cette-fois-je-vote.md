@@ -17,7 +17,7 @@ Les élections au parlement européen ont lieu dans tout juste deux mois et comm
 
 C'est pour lutter contre cette abstention que le site **Cette fois je vote** (*Ik stem dese keer*) a lancée sa campagne, relayée dans toute l'Europe par des volontaires et sur les réseaux sociaux où vous avez peut-être vu cette petite fille au chapeau H&M qui vous rappelle la date de mon anniversaire.
 
-{{}}![Campagne: Cette fois je vote !](cettefoisjevote.png){.center}
+![Campagne: Cette fois je vote !](cettefoisjevote.png){.center}
 
 Qui se cache derrière cette campagne et comment fait-on pour réduire l'abstention sont des questions qui me taraudent et que je vais essayer d'aborder ici. Il faudra ensuite rappeler comment voter quand on est français résident aux Pays-Bas parce que l'embarras du choix peut parfois laisser dans l'embarras.
 

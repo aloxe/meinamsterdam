@@ -5,8 +5,8 @@ description: "La bière trappiste est une catégorie de bière bien connue pour 
 categorie: nederlandjes
 tags: ["bière", "religion"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: authentic-trappist-product.jpg
+image_alt: trappist authentic product
 permalink: nouvelle-biere-trappiste-neerlandaise/
 date: 2017-10-16
 update: 2017-10-18
@@ -15,15 +15,15 @@ TODO: no image, no image alt, shortened desc
 
 La bière trappiste est une catégorie de bière bien connue pour qui aime bien ce breuvage. Même si avec sa fermentation basse et son titre d'alcool élevée elle est typique de la bière belge, elle n'en est pas moins appréciée dans le pays où coule l'Amstel. Beaucoup de pubs d'Amsterdam proposent **des bières d'abbaye** à la pression en plus de la traditionnelle **pils** locale mais les connaisseurs peuvent demander une bière trappiste, très souvent une **Westmalle**, en bouteille. Les Pays bas sont même producteurs de bière trappiste authentique ce qui n'a pas toujours été le cas. Les commerçants bataves et le label brassicole des moines contemplatifs ont d'ailleurs une histoire mouvementée.
 
-![authentic-trappist-product.jpg](.authentic-trappist-product_s.jpg){.center}
+![authentic-trappist-product.jpg](authentic-trappist-product.jpg){.center}
 
 ### Le label bière trappiste
 
-Aujourd'hui l'appellation « bière trappiste » est protégée. Seules les bières brassées par ou avec des moines trappistes dans leur abbaye peuvent utiliser cette appellation. Elles arborent même un logo « [Authentic Trappist Product|http://www.trappist.be/fr/pages/|fr|Produit trappiste authentique] » signant cette exclusivité. Ce logo est un label délivré par l’**Association Internationale Trappiste** qui regroupe une vingtaine d'abbaye trappistes voulant mettre en valeur leurs produits. En plus de l'origine du produit, le label certifie un savoir faire original un peu comme un label rouge ainsi que l'utilisation qui est faite du produit de la vente un peu comme un label *fair trade* en faveur des moines et moniales.
+Aujourd'hui l'appellation « bière trappiste » est protégée. Seules les bières brassées par ou avec des moines trappistes dans leur abbaye peuvent utiliser cette appellation. Elles arborent même un logo « [Authentic Trappist Product](http://www.trappist.be/fr/pages/|fr|Produit), produit trappiste authentique » signant cette exclusivité. Ce logo est un label délivré par l’**Association Internationale Trappiste** qui regroupe une vingtaine d'abbaye trappistes voulant mettre en valeur leurs produits. En plus de l'origine du produit, le label certifie un savoir faire original un peu comme un label rouge ainsi que l'utilisation qui est faite du produit de la vente un peu comme un label *fair trade* en faveur des moines et moniales.
 
 Ce label est né suite au différent qu'il y a eu dans les années 60 entre l'abbaye d'Orval et des brasseurs de cette région qui appelaient leurs bières « bière trappiste » sans n'avoir aucun lien avec les moines autre que la ressemblance d'une recette. Par le [jugement de Gand](http://trappistbeer.net/falsetrappist/jugementgand.jpg), les moines ont eu gain de cause ce qui a permis par jurisprudence, de protéger le produit du travail des autres moines brasseurs. Le label est né de cette dynamique et ne s'appose aujourd'hui que sur des bières et un fromage. Depuis quelques années des abbayes trappistes de par le monde se sont lancées dans l'aventure brassicole et ont acquit le droit d'utiliser ce label. Deux monastères néerlandais sont sur la liste.
 
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trappist_Beer_2015-08-15.jpg/640px-Trappist_Beer_2015-08-15.jpg]()<!-- TODO: Add image alt -->|https://commons.wikimedia.org/wiki/File:Trappist_Beer_2015-08-15.jpg]
+<!-- [![https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trappist_Beer_2015-08-15.jpg/640px-Trappist_Beer_2015-08-15.jpg]() TODO: external image alt |https://commons.wikimedia.org/wiki/File:Trappist_Beer_2015-08-15.jpg] -->
 
 ### La trappe (nigaud ?)
 
@@ -40,7 +40,7 @@ Aujourd'hui la brasserie de Koningshoeven est toujours la plus grosse brasserie 
 * Isid'or
 * Puur (première et unique bière trappiste bio)
 
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La_Trappe_-_5_bouteilles.jpg/640px-La_Trappe_-_5_bouteilles.jpg]()<!-- TODO: Add image alt -->|https://en.wikipedia.org/wiki/File:La_Trappe_-_5_bouteilles.jpg]
+<!-- [![https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La_Trappe_-_5_bouteilles.jpg/640px-La_Trappe_-_5_bouteilles.jpg]() TODO: External image alt |https://en.wikipedia.org/wiki/File:La_Trappe_-_5_bouteilles.jpg] -->
 
 ### La Zundert
 

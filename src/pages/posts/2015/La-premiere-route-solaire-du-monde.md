@@ -40,8 +40,8 @@ Seul un coté de la piste cyclable sera équipé de cellules photoélectriques. 
 Donc pendant 3 ans, les usagers à vélo de **Kommenie** vont utiliser cette piste cyclable témoin. Pendant ces 3 ans, la société SolaRoad va effectuer toutes sortes de mesures sur la piste et dans les installation autour afin de parfaire leur solution de routes solaires. Dans trois ans donc, on saura si il y aura d'autres pistes cyclables, des parkings ou des autoroutes capables de générer de l'énergie.
 
 ## Voir aussi  
-![Les routes du futur](/Les-routes-du-futur)  
-![Un polder en forme de tulipe](/un-polder-en-forme-de-tulipe)
+<!-- ![Les routes du futur](/Les-routes-du-futur)  TODO: find these ref back -->
+<!-- ![Un polder en forme de tulipe](/un-polder-en-forme-de-tulipe/) -->
 ---
-[^1]: Vous ai-je dit que les pays-Bas étaient [le pays du vélo](/?q=vélo) ?
+[^1]: Vous ai-je dit que les pays-Bas étaient [le pays du vélo](/tags/velo) ?
 [^2]: J'ai déjà fait du vélo à Kommenie mais jamais je n'aurais pensé pouvoir parler de cette localité dans ce blog...

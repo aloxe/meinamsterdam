@@ -39,7 +39,10 @@ L'année dernière Le festival faisait peau neuve avec un nouveau logo plus cin�
 
 ### Cinq ans déjà
 
-[![Melanie-et-Alix-au_CREA-2010.jpg](.Melanie-et-Alix-au_CREA-2010_s.jpg){.left}](https://www.facebook.com/veryshort.nl/photos/pb.105529349569946.-2207520000.1433242449./152998441489703/?type=3&theater)
+![Melanie-et-Alix-au_CREA-2010.jpg](Melanie-et-Alix-au_CREA-2010.jpg){.center}
+
+<!-- (https://www.facebook.com/veryshort.nl/photos/pb.105529349569946.-2207520000.1433242449./152998441489703/?type=3&theater) -->
+
 ''Quand j'étais à Paris, j'allais presque tous les ans au forum des images pour le festival des très court. Un amusant programme éclectique de films très courts dont le seul point commun est de ne pas durer plus que 3 minutes.'' Voilà comment j’introduisais en 2010 l'arrivée du festival très court aux Pays-Bas, je titrais même [Festival des très court enfin à Amsterdam](http://meinamsterdam.nl/festival-des-tres-court-enfin-a-amsterdam), très fier d'être à l'origine de cette première Batave, [avec Mélanie](http://trescourt.com/fr/equipe). 2010 a été un très bon cru avec la victoire d'un cinéaste local pour cette première à Amsterdam.
 
 Les années suivantes, nous avons renouvelé l'expérience avec des succès comme l'[arrivée du festival à la Haye](http://meinamsterdam.nl/deux-nouveaux-sites-web) ou des déboires comme le désistement de dernière minute d'[un cinéma](http://meinamsterdam.nl/en-vrac-d-avril). Depuis mon départ, **le festival Très court continue aux Pays-Bas**. Mélanie se charge seule de l'organisation mais elle ne chôme pas, deux villes sont au programme cette année: **la Haye** avec un retour à [la Nutshuis](http://www.nutshuis.nl/) et **Rotterdam** avec un nouveau lieu à découvrir : [le Worm](http://www.worm.org/). Les cinémas d'Amsterdam semblent plus dûrs à convaincre mais cela donnera à ses habitants l'occasion de sortir hors des murs de la capitale.

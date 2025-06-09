@@ -26,7 +26,7 @@ Il n'y a pas vraiment de rapport entre la manif du 17 janvier dernier et ce clip
 ## Tournedisk
 Le duo, auteur de Tournedisk est composé de deux artistes francophones d'Amsterdam que les lecteurs de ce blog connaissent bien : **Tournedisk**, alias **Laurent Outang** à la prod et aux synthés et **Fusée Dorée**, chant et guitare. Leur bio officielle signale l'opposition synthé / guitare qu'on a connu dans les années 90 où ils puisent leur inspiration :
 
-{{Tournedisk c’est un garçon house-techno et une fille rock-pop. Ils ne s'entendent presque sur rien sauf : Gainsbourg, Goldfrapp, Blondie, la disco turque, l’italo disco et Tame Impala. Et la politique. Les discussions sont donc plutôt vives mais parfois fructueuses. }}
+> Tournedisk c’est un garçon house-techno et une fille rock-pop. Ils ne s'entendent presque sur rien sauf : Gainsbourg, Goldfrapp, Blondie, la disco turque, l’italo disco et Tame Impala. Et la politique. Les discussions sont donc plutôt vives mais parfois fructueuses.
 
 ## Démonstations de force
 La politique, l'autre sujet de discussion du groupe est la transition toute trouvée pour vous parler des manifs qui continuent. Ce n'est rien d'un clip cette fois et les images que nous recevons des Pays-Bas font état d'une révolte qui monte. La manif contre les restrictions liées à la crise sanitaire du dimanche 17 janvier 2021 n'était pas la dernière, le dimanche suivant, les manifestations ont eu lieu dans de plusieurs villes du pays, avec cette fois des violences que les canons à eau n'ont pas toujours pût arrêter.

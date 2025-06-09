@@ -5,8 +5,8 @@ description:
 categorie: nederlandjes
 tags: ["internet", "sociétés", "économie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: xs4all-entend-le-verdict.jpg
+image_alt: les employés de XS4ALL
 permalink: The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas/
 date: 2014-01-28
 update: 2014-09-11
@@ -17,7 +17,7 @@ TODO: no image, no image alt
 
 C'est par un **Victoire pour l'Internet libre !** (*Overwinning voor het vrije internet!*) que le fournisseur d'accès XS4ALL [a annoncé](https://blog.xs4all.nl/2014/01/28/internetblokkade-the-pirate-bay-opgeheven/) le verdict rendu aujourd'hui par le tribunal de la Haye sur l'affaire qui opposait **Ziggo** et **XS4ALL** à **BREIN** (le lobbie local des maisons de disque) sur le blocage du célèbre site de torrent **The Pirate Bay**. La cour a rendu son verdict aujourd'hui et les deux fournisseurs d'accès n'ont plus à en bloquer l'accès à leurs abonnés.
 
-![les employés de XS4ALL entend le verdict du jugement.](xs4all-entend-le-verdict.jpg){.center}
+![les employés de XS4ALL joyeux autour d'un laptop](xs4all-entend-le-verdict.jpg){.center}
 
 Dans [le verdict|https://blog.xs4all.nl/wp-content/uploads/2014/01/Arrest-Hof-Den-Haag-20140128.pdf||verdict de l'appel en PDF] que le fournisseur d'accès a publié sur son blog, il est indiqué que le blocage en question est disproportionné (*onevenredig*), nuisible (*nadelige*) et inefficaces (*niet-effectieve*). Une étude dont j'avais parlé [dans un post précédent](/Pirate-Bay-pas-vraiment-bloque-aux-Pays-Bas) avait été présentée à l'audience. Le demandeur, avait contesté cette étude universitaire en avançant des mesures réalisées par Comscore et Alexa, des mesures qui sont réputées inexactes.
 

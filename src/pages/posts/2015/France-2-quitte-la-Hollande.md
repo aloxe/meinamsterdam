@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Pendant ce mois de la francophonie (le mois de mars), les Pays-Bas ont multiplié les mauvaises nouvelles concernant la langue de Molière et son rayonnement dans le monde. Aujourd'hui le cas **France 2 sur le câble** et la fin du bouquet Ziggo.
 
-![bandeau-consumentenbond-teve.jpg](.bandeau-consumentenbond-teve_m.jpg){.center}
+![bandeau-consumentenbond-teve.jpg](bandeau-consumentenbond-teve.jpg){.center}
 
 ## Le nouveau Ziggo
 

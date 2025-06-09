@@ -15,17 +15,17 @@ TODO: no image, no image alt, shortened desc
 
 Depuis quelques jours, de grands panneaux ont été disposés dans les rues d'Amsterdam. C'est a police de la ville qui les a placés là et ils s'adressent en premier lieu aux touristes. Si on n'y prend pas garde on dirait que la police essaye de vendre de l'héroïne blanche aux touristes.
 
-[![white heroine sold to tourists](.white-heroine_m.jpg){.center}|/public/images/contribs/2014/white-heroine.jpg||white-heroine.jpg]
+![white heroine sold to tourists](white-heroine.jpg){.center}
 
 Les apparences sont parfois trompeuses et les choses ne sont pas si simples que ça. Explications :
 
 En fait l'héroïne blanche est vendue en prétendant être de la cocaïne
 
-[![as cocaine](.as-cocaine_m.jpg){.center}|/public/images/contribs/2014/as-cocaine.jpg||as-cocaine.jpg]
+![as cocaine](as-cocaine.jpg){.center}
 
 et comme ces deux substances ont des posologies et des effets différents, la prise est en surdose et peut être dangereuse. Elle peut même être fatale.
 
-[![tourists in hospital](.tourists-in-hospital_m.jpg){.center}|/public/images/contribs/2014/tourists-in-hospital.jpg||tourists-in-hospital.jpg]
+![tourists in hospital](tourists-in-hospital.jpg){.center}
 
 Un touriste britannique de 22 ans est mort[^1] par overdose le 14 octobre dernier et la police ne savait la cause exacte quand elle a annoncé ce décès. Un autre jeune britannique a été ramené à la vie le même week-end après, semble-t-il avoir consommé les mêmes produits stupéfiant que son compatriote.
 
@@ -41,11 +41,11 @@ L'offre en drogue dure est donc présente dans la ville et il n'est pas rare de 
 
 C'est donc dans la rue que les policiers ont lancé leur campagne, visant les touristes qui ne lisent pas les guides. Des tracts et des affiches ont été distribués dans les hôtels et autour de la gare centrale, lieu de passage obligé des touristes sans [voiture](/?q=voiture). Ces tracts en anglais sont délibérément alarmistes avec un gros **Cocaïne Alert** et précise que les personnes rapportant leur usage de drogue ne seront pas poursuivies.
 
-[![cocaine alert](.cocaine-alert_m.jpg){.center}|/public/images/contribs/2014/cocaine-alert.jpg||cocaine-alert.jpg]
+![cocaine alert](cocaine-alert.jpg){.center}
 
 La police n'a toujours pas d'information sur le ou les dealers de fausse-cocaïne-vraie-héroïne-blanche et offrent aussi 15.000 euros à qui pourrait donner des éléments permettant de déterminer l'origine de cette poudre. Cette information est dans les journaux uniquement. La campagne se borne à informer les visiteurs pour éviter le pire. Espérons que les touristes visés y fassent attention avant de se faire avoir.
 
-[![cocaine oups ](.cocaine-oups_m.jpg){.center}|/public/images/contribs/2014/cocaine-oups.jpg||cocaine-oups.jpg]
+![cocaine oups ](cocaine-oups.jpg){.center}
 ---
 [^1]: Et la nouvelle a été [reprise outre Manche](http://www.dailymail.co.uk/news/article-2810682/British-tourist-22-dies-taking-cocaine-heroin-trip-Amsterdam.html)
 [^2]: Les guides en ligne [aussi](http://www.amsterdam.info/drugs/)

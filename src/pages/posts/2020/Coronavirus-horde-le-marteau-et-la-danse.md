@@ -39,9 +39,9 @@ Les exemples de Lombardie ou du Grand Est devraient être connues de Mark Rutte 
 
 ## La double courbe
 
-La réponse est peut-être dans une courbe publiée dans un article de The Imperial College UK ([PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)) montrant cette résurgence du nombre de cas après une  levée des mesures prises pour stopper le virus. 
+La réponse est peut-être dans une courbe publiée dans un article de The Imperial College UK ([PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)) montrant cette résurgence du nombre de cas après une levée des mesures prises pour stopper le virus. 
 
-![Suppressionstrategy  scenarios  for GBshowing ICUbed  requirements.  The  black  line  shows  the unmitigated epidemic. Green shows a suppressionstrategy incorporating closure of schools and universities, case isolation and population-wide social distancingbeginning in late March 2020. The orange line shows a containment   strategy   incorporating   case   isolation,   household   quarantine   and population-wide social distancing. The red line is the estimated surge ICU bedcapacity in GB.  The blue shading shows the 5-month period in which these interventions are assumed to remain in place. ](.impact-intervention-covid-19_m.png){.center}
+![Suppressionstrategy  scenarios  for GBshowing ICUbed  requirements.  The  black  line  shows  the unmitigated epidemic. Green shows a suppressionstrategy incorporating closure of schools and universities, case isolation and population-wide social distancingbeginning in late March 2020. The orange line shows a containment   strategy   incorporating   case   isolation,   household   quarantine   and population-wide social distancing. The red line is the estimated surge ICU bedcapacity in GB.  The blue shading shows the 5-month period in which these interventions are assumed to remain in place. ](impact-intervention-covid-19.png){.center}
 
 Cette courbe a sûrement été sur la table des cabinets de crise et retenu l'attention des gouvernements américains, britaniques et néerlandais les incitant à choisir une stratégie pour en finir au plus tôt malgré le coût plutôt que de faire des efforts et d'avoir des morts après.
 

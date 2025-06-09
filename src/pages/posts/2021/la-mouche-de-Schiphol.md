@@ -19,7 +19,7 @@ La remise en 2017, du prix nobel d'économie à Richard Thaler, auteur d'un livr
 
 La mouche de Schiphol est citée comme le *nudge* le plus connu du monde. Le dessin d'un petite mouche noire imprimée dans le fond des urinoirs de l'aéroport permettrait des économies de nettoyage des toilettes en incitant les hommes à viser quand il font pipi. Cette idée toute simple pour réduire les coûts de nettoyage. Les journaux français n’expliquent pas d'où vient cette idée ni si ça marche vraiment alors nous allons le voir ici.
 
-![La mouche de Schiphol](.mouche-urinoir-schiphol_m.jpg){.center}
+![La mouche de Schiphol](mouche-urinoir-schiphol.jpg){.center}
 > Fly etched in Urinal at Amsterdam Schiphol Airport cc-by-sa [Vincent Lau](https://www.flickr.com/photos/viciousv/58631583/)
 
 ### Pour se soulager (6)
@@ -40,12 +40,12 @@ Il ne raconte pas comment cette cible c'est transformée en mouche dans son espr
 
 L'efficacité a d'ailleurs été mesurée et le Parisien affirme même que la société a réduit de 80 % ses dépenses de nettoyage des toilettes pour hommes # Cette nouvelle démesurée vient sûrement d'une mauvaise lecture du [site de la BBC](https://www.bbc.com/news/business-41549533) parlant des *nudges* et de Richard Thaler. La mouche de Schiphol est à nouveau citée comme réduisant les éclaboussures de 80%.
 
-![mouche-dans-urinoir.jpg](.mouche-dans-urinoir_m.jpg){.center}
+![mouche-dans-urinoir.jpg](mouche-dans-urinoir.jpg){.center}
 > Urinal Fly at Amsterdam Airport cc-by [I G](https://www.flickr.com/photos/qubodup/20933333145/)
 
 En fait le responsable de Schiphol explique qu'aucune étude n'a réellement été menée pour quantifier la réduction des éclaboussures avec précisions. Il y a juste eu des tests de faits en 1990 et la différence de propreté était nettement visible ce qui a motivé la direction de l'aéroport. [Un article de 1991 du NRC](https://www.nrc.nl/nieuws/1991/12/16/vlieg-in-de-pot-6990663-a969231) parle de cette nouveauté[^1] et des offres de la société **N.V. Koninklijke Sphinx**, fournisseur de Schiphol qui parle (en Florin) d'une économie (vraisemblablement surévaluée) de nettoyage l'ordre de 20%.
 
-{{Ook vanuit financieel oogpunt zou een nieuwe vondst gunstig zijn. Grote bedrijven trekken volgens Talpe nu al flink profijt uit een keuze voor het vliegurinoir: het insekt (tegen een meerprijs van bijna zeventig gulden aan te brengen in de modellen 80 en 85, beide ƒ 251,30 ex btw) kan een besparing van twintig procent op de schoonmaakkosten van toiletten opleveren. Voor multinationals betekent dat op jaarbasis een bezuiniging van tienduizenden guldens.}}
+> Ook vanuit financieel oogpunt zou een nieuwe vondst gunstig zijn. Grote bedrijven trekken volgens Talpe nu al flink profijt uit een keuze voor het vliegurinoir: het insekt (tegen een meerprijs van bijna zeventig gulden aan te brengen in de modellen 80 en 85, beide ƒ 251,30 ex btw) kan een besparing van twintig procent op de schoonmaakkosten van toiletten opleveren. Voor multinationals betekent dat op jaarbasis een bezuiniging van tienduizenden guldens.
 
 La mesure de l’efficacité a été faite en collant une mouche en plastique dans certains urinoirs et le résultat a été que « les toilettes très fréquentés près des boutiques hors-taxe avait l'air beaucoup plus propres ».
 

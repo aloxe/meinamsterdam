@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Les tracts qui encombrent la boîte aux lettre c'est sympa pour apprendre le néerlandais[^1] mais on a vite fait le tour. Il est temps de faire cesser tout ça. Pour cela il y a une solution locale très utilisée, le **NEE NEE Sticker**.
 
-[![Nee Ja sur la boîte](.nee-ja-boite-lettres_m.jpg){.center}|/public/images/photos/2014/nee-ja-boite-lettres.jpg||nee-ja-boite-lettres.jpg]
+![Nee Ja sur la boîte](nee-ja-boite-lettres.jpg){.center}
 
 Il suffit d'apposer un autocollant sur sa boîte aux lettres indiquant: Non je ne veux pas d'imprimés publicitaires ni ne journaux distribués en porte à porte (*NEE, géén ongeadresseerd reclamedrukwerk en geen huis-aan-huisbladen.*) ou bien Non je ne veux pas d'imprimés publicitaires mais Oui, les journaux je veux bien. (*NEE, géén ongeadresseerd reclamedrukwerk. JA  wél huis aan huis bladen*).
 

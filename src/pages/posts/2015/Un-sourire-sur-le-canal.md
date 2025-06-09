@@ -17,7 +17,7 @@ TODO: no image, no image alt, subfooters
 
 Voilà très longtemps que des photos ne se sont pas exposées sur ce blog. Heureusement l'inspiration vient parfois des autres et je suis heureux de partager [une photo](http://amsterdamian.com/see/snapshots/the-canals-are-smiling/) de [Dana](http://danarozmarin.com/). Une surprise qui porte le sourire dans la nuit Amstelodamoise. 
 
-[![Canals are smiling](.canals-are-smiling_m.jpg){.center}|/public/images/contribs/2015/canals-are-smiling.jpg||Canals are smiling]
+![Canals are smiling](canals-are-smiling.jpg){.center}
 
 :-)
 

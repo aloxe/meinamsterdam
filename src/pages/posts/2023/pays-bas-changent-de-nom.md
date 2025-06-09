@@ -29,7 +29,7 @@ En effet chaque pays de la liste ISO 3166 est représenté par un nom court qui 
 
 Depuis le 4 avril donc la forme courte des Pays-Bas n’est plus « Pays-Bas » mais « Pays-Bas (Royaume des) » ce qui le rapproche du nom officiel « Royaume des Pays-Bas »
 
-![https://meinamsterdam.nl/public/images/scans/.pays-bas-iso-3166_m.png]()<!-- TODO: Add image alt -->
+![pays-bas-iso-3166_m.png](pays-bas-iso-3166_m.png)<!-- TODO: Add image alt -->
 
 Il est fort probable que cette nouvelle forme courte ne soit pas utilisée sur les cartes ou dans les rencontres internationales mais elle est maintenant enregistrée comme telle dans la norme ISO 3166 et c’est comme ça.
 

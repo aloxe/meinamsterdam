@@ -18,7 +18,7 @@ Déferlement de touristes à prévoir pour un avril tout orange. Le [site de l'o
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:15px; font-style:italic; width=530px; text-align:center; padding:2em;">
 <!-- / HTML -->
-{{2013 est une année très spéciale pour Amsterdam. Beaucoup de grands événements sont au programme comme la réouverture du Rijksmuseum et du musée Van Gogh. Aussi au programme la célébration des 125 ans du Concertgebouw, des 175 ans d'Artis, des 225 années de Felix Meritis et des 400 ans des canaux d'Amsterdam. Amsterdam a toujours été au 1er rang sur la liste de vos voayges à faire ? Alors 2013 sera l'année par excellence.  Selon le Lonely Planet, Amsterdam est aussi la deuxième ville la plus intéressante à visiter en 2013. En bref, découvrez ici le programme et planifiez votre voyage à Amsterdam.}}
+*2013 est une année très spéciale pour Amsterdam. Beaucoup de grands événements sont au programme comme la réouverture du Rijksmuseum et du musée Van Gogh. Aussi au programme la célébration des 125 ans du Concertgebouw, des 175 ans d'Artis, des 225 années de Felix Meritis et des 400 ans des canaux d'Amsterdam. Amsterdam a toujours été au 1er rang sur la liste de vos voayges à faire ? Alors 2013 sera l'année par excellence.  Selon le Lonely Planet, Amsterdam est aussi la deuxième ville la plus intéressante à visiter en 2013. En bref, découvrez ici le programme et planifiez votre voyage à Amsterdam.*
 <!-- HTML -->
 </div>
 <!-- / HTML -->

@@ -17,7 +17,7 @@ Les billets de début d'année sont souvent l'occasion d'annoncer des réduction
 
 La Belgique et les Pays-Bas ont procédé le 1er janvier à un échange officiel de territoires. Cet échange a été accepté en juin 2016 par les gouvernements des deux pays[^1] qui en ont fait part à cette époque. [Le communiqué néerlandais](https://www.rijksoverheid.nl/actueel/nieuws/2016/11/28/nederland-en-belgie-passen-grens-aan) est plus tardif puisqu'il date de la signature officielle après que les deux parlements nationaux ont ratifié le texte. Alors il présente une belle photo de la signature officielle avec les deux rois et reines en arrière plan.
 
-![Le roi Philippe la reine Mathilde le roi Guillaume-Alexandre et la reine Maxima en arrière plan cource: Trouw (© ANP)](.philippe-mathilde-guillaume-alexendre-maxima-e763_m.jpg){.center}
+![Le roi Philippe la reine Mathilde le roi Guillaume-Alexandre et la reine Maxima en arrière plan cource: Trouw (© ANP)](philippe-mathilde-guillaume-alexendre-maxima-e763.jpeg){.center}
 
 En fait, cet échange de territoire remonte à plus longtemps que cette signature et l'on peut remonter jusqu'à [l'indépendance de la Belgique](/au-bord-de-la-belgique) en 1830. Le tracé de la frontière entre les deux pays a pris beaucoup de temps et en Zélande comme entre le Limbourg et la province de Liège ou cette échange de territoires a eu lieu, la frontière a été bornée en 1843. Ici elle devait être au point le plus profond du lit de la Meuse sauf autour de la commune de Maastricht qui, bien que rive droite de la rivière reste aux Pays bas.
 

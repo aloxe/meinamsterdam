@@ -72,7 +72,7 @@ Donc là si vous suivez bien, nous avons un ministère français qui traite des 
 
 Puis un ministère néerlandais demande à un cabinet juridique si utiliser des solutions ou même juste des logiciels états-uniens pour traiter des données personnelles c'est pas un peu risqué et le cabinet répond que oui il y a un risque. 
 
-{{Et là, c'est le drame ?}} 
+``Et là, c'est le drame ?``
 
 En fait non, le gouvernement continue de construire son cloud, gratifiant nonchalamment les offres françaises d'un label « [cloud de confiance](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/) » faisant croire en une compatibilité avec le RGDP. Jusqu'à présent [l'annonce de cette étude de la NCSC](https://www.latribune.fr/technos-medias/internet/bleu-s3ns-pourquoi-les-offres-cloud-de-confiance-seront-certainement-soumises-au-cloud-act-928831.html) dans la presse spécialisée ne semble pas l'avoir fait tomber de son petit nuage. Aucune annonce de changement, aucune réaction ni même questionnement des responsables. Les industriels aussi restent muets sur le sujet.
 

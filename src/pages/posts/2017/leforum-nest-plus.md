@@ -23,7 +23,7 @@ Le forum a ouvert un wiki en 2008 basé sur le logiciel Wikimedia ce qui permett
 
 Le forum a fait peau neuve l'année suivante en lançant un portail s'appuyant sur le logiciel libre Joomla. La rédaction de ces articles revenait le plus souvent aux animatrices les plus actives du forum. Quand une véritable communauté se crée, elle devient productive et les plus actifs prennent du gallon. J'ai eu même l'honneur d'avoir quelques article de ce blog repris un sein du portail.
 
-![portail-des-hollandais.png](.portail-des-hollandais_m.png){.center}
+![portail-des-hollandais.png](portail-des-hollandais.png){.center}
 
 Comme Zygo et Zungo et sa bande ne sont pas du genre à se tourner les pouces. Le forum a continué d'évoluer et la surprise de 2009 a été l'ouverture de forums en langue anglaise, espagnole, italienne et portugaise. De nouvelles communautés ont pu se créer grâce à ces nouveaux outils polyglottes. 2009 C'est aussi l'année de la création du groupe facebook du forum. Le succès du média social grandissant le rendait indispensable pour toute communauté ouverte vers l'extérieure. C'est ce même facebook qui est aujourd'hui pointé du doigt pour la baisse du succès du forum et finalement sa fermeture.
 

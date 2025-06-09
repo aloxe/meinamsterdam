@@ -17,11 +17,11 @@ On sait que Google nous espionne sur internet et fait parfois d'étonnantes chos
 
 On pourrait penser qu'avec une une offre concéquente de parcs à thème, du Futuroscope au Parc Astérix en passant par le plus grand d'Europe, Disneyland, les français aimaient aller dans les parcs d'attraction. Mais c'est le mot *camping* qui sort premier des recherches effectuées en France sur les cartes Google Maps. Suivent les mots *plage* puis *lac*. *Parc* n'arrive qu'en quatrième position, sans préciser s'il s'aggit d'un parc naturel ou d'un parc d'attraction. Les français seraient donc, selon Google, adeptes du camping.
 
-[![Recherches Google maps France](.top-searches-france_m.jpg){.center}|/public/images/scans/screenshots/top-searches-france.png||Recherches Google maps France]
+![Recherches Google maps France](top-searches-france.png){.center}
 
 Avec leur réputation de venir en hordes dans les campings de France et d'Europe, les vélos sur le toit de la voiture et le coffre rempli de patates, les Néerlandais devraient surpasser les français dans ce googlescope. Mais là encore, ô surprise, c'est un autre mot qui sort en tête *Pretpark*, ce qui veut dire **parc à thème**. Le camping ne vient qu'en quatrième position, après *fietsroute* (**piste cyclable**) et *strand* (**plage**).
 
-[![Recherches Google maps Pays-Bas](.top-searches-hollande_m.jpg){.center}|/public/images/scans/screenshots/top-searches-hollande.png||Recherches Google maps Pays-Bas]
+![Recherches Google maps Pays-Bas](top-searches-hollande.png){.center}
 
 Alors, est ce que Google maps a détectés de nouvelles habitudes montrant que les préjugés sont dépassés ? On pourait le croire, les reste des résultats semble cohérent. Voir les français s'interesser aux centre commerciaux et aux brocantes tandis que les néerlandais se préoccupent de pistes cyclables et de bateaux à louer (*Bootverhuur*) semble logique. Ces derniers placent en numéro un, le plus connu des parcs d'attraction du pays (*Elftelling*) ce qui colle avec le reste. Dans leur liste, les néerlandais placent aussi le cap d'Agde, en France, lieu qui arrive en première place chez les français. On peut se demander alors si les recherches des français sur cet endroit ne sont pas boustées par les néerlandais qui arrivent en France et cherchent ce haut lieu du naturisme. D'ailleurs il est probable que la recherche *camping* soit aussi boustée en France par les touristes hollandais.
 

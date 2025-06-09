@@ -1,19 +1,21 @@
 ---
 layout: base
 title: Le Amsterdam des touristes et celui des locaux
-description: [|/le-amsterdam-des-touristes-et-loacaux] En cette période de rentrée penchons nous sur les vacances et son corollaire, le tourisme. Après les cartes des twe
+description: En cette période de rentrée penchons nous sur les vacances et son corollaire, le tourisme. Après les cartes des twe
 categorie: nederlandjes
 tags: ["Amsterdam", "géographie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Amsterdam-Tourists-and-Locals.jpg
+image_alt: carte blanche avec quelques traits bleus sur Amsterdam
 permalink: le-amsterdam-des-touristes-et-loacaux/
 date: 2016-09-06
 update: 2016-09-06
 TODO: no image, no image alt, shortened desc
 ---
 
-[![Amsterdam Tourists and locals](.Amsterdam-Tourists-and-Locals_t.jpg){.left}](/le-amsterdam-des-touristes-et-loacaux) En cette période de rentrée penchons nous sur les vacances et son corollaire, le tourisme. Après les [cartes des tweets néerlandais](/twitter-aux-pays-bas), un autre spécialiste a fait une étude sur les données partagés par les internautes. Cette fois c'est le partage de photos qui nous intéressent et qui dit photos dit photos de vacances. Voici le Amsterdam des touristes… et celui des locaux.
+![Amsterdam Tourists and locals](Amsterdam-Tourists-and-Locals.jpg){.center} 
+
+En cette période de rentrée penchons nous sur les vacances et son corollaire, le tourisme. Après les [cartes des tweets néerlandais](/twitter-aux-pays-bas), un autre spécialiste a fait une étude sur les données partagés par les internautes. Cette fois c'est le partage de photos qui nous intéressent et qui dit photos dit photos de vacances. Voici le Amsterdam des touristes… et celui des locaux.
 
 En mai 2010, Erik Fisher a publié une [série de cartes de grandes villes](http://www.visualcomplexity.com/vc/project.cfm?id=727) réalisées avec les données géographiques des photos envoyées sur Flickr et Picassa. Il a appelé cette série [The Geotaggers' World Atlas](https://www.flickr.com/photos/walkingsf/sets/72157623971287575/), **l'atlas mondial des photos géolocalisées**. Les villes y sont classées par nombre de photos dans le centre urbain. Amsterdam est classée 14ème juste avant Madrid mais derrière Hong-Kong.
 
@@ -21,7 +23,7 @@ Beaucoup de commentaires interprétait ces cartes comme la carte mondiale des ph
 
 On y découvre que des villes comme Venise, Las-Vegas sont presque entièrement photographiées par des touristes alors que des derniers sont presque absents de Portland ou Minneapolis. Les villes comme Paris, New-York ou Amsterdam sont partagées et présentes des zones ou les touristes photographie en abondance tandis que les locaux prennent en photo les quartiers moins touristiques.
 
-[![Amsterdam Tourists and locals cc-by-sa Erik Fisher](.Amsterdam-Tourists-and-Locals_m.jpg){.center}|https://www.flickr.com/photos/walkingsf/4672179886/in/set-72157624209158632||Amsterdam sur l'album flickr Tourists and locals]
+[![Amsterdam Tourists and locals cc-by-sa Erik Fisher](Amsterdam-Tourists-and-Locals.jpg){.center}](https://www.flickr.com/photos/walkingsf/4672179886/in/set-72157624209158632)
 
 On y voit clairement les hauts lieux touristiques du centre d'Amsterdam avec la **gare centrale**, le **quartier rouge** et **les canaux**, la **zone des musées** (*museumplein*) et dans une certaine mesure le [Vondelpark](/le-vondelpark). Les hauts lieux touristiques loin du centre sont aussi bien visibles comme le grand **stade Arena** au sud, le **centre d'Haarlem** à l'ouest et **Zaanse Schaans** au nord, ainsi que les lieux de transit comme l'**aéroport de Schiphol**, **la marina** et le **terminal de passagers** où les gros paquebots de croisière font escale. La gare du sud apparaît plus timidement comme lieu touristique, les touristes préfèrent prendre en photo les avions et les bateaux que les trains jaunes.
 

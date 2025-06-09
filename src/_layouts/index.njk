@@ -21,58 +21,54 @@
     {% endif %}
 
     {% set count = [1] %}
-    {% for post in collections.all | reverse %}
-      {% if post.inputPath.startsWith('./src/pages/posts/') %} {# only posts #}
-      {% if post.url %} {# not comments #}
-        {% if post.url.startsWith(page.url) %} {# only posts bellow current #}
-          {% if post.url !== page.url %}
-            {% if (count.length < 6) %} {# only 10 first posts #}
-              {% if post.url.split("/").length === page.url.split("/").length + 1 %}
-                {% set count = (count.push(1), count) %}
-                  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-                  <em class="text-text-light">in {{ post.data.categorie }} le {{ post.date | date }}</em><br/>
-                  {% for tag in post.data.tags %}
-                    <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
-                  {% endfor %}
-                  <p>
-                    {% if post.data.headline %}
-                      <em>{{post.data.headline}}</em>
+    {% for post in collections.posts | reverse %} {# posts not comments #}
+      {% if post.url.startsWith(page.url) %} {# only posts bellow current #}
+        {% if post.url !== page.url %}
+          {% if (count.length < 6) %} {# only 10 first posts #}
+            {% if post.url.split("/").length === page.url.split("/").length + 1 %}
+              {% set count = (count.push(1), count) %}
+                <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+                <em class="text-text-light">in {{ post.data.categorie }} le {{ post.date | date }}</em><br/>
+                {% for tag in post.data.tags %}
+                  <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
+                {% endfor %}
+                <p>
+                  {% if post.data.headline %}
+                    <em>{{post.data.headline}}</em>
+                    {{ readMore(post.url) }}
+                  {% else %}
+                    {% if post.data.description %}
+                      <em>{{post.data.description}}</em>
                       {{ readMore(post.url) }}
                     {% else %}
-                      {% if post.data.description %}
-                        <em>{{post.data.description}}</em>
+                      {% if post.data.page.excerpt %}
+                        <p class="justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
                         {{ readMore(post.url) }}
                       {% else %}
-                        {% if post.data.page.excerpt %}
-                          <p class="justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
-                          {{ readMore(post.url) }}
-                        {% else %}
-                          <p class="justify-content">{{ post.content | safe }}</p>
-                        {% endif %}
+                        <p class="justify-content">{{ post.content | safe }}</p>
                       {% endif %}
                     {% endif %}
-                    <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2">
-                      <em class="text-primary"> ✍</em>
-                      {% set entrees = [] %}
-                      {%- for comment in collections.comment -%}
-                        {% set length = comment.filePathStem.split("/").length %}
-                        {% set slug = "/"+comment.filePathStem.split("/")[length-2]+"/" %}
-                        {% if slug === post.data.page.url %}
-                          {% set entrees = (entrees.push(comment), entrees) %}
-                        {% endif %}
-                      {%- endfor -%}
-                      {% if entrees.length %}
-                          {{ entrees.length }} commentaire{% if entrees.length > 1 %}s{% endif %}
-                      {% else %}
-                        pas de commentaire
+                  {% endif %}
+                  <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2">
+                    <em class="text-primary"> ✍</em>
+                    {% set entrees = [] %}
+                    {%- for comment in collections.comment -%}
+                      {% set length = comment.filePathStem.split("/").length %}
+                      {% set slug = "/"+comment.filePathStem.split("/")[length-2]+"/" %}
+                      {% if slug === post.data.page.url %}
+                        {% set entrees = (entrees.push(comment), entrees) %}
                       {% endif %}
-                    </div>
-                  </p>
-              {% endif %}
+                    {%- endfor -%}
+                    {% if entrees.length %}
+                        {{ entrees.length }} commentaire{% if entrees.length > 1 %}s{% endif %}
+                    {% else %}
+                      pas de commentaire
+                    {% endif %}
+                  </div>
+                </p>
             {% endif %}
           {% endif %}
         {% endif %}
-      {% endif %}
       {% endif %}
     {% endfor %}
   </section>

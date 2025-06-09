@@ -13,8 +13,6 @@ update: 2024-12-18
 TODO: no image, no image alt
 ---
 
-
-
 ## 1- Si les terres de hollande, où coulent les canaux, ont une altitude négative et que les canaux sont reliés à la mer. Pourquoi la mer ne s'engouffre pas dans les canaux pour tout inonder ?
 
 ## 2- Si La capitale du Pays est Amsterdam, pourquoi le roi, le gouvernement et le parlement sont à La Haye ?

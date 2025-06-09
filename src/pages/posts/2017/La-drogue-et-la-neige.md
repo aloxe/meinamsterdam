@@ -21,7 +21,7 @@ Se sont donc multipliés aux Pays-Bas des fermes de cannabis donc l'activité ne
 <div style="text-align:center; margin: auto;">
 <!-- / HTML -->
 
-![culture-cannabis-nuit-neige.jpg](.culture-cannabis-nuit-neige_m.jpg){.center}
+![culture-cannabis-nuit-neige.jpg](culture-cannabis-nuit-neige.jpg){.center}
 Il neige la nuit mais la chaleur de la ferme fait fondre la neige sur le toit. (*Photo: Erik Bras*)
 
 <!-- HTML -->
@@ -32,14 +32,14 @@ Il neige la nuit mais la chaleur de la ferme fait fondre la neige sur le toit. (
 <div style="text-align:center; margin: auto;">
 <!-- / HTML -->
 
-![neige-culture-cannabis.jpg](.neige-culture-cannabis_m.jpg){.center}
+![neige-culture-cannabis.jpg](neige-culture-cannabis.jpg){.center}
 Au petit matin, la police est sur les lieux pour vérifier l'éxcès de chauffage (*Photo: Flabber*)
 
-![culture-cannabis-saisie-police.jpg](.culture-cannabis-saisie-police_m.jpg){.center}
+![culture-cannabis-saisie-police.jpg](culture-cannabis-saisie-police.jpg){.center}
 Les cultures sont saisies, les voisins commencent à préparer les sacs pour ramasser les graines... (*Photo: Boyd Swaans*)
 
 
-![culture-cannabis-broyee-police.jpg](.culture-cannabis-broyee-police_m.jpg){.center}
+![culture-cannabis-broyee-police.jpg](culture-cannabis-broyee-police.jpg){.center}
 La récolte est broyée sous les yeux des voisins. (*Photo: Erik Bras*)
 
 <!-- HTML -->

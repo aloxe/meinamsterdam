@@ -18,6 +18,7 @@ TODO: no image, no image alt, shortened desc
 Ça peut parraitre assez futile comme question, pas de grand choix de société ou constitutionnel mais c'est tout ce que les partis anti-européens ont trouvés pour gripper la mecanique européenne des Pays bas. Et ça marche. Le quorum de plus de 30% a été atteind et le **contre** (*Tegen*) est sorti majoritaire de manière écrasante.
 
 ### La loi sur le référendum consultatif
+
 Cette loi, *Wet raadgevend referendum* a été promulguée en 2015 et **permet d'associer le peuple aux décisions législatives**. Selon cette loi, il est désormait possible aux Pays bas de contester par référendum une loi qui a été promulguée. Il faut pour cela réunir deux fois un minimum de signatures réclamant la tenue de ce référendum. La première demande doit rassembler un minimum de 10.000 signatures en 4 semaines et la seconde 300.000 signatures en 6 semaines.
 
 L'accord d'association entre l'Union européenne et l'Ukraine, signé entre les deux territoires en 2014 et 2015 se doit d'**être ratifié par l'ensemble des pays de l'Union**. Les Pays bas l'ont donc fait par voie parlementaire en avril 2015, promulguée par le roi en juillet 2015, juste après la promulgation de la loi sur le référendum consultatif. L'occasion était trop belle de tester si ça marche. C'est ca qu'a fait le blog populairiste *Geenstijl* surfant sur la vague eurosceptique et peut être aussi l'emotion créé par le crash du vol MH17 (Amsterdam à Kuala Lumpur), abattu au dessus de l'Ukraine. 
@@ -71,7 +72,7 @@ C'est ce discours qui a gagné le référendum de manière écrasante.
 
 La carte diffusée par NOS dès le soir montre l'ampleur de la défaite européenne. À part les ilôts hipster d'Amsterdam, Groningue Wageningen et Utrecht, la réserve mandarinale de la Haye, l'ensemble des Pays bas[^2] ont voté contre l'accord d'association avec l'Ukraine.
 
-[![NOS-referendum-Screenshot-7.4.2016-08_53_37.png](.NOS-referendum-Screenshot-7.4.2016-08_53_37_m.png){.center}|/public/images/scans/screenshots/NOS-referendum-Screenshot-7.4.2016-08_53_37.png||NOS-referendum-Screenshot-7.4.2016-08_53_37.png]
+![NOS referendum Screenshot](NOS-referendum-Screenshot-7.4.2016-08_53_37.png){.center}
 
 Il reste à savoir ce que la Commission -Il-n'y-a-pas-de-plan-B- va faire de ce résultat.
 

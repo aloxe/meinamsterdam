@@ -15,7 +15,7 @@ TODO: shortened desc
 
 C'est ce qu'annonce le projet Our house sur son site, un **modern museum of electronic music culture** va ouvrir ses portes à Amsterdam à l'été 2021. C'est maintenant. Bien plus qu'un musée, la page annonce :
 
-{{Situé à Amsterdam, Our House est une expérience high-tech rendant hommage à la musique et à la culture  électronique. Loin d'être un musée qu'on visite, Our house vous emmène dans un voyage innvovant et futuriste. etc.}}
+``Situé à Amsterdam, Our House est une expérience high-tech rendant hommage à la musique et à la culture  électronique. Loin d'être un musée qu'on visite, Our house vous emmène dans un voyage innvovant et futuriste. etc.``
 
 Pour l'instant, il n'y a pas grand chose [sur le site|https://www.our-house.com/|en|Our House], juste un vaste programme et la vente de tickets propose juste aux visiteurs de s'abonner à une newsletter. Rien de plus.
 

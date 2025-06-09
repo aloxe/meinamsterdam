@@ -15,7 +15,7 @@ TODO: shortened desc, subfooters
 
 Quand on vient d'arriver à Amsterdam, on est marqué par de nombreuses choses nouvelles que j'ai essayé de vous exposer sur ce blog depuis des années. Parmi elles, la bicyclette et le mauvais temps sont les changements les plus évidents. Cette photo, prise lors de mon premier automne à dans cette ville de Hollande du nord, illustre les deux.
 
-[![Les vélos morts](.les-velos-morts_m.jpg){.center}](https://www.flickr.com/photos/13274211@N00/409185064/)
+[![Les vélos morts](les-velos-morts.jpg){.center}](https://www.flickr.com/photos/13274211@N00/409185064/)
 
 En 2006, je vous parlais du [temps qui se gâte](/le-temps-de-gate) avec une photo similaire, prise il y a exactement huit ans. J'ai peu insisté sur les troupeaux de bicyclettes qui s’agglutinaient à l'entrée de la gare du sud (*Sation Zuid WTC*). Depuis, [la gare a changé de nom](/station-zuid-wtc-devient-amsterdam-zuid) et les abords ont été aménagés avec **un parking souterrain pour vélos** et de nombreuses autres places à proximité.
 

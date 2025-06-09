@@ -17,7 +17,7 @@ TODO: no image, no image alt
 
 Après avoir constater la disparition du forum.nl je pourrais me lamenter que les blogs que je présentais ici il y a presque 10 ans sont presque tous aujourd'hui morts. J'ai d'ailleurs retiré la liste des liens amis sur le coté de mes pages parce que trop de ces liens disparaissaient. Ce n'est plus la grande époque des blogues où tout le monde faisait le sien et où l'on pouvait s'interpeller par posts interposés mais les blogs ne sont pas morts pour autant. C'est pourquoi je vais aujourd'hui vous un présenter un nouveau.
 
-![amsterdam-decouverte-logo_NB_Huis.png](.amsterdam-decouverte-logo_NB_Huis_s.png){.center}
+![amsterdam-decouverte-logo_NB_Huis.png](amsterdam-decouverte-logo_NB_Huis.png){.center}
 
 **Découvrir Amsterdam** a l'intention de présenter Amsterdam principalement aux touristes ou aux gens de passage sous l'angle de la surprise. Les inévitables rubriques *où loger* et *où dormir* son complétés par des préoccupations hors des guides mais tellement parlantes pour un local. Ainsi, on peut choisir [où aller nager](http://www.decouvrir-amsterdam.com/petit-top-spots-plouf-preferes/) ou bien [où aller regarder la pluie](http://www.decouvrir-amsterdam.com/plus-belles-fenetres-regarder-tomber-pluie/). Le où [fumer un joint](http://www.decouvrir-amsterdam.com/meilleurs-coffee-shop-damsterdam/) est moins classique mais un vrai guide d'Amsterdam ne serait pas complet sans une petite liste de coffeeshops.
 

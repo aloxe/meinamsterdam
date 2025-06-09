@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Juste après avoir dit que j'étais [très content de mon vieux téléphone](/Agnes-Crepet-mon-telephone-marche-mieux), je m'en suis acheté un nouveau. Je dois dire que je ne le regrette pas. C'est aussi un *fairphone* : **Le fairphone 4**.
 
-![le FP4 dans mes mains](.selphie-avec-fairphone4_m.jpg){.center}
+![le FP4 dans mes mains](selphie-avec-fairphone4_m.jpg){.center}
 
 Que c'est-il passé ? Qu'est ce qu'il m'a fait changer d'avis ?
 

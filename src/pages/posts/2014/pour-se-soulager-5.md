@@ -17,7 +17,7 @@ TODO: no image, no image alt
 
 J'ai déjà passé en revue les différents moyens de **se soulager à Amsterdam**. C'est surtout qu'il y a des moyens qu'il ne faut pas utiliser. Pisser dans la rue par exemple ce n'est pas autorisé. Vu le nombre de touristes (et locaux) imbibés qui débarquent les vendredi soir, il est bon de le rappeler. C'est ce que fait la mairie en apposant ces panneaux dans les quartiers de sortie.
 
-[![Ne pas pisser dans la rue](.se-soulager-dans-la-rue_m.jpg){.center}](https://www.flickr.com/photos/slack13/147244988)
+![Ne pas pisser dans la rue](se-soulager-dans-la-rue_m.jpg){.center}
 
 Pour que les imbibés puissent se soulager, elle met à disposition [des bacs à pipi en plastique](/pour-se-soulager-3) qui sont évacués à la fin du week-end. Il y a aussi [quelques vespasiennes](/pour-se-soulager-2), qu'on appelle *krull*, dans la ville mais ces dernières tendent à être remplacées par des toilettes publiques plus modernes. Tout ça pour dire qu'**il ne faut pas pisser dans la rue**.
 

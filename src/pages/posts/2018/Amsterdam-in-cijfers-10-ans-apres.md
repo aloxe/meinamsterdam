@@ -21,7 +21,7 @@ Le feuilletant 10 ans après je me suis demandé si les résultats de pollution 
 
 Le livre de 2017 est disponible en ligne ([ici](https://www.ois.amsterdam.nl/pdf/2017%20jaarboek%20amsterdam%20in%20cijfers.pdf)) et il est toujours distribué aux élus en version papier mais pas aux gens qui envoient une demande par email… normalement. A réception de ma demande une gentille dame m'a répondu que ce n'était pas dans leurs habitudes de faire de tels envois mais elle m'a envoyé malgré tout le livre tant attendu. Me voilà heureux possesseur de 10 ans de statistiques sur la capitale néerlandaise.
 
-[![moi-et-Amsterdam-incijfers.jpg](.moi-et-Amsterdam-incijfers_m.jpg){.center}|/public/images/photos/2015/moi-et-Amsterdam-incijfers.jpg||moi-et-Amsterdam-incijfers.jpg]
+[![moi-et-Amsterdam-incijfers.jpg](moi-et-Amsterdam-incijfers.jpg){.center}|/public/images/photos/2015/moi-et-Amsterdam-incijfers.jpg||moi-et-Amsterdam-incijfers.jpg]
 
 ## Quoi de neuf en 2017
 
@@ -33,8 +33,7 @@ C'est biensûr le contenu qui a bien évolué en 10 ans. Les *kerncijfers* (chif
 
 Pour vous donner un exemple, j'ai regardé **les pyramides des ages** qui traduisent la distribution de ces 844.952 habitants en fonction de leur age. La forme en sapin est caractéristique des grandes villes qui n'offrent pas assez de logements capable d'accueillir beaucoup d'enfants. La base de la pyramide est donc tronquée de tous les enfants qui vivent dans les villes alentours ou plus loin dans une maison abordable. 
 
-[![](.pyramide-des-ages_m.jpg){.center}](/public/images/scans/stats/pyramide-des-ages.jpg)
-
+![La pyramide des âges des deux livres côte à côte](pyramide-des-ages.jpg){.center}
 Il y a maintenant une différence notable entre la pyramide de 2007 et celle de 2017. Ce n'est pas la barre des baby-boomers, elle est passée de 60 ans à 70 ans et c'était prévisible c'est plutôt le renflement des jeunes de 20 à 35 ans.  en 2007, ce renflement était régulier et en aligné avec les générations suivantes mais en 2017 ce renflement montre un afflux de cette tranche d'age dans la population de la ville. Je ne sais pas qu'elle en est la cause ni si tous ces jeunes sont étudiants mais en proportion, cela montre qu'Amsterdam s'est rajeunie et c'est souvent bon signe pour une grande métropole. Peut-être avez-vous une idée plus précise de la cause de cette évolution, n'hésitez pas à le partager en commentaire.
 ---
 [^1]: C'est ce même service qui met [quelques données amusantes](/Quelle-est-la-taille-d-Amsterdam) sur le site Opendata de la ville.

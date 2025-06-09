@@ -41,7 +41,7 @@ Le gouvernement a argué que ce n’était pas à la justice de se saisir de suj
 
 La plus haute juridiction du pays a donc entendu les motifs du gouvernement puis la défense de l'association Urgenda puis le procureur général qui demandait à la cour de confirmer le jugement. C'est ce qui a été fait en ce 20 décembre 2019.
 
-[![](.Klimaatzaak-credit-Chantal-Bekker-Urgenda-10-web-1024x683_m.jpg){.center}](/public/images/contribs/2020/Klimaatzaak-credit-Chantal-Bekker-Urgenda-10-web-1024x683.jpg)
+![Explosion de joie dans la salle des pas perdus du tribunal de la Haye](Klimaatzaak-credit-Chantal-Bekker-Urgenda-10-web-1024x683.jpg){.center}
 > Explosion de joie dans la salle des pas perdus du tribunal de la Haye. Le public était venu en masse pour suivre le procès et soutenir l'association. Photo: Chantal Bekker.
 
 En gros il ne reste plus que 10 jours au gouvernement de Mark Rutte pour réduire les émissions de gaz à effet de serre et atteindre un objectif qu'il aurait mieux fallut préparer pendant 5 ans. C'est pas gagné…

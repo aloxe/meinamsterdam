@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Depuis peu j'ai vu réapparaître un vieux film présentant le nouveau vélo autonome créé par Google. Les commentaires sont souvent très optimistes et les débats font rage sur la possibilité d'envoyer ses enfants à l'école sur une bicyclette qui avance toute seule, ou pas… Bon, la nouvelle n'est pas nouvelle, c'est une vidéo réalisée aux Pays bas en 2016.
 
-[![self-driving-bike.png](.self-driving-bike_m.png){.center}](/velo-autonome-google)
+![self-driving-bike.png](self-driving-bike.png){.center}
 
 ### Le self-driving bike de Google
 

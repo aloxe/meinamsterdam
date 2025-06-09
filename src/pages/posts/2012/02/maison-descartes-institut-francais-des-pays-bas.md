@@ -1,7 +1,7 @@
 ---
 layout: base
-title: La Maison Descartes devient lInstitut français des Pays-Bas
-description: "    Annoncé l'été dernier, la Maison Descartes, centre culturel français d'Amsterdam change de nom pour devenir Institut Français. Derrière ce changement "
+title: "La Maison Descartes devient l'Institut français des Pays-Bas"
+description: "Annoncé l'été dernier, la Maison Descartes, centre culturel français d'Amsterdam change de nom pour devenir Institut Français."
 categorie: ik-ben-frans
 tags: []
 isMarkdown: true
@@ -19,7 +19,7 @@ Annoncé l'été dernier, la **Maison Descartes**, centre culturel français d'A
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
 <!-- / HTML -->
-A limage des British Council, Goethe Institut, Cervantès, etc. les centres et instituts culturels français à travers le monde ont adopté une identité internationale unique, celle dInstitut français. A Amsterdam comme dans toutes les villes du monde, vous trouverez désormais le logo qui nous rassemble tous et qui renforcera la lisibilité de nos missions autour de nos activités principales, la diffusion de la culture au sens large, de la création artistique française contemporaine et lenseignement de notre langue à des publics variés.
+A l'image des British Council, Goethe Institut, Cervantès, etc. les centres et instituts culturels français à travers le monde ont adopté une identité internationale unique, celle dInstitut français. A Amsterdam comme dans toutes les villes du monde, vous trouverez désormais le logo qui nous rassemble tous et qui renforcera la lisibilité de nos missions autour de nos activités principales, la diffusion de la culture au sens large, de la création artistique française contemporaine et l'enseignement de notre langue à des publics variés.
 <!-- HTML -->
 </div>
 <!-- / HTML -->

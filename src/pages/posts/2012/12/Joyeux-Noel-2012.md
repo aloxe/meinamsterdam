@@ -17,7 +17,7 @@ TODO: no image, no image alt
 
 Je suis peut-être **loin des Pays-Bas** mais je suis **proche de vous** par la pensée. C'est encore plus vrai pour [les fêtes de Noël](/noel-des-pays-bas). Samedi dernier, en me promenant dans la neige, je suis passé par une station de bus appellée « Internationale ». Il y avait une crèche sur la place, avec plein de santons, vraisemblablement réalisés par les élèves du coin. C'est l'occasion de souhaiter mes vœux pour un très bon Noël dans plein de langues.
 
-[![Vrolijke Kerst](vrolijke-Kerst-2012.jpg){.center}](http://alix.guillard.fr/voeux/2012/joyeux-noel.php)
+![Vrolijke Kerst](vrolijke-Kerst-2012.jpg){.center}
 
 Pour changer, je mets en valeur le flamand qui souhaite un **vrolijke Kerst**, **joyeux Noël**, en mettant l'accent sur l'évènement plutôt que sur les [deux à trois jours feriés](/noel-des-pays-bas).
 

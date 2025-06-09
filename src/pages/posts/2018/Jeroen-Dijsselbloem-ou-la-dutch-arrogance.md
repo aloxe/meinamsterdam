@@ -14,7 +14,8 @@ TODO: no image, no image alt, shortened desc
 ---
 
 En mars dernier, **Jeroen Dijsselbloem**, le ministre des finances néerlandais et président de l'Eurogroupe[^1] a suscité la colère dans les pays du sud de l'Europe avec sa réplique destinée aux Grecs  du genre 
-{{Vous ne pouvez pas dépenser votre argent en alcool et en femmes et après venir pleurnicher pour avoir de l'aide.}}
+
+> Vous ne pouvez pas dépenser votre argent en alcool et en femmes et après venir pleurnicher pour avoir de l'aide.
 
 Suite aux protestations, il s'était justifié ensuite en prétextant la franchise très calviniste des Néerlandais. Cette justification a bien sûr attisé les animosités entre l'Europe du nord et celle du sud au sein de l'Eurogroupe et dans les éditoriaux. Non seulement cela lui évitait bien de demander des excuses pour avoir offensé tout un peuple mais en plus il donnait le crédit de la franchise à ce qui ne sont que des conneries de café du commerce.
 

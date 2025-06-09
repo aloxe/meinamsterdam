@@ -1,12 +1,12 @@
 ---
 layout: base
 title: "Citroën : La marque française la plus néerlandaise"
-description: "Tout le monde connait la marque de voiture Citroën, créatrice de plusieurs légendes de l'automobile comme la deuche ou la traction avant.     [|/public/image"
+description: "Tout le monde connait la marque de voiture Citroën, créatrice de plusieurs légendes de l'automobile comme la deuche ou la traction avant."
 categorie: nederlandjes
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: citroen_logo.png
+image_alt: Citroen
 permalink: Citroen-marque-francaise-neerlandaise/
 date: 2015-07-23
 update: 2015-07-23
@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Tout le monde connait la marque de voiture **Citroën**, créatrice de plusieurs **légendes de l'automobile** comme [la deuche](/bon-anniversaire-la-2cv) ou [la traction avant](https://fr.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant). 
 
-[![citroen_logo.png](.citroen_logo_m.png){.center}|/public/images/logos/citroen_logo.png||citroen_logo.png]
+![citroen_logo.png](citroen_logo.png){.center}
 
 Cette marque, fleuron de l'industrie automobile française est aussi une marque aux accents néerlandais. Ceci pour plusieurs raisons :
 
@@ -37,13 +37,13 @@ De 1955 à 1975, pendant les 20 ans qu'elle ont été produites la DS est sa pet
 
 Le directeur de **Citroën Pays Bas** aime raconter que c'est en commençant à acheter des propriétés dans la campagne française que les hollandais ont découvert ces voitures, prenant la poussière dans une vieille grange à foin. Il aime ajouter qu'il y a aujourd'hui plus de DS roulantes aux Pays Bas qu'il ne s'en est vendu pendant la durée de vie du modèle. Ces allégations sont difficiles à vérifier[^2] mais elle ajoute à la légende qui lie cette voiture bombée et ce pays plat. La DS a reçu de nombre petits noms selon les pays les bataves ne dérogent pas à la règle avec des comparaisons qu'on n'utilisait pas en France. Ici, on parle de **brochet** (*snoek*) en référence au long bec à l'avant de la voiture ou de fer à repasser (*strijkijzer*) qui fait porter la comparaison sur la proximité de la caisse avec le sol quand la voiture est en stationnement.
 
-[![http://farm3.static.flickr.com/2665/4023973026_6c7b4de64e.jpg](Une DS jaune){.center}](http://drooderfiets.tumblr.com/post/217952665/citroen-ds)
+<!-- [![http://farm3.static.flickr.com/2665/4023973026_6c7b4de64e.jpg](Une DS jaune){.center}](http://drooderfiets.tumblr.com/post/217952665/citroen-ds)  TODO external images -->
 
 Brochets ou fer à repasser, ce qui est certain c'est que les nombreuses DS encore garées dans la rue à Amsterdam étonnent plus d'un visiteur !
 
 ![logo Citroën DS ID Club Nederland](ds-id-club-nederland.gif){.left} Les propriétaires de vieilles voiture doivent en prendre soin et il n'est pas toujours facile de trouver des pièces et des garages qui acceptent de les réparer. C'est pour cela que les clubs automobiles consacrés se sont créés. Ce n'est pas propre aux PaysBas, mais le Citroën ID/DS Club Nederland, celui qui regroupe les heureux propriétaires de cette automobile de légende revendique quand même 3500 membres. Le club a [son site](http://www.citroeniddsclub.nl/) et son magazine, un mensuel de 80 pages qui parait depuis 1978 et au nom français : La Bombe. La boucle est bouclée.
 
-[![La-Bombe-166.png](.La-Bombe-166_m.png){.center}|/public/images/scans/La-Bombe-166.png||La-Bombe-166.png]
+![La-Bombe-166.png](La-Bombe-166.png){.center}
 
 ### Et le petit canard
 

@@ -29,7 +29,7 @@ La France participe à cette exposition avec seulement un tableau prêté par le
 
 La différence entre les deux reproductions que j'affiche sur mon blog ci-dessous c'est que dans la première elle est **autorisée par le musée Mauritshuis** et dans la seconde elle est **interdite par le Louvre** utilise le régime du droit d'auteur pour justifier de cette interdiction comme le rappelle l’ami Thierry Noisette dans [un article de ZD Net](https://www.zdnet.fr/blogs/l-esprit-libre/l-exposition-vermeer-les-copyrights-abusifs-et-le-domaine-public-39956074.htm).
 
-{{Sur les 14 musées qui ont prêté des œuvres à l’exposition d’Amsterdam, 9, dont le Louvre, prétendent à un copyright sur la reproduction numérique des œuvres du peintre… mort il y a 3 siècles et demi.}}
+``Sur les 14 musées qui ont prêté des œuvres à l’exposition d’Amsterdam, 9, dont le Louvre, prétendent à un copyright sur la reproduction numérique des œuvres du peintre… mort il y a 3 siècles et demi.``
 
 Thierry Noisette souligne le [travail effectué par Douglas McCarthy](https://douglasmccarthy.com/2023/03/28-vermeers/), spécialiste de l’open access dans la culture sur les toiles prêtées dans le cadre de cette exposition. Sur les 28 tableaux de l'exposition la moité en fait l'objet d'une revendication de droits d'auteurs par leurs institutions propriétaires. Et Douglas McCarthy de rappeler que dans l'ensemble des pays ayant prêté des tableaux, les droits d'auteurs expirent 70 ans après la mort de l'auteur. Ce qui pour le cas de Johannes Vermeer, mort le 15 décembre 1675 est passé depuis bien longtemps.
 

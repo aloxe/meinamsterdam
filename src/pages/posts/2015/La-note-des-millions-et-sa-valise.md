@@ -30,14 +30,15 @@ En [présentant ce jour en 2007](/encore-un-troisieme-mardi-de-septembre), j'exp
 
 Cette valise a été offerte en 1964 à Johan Witteveen (photo ci-contre), ministre des finances de l'époque, par l'imprimerie d'État à l'occasion des 150 de l'établissement. Cette valise a été transporté par tous les ministres des finances depuis lors comme le montre cette [galerie de photos sur Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Miljoenennota) La dernière photo de Jeroen Dijsselbloem, actuel ministre des finances:
 
-[![ Jeroen Dijsselbloem et sa valisette à la deuxième chambre](.Aanbieden_koffertje_Tweede_Kamer_m.jpg){.center}|https://commons.wikimedia.org/wiki/File:Aanbieden_koffertje_Tweede_Kamer.jpg||]
+[![ Jeroen Dijsselbloem et sa valisette à la deuxième chambre](Aanbieden_koffertje_Tweede_Kamer.jpg){.center}|https://commons.wikimedia.org/wiki/File:Aanbieden_koffertje_Tweede_Kamer.jpg||]
 
 ## Het koffertje van Lieftinck
 
 Avant 1964, les ministre des finances portaient une autre valisette qui renfermait, elle aussi la note des millions. Elle était de facture plus classique, en cuir acajou et avec les coins renforcés. Les armes royales n'y figuraient pas mais le *Derde Dinsdag in September* y était imprimé en lettres dorées. Ce modèle est connu comme **la valisette de Lieftinck** (*Het koffertje van Lieftinck*). Pieter Lieftinck était le ministre des finances de l'après guerre. C'est lui qui a lancé la tradition de la note des millions en 1947, année du premier budget d'après élaboré par le gouvernement néerlandais. Le ministre a donc dépensé quelques florins pour acheter cette valise chez le maroquinier *Van de Broek* à la Haye. Les lettres de *Derde Dinsdag in September* y ont simplement été collées.
 
-![http://3.bp.blogspot.com/-8kDpxvD0VMU/UjlrqER36cI/AAAAAAAAEBg/II-0SmSE-uA/s1600/koffertjelieftinck1946.jpg](Het koffertje van Lieftinck){.center}
+![Het koffertje van Lieftinck](koffertjelieftinck1946.jpg){.center}
 
+<!-- source  [http://3.bp.blogspot.com/-8kDpxvD0VMU/UjlrqER36cI/AAAAAAAAEBg/II-0SmSE-uA/s1600/koffertjelieftinck1946.jpg -->
 
 C'est une sorte de surprise que de voir cette ancienne valisette accompagant à nouveau le ministre des finances.
 

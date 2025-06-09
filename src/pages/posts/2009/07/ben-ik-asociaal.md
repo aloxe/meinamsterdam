@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Ben ik asociaal?
+publish: wait
 description: 
 categorie: dagelijks
 tags: []

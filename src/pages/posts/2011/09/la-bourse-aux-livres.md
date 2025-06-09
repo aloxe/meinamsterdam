@@ -17,5 +17,5 @@ C'est la rentré et comme toujours à la rentré il faut acheter de nouveaux liv
 
 C'est ce qu'organise la section Pays-Bas de l'ADFE (français du monde). Ça se passera à La Haye le 25 septembre 2011. Les adhérents de l'ADFE donnent leurs vieux livres qui sont ensuite revendus ce jour là. Tout est expliqué sur l'affiche ci-dessous :
 
-[![http://paysbas.francais-du-monde.adfe.org/img/affiches/affficefoire.jpg]()<!-- TODO: Add image alt -->{.center}|http://paysbas.francais-du-monde.adfe.org/agenda.php?lng=fr&idpg=5656/&pg=5656&agv=1]
+<!-- [![http://paysbas.francais-du-monde.adfe.org/img/affiches/affficefoire.jpg]() TODO: external image alt {.center}|http://paysbas.francais-du-monde.adfe.org/agenda.php?lng=fr&idpg=5656/&pg=5656&agv=1] -->
 ---

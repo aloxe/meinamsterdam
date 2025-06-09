@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "L'internalisation des coûts externes"
-description: "Des fois j'aime montrer ma science en utilisant du jargon spécialisé. Le titre de ce billet n'est pas loin d'être l'un des meilleurs depuis la création de c"
+description: "Des fois j'aime montrer ma science en utilisant du jargon spécialisé. Le titre de ce billet n'est pas loin d'être l'un des meilleurs depuis la création de ce blog. Qu'est ce donc que l´internalisation des coûts externes dans les transports ?"
 categorie: ik-ben-frans
 tags: []
 isMarkdown: true
@@ -17,7 +17,7 @@ Des fois j'aime montrer ma science en utilisant du jargon spécialisé. Le titre
 
 L'internalisation des coûts externes dans le transport est la prise en compte des coûts que les transports génèrent pour la société en général (pollution, dépenses d'infrastructure, bruit...). Cette idée vient de la commission européenne (les fameux technocrates de Bruxelles) qui s'est proposé de prendre en compte ces coûts pour orienter les usages vers les modes de transports qui ont globalement un impact moindre sur la société et l'économie. Comme le dit [une communication de la commission](http://eur-lex.europa.eu/Notice.do?mode=dbl&lang=fr&ihmlang=fr&lng1=fr,nl&lng2=bg,cs,da,de,el,en,es,et,fi,fr,hu,it,lt,lv,mt,nl,pl,pt,ro,sk,sl,sv,&val=474353:cs&page=) datant de 2008.
 
-{{Un tel projet n'est pas nouveau. Depuis un certain nombre d'années déjà, la Commission européenne met en avant la nécessité d'avoir une tarification du transport plus efficace et reflétant mieux le véritable coût du transport (1). Le transport génère des nuisances qui ont un coût pour la société et aussi pour l'économie. L'internalisation des coûts externes vise à donner un signal de prix correct afin que les utilisateurs supportent les coûts qu'ils génèrent et qu'ils aient ainsi une incitation à modifier leur comportement pour les réduire.}}
+> Un tel projet n'est pas nouveau. Depuis un certain nombre d'années déjà, la Commission européenne met en avant la nécessité d'avoir une tarification du transport plus efficace et reflétant mieux le véritable coût du transport (1). Le transport génère des nuisances qui ont un coût pour la société et aussi pour l'économie. L'internalisation des coûts externes vise à donner un signal de prix correct afin que les utilisateurs supportent les coûts qu'ils génèrent et qu'ils aient ainsi une incitation à modifier leur comportement pour les réduire.
 
 La prise en compte de ces coûts s'est traduit par la mise en place de taxes sur le transport routier de marchandises dans une directive dite Eurovignette III qui a été [adoptée en juin dernier](http://www.developpement-durable.gouv.fr/La-revision-de-la-directive.html).
 

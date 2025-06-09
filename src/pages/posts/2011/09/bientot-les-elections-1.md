@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Bientôt les élections (1)
-description: 
+description: "Dimanche 25 Septembre auront lieu les élections sénatoriales. Ce scrutin n'est pas ouvert à tous et c'est pour ça que tout le monde s'en fout. Il n'y aura pas de grande soirée électorale sur TF1 avec plein de débats super fades et fascinants."
 categorie: ik-ben-frans
 tags: []
 isMarkdown: true

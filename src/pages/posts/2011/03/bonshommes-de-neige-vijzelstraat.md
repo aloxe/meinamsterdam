@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Les bonshommes de neige de la Vijzelstraat
-description: [|/bonshommes-de-neige-vijzelstraat]  Nous avons eu beaucoup de neige au mois de décembre 2010 et certain en ont profité pour faire des bonshommes de neige. B
+description: Nous avons eu beaucoup de neige au mois de décembre 2010 et certain en ont profité pour faire des bonshommes de neige.
 categorie: toering
 tags: []
 isMarkdown: true

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: La fête de la reine sera mobile
-description: 
+description: "Tous les ans je vous parle de la fête de la reine et de tout le orange qu'il y a autour[^1]. Cette année le manque de temps m'empêche[^2] de m'y attarder mais je voulais quand même signaler une tendance du cru 2011:"
 categorie: nederlandjes
 tags: ["coutumes"]
 isMarkdown: true
@@ -27,7 +27,7 @@ Ce matin, j'ai vu des gens de la mairie installer des banderoles avec des QR cod
 
 Le seule à ne pas croire à cette tendance mobile, c'est Heineken, sa campagne pour le jour en orange montre une main avec un emplacement réservé (*bezet*)[^5] pour un verre de bière. Il ne peut donc pas y avoir de téléphone dans cette main.
 
-[![heineken koninginnedag bezet](.heineken-koninginnedag_m.jpg){.center}|/public/images/photos/2011/heineken-koninginnedag.jpg||heineken-koninginnedag.jpg]
+![heineken koninginnedag bezet](heineken-koninginnedag.jpg){.center}
 
 Je serais plutôt d'accord avec Heineken sur ce coup là. Le jour de la fête de la reine, il y a tellement de monde en ville que les réseaux mobiles sont saturés, il est impossible de passer ses coup de fils ou d'envoyer le moindre SMS. je doute que la moindre app connectée fonctionne correctement.
 

@@ -9,8 +9,8 @@ thumbnail:
 image_alt: 
 permalink: Joyeux-Noel-2011/
 date: 2011-12-24
-update: 2012-12-25
-TODO: no image, no image alt
+update: 2011-12-25
+TODO: no image, no image
 ---
 
 

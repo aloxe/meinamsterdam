@@ -22,6 +22,7 @@
 
     {% set count = [1] %}
     {% for post in collections.posts | reverse %} {# posts not comments #}
+    {% if post.data.publish !== "wait" %}
       {% if post.url.startsWith(page.url) %} {# only posts bellow current #}
         {% if post.url !== page.url %}
           {% if (count.length < 6) %} {# only 10 first posts #}
@@ -70,6 +71,7 @@
           {% endif %}
         {% endif %}
       {% endif %}
+    {% endif %}
     {% endfor %}
   </section>
 

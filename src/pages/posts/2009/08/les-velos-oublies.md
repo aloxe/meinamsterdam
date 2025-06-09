@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Les vélos oubliés
+publish: wait
 description: "J'ai oublié de lister quelques vélos dans la liste des vélos hollandais, je vais donc les lister ici et les ajouter sur la page en question."
 categorie: nederlandjes
 tags: ["vélo"]

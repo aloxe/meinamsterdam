@@ -248,6 +248,36 @@ module.exports = async function(eleventyConfig) {
     .sort((a, b) => b.date - a.date); // sort ascending
   });
 
+  // const categories = [ 'toering', 'nederlandjes', 'ik-ben-frans', 'dagelijks' ];
+  // we can't look into categories to generate categorised collections
+  eleventyConfig.addCollection('toering', function (collection) {
+    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+    .filter((item) => !item.data.tags.includes("comment"))
+    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
+    .filter((item) => item.data.categorie === 'toering');
+  });
+
+  eleventyConfig.addCollection('nederlandjes', function (collection) {
+    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+    .filter((item) => !item.data.tags.includes("comment"))
+    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
+    .filter((item) => item.data.categorie === 'nederlandjes');
+  });
+
+    eleventyConfig.addCollection('ik-ben-frans', function (collection) {
+    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+    .filter((item) => !item.data.tags.includes("comment"))
+    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
+    .filter((item) => item.data.categorie === 'ik-ben-frans');
+  });
+
+  eleventyConfig.addCollection('dagelijks', function (collection) {
+    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+    .filter((item) => !item.data.tags.includes("comment"))
+    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
+    .filter((item) => item.data.categorie === 'dagelijks');
+  });
+
   // pagefind search
   eleventyConfig.on('eleventy.after', () => {
     execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })

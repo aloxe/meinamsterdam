@@ -244,7 +244,8 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collection) {
   return collection.getFilteredByGlob("./src/pages/posts/**/*.md") // all posts
     .filter((item) => !item.data.tags.includes("comment")) // without comments
-    .sort((a, b) => a.date - b.date); // sort descending
+    .filter((item) => !item.data.publish || !item.data.publish.includes("wait")) // not unpublished
+    .sort((a, b) => b.date - a.date); // sort ascending
   });
 
   // pagefind search

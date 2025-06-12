@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Margaret Staal-Kropholler et l'immeuble de Holendrechtstraat"
-description: 
 categorie: toering
 tags: ["Amsterdam", "Bergen", "architecture"]
 isMarkdown: true
@@ -23,6 +22,7 @@ Pour ce défi, le fan de briques a partagé cet immeuble Amstelodamois (Bon comm
 <script data-allowed-prefixes="https://piaille.fr/" async src="https://piaille.fr/embed.js"></script>
 <!-- / HTML -->
 
+<!--excerpt-->
 
 Mon sang n'a fait qu'un tour, c'est un immeuble de [l'école d'Amsterdam](/l-ecole-d-amsterdam) me dis-je, j'en suis sûr ça se voit trop. J'ai dû passer devant plein de fois en faisant des tours de [drooderfiets](/photos-drooderfiets-balade) dans le quartier.
 
@@ -63,7 +63,8 @@ Elle embrassera complètement le style de l'école quand elle participera à la 
 Margaret Staal-Kropholler a fait l'objet d'une monographie **Margaret Staal-Kropholler 1891-1966** par les auteurs Ellen van Kessel & Marga Kuperusles publié chez Uitgeverij 010 en 1991, contribuant à la découverte de cette architecte tout comme la redécouverte de l'école d'Amsterdam. Les deux pages ci-dessus sont extraites de ce livre.
 
 Margaret Staal-Kropholler a aussi été l'héroine d'[un film éponyme](https://www.lantarenvenster.nl/programma/margaret-staal-kropholler/) par Magda Augusteijn et Wilma Kuijvenhoven sorti en 2013 et que je n'ai pas vu.
----
+
+
 <!-- post notes:
 https://piaille.fr/@pizzaroquette/113196746441421332 
 https://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Kropholler 

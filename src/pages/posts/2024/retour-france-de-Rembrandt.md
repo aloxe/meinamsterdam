@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Retour en France des mariés de Rembrandt
-description:
 categorie: toering
 tags: ["Amsterdam", "art", "musée", "sortir"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt: portraits des mariés de Rembrandt au Rijksmuseum
 permalink: retour-france-de-Rembrandt/
 date: 2024-11-23
 update: 2024-12-18
-TODO: shortened desc
 ---
 
 Les mariés de Rembrandt sont deux toiles peintes par le maître de l'école hollandaise Rembrandt van Rijn qui ne se quittent jamais. Les portraits en pied de Marten Soolmans et de son épouse Oopjen Coppit sont retournés au musée du Louvre [en ce 21 février 2024](https://presse.louvre.fr/les-portraits-de-marten-soolmans-et-doopjen-coppit-sont-de-retour/) après avoir passé un séjour au Rijksmuseum. Le musée parisien et celui d'Amsterdam s'échangent souvent les deux portraits en faisant attention de ne pas les séparer. Le musée du Louvre devrait les conserver pour cinq ans avant de les renvoyer dans la ville de Rembrandt.
@@ -60,7 +58,7 @@ Le Rijksmuseum de son côté, respecte mieux son public et propose en ligne des 
 Une autre différence réside dans la notice de propriété des œuvres. Le Rijksmuseum indique pour les deux tableaux *Joint acquisition by the Dutch State and the French Republic, collection Rijksmuseum/collection Musée du Louvre* ce qui correspond à l'histoire de cet achat présenté partout. Mais le site du Louvre présente le portrait de Maerten Soolmans comme la propriété du Rijksmuseum et celui d'Oopjen Coppit comme appartenant à l'État (français) accompagné de l'historique complète des propriétaires ce qui m'a aidé à écrire cet article. **L'acquisition des deux portraits a été faite par l’État français et l’État néerlandais : la France a acquis le portrait de Oopjen Coppit, grâce au mécénat exceptionnel de la Banque de France.** 
 
 Le Rijksmuseum a fait par ailleurs, un travail formidable de mise à disposition d'une grande partie de son fond pour le public en proposant le [téléchargement haute définition](https://www.rijksmuseum.nl/nl/rijksstudio) via le *Rijksstudio* (identification requise). Ça serait trop bien que le Louvre fasse un partenariat avec le Rijksmuseum pour ce genre de choses aussi.
----
+
 <!-- post notes:
 source photo: https://static1.purepeople.com/articles/0/17/53/00/@/2127739-le-roi-willem-alexander-la-reine-maxima-1200x0-2.jpg
 --->

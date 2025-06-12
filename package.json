@@ -1,5 +1,5 @@
 {
-  "name": "huwindty",
+  "name": "meinamsterdam",
   "version": "0.1.0",
   "description": "humbly upgraded 11ty template with tailwind",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloxe/huwindty.git"
+    "url": "https://github.com/aloxe/meinamsterdam.git"
   },
   "keywords": [
     "eleventy",
@@ -18,9 +18,9 @@
   ],
   "author": "Alix Guillard",
   "license": "Art Libre",
-  "homepage": "https://github.com/distantcam/huwindty#readme",
+  "homepage": "https://github.com/aloxe/meinamsterdam/#readme",
   "bugs": {
-    "url": "https://github.com/distantcam/huwindty/issues"
+    "url": "https://github.com/aloxe/meinamsterdam/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0",

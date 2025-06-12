@@ -32,14 +32,14 @@
               {{ readMore(post.url) }}
             {% else %}
               {% if post.data.description %}
-                <em>{{post.data.description}}</em>
+                {{ post.data.description | md | safe }}
                 {{ readMore(post.url) }}
               {% else %}
                 {% if post.data.page.excerpt %}
-                  <p class="justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
+                  <p class="text-justify justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
                   {{ readMore(post.url) }}
                 {% else %}
-                  <p class="justify-content">{{ post.content | safe }}</p>
+                  <p class="text-justify justify-content">{{ post.content | safe }}</p>
                 {% endif %}
               {% endif %}
             {% endif %}

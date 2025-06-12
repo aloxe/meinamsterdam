@@ -1,11 +1,11 @@
 ---
 layout: base
 title: Retour en France des mariés de Rembrandt
-description: "Les mariés de Rembrandt sont deux toiles peintes par le maître de l'école hollandaise Rembrandt van Rijn qui ne se quittent jamais. Les portraits en pied de "
+description:
 categorie: toering
 tags: ["Amsterdam", "art", "musée", "sortir"]
 isMarkdown: true
-thumbnail: .Rijksmuseum-Rembrandt_Portraits_m.jpg
+thumbnail: Rijksmuseum-Rembrandt_Portraits.jpg
 image_alt: portraits des mariés de Rembrandt au Rijksmuseum
 permalink: retour-france-de-Rembrandt/
 date: 2024-11-23
@@ -17,10 +17,12 @@ Les mariés de Rembrandt sont deux toiles peintes par le maître de l'école hol
 
 Mais quel juge a prononcé une telle garde partagée de ces deux tableaux ?
 
+<!--excerpt-->
+
 ## Les mariés de Rembrandt
 Ces mariés sont, comme expliqué plus haut, deux portraits de Marten Soolmans et de son épouse Oopjen Coppit peints en 1634 par Rembrandt van Rĳn. À cette date, Rembrandt était encore jeune mais déjà très productif. Il est possible que Oopjen Coppit ait commandé ces portraits pour aider un copain à se lancer… Toujours est-il que Rembrandt a réalisé là deux portraits uniques qui n'ont pas d'équivalent dans l'histoire du peintre puisqu'il n'a jamais plus réalisé de portraits grandeur nature comme ceux-ci pour le reste de sa carrière. C'est dire si ces mariés sont uniques.
 
-[![portraits des mariés de Rembrandt au Rijksmuseum](.Rijksmuseum-Rembrandt_Portraits_m.jpg){.center}](/public/images/contribs/2023/Rijksmuseum-Rembrandt_Portraits.jpg)
+![portraits des mariés de Rembrandt au Rijksmuseum](Rijksmuseum-Rembrandt_Portraits.jpg){.center}
 
 Ces toiles faisaient partie de la collection de la famille Rothschild depuis leur achat par le baron Gustave de Rothschild il y a plus d'un siècle. Eric de Rothschild les a mises en vente en 2015 pour la somme de 160 millions d'euros. Une broutille. Jamais aucun musée européen n'avait déboursé une telle somme pour une œuvre.
 
@@ -38,7 +40,7 @@ La vente a été scellée lors de [la signature d'un contrat](https://www.lequot
 
 Le mois suivant, la vente étant consommée, les mariées commencèrent leur nouvelle vie commune face au public dans le plus grand Musée du monde, le Louvre. Le couple royal des Pays-Bas avait fait le déplacement pour l'occasion accompagné du directeur du Rijksmuseum.
 
-[![Les chefs d'État devant les deux mariés](.Louvre-roi-willem-alexander-pre_sident-francois-hollande-reine-maxima_m.jpg){.center}](/public/images/contribs/2023/Louvre-roi-willem-alexander-pre_sident-francois-hollande-reine-maxima.jpg)
+![Les chefs d'État devant les deux mariés](Louvre-roi-willem-alexander-pre_sident-francois-hollande-reine-maxima.jpg){.center}
 
 En 2018, Marten Soolmans et de son épouse Oopjen Coppit ont rafraîchi leur mariage. Les tableaux ont passé 18 mois dans les ateliers du Rijksmuseum pour restauration avant d'être à nouveau exposés ensemble dans le musée d'Amsterdam. Ce fut l'occasion pour France Inter de faire [une faute de frappe sur le nom du Rijksmuseum](https://www.radiofrance.fr/franceinter/podcasts/grand-angle/les-maries-de-rembrandt-restaures-1021719).
 
@@ -55,9 +57,9 @@ Le Rijksmuseum de son côté, respecte mieux son public et propose en ligne des 
 ![détail de la main de Maerten Soolmans Rijksmuseum](main-de-Maerten-Soolmans-Rijks.png){.center}
 > ''détail de la main de Maerten Soolmans en zoomant directement sur la page web présentant le tableau (le zoom est au maximum mais l'image est un peu plus grande)*
 
-Une autre différence réside dans la notice de propriété des œuvres. Le Rijksmuseum indique pour les deux tableaux *Joint acquisition by the Dutch State and the French Republic, collection Rijksmuseum/collection Musée du Louvre'' ce qui correspond à l'histoire de cet achat présenté partout. mais le site du Louvre présente le portrait de Maerten Soolmans comme la propriété du Rijksmuseum et celui d'Oopjen Coppit comme appartenant à l'État (français) accompagné de l'historique complet des propriétaires ce qui m'a aidé à écrire cet article. ''L'acquisition des deux portraits a été faite par l’État français et l’État néerlandais : la France a acquis le portrait de Oopjen Coppit, grâce au mécénat exceptionnel de la Banque de France.'' 
+Une autre différence réside dans la notice de propriété des œuvres. Le Rijksmuseum indique pour les deux tableaux *Joint acquisition by the Dutch State and the French Republic, collection Rijksmuseum/collection Musée du Louvre* ce qui correspond à l'histoire de cet achat présenté partout. Mais le site du Louvre présente le portrait de Maerten Soolmans comme la propriété du Rijksmuseum et celui d'Oopjen Coppit comme appartenant à l'État (français) accompagné de l'historique complète des propriétaires ce qui m'a aidé à écrire cet article. **L'acquisition des deux portraits a été faite par l’État français et l’État néerlandais : la France a acquis le portrait de Oopjen Coppit, grâce au mécénat exceptionnel de la Banque de France.** 
 
-Le Rijksmuseum a fait par ailleurs un travail formidable de mise à disposition d'une grande partie de son fond pour le public en proposant le [téléchargement haute définition](https://www.rijksmuseum.nl/nl/rijksstudio) via le *Rijksstudio* (identification requise). Ça serait trop bien que le Louvre fasse un partenariat avec le Rijksmuseum pour ce genre de choses aussi.
+Le Rijksmuseum a fait par ailleurs, un travail formidable de mise à disposition d'une grande partie de son fond pour le public en proposant le [téléchargement haute définition](https://www.rijksmuseum.nl/nl/rijksstudio) via le *Rijksstudio* (identification requise). Ça serait trop bien que le Louvre fasse un partenariat avec le Rijksmuseum pour ce genre de choses aussi.
 ---
 <!-- post notes:
 source photo: https://static1.purepeople.com/articles/0/17/53/00/@/2127739-le-roi-willem-alexander-la-reine-maxima-1200x0-2.jpg

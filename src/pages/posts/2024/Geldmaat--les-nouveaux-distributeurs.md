@@ -1,23 +1,23 @@
 ---
 layout: base
 title: Geldmaat, les nouveaux distributeurs
-description: "En 2006, quand je suis arrivé à Amsterdam, j'ai choisi ma banque en fonction de la couleur de ses distributeurs de billets. Maintenant ce n'est plus possible."
 categorie: nederlandjes
 tags: ["Belgique", "banque", "eco", "pratique", "économie"]
 isMarkdown: true
-thumbnail: .affiche-geldmaat-ing_m.jpg
+thumbnail: affiche-geldmaat-ing.jpg
 image_alt: 
 permalink: Geldmaat--les-nouveaux-distributeurs/
 date: 2024-03-18
 update: 2024-03-18
-TODO: no image alt, shortened desc, image without alt
 ---
 
 En 2006, quand je suis arrivé à Amsterdam, j'ai choisi ma banque [en fonction de la couleur de ses distributeurs de billets](/choisir-une-banque). Maintenant ce n'est plus possible. Tous les distributeurs se ressemblent et aucun ne porte la marque d'une banque. Ils ont tous le même nom (**Geldmaat**) et la même tête (jaune). 
 
 Depuis 2020, tous les distributeurs de billets du pays sont opérés par la même entreprise, Geldmaat, au service de toutes les banques et de leurs clients. Ce n'est pas tout, l'ensemble des automates de services bancaires sont, eux aussi, opérés par Geldmaat. Les banques l'expliquent parfois devant leurs agences pour réorienter les clients perdus.
 
-[![](.affiche-geldmaat-ing_m.jpg){.center}](Affiche devant une agence ING expliquant en anglais comment et où retirer et déposer de l'argent avec Geldmaat)
+![Affiche sur un panneau devant une agence ING](affiche-geldmaat-ing.jpg){.center}
+<!--excerpt-->
+> Affiche devant une agence ING expliquant en anglais comment et où retirer et déposer de l'argent avec Geldmaat
 
 Le changement a été annoncé en 2018. Constatant la diminution des transactions en espèces, les trois grandes banques du pays (ABN-AMRO, ING et Rabobank) ont décidé d'optimiser leurs services en lançant [des distributeurs en marque blanche](https://forum.eurobilltracker.com/viewtopic.php?t=57129&hilit=Geldmaat). En fait de marque blanche, c'est plutôt une marque jaune: **Geldmaat**. Le jaune (*geel*) est une couleur qui n'est présente dans aucune ligne graphique des banques à l'origine du service et c'est aussi la couleur dont le nom sonne le plus comme l'argent (*geld*)
 
@@ -35,10 +35,11 @@ Le paysage bancaire néerlandais étant moins varié qu'en Belgique, il leur a s
 
 Aprěs les distributeurs de billets, Geldmat s'est occupé des appareils de dépôt d'espèces que les banques peinent toujours à maintenir en état (bien souvent parce qu'elles ne veulent pas s'en donner les moyens). Aujourd'hui les distributeurs de billets offrent souvent la fonction de dépôt d'espèces, mais Geldmaat prend aussi en charge les appareils de dépôt spéciaux comme celui ci-dessous.
 
-[![](.geldmaat-opneming-storting_m.jpg){.center}](personne retirant des sous d'un DAB dans la rue installé à coté d'un appareil pour déposer de l'argent)
+![personne retirant des sous d'un DAB dans la rue installé à coté d'un appareil pour déposer de l'argent](geldmaat-opneming-storting.jpg){.center}
 
 ## Ce n'est pas toujours gratuit
+
 Ce n'est pas parce que les banques ont optimisé ensemble ce service pour qu'il coûte moins cher que les clients finaux peuvent utiliser ce service gratuitement. Dans de nombreux cas les services sont facturés aux clients. Le retrait d'espèces est dans la plupart des cas gratuit, mais parfois, il reste limité. Quant au dépôt d'espèces, il n'y a plus de banque offrant ce service gratuitement à part le compte jeune de Rabobank.
 
 Les tarifs de ces services sont exposés dans le dossier de [financer.com](https://financer.com/nl/finance-academy/geld-storten-en-opnemen/#Hoeveel_kost_het)  *Contant geld storten en opnemen: wat kost het?* qui signifie **Retrait et dépôt d'espèces : combien il en coûte ?** On y découvre le coût de chaque opération selon sa banque. On y apprend aussi que le dépôt de pièces de monnaie peuvent s'effectuer dans les *muntautomaat* disponible dans les magasins de bricolage Gamma et Karwei. Enfin, les banques en ligne comme Revolut, N26 ou Wise ou les banques étrangères n'offre pas du tout la possibilité de déposer des espèces aux Pays-Bas.
----
+

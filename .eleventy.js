@@ -283,6 +283,11 @@ module.exports = async function(eleventyConfig) {
     execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
   })
 
+  // allow excerpt
+  eleventyConfig.setFrontMatterParsingOptions({ excerpt: true,
+    excerpt_separator: "<!--excerpt-->"
+  });
+
   return {
     dir: {
       input: "src/pages",

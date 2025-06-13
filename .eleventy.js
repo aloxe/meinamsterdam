@@ -84,6 +84,11 @@ module.exports = async function(eleventyConfig) {
     const imgAlt = token.content
     const imgTitle = token.attrGet('title') ?? ''
     const className = token.attrGet('class')
+    if (!env.page.outputPath) {
+      // comments don't have output path for images we create it with the comment folder name
+      const output = env.page.inputPath.split("/");
+      env.page.outputPath = env.eleventy.directories.output + output[output.length-2] + "/index.html"
+    }
     const ImgOptions = getImgOptions(env.page, imgSrc, imgAlt, className, Images.WIDTHS, Images.FORMATS, Images.SIZES);
     const htmlOptions = {
       alt: imgAlt,
@@ -222,6 +227,7 @@ module.exports = async function(eleventyConfig) {
   // image path for page thumbnail (used in meta tags)
   eleventyConfig.addNunjucksAsyncShortcode("getOGImageUri", async (meta, page, src) => {
     if (!src) return "/vera-600w.webp"; // use an existing image as fallback
+    // TODO: add existing image
     
     const isGlobal = src.slice(0, meta.public_folder.length) === meta.public_folder
 

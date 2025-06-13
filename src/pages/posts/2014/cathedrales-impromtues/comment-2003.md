@@ -10,4 +10,3 @@ Super référence Gallixa, il y en a même des noirs et blanc disponibles en lig
 
 <!-- ![monuEglise](monuEglise5.gif) -->
 ![monument Eglise plan de de Cathédrale en noir sur blanc](monument-eglise5.png)
----

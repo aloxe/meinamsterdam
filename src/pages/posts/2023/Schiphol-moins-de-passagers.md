@@ -42,8 +42,8 @@ Lui aussi y est défavorable parce que ceci ne concerne qu’un tout petit pourc
 
 Alors je ne sais pas si Vincent Boloré effectuerait ses Paris-Nice depuis l'étranger mais plutôt que de [suivre quelques milliardaires en jet](https://twitter.com/i_fly_bernard) pour savoir si tout cela serait efficace, on peut lire l’analyse de Schiphol les poussant a bannir les jets privés de cet aéroport :
 
-*[…] causent des nuisances et des émissions de CO2 disproportionnées par passagers […] 30 % a 50 % de ces vols en jets privés sont à destination de lieux de vacances comme Ibiza, Cannes ou Innsbruck. Il y a suffisamment de créneaux horaires ouverts par ailleurs pour ces destinations populaires pour les jets privés.*
+> […] causent des nuisances et des émissions de CO2 disproportionnées par passagers […] 30 % a 50 % de ces vols en jets privés sont à destination de lieux de vacances comme Ibiza, Cannes ou Innsbruck. Il y a suffisamment de créneaux horaires ouverts par ailleurs pour ces destinations populaires pour les jets privés.
 
-L’aéroport ne se prononce pas sur l’efficacité des mesures fiscales en France mais on peut imaginer par leur choix de reporter le trafic des jets sur des vols commerciaux existant sera plus efficace.
+L’aéroport ne se prononce pas sur l’efficacité des mesures fiscales en France mais on peut imaginer par leur choix de reporter le trafic des jets sur des vols commerciaux existants sera plus efficace.
 
 Il reste un point pour lequel Schiphol semble donner raison à Christophe Bechu. Nulle part l’aéroport annonce vouloir éteindre les enseignes ou couper le wifi la nuit. Ces mesures ne concernent qu’un tout petit pourcentage des émissions de gaz à effet de serre et l’aéroport préfère se concentrer sur les émissions de son métier qui sont le transport aérien. Le reste, c’est une goutte d’eau et c’est pour ça que ça ne sert à rien (ou pas) d’essayer de réduire leurs émissions.

@@ -2,46 +2,36 @@
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
   <header class="flex w-full flex-col justify-center overflow-y-hidden lg:items-start">
 
-      <!-- post order is inverted. next is previous -->
-      {% if nextPost %}
-      <div class="[&&]:text-text-light mt-2 h-15 block flex-left max-w-19/40 truncate">
-       ← <span class="sr-only">billet précédent</span><br>
-        <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
-          <a href="{{ nextPost.url }}" class="block truncate">{{ nextPost.data.title }}</a>
-        </div>
+    <!-- post order is inverted. next is previous -->
+    {% if nextPost %}
+    <div class="mt-6 h-15 block flex-left max-w-19/40 truncate">
+    <div class="float-left mt-2 text-text-light">
+     ⮜ <span class="sr-only">billet précédent</span></div>
+      <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 mt-1">
+        <a href="{{ nextPost.url }}" class="block truncate">{{ nextPost.data.title }}</a>
       </div>
-      {% endif %}
-{# 
-      {% if previousPost %}
-      <div class="[&&]:text-text-light mt-2 h-15 block flex-left max-w-19/40 truncate">
-       ← billet précédent<br>
-        <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
-          <a href="{{ previousPost.url }}" class="block truncate">{{ previousPost.data.title }}</a>
-        </div>
+    </div>
+    {% endif %}
+
+    {% if previousPost %}
+    <div class="{% if nextPost %}-mt-15{% else %}mt-2{% endif %} h-15 block flex-right max-w-19/40 ml-auto text-right">
+      <div class="float-right mt-2 text-text-light">
+      <span class="sr-only">billet suivant</span> ⮞ </div>
+      <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 mt-1">
+        <a href="{{ previousPost.url }}" class="block truncate">{{ previousPost.data.title }}</a>
       </div>
-      {% endif %} #}
+    </div>
+    {% endif %}
 
-      {% if previousPost %}
-      <div class="[&&]:text-text-light {% if nextPost %}-mt-15{% else %}mt-2{% endif %} h-15 block flex-right max-w-19/40 ml-auto text-right">
-        <span class="sr-only">billet suivant</span> → <br>
-        <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
-          <a href="{{ previousPost.url }}" class="block truncate">{{ previousPost.data.title }}</a>
-
-        </div>
-      </div>
-      {% endif %}
-{# 
-      {% if nextPost %}
-      <div class="[&&]:text-text-light {% if previousPost %}-mt-15{% else %}mt-2{% endif %} h-15 block flex-right max-w-19/40 ml-auto text-right">
-        billet suivant → <br>
-        <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
-          <a href="{{ nextPost.url }}" class="block truncate">{{ nextPost.data.title }}</a>
-
-        </div>
-      </div>
-      {% endif %} #}
-
-    <h1 class="my-4 text-center text-3xl leading-9 text-secondary md:text-left md:text-5xl font-[Advent]">
+    <h1 class="mt-4 text-center text-3xl leading-9 text-secondary md:text-left md:text-5xl font-[Advent]">
       {{ title }}
     </h1>
+
+    <em class="text-text-light">in <a href="/{{ categorie }}/" class="text-text-light">{{ categorie }}</a> le {{ date | date }}</em><br/>
+    <div class="flex-row">
+      {% for tag in tags %}
+        <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
+      {% endfor %}
+    </div>
+
   </header>

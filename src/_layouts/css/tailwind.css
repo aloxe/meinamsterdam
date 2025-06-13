@@ -85,6 +85,12 @@
   & code {
     @apply text-xl;
   }
+  & blockquote {
+    @apply ml-6 pl-6 border-l-8 border-l-primary italic font-serif
+  }
+  & blockquote p {
+    @apply italic font-serif text-shadow-text-light text-xl
+  }
   & mark {
     @apply bg-amber-200;
   }

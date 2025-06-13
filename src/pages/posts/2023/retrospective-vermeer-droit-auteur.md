@@ -4,7 +4,7 @@ title: "La rétrospective Vermeer et les abus du droit d'auteur"
 categorie: toering
 tags: ["Amsterdam", "art", "musée"]
 isMarkdown: true
-thumbnail: la-denteliere-Vermeer.jpg
+thumbnail: la-denteliere-Vermeer_m.jpg
 image_alt: La dentelière
 permalink: retrospective-vermeer-droit-auteur/
 date: 2023-03-26
@@ -19,12 +19,12 @@ Ce printemps le Rijksmuseum ouvre sa [rétrospective Johannes Vermeer](https://w
 
 Pour réaliser une telle rétrospective, le Rijksmuseum s’est fait prêter 24 toiles de 14 institutions de par le monde dont la plupart sont des grands musées nationaux mais il y a aussi des fondations et d'autres musées comme la Mauritshuis de la Haye qui a bien entendu prêté trois tableaux dont la star **la jeune fille à la perle** qui fait l'affiche de l'expo.
 
-![La fille à la perle](Vermeer-Girl-with-a-pearl-earring-865x1024.jpeg){.center}
+![La fille à la perle](Vermeer-Girl-with-a-pearl-earring.jpg){.center}
 <!--excerpt-->
 
 La France participe à cette exposition avec seulement un tableau prêté par le Louvre et qui a fait l'objet d'un timbre en France en 1982 : La dentelière. 
 
-![La dentelière](la-denteliere-Vermeer.jpg){.center}
+![La dentelière](la-denteliere-Vermeer_m.jpg){.center}
 
 La différence entre les deux reproductions que j'affiche sur mon blog ci-dessous c'est que dans la première elle est **autorisée par le musée Mauritshuis** et dans la seconde elle est **interdite par le Louvre** utilise le régime du droit d'auteur pour justifier de cette interdiction comme le rappelle l’ami Thierry Noisette dans [un article de ZD Net](https://www.zdnet.fr/blogs/l-esprit-libre/l-exposition-vermeer-les-copyrights-abusifs-et-le-domaine-public-39956074.htm).
 

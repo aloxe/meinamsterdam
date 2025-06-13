@@ -2,32 +2,34 @@
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
   <header class="flex w-full flex-col justify-center overflow-y-hidden lg:items-start">
 
-      {% if previousPost %}
+    {% if previousPost %}
       <div class="[&&]:text-text-light mt-2 h-15 block flex-left max-w-19/40 truncate">
-       ← billet précédent<br>
+       ← <span class="sr-only">billet précédent</span><br>
         <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
-      {# <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 block flex-left max-w-19/40 truncate mt-3"> #}
-        {# before:content-['←'] not visible with after #}
           <a href="{{ previousPost.url }}" class="block truncate">{{ previousPost.data.title }}</a>
         </div>
       </div>
-      {% endif %}
+    {% endif %}
 
-      {% if nextPost %}
+    {% if nextPost %}
       <div class="[&&]:text-text-light {% if previousPost %}-mt-15{% else %}mt-2{% endif %} h-15 block flex-right max-w-19/40 ml-auto text-right">
-        billet suivant → <br>
+        <span class="sr-only">billet suivant</span> → <br>
         <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 -mt-1">
           <a href="{{ nextPost.url }}" class="block truncate">{{ nextPost.data.title }}</a>
 
         </div>
-        {# <a href="{{ nextPost.url }}" class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 max-w-18/40">{{ nextPost.data.title }}</a> #}
       </div>
-      {# <div class=" inline-block flex-right max-w-19/40 truncate ml-auto">
-        <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
-      </div> #}
-      {% endif %}
+    {% endif %}
 
-    <h1 class="my-4 text-center text-3xl leading-9 text-secondary md:text-left md:text-5xl font-[Advent]">
+    <h1 class="mt-4 text-center text-3xl leading-9 text-secondary md:text-left md:text-5xl font-[Advent]">
       {{ title }}
     </h1>
+
+    <em class="text-text-light">in <a href="/{{ categorie }}/" class="text-text-light">{{ categorie }}</a> le {{ date | date }}</em><br/>
+    <div class="flex-row">
+      {% for tag in tags %}
+        <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
+      {% endfor %}
+    </div>
+
   </header>

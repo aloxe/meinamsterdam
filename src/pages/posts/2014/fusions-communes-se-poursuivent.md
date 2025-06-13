@@ -33,20 +33,20 @@ Dans le cas de Bergambacht, Nederlek, Ouderkerk, Schoonhoven et de Vlist, ce son
 
 Depuis mon dernier article sur les [fusions de communes en 2011](/les-pays-bas-perdent-de-leurs-communes), je vous ai laissé avec un pays qui comptait 421 communes mais ce n'est plus le cas aujourd'hui. Voici donc, en guise de rattrapage, la liste des regroupement de communes opérés depuis 2011 :
 
-!### 2012 : 421 → 418
+#### 2012 : 421 → 418
 
 ![Fusion des communes néerlandaises en 2012](Nederlandse-gemeentes-herindeling-2012.png){.center}
 
 * En Hollande Septentrionale, les communes de **Anna Paulowna**, **Niedorp**, **Wieringenen** et **Wieringermeer** fusionnent pour donner naissance à Hollands Kroon, la Couronne de Hollande.
 
-!### 2013 : 418 → 411
+#### 2013 : 418 → 411
 
 ![Fusion des communes néerlandaises en 2013](Nederlandse-gemeentes-herindeling-2013.png){.center}
 * En Frise, regroupement de **Harenkarspel**, **Schagen en Zijpe** en la nouvelle commune de **Schagen**
 * En Frise, regroupement de **Graafstroom**, **Liesveld** en **Nieuw Lekkerland** en la nouvelle commune de **Molenwaard**
 * En Hollande Méridionale, regroupement de **Dirksland**, **Goedereede**, **Middelharnis** en **Oostflakkee** dans la nouvelle commune de **Goeree-Overflakkee** qui est en fait la grande île au sud de la province.
 
-!### 2014 : 411 → 406
+#### 2014 : 411 → 406
 
 ![Fusion des communes néerlandaises en 2014](Nederlandse-gemeentes-herindeling-2014.png){.center}
 
@@ -54,7 +54,7 @@ Depuis mon dernier article sur les [fusions de communes en 2011](/les-pays-bas-p
 * En Frise encore, **Gaasterland-Sloten**, **Lemsterland**, **Skarsterlân** et un petit bout de **Boarnsterhim** (voir ci-desssus) fusionnent pour donner la commune de De Friese Meren
 * En Hollande Meridionale, **Alphen aan den Rijn** absorbe **Boskoop** et **Rijnwoude**.
 
-!### 2015 : 406 → 396
+#### 2015 : 406 → 396
 
 ![Fusion des communes néerlandaises en 2015](Nederlandse-gemeentes-herindeling-2015.png){.center}
 

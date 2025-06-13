@@ -37,7 +37,7 @@ Trop ambitieux peut-être cet objectif de 2020, alors le gouvernement décide de
 
 Le gouvernement a argué que ce n’était pas à la justice de se saisir de sujets liés à l’environnement et à l’énergie mais à la politique, au gouvernement et du Parlement. La cour d'appel a rejeté cet argument en disant que la lutte contre le réchauffement climatique était avant tout une question de droits humains. Elle a rendu sa décision le 9 octobre 2018, qui confirme la première décision mais le gouvernement a déposé un recours devant la Haute Cour de justice du pays, l'équivalent d'un pourvoi en Cassation dans notre droit hexagonal. 
 
-!!### Décision finale
+!#### Décision finale
 
 La plus haute juridiction du pays a donc entendu les motifs du gouvernement puis la défense de l'association Urgenda puis le procureur général qui demandait à la cour de confirmer le jugement. C'est ce qui a été fait en ce 20 décembre 2019.
 

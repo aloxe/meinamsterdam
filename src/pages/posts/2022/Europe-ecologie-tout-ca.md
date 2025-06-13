@@ -1,9 +1,8 @@
 ---
 layout: base
 title: "L'Europe, l'écologie, tout ça…"
-description: "Les élections législatives sont là et avec la campagne son lot de communiqués un peu vides qui sont publiés pour arranguer son camp. D'un coté EELV justif"
 categorie: ik-ben-frans
-tags: ["Europe", "politique"]
+tags: ["Europe", "politique", "écologie"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -21,13 +20,13 @@ Une chose est apparue néammoins lors de cette élection présidentielle c'est c
 
 Seulement la gauche est plurielle™ et même si sur de nombreux themes sociaux et environementaux évidents ils se rejoignent. les thèmes plus idéologiques comme les relations internationnales et l'Europe sont des pierres de discorde. Sur l'Europe, l'accord de l'union NUPES semble préserver les institutions et la France en son sein mais n'en rejoute pas. EELV aurait aimé plus d'intégration et LFI aurait aimé laisser entendre la sortie de certain traités. Je n'ai pas lu les [650 propositions de la NUPES](https://nupes-2022.fr/le-programme/) mais celle sur l'Europe dit *Nous partageons l’objectif commun de mettre fin au cours libéral et productiviste de l’Union européenne et de construire un nouveau projet au service de la bifurcation écologique, démocratique et solidaire, même si nos histoires avec la construction européenne diffèrent.* Un truc bien à gauche donc. Suit un paquet de propositions surtout écologiques et sociales « il nous faudra être prêts à ne pas respecter certaines règles ».
 
-C'est sans doute ce qui a fait réagir les candidats LREM Hors de France qui dans [une tribune](https://www.francaisaletranger.fr/2022/05/16/non-a-leurope-sacrifiee-et-a-lecologie-malmenee/) vendent leur coté « pro-européen » en raillant l'OPA de l'anti-européen Melenchon sur EELV qui du coup ne peut plus promouvoir l'écologie à cause de ça (je résume). Et tant pis si ça explique le contraire de ce que j'ai pu lire du programme de la NUPES. Je ne pense pas que ce soit par ignorance que les signataires ont écrit ça, l'idée est d'agiter un épouvantail devant l'électeur centriste, européen et sensible aux idées écolos afin de lui faire peur et lui prendre son suffrage. C'est exactement à ce même électeur que le communiquée d'EELV hors de France s'adressait, en se voulant rassurant et plus engagé que jamais dans l'Europe. Je ne sais pas si c'est cet électeur (qui est aussi une électrice) qui arbitrera cette élection ni même si ces argumentaires vont faire basculer les résultats.
+C'est sans doute ce qui a fait réagir les candidats LREM Hors de France qui dans [une tribune](https://www.francaisaletranger.fr/2022/05/16/non-a-leurope-sacrifiee-et-a-lecologie-malmenee/) vendent leur coté « pro-européen » en raillant l'OPA de l'anti-européen Melenchon sur EELV, qui du coup ne peut plus promouvoir l'écologie à cause de ça (je résume). Et tant pis si ça explique le contraire de ce que j'ai pu lire du programme de la NUPES. Je ne pense pas que ce soit par ignorance que les signataires ont écrit ça, l'idée est d'agiter un épouvantail devant l'électeur centriste, européen et sensible aux idées écolos afin de lui faire peur et lui prendre son suffrage. C'est exactement à ce même électeur que le communiquée d'EELV hors de France s'adressait, en se voulant rassurant et plus engagé que jamais dans l'Europe. Je ne sais pas si c'est cet électeur (qui est aussi une électrice) qui arbitrera cette élection ni même si ces argumentaires vont faire basculer les résultats.
 
 ## Sur le non respect des règles européennes
 Cette histoire d'annonce de non respect des traités et des règles européennes est assez gonflée dans un programme politique. Ce sont des choses qui sont pratiquées mais généralement pas exposées au public. La France est [souvent sanctionnée](https://www.challenges.fr/economie/ces-2-2-milliards-d-amendes-que-la-france-va-devoir-payer-a-l-europe_132636) par la Comission ou la justice européenne et le montant des amendes est même prévue au budget national. Les raisons parfois écologiques comme les dates d'ouverture de la chasse ou la qualité de l'air, la surpêche… mais il ya aussi des règles fiscales (dont la jurisprudence de Ruijter dont je n'a pas parlé ici) ou le fameux déficit, que la France maintient rarement en dessous des 3% imposés par le pacte de stabilité.
 
 Là ou le programme de la NUPES est intéressant c'est qu'il liste les moyens de négociation qui s'offrent aux gouvernants dans le cas d'une dérogation aux règles et traités. Ce sont je pense, là aussi des techniques déjà utilisées régulièrement par nos gouvernements sans qu'ils n'osent vraiment le partager avec le public. Voilà, du coup, c'est chose faite. Enfin, il sera bien aussi d'en parler hors campagne plutôt que de faire semblent de s'écharper dessus tous les 5 ans.
----
+
 <!-- post notes:
 https://www.francaisaletranger.fr/2022/05/16/non-a-leurope-sacrifiee-et-a-lecologie-malmenee/ 
 https://lepetitjournal.com/expat-politique/actualites/tribune-eelv-europe-ideal-necessite-337897 

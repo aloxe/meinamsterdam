@@ -23,7 +23,7 @@ C'est un peu sa qualité de femme qui a fait connaître la bourgmestre au monde 
 
 # Une vrai nouveauté
 
-!### Une femme…
+#### Une femme…
 
 Les quelques 1500 bourgmestres d'Amsterdam avant elle étaient tous des hommes et cela brise enfin de manière symbolique cette très longue habitude d'avoir un maire un masculin. En fait l’opportunité d'avoir une femme à ce poste n'est pas si ancienne au Pays-Bas. Les premières élues femmes au conseil municipal ont été élues en 1919, année où les femmes pouvaient être candidates mais pas encore voter. L'une des cinq femmes élues à Amsterdam, **Carrie Pothuis-Smit** devint plus tard la première sénatrice du pays.
 
@@ -31,7 +31,7 @@ Il faut quand même attendre 1978 pour qu'Amsterdam voit une première femme au 
 
 En 2010, le VVP (conservateur) avait présenté une candidate **Annemarie Jorritsma** mais c'est le travailliste Eberhard van der Laan qui l'a emporté.
 
-!### Pas une travailliste
+#### Pas une travailliste
 
 L'autre grande nouveauté c'est que le plus haut poste de la ville n'est plus occupé par un membre du PvdA. Depuis l'après guerre, les travaillistes tiennent la ville et c'est le candidat du PvdA qui est à chaque fois nommé par le commissaire du roi. Seulement depuis plusieurs années les travaillistes s'occupent plus du PIB que des travailleurs et leurs résultats à Amsterdam aussi ont commencé à se comprimer. Aux élections municipales de 2014 c'est le parti social-libéral D66 qui est arrivé en tête à Amsterdam et dans d'autres grandes villes. Cette année c'est Groenlinks, les verts de gauche qui sont arrivés en tête avec 10 sièges sur 45. Mais arriver en tête ne suffit pas à placer son bourgmestre. Si D66 a remporté 14 sièges en 2014, Eberhard van der Laan, membre du PvdA a conservé son fauteuil de maire en 2016 lorsque ce dernier devait être renouvelé.
 
@@ -39,7 +39,7 @@ Le populaire Eberhard van der Laan est hélas mort l'année suivante en cours de
 
 Chacune des deux candidates aurait pu devenir la première femme maire d'Amsterdam mais une seule pouvait prétendre être la première maire non travailliste de la ville depuis la dernière guerre. C'est finalement Femke Halsema qui l'a emporté aux voix parce que deux nouveautés c'est mieux qu'une.
 
-!### Pas une ancienne ministre
+#### Pas une ancienne ministre
 
 Troisième nouveauté un peu anecdotique, c'est aussi la première personne depuis 2001 qui occupe le poste de bourgmestre sans avoir été ministre ou secrétaire d'état par le passé. Cette nouveauté n'est d'ailleurs pas si anecdotique puisque les mauvaises langues arguent le manque de compétence de la nouvelle venue qui a quitté la politique en 2010. Il faut quand même rappeler qu'elle a quitté la politique après 8 ans à la chambre basse comme chèfe de son groupe parlementaire et était à la tête de son parti depuis 2003. Parti qui n'a jamais été que dans l'opposition ce rend difficile l'accès à un marocain de ministre…
 

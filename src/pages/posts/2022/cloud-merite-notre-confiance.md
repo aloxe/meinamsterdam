@@ -1,9 +1,8 @@
 ---
 layout: base
 title: Le cloud de confiance mérite-t-il notre confiance ?
-description: 
 categorie: ik-ben-frans
-tags: []
+tags: ["economie", "politique", "internet", "Europe"]
 isMarkdown: true
 thumbnail: GreenbergTraurig.png
 image_alt: memo de GreenbergTraurig
@@ -11,8 +10,6 @@ permalink: cloud-merite-notre-confiance/
 date: 2022-11-12
 update: 2022-11-23
 ---
-
-
 
 ### Les lois extraterritoriales 
 
@@ -28,6 +25,7 @@ Le Cloud Act (Clarifying Lawful Overseas Use of Data Act) aux États-Unis est un
 
 ![memo de GreenbergTraurig](GreenbergTraurig.png){.center}
 
+<!--excerpt-->
 C'est pour évaluer la porté des lois extraterritoriales sur les sujets européens que le *Nationaal Cyber Security Centrum* (NCSC) [a demandé une étude sur le Cloud Act](https://www.ncsc.nl/actueel/weblog/weblog/2022/de-werking-van-de-cloud-act-bij-dataopslag-in-europa) au cabinet juridique **GreenbergTraurig**. Le NCSC indique que plusieurs pays ont des législations extraterritoriales comme l'Australie, l'Inde, l'Afrique du Sud ou la Chine mais le Cloud Act états-unien, le plus emblématique a été choisi comme exemple. 
 
 [Le memo de 15 pages en anglais](https://www.ncsc.nl/documenten/publicaties/2022/augustus/16/cloud-act-memo) a été publié en août 2022. Si on peut le résumer en quelques mots, **il va y avoir du boulot**., Il est très compliqué pour un responsable de s'assurer que les données qui lui sont confiées ne tombent pas sous le coup d'une loi extraterritoriale. Toute la chaine de traitement des données peut être touchée et **l'hébergement par une entreprise européenne en Europe n'est pas une garantie suffisante**. Au regard du développement des lois extraterritoriales dans le monde, la tâche devrait même se complexifier et le rapport de conclure : **Les sociétés et les organisations devraient toujours vérifier si elles ne tombent pas sous le coup de lois extraterritoriales qui les empêcheraient de se conforter à la loi européenne**. 
@@ -72,12 +70,12 @@ Donc là si vous suivez bien, nous avons un ministère français qui traite des 
 
 Puis un ministère néerlandais demande à un cabinet juridique si utiliser des solutions ou même juste des logiciels états-uniens pour traiter des données personnelles c'est pas un peu risqué et le cabinet répond que oui il y a un risque. 
 
-``Et là, c'est le drame ?``
+> Et là, c'est le drame ?
 
 En fait non, le gouvernement continue de construire son cloud, gratifiant nonchalamment les offres françaises d'un label « [cloud de confiance](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/) » faisant croire en une compatibilité avec le RGDP. Jusqu'à présent [l'annonce de cette étude de la NCSC](https://www.latribune.fr/technos-medias/internet/bleu-s3ns-pourquoi-les-offres-cloud-de-confiance-seront-certainement-soumises-au-cloud-act-928831.html) dans la presse spécialisée ne semble pas l'avoir fait tomber de son petit nuage. Aucune annonce de changement, aucune réaction ni même questionnement des responsables. Les industriels aussi restent muets sur le sujet.
 
 L'acte 4 du *Health Data Hub* n'est pas encore écrit mais il le sera. C'est bien la seule chose qui me fait garder confiance.
----
+
 [^1]: Sans même passer par un appel d'offre cela dit en passant mais c'est une autre histoire.
 <!-- post notes:
 https://www.latribune.fr/technos-medias/internet/bleu-s3ns-pourquoi-les-offres-cloud-de-confiance-seront-certainement-soumises-au-cloud-act-928831.html 

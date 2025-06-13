@@ -32,7 +32,7 @@ Déjà les commentaires sur le web célèbrent cette victoire contre la censure.
 De son coté, **Tim Kuik**, le directeur exécutif de BREIN n'a pas fait de commentaires.
 
 
-!### Résumé des épisodes précédents
+#### Résumé des épisodes précédents
 * [Censure de l'Internet aux Pays-Bas](/censure-de-l-internet-aux-pays-bas)  
 * [La neutralité d'Internet à la sauce hollandaise](/La-neutralite-Internet-sauce-hollandaise)  
 * [Pirate Bay pas vraiment bloqué aux Pays-Bas](/Pirate-Bay-pas-vraiment-bloque-aux-Pays-Bas)  

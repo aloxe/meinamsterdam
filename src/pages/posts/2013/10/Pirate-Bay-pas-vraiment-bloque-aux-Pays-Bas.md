@@ -37,10 +37,10 @@ En réponse à cette étude, [bruna/stemra](http://meinamsterdam.nl/buma-stemra)
 
 ### À lire aussi
 
-!### Résumé des épisodes précédents
+#### Résumé des épisodes précédents
 * [Censure de l'Internet aux Pays-Bas](/censure-de-l-internet-aux-pays-bas)  
 * [La neutralité d'Internet à la sauce hollandaise](/La-neutralite-Internet-sauce-hollandaise)  
 
-!### Épilogue
+#### Épilogue
 * [The Pirate Bay n'est plus bloqué aux Pays-Bas](/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas)  
 ---

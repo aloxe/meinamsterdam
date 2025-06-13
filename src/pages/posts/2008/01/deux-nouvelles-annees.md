@@ -15,7 +15,7 @@ TODO: no image, no image alt, shortened desc
 
 Le premier janvier 2008 arrive avec son lot de nouvelles lois et de lendemain de fête partout dans le monde, aussi bien en France qu'aux Pays-Bas voici un petit état des lieux comparatif.
 
-!### Le jour d'après les pétards
+#### Le jour d'après les pétards
 <!-- HTML -->
 <table border="0" cellpadding="5"><tr><td width="50%" valign="top"><h3>En France</h3>
 <!-- / HTML -->

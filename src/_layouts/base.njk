@@ -42,10 +42,15 @@
           https://www.11ty.dev/docs/plugins/render/ #}
           {# also the page will not be hot rendered when a subfooter is modified
           also markdown is not supported and images will even break the buid #}
-          {% if subfooter %}
+          {# {% if subfooter %}
             {% set filePath = "{% renderFile './src/static/subfooter/"+subfooter+".html' %}" %}
             {{ filePath | renderContent("njk") | safe }}
-          {% endif %}
+          {% endif %} #}
+
+          {%- for subfooter in subfooters -%}
+            {% set filePath = "{% renderFile './src/static/subfooter/"+subfooter+".html' %}" %}
+            {{ filePath | renderContent("njk") | safe }}
+          {%- endfor -%}
         {% endblock %}
 
       </main>

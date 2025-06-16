@@ -1,23 +1,21 @@
 ---
 layout: base
 title: Ja Ja, stop la pub
-description: 
 categorie: nederlandjes
 tags: ["Amsterdam", "La Haye"]
 isMarkdown: true
 thumbnail: Ja-Sticker.png
-image_alt: 
+image_alt: sticket Ja, rond blanc sur carré vert
 permalink: ja-ja-stop-la-pub/
 date: 2020-08-28
 update: 2020-12-29
 TODO: no image alt, image without alt
 ---
 
-
-
 Depuis début Juillet,[ La Haye a introduit l'autocollant JA JA](https://www.denhaag.nl/fr/dans-la-cite/nature-et-environnement/tri-de-dechets-et-recyclage/ja-ja-sticker-a-la-haye.htm) pour recevoir de la publicité dans votre boîte aux lettres. Un changement radical puisque la publicité ne pourra plus être distribuée toute boite mais uniquement chez ceux qui en font la demande. Cette mesure est en fait une copiée sur Amsterdam qui en l'a mise en place il y a trois ans. Explications :
 
-## Opt-in Opt-out
+<!--excerpt-->
+## Opt-in et Opt-out
 
 Dans la collecte de donnée personnelle comme dans la distribution non ciblée de publicité les termes anglais de opt-in et opt-out reviennent souvent. Elle se réfère à l'action de l'utilisateur. Dans un cas, la collecte ou la distribution se fait sans demander autorisation mais les gens ont la possibilité de s'opposer à la collecte de leur données ou au spam. C'est l'**Opt-out**. Une pratique qui semble bienveillante mais laissent grande libertés aux opérateurs. En revanche, le principe d'**Opt-in** demande aux opérateurs. de s'assurer a priori que les utilisateurs ont bien consenti être l'objet des démarches des opérateurs. En Europe, le RGPD fixe l'Opt-in comme réglé pour la collecte de données personnelles non directement liées au service rendu. Cela pourrait être logique de fixer le même principe pour la distribution de publicité et de considérer que par défaut, elle n'est pas désirée.
 
@@ -37,9 +35,9 @@ La mesure ne concerne d'ailleurs pas tous les arrondissements d'Amsterdam et vot
 
 ## Un autocollant rond
 
-![](Ja-Sticker.png){.center}
+![autocollant vert ongeadresseerde folders JA!](Ja-Sticker.png){.center}
 
 Cet autocollant que tout le monde appelle **JA, JA** en référence à l'ancien autocollant **NEE, NEE** n'est en fait qu'un autocollant **JA** qui signifie « oui, vous pouvez me spammer » ou plutôt « OUI aux imprimés sans adresse » (*ongeadresseerde folders JA*). Autre différence, il est rond et plus discret mais le JA reste bien lisible pour que les distributeurs d'imprimés ne se trompent pas. Il est possible de le commander en mairie ou [directement en ligne](https://www.zetjebrievenbusopgroen.nl/bestellen/) sur un site qui explique que c'est bien de recevoir de la pub.
 
 Si vous le posez sur votre boîte, s'il vous plaît, ne laissez pas traîner les tracts dans l'escalier.
----
+

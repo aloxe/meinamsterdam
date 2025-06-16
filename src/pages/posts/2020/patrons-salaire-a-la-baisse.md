@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Des patrons revoient leur salaire à la baisse
-description: Le gouvernement néerlandais (kabinet), vient de demander aux patrons de plusieurs organisations de télévision de revoir leur salaire à la baisse avec un pla
 categorie: nederlandjes
 tags: ["administration", "mots", "politique", "sociétés", "télé", "économie"]
 isMarkdown: true
@@ -10,13 +9,13 @@ image_alt: NPO
 permalink: patrons-salaire-a-la-baisse/
 date: 2020-11-08
 update: 2021-01-06
-TODO: shortened desc
 ---
 
 **Le gouvernement néerlandais (kabinet), vient de demander aux patrons de plusieurs organisations de télévision de revoir leur salaire à la baisse avec un plafond fixé tout de même à 148.000 euros.**
 
 C'est cette [petite news de l'AD](https://www.ad.nl/politiek/kabinet-wnl-en-powned-bazen-moeten-salaris-inleveren~a95ee321) qui me pousse aujourd'hui à faire un billet parce qu'elle aborde deux thèmes que j'aurais aimé aborder depuis des années: **La télévision publique néerlandaise** et **les revenus des dirigeants** aux Pays-bas. Ces deux thèmes marquent une énorme différence avec la France et mériterait d'être approfondis. Je vais tenter ici un résumé pour vous expliquer le contexte de cette nouvelle, pas si anodine.
 
+<!--excerpt-->
 # NPO La télévision publique
 
 ![NPO ](npo_publieke-omroep.png){.center}
@@ -34,7 +33,7 @@ Ce sont justement ces deux nouveaux arrivants qui sont épinglés pour le salair
 
 Ce serpent de mer est aussi un sujet de débat aux Pays-Bas et dans ce pays calviniste, l'étalage de richesses est peu apprécié. Wim Kok, le Premier Ministre de la [coalition violette](/apres-le-orange-le-violet) au pouvoir entre 1993 et 2000 qualifiait les patrons au gros salaires d'exhibitionnistes sans vraiment légiférer sur le sujet. Sous le gouvernement Balkenende, le salaire du Premier Ministre s'est affirmé comme un étalon de l'échelle des salaires des fonctionnaires et a tenté de réguler les salaires du haut de la grille mais cela n'a eu pour effet que d'augmenter le salaire du Premier Ministre. Les plus riches s'en sont sorti en édictant un code de bonne conduite qui comme souvent n'est pas suivi et sert à ne sert qu'à éviter la contrainte de la loi[^1].
 
-C'est là que je suis arrivé aux Pays-Bas. Le gouvernement [Balkenende IV](/nieuw-kabinet-balkenende-iv) intégrait une composante travailliste qui avait fait campagne pour réguler ces rémunérations et son leader Wouter Bos se retrouvait aux finances. Après des rebondissement que Sabine Cessou a rapporté dans Libération, les Pays-Bas se sont doté d'[une loi qui limite la rémunération des patrons|https://www.liberation.fr/futurs/2008/09/24/patrons-ceinture_22985|fr|Patrons Ceinture !] de grandes sociétés. Applicable dès janvier 2009, cette loi édictent que les patrons des sociétés cotées en bourse devront payer 30% d'impôts en plus sur leur bonus s'il gagnent plus que 500.000 euros de salaire normal et que ce bonus le dépasse. Ça laisse une bonne marge mais les patrons n'ont pas été content et ont menacé de partir mais il ne s'est rien passé parce que tout compte fait, ils sont restés bien servis.
+C'est là que je suis arrivé aux Pays-Bas. Le gouvernement [Balkenende IV](/nieuw-kabinet-balkenende-iv) intégrait une composante travailliste qui avait fait campagne pour réguler ces rémunérations et son leader Wouter Bos se retrouvait aux finances. Après des rebondissement que Sabine Cessou a rapporté dans Libération, les Pays-Bas se sont doté d'[une loi qui limite la rémunération des patrons](https://www.liberation.fr/futurs/2008/09/24/patrons-ceinture_22985 "Patrons Ceinture !") de grandes sociétés. Applicable dès janvier 2009, cette loi édictent que les patrons des sociétés cotées en bourse devront payer 30% d'impôts en plus sur leur bonus s'il gagnent plus que 500.000 euros de salaire normal et que ce bonus le dépasse. Ça laisse une bonne marge mais les patrons n'ont pas été content et ont menacé de partir mais il ne s'est rien passé parce que tout compte fait, ils sont restés bien servis.
 
 Même si cette mesure timide n'a pas freiné l'augmentation de la disparité des salaires comme ailleurs et le sujet a continué de mécontenter les petits actionnaires, les calvinistes et les syndicats de travailleurs. Le sujet est resté un serpent de mer. Il reste que cette loi a créé un précédent et les néerlandais sont convaincus qu'il est maintenant possible d'agir. En 2015, Jeroen Dijsselbloem, successeur de Wouter Bos au parti travailliste et au ministère des finances [a essayé de limier le montant des bonus](https://www.lesechos.fr/2015/01/le-projet-de-plafonnement-neerlandais-reporte-sine-die-191489) à 20% du salaire annuel mais le projet de loi a été torpillé.
 
@@ -42,8 +41,9 @@ C'est aujourd'hui au tour de Mark Rutte, le Premier Ministre de s'attaquer à ce
 
 Pour conclure, le journal liste le top 5 des disparités salariales aux États-Unis montrant que les Pays-Bas et même Unilever n'ont pas le record des disparités entre salaires mais dans un pays où l'égalité est un important principe moral, l'étalage de ces salaires et bonus indécents est un risque pour la cohésion sociale. Le Premier Ministre l'a bien compris et c'est ce qui explique sa sortie de 2019. 
 
-# Et là c'est 2020
+# Et là, c'est 2020
 Nous voilà maintenant en 2020 avec une crise sanitaire majeure et une incertitude économique pour de trop nombreuses personnes. Ce besoin de cohésion sociale est peut-être encore plus fort et ce n'est pas le moment pour les patrons « exhibitionnistes ». Le plafonnement des salaires chez les dirigeants de la télévision publique est aussi un avertissement pour tous les autres dirigeants de grosses boîtes.
+
 ---
 [^1]: Oui c'est pas un truc uniquement français…
 [^2]: Le cas de Shell est cité mais avec un bonus exceptionnel de plus de 15 millions d'euros, Ben van Beurden a cassé la baraque avec une augmentation de revenu annuel de 126% !!

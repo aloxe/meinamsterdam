@@ -10,7 +10,9 @@ image_alt:
 permalink: les-bonnes-blagues-de-kpn/
 date: 2010-08-12
 update: 2014-11-28
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - telephone
 ---
 
 
@@ -22,28 +24,3 @@ Les factures de KPN sont disponibles depuis plusieurs années sur leur site web 
 Le plus rigolo c'est que KPN annonce que **l'arrêt de l'envoi des factures papier** est motivée par des raisons écologiques. KPN indique sur une jolie brochure brillante qu'elle préfère **laisser les arbres en vie**. Le fait que les factures  soit en papier recyclé ne les inquiète pas. Ce qui est encore plus rigolo c'est l'utilisation de papier glacé 250g pour crier leur amour des arbres.
 
 KPN a décidé de faire des économies sur l'envoi de factures et la bêtise de leur communication leur fait mériter un article sur mon blog et une nomination pour **la plus belle connerie de l'année**.
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
----

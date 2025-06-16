@@ -10,7 +10,9 @@ image_alt: KPN
 permalink: telephones-gsm-pays-bas/
 date: 2007-09-29
 update: 2014-12-12
-TODO: shortened desc, subfooters
+TODO: shortened desc
+subfooters:
+  - telephone
 ---
 
 La [prise de téléphone|] n'est un problème que pour utiliser un téléphone fixe mais ce n'est pas un problème quand on utilise un **téléphone mobile**. Nous pouvons remercier la CEPT[^1] pour avoir mis en place un groupe de recherche sur les radiotéléphones. Grâce à ces recherches **la norme GSM** s'est imposée en Europe et presque partout dans le monde. Un téléphone vendu en France pour fonctionner sur un réseau donné peut fonctionner avec le réseau d'un autre opérateur GSM d'un autre pays d'Europe.
@@ -42,29 +44,6 @@ En 1999 les Néerlandais découvrent un nouvel opérateur (Dutchtone). Racheté 
 ## Les opérateurs vitruels
 Ils sont nombreux et bien visibles, j'ai l’impression qu'ils ont beaucoup de succès dans ce pays. J'ai acheté une carte prépayé chez l'un d'eux et je pense que je renouvellerais pas l'opération tellement le service est mal rendu...
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
 ---
 [^1]: Conférence Européenne des administrations des Postes et Télécommunications
 [^2]: ce qui reste beaucoup trop cher quand j'appelle au bout le la rue

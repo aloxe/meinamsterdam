@@ -10,7 +10,8 @@ image_alt: Alles over koninginnedag op je mobiel
 permalink: la-fete-de-la-reine-sera-mobile/
 date: 2011-04-29
 update: 2015-10-30
-TODO: subfooters
+subfooters:
+ - telephone
 ---
 
 
@@ -41,30 +42,6 @@ Autres billets sur le sujet :
 * [Lettre aux copains qui viennent à la fête de la reine](/lettre-aux-copains-qui-viennent-a-la-fete-de-la-reine)
 * [La fête de la reine, c'était bien mieux avant](/fete-dela-reine-bien-mieux-avant)
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
 ---
 [^1]: Vous pouvez faire une recherche avec [koninginnedag](/koninginnedag) sur ce blog pour retrouver tous mes articles
 [^2]: [Je vous ai dit](/deux-nouveaux-sites-web) que [RIPE 62](http://ripe62.ripe.net/) et le [Very Short Film Festival](http://veryshort.nl/) me prenait du temps.

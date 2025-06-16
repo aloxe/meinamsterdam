@@ -10,7 +10,10 @@ image_alt:
 permalink: bel-an/
 date: 2021-01-06
 update: 2021-01-06
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - expo
+ - cliches
 ---
 
 
@@ -31,27 +34,3 @@ Pour le volet économique on notera que la ville d'Amsterdam se dote d'indicateu
 
 Voilà pour cette année qui reste plus riche en événements qu'en posts sur ce blog. Je regrette de ne pas avoir pu partager d'expo photos en plein air comme par le passé mais en temps de confinement les expos sont moins à la mode. Sauf biensûr les expos en ligne. Même si c'est moins bien, c'est déjà ça. Alors je partage avec vous cette collection de vieilles expos photos comme cadeau du nouvel an:
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:1em 1em 0 1em; margin:5px; min-height:120px; ">
-<!-- / HTML -->
-((/public/images/photos/2008-01/.expo-photos-dam-400_t.jpg?5.5420891735146E+17|Expos photo en plein air|L))
-<!-- HTML -->
-<div style="float:left; text-wrap:no-wrap; margin-top: -1em;">
-— <a href="/expo-photos-en-plein-air">Expo photos en plein air (1)</a><br>
-— <a href="/expo-photos-en-plein-air-2">Expo photos en plein air (2)</a><br>
-— <a href="/expo-photos-en-plein-air-3">Expo photos en plein air (3)</a><br>
-— <a href="/expo-photos-en-plein-air-4">Expo photos en plein air (4)</a><br>
-— <a href="/expo-photos-en-plein-air-5">Expo photos en plein air (5)</a><br>
-— <a href="/expo-photos-en-plein-air-6">Expo photos en plein air (6)</a><br>
-— <a href="/expo-photos-en-plein-air-7">Expo photos en plein air (7)</a><br>
-</div>
-<div style="text-align:left; clear:both;">
-<br>
-— <a href="/photos-drooderfiets-balade">Expo photos de (drooderfiets) mon vélo</a><br>
-— <a href="/la-centieme-photo">La centième photo</a><br>
-— <a href="/Les-photos-les-plus-cliche-d-Amsterdam">Les 12 photos les plus cliché d'Amsterdam</a><br><br>
-</div>
-<div style="clear:both; margin-top:1em;"></div>
-</div>
-<!-- / HTML -->
----

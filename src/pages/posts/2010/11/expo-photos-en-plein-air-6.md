@@ -10,9 +10,10 @@ image_alt: photo en plein air
 permalink: expo-photos-en-plein-air-6/
 date: 2010-11-11
 update: 2012-09-11
+subfooters:
+ - expo
+ - cliches
 ---
-
-
 
 Voilà longtemps que je n'ai pas parlé des expos de photos en plein air. Cette fois je ne vais pas vous inciter à découvrir cet expo, les installations ont été retirées en septembre. Vous l'avez ratée. Cette expo était suffisamment spéciale pour en rendre compte, même des mois après.
 
@@ -26,13 +27,6 @@ Elles sont l'?uvre de **Benjamin Brecknell Turner**, un fabricant anglais de bou
 
 Peut-être qu'un jour ce blog entrera aussi dans les archives municipales de la ville.
 
-
-### Voir aussi
-*[Expo photos en plein air (1)](/expo-photos-en-plein-air)
-*[Expo photos en plein air (2)](/expo-photos-en-plein-air-2)
-*[Expo photos en plein air (3)](/expo-photos-en-plein-air-3)
-*[Expo photos en plein air (4)](/expo-photos-en-plein-air-4)
-*[Expo photos en plein air (5)](/expo-photos-en-plein-air-5)
 ---
 [^1]: Notez que j'ai pris la peine de traduire les dates...
 <!-- post notes:

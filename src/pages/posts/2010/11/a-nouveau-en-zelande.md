@@ -10,7 +10,10 @@ image_alt: Peupliers et champs de blé
 permalink: a-nouveau-en-zelande/
 date: 2010-11-02
 update: 2014-08-04
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
 [![Tour de Zélande](../09/carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande]Le week end d'août Je suis retourné en Zélande pour voir si Drooderfiets, mon nouveau vélo, apprécieraient le paysage. La dernière fois que j'y suis allé, en 2008, j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle](/voyage-en-zelande-traverser-l-escaut) à vélo dans cette province maritime du sud.
@@ -55,76 +58,3 @@ Je suis passé en Belgique en passant par [Sas van Gent](http://fr.wikipedia.org
 La date retenue pour cet anniversaire est celle de la fondation de la première église sur un polder au bord de l'Escaut commencé sous [Maximilien Ier du Saint-Empire](http://fr.wikipedia.org/wiki/Maximilien_Ier_du_Saint-Empire). L'église a été édifiée peu après la révolte des flamands contre Maximilien Ier, en 1510. Ce n'est qu'en 1517 quand les polders autour sont bien asséchés que la construction du village commence à proprement parler. Nul doute que la ville fêtera à nouveau ses 500 ans en 2017.
 
 Après avoir pris le ferry de 21h25, je suis arrivé juste à temps à Flessingue pour prendre le dernier train pour Amsterdam. Ce fut un long et fatigant voyage mais plein de découvertes.
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----

@@ -10,7 +10,9 @@ image_alt: upc
 permalink: xs4all-suite-upc/
 date: 2008-11-23
 update: 2014-11-28
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - telephone
 ---
 
 ![upc](upc.png){.left}
@@ -31,28 +33,3 @@ Depuis notre aménagement, nous recevons des courriers publicitaires divers mais
 ![Wij zijn UPC](wij-zijn-upc.png){.center}
 
   
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
----

@@ -10,7 +10,8 @@ image_alt:
 permalink: voyage-klm-retour/
 date: 2006-08-08
 update: 2019-11-19
-TODO: no image alt, subfooters, image without alt
+subfooters:
+ - schiphol
 ---
 
 
@@ -28,19 +29,19 @@ Dans les exemples en photo ci-dessous, trois Boeing 737 avec les noms de deux ex
 <!-- HTML -->
 <table align=center cellpadding=3><tr><td align=center>
 <!-- / HTML -->
-[![](roald-amunsdsen-150.jpg)](http://www.flickr.com/photos/13274211@N00/210053288/)   
+[![Roald Amunsdsen écrit sous les fenètres du cockpit](roald-amunsdsen-150.jpg)](http://www.flickr.com/photos/13274211@N00/210053288/)   
 **Roald Amunsdsen**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210053288/)
 <!-- HTML -->
 </td><td align=center>
 <!-- / HTML -->
-[![](Herring-gull-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176345/)   
+[![Herring gull écrit sous les fenètres du cockpit](Herring-gull-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176345/)   
 **Herring gull**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210176345/)
 <!-- HTML -->
 </td><td align=center>
 <!-- / HTML -->
-[![](sir-henry-m-stanley-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176344/)  
+[![Sir Henry M. Stanley écrit sous les fenètres du cockpit](sir-henry-m-stanley-150.jpg)](http://www.flickr.com/photos/13274211@N00/210176344/)  
 **Sir Henry M. Stanley**  
 [agrandir](http://www.flickr.com/photos/13274211@N00/210176344/)
 <!-- HTML -->
@@ -48,19 +49,3 @@ Dans les exemples en photo ci-dessous, trois Boeing 737 avec les noms de deux ex
 <!-- / HTML -->
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<img src="/public/images/photos/2013/.fokker-derniers_s.jpg" alt="Les derniers Fokker à Schiphol" style="float:left; margin:0.5em 2em 1em 0; height:80px; width:auto;">
-<div style="margin:3px; text-align:center;">
-<h4 style="margin:0.5em 0 0 0;">Schiphol</h4>
-<ul style="margin:0 0 1em">
-<li><a href="/schiphol-l-aeroport-de-la-terreur">Schiphol, l'aéroport de la terreur</a>
-<li><a href="/vliegtuigspotters">Les Vliegtuigspotters de Schiphol</a>
-<li><a href="/un-voyage-avec-transavia">Un voyage avec Transavia</a>
-<li><a href="Dernier-Fokker/">Le dernier Fokker des Pays bas</a> - <a href="/pas-hier-pas-en-fokker">Pas hier, pas en Fokker</a>
-<li><a href="/schiphol-hall-M-metamorphose">Schiphol, Hall M comme Metamorphose</a>
-</ul>
-</div>
-</div>
-<!-- / HTML -->
----

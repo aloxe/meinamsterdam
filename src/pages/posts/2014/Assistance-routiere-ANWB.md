@@ -10,7 +10,9 @@ image_alt:
 permalink: Assistance-routiere-ANWB/
 date: 2014-09-18
 update: 2014-11-28
-TODO: no image, no image alt, shortened desc, subfooters
+TODO: no image, no image alt, shortened desc, 
+subfooters:
+ - telephone
 ---
 
 Nombreuses sont les personnes qui m'ont fait remarquer le design biscornu des bornes de secours au bord des routes hollandaises. Alors que dans presque tous les pays elles sont oranges, ici, elles sont jaunes avec des pointes effilées en tête.
@@ -80,30 +82,6 @@ Pour les distraits comme moi qui n'ont pas de couverture l'assistance ponctuelle
 
 * [Les nouvelles plaques d'immatriculation](/les-nouvelles-plaques-d-immatriculation)
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
 ---
 [^1]: Comme les bornes frontalières que je vous ai montré [au bord de la Belgique](/au-bord-de-la-belgique) et qui sont allongées comme des poteaux
 [^2]: L'association utilise son [prédicat royal/koninklijk-le-predicat-royal|].

@@ -10,7 +10,10 @@ image_alt: plein de vélos
 permalink: plein-de-velos/
 date: 2008-11-11
 update: 2021-09-28
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
 Il y a maintenant plus d'un mois que je n'ai plus mon vélo, il semble vous avoir dit que je l'ai perdu stupidement avec l'aide d'un voleur. Alors maintenant que je dois chercher un vélo, je me renseigne un peu plus sur les différents type de bicyclettes que l'on peut trouver ici aux Pays-Bas. La Hollande est connue pour [ses vélos hollandais](/plein-de-velos-hollandais) mais c'est oublier que le pays compte plus de vélos que d'habitants (en age de faire du vélo). Il y a donc une grande variété de bicyclettes pour une grande variété d'utilisateurs.
@@ -141,78 +144,3 @@ Parmi les nombreux transportfiets différent, le *filibus* en un un que l'on ret
 ## Le cross fiets (bicross)
 ![bicross ](bicross.png){.left}
 Alors qu'il était à la mode partout dans les années 80, le bicross a presque disparu d'Amsterdam. Il faut dire que son absence de grade boue, sa chaine apparente et son cadre bas n'en fait pas vraiment un vélo taillé pour la ville. On croise encore ces vélos, enfourchés par des jeunes peu friqués loin du centre ville. Ces derniers ont trouvé une bonne occasion qui leur permettent de s'amuser à bon prix et sans suivre les modes. Certains s'attaquent avec brio au mobilier urbain avec leur BMX mais ce n'est pas le sport le plus couru ici.
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----
-<!-- post notes:
-http://www.fietsen-kopen.nl/fiets-soorten
---->

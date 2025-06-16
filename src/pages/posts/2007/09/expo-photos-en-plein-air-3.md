@@ -11,6 +11,9 @@ permalink: expo-photos-en-plein-air-3/
 date: 2007-09-16
 update: 2018-08-03
 TODO: no image, no image alt
+subfooters:
+ - expo
+ - cliches
 ---
 
 Durant l'été, en plus des festivals, il y a aussi des expositions de photos en plein air.
@@ -42,14 +45,9 @@ Il est moins certain que les touristes de passage aient remarqué les autres pan
 ### Art decaux
 L'exposition a eu lieu du 4 juin au 10 juillet. Autant dire que pour ceux qui veulent la voir, c'est maintenant rapé... Heureusement, JCDecaux, le fournisseur des panneaux et sponsor de cette exposition a mis en ligne un site présentant cette promenade artistique. La Kunstroute du Museum Kwartier est toujours visible sur le web avec [Art Decaux](http://www.artdecaux.nl/) mais ce n'est plus en plein air...
 
-### Voir aussi
-*[Expo photos en plein air (1)](/expo-photos-en-plein-air)
-*[Expo photos en plein air (2)](/expo-photos-en-plein-air-2)
-*[Expo photos en plein air (4)](/expo-photos-en-plein-air-4)
-*[Expo photos en plein air (5)](/expo-photos-en-plein-air-5)
-
+--- 
 Ah oui, au fait, *Art decaux*, c'était un jeu de mots. Amsterdam n'est pas connu pour son art déco mais pour un style spécifique de l'époque qui s'en rapproche: [l'école d'Amsterdam](/l-ecole-d-amsterdam).
----
+
 <!-- post notes:
 http://www.flickr.com/photos/flaneur/102796840/
 --->

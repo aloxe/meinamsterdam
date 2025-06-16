@@ -10,7 +10,10 @@ image_alt:
 permalink: les-velos-gratuits/
 date: 2008-12-08
 update: 2014-04-25
-TODO: no image alt, shortened desc, subfooters, image without alt
+TODO: no image alt, shortened desc, image without alt
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
 Depuis que je me suis fait voler mon vélo, je suis à la recherche d'un autre. Je cherche un vélo le moins cher possible et gratuit si ce n'est pas trop demander. Il y a plusieurs plans de vélos gratuits que je détaille ci-cessous. Mais apparemment j'arrive trop tard...
@@ -45,78 +48,6 @@ Une autre banque aussi (**ING**) a cette année proposé des vélos aux étudian
 
 Le syndicat étudiant d'Amsterdam (*ASVA-studentenunie*) propose aussi des vélos neufs à un prix imbattable. D'après [la photo sur le site ASVA](http://welkomthuis.asva.nl/welkomthuis_fietsen.html), il s'aggit aussi d'un beach-cruiser orange. Pour l'obtenir, il faut débourser 60 euros. 15 euros de cotisation au syndicat et 45 euros pour acheter le vélo. Il faut faire un virement à l'avance et le vélo est à retirer en banlieue le 25 août 2008. Encore une fois je suis en retard. Mais c'est un bon plan pour qui a déjà un compte en banque. Il faudra surveiller l'année prochaine...
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----
 <!-- post notes:
 http://fietsen.web-log.nl/fietsen/2008/02/banken_leveren_.html 
 http://www.business-courses.nl/php/public/fietsenplan.php 

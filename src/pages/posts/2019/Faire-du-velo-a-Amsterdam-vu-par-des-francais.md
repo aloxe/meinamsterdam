@@ -10,7 +10,9 @@ image_alt: vélo transportfiets hollandais
 permalink: Faire-du-velo-a-Amsterdam-vu-par-des-francais/
 date: 2019-01-24
 update: 2019-01-24
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - velos
 ---
 
 **Mark Wagenbuur** est un blogueur bien connu qui parle du vélo aux Pays-Bas en anglais. Il illustre souvent ces articles de vidéos tournées le long d'une piste cyclable. Une fois n'est pas coutume il présente aujourd'hui un film en français ou il apparaît comme interviewé d'un film qu'il n'a pas réalisé. Ce film, c'est un épisode de **Deux, Trois jours en ville à Amsterdam** par **Nadine Kuhn**.
@@ -42,77 +44,6 @@ Le blog de Mark, [Bicycle Dutch](https://bicycledutch.wordpress.com) est en angl
 Bicycle Dutch a 10 ans ce mois ci et on peut lui souhaiter longue vie.
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----
 <!-- post notes:
 https://bicycledutch.wordpress.com/2019/01/23/cycling-in-amsterdam/
 Cycling in Amsterdam through French eyes

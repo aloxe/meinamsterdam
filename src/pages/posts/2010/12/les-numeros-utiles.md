@@ -10,7 +10,9 @@ image_alt:
 permalink: les-numeros-utiles/
 date: 2010-12-01
 update: 2014-11-27
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - telephone
 ---
 
 
@@ -27,16 +29,3 @@ Le site [0900alternatieven](http://www.0900alternatieven.nl/) (alternatives aux 
 
 Le journal *De Pers* mets aujourd'hui sa liste à jour alors je me permets de la recopier en commentaire pour ceux qui voudraient consulter leur compte par téléphone ou résilier leur abonnement téléphonique depuis la France.
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
----

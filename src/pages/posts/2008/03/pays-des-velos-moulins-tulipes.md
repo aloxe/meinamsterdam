@@ -10,7 +10,11 @@ image_alt:
 permalink: pays-des-velos-moulins-tulipes/
 date: 2008-03-05
 update: 2019-02-17
-TODO: no image, no image alt, shortened desc, subfooters
+TODO: no image, no image alt, shortened desc
+subfooters:
+ - drooderfiets
+ - expo
+ - cliches
 ---
 
 La Hollande, pays connu pour [ses moulins](/les-moulins-d-amsterdam) ses [vélos](/plein-de-velos) et ses tulipes. Pays moins connu pour sa langue dont les rêgles toutes simples transforment **les moulins** et **les vélos** en cauchemar. Voici donc la traduction:
@@ -71,28 +75,3 @@ Vous avez compris le principe ? essayez-donc avec le mot tulipe :
 * [Les marques de vélos hollandais](/plein-de-velos-hollandais-3)
 * [Les différents types de vélos hollandais](/plein-de-velos)
 * [Le crack de la tulipe](/1637-krach-de-la-tulipe)
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:80px;">
-<img src="/public/images/photos/2008-01/.expo-photos-dam-400_t.jpg?5.5420891735146E+17" alt="Expos photo en plein air" style="float:left; margin:0.5em 1em 1em 0;">
-<p style="margin:3px;">
- — <a href="/expo-photos-en-plein-air">Expo photos en plein air (1)</a>
- — <a href="/expo-photos-en-plein-air-2">Expo photos en plein air (2)</a>
- — <a href="/expo-photos-en-plein-air-3">Expo photos en plein air (3)</a>
- — <a href="/expo-photos-en-plein-air-4">Expo photos en plein air (4)</a>
- — <a href="/expo-photos-en-plein-air-5">Expo photos en plein air (5)</a>
- — <a href="/expo-photos-en-plein-air-6">Expo photos en plein air (6)</a>
-</p>
-</div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<a href="/photos-drooderfiets-balade" title="les photos de mon vélo à travers les Pays-Bas">
-<img src="http://farm4.static.flickr.com/3085/3468695122_119298f2ea_m.jpg" alt="Drooderfiets présentation" style="float:left; margin:0.5em 1em 1em 0; height:80px; width:auto;">
-<p style="margin:3px; text-align:center;">
-<h4 style="margin:1em;">Drooderfiets en balade</h4>
-</p>
-</div>
-<!-- / HTML -->
----

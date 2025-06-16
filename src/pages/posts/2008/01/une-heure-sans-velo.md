@@ -10,7 +10,10 @@ image_alt: "Gardien du parking des vélos avec l'église Saint Nicolas au loin"
 permalink: une-heure-sans-velo/
 date: 2008-01-07
 update: 2025-02-14
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
 Pour le nouvel an, je suis allé en France en [Thalys](/?q=Thalys). J'ai pédalé jusqu'à la gare centrale (*Amsterdam Centraal Station*) et j'ai garé [mon vélo](/un-b-twin-a-amsterdam) dans cet immense parking jouxtant la gare. À mon retour deux semaines plus tard, il m'était impossible de remettre la main dessus.
@@ -30,76 +33,3 @@ Les gardiens sont d'ailleurs très souvent mis à contribution par des personnes
 Quand j'ai pris mon Thalys, j'étais un peu pressé et je ne voulais pas rater mon train. Je savais qu'en me garant ici, il y avait un risque de ne pas retrouver mon b'twin (poutant tout propre et [révisé](/revision-du-btwin)) mais j'ai bien noté son emplacement dans ma petite tête. Seulement j'ai dû rebouter mes neurones en arrivant en 2008 et l'information a quitté ma mémoire vive. J'ai arpenté des dizaines de fois les allées de cette construction, en large et surtout en long, j'ai examiné des centaines de selles et de garde-boues, je ne voulais pas déranger les gardiens pour entendre des conseils que je connaissais déjà alors j'ai continué de tourner encore et encore dans les allées et les étages de ce parking. Finalement, ah# enfin, le voilà!
 
 Lisez aussi l'[histoire des vélos morts](/le-temps-de-gate).
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----

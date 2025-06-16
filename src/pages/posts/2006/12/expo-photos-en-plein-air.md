@@ -10,6 +10,9 @@ image_alt: La terre vue du ciel
 permalink: expo-photos-en-plein-air/
 date: 2006-12-02
 update: 2012-09-11
+subfooters:
+ - expo
+ - cliches
 ---
 
 
@@ -22,10 +25,3 @@ ou bien à  <a href="http://ad.zanox.com/ppc/?8910668C596726294T&ULP=[[http://li
 <!-- / HTML -->
 
 ![La terre vue du ciel](expo-yann-arthus-bertrand-waterloo-400.jpg){.center}
-
-### Voir aussi
-*[Expo photos en plein air (2)](/expo-photos-en-plein-air-2)
-*[Expo photos en plein air (3)](/expo-photos-en-plein-air-3)
-*[Expo photos en plein air (4)](/expo-photos-en-plein-air-4)
-*[Expo photos en plein air (5)](/expo-photos-en-plein-air-5)
----

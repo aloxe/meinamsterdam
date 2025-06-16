@@ -10,7 +10,9 @@ image_alt:
 permalink: le-drapeau-sud-africain/
 date: 2010-07-18
 update: 2018-01-09
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - drapeau
 ---
 
 
@@ -32,18 +34,3 @@ Le nouveau drapeau de l'Afrique du Sud répare donc ce manque à l'occasion des 
 ![http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/210px-Flag_of_South_Africa.svg.png](drapeau d'Afrique du Sud){.center}
 
 On y voit clairement des bouts du *prinsenvlag* mais aussi de l'*union jack* et les couleurs de l'ANC dans un triangle très inspiré par le [drapeau jamaïcain](http://fr.wikipedia.org/wiki/Drapeau_de_la_Jama%C3%AFque), mais là, je pense qu'il n'y a pas de rapport historique.
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:120px;">
-<a href="/le-prinsenvlag-aux-fenetres" title="Le Prinsenvlag">
-<!-- / HTML -->
-((/public/images/photos/2007-05/.drapeau-balcon-7carre200_t.jpg?3.017173492162E+18|Drapeaux hollandais aux fenêtres|L))
-<!-- HTML -->
-<p style="float:left; text-wrap:no-wrap;">
-<h4 style="margin:0;">Le Prinsenvlag</h4>
-Histoire du drapeau des Pays-Bas<br/>
-Où et quand hisser le drapeau néerlandais
-</p>
-</a></div>
-<!-- / HTML -->
----

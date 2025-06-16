@@ -11,6 +11,8 @@ permalink: Fairphone-le-telephone-ethique/
 date: 2015-12-17
 update: 2021-12-31
 TODO: shortened desc
+subfooters:
+ - telephone
 ---
 
 Beaucoup d'entre vous connaissent déjà le fairphone et j'en connais qui l'utilisent mais pour les autres, je pense que ce billet est bienvenu pour découvrir un téléphone qui se veut éthique au moment ou sa version 2  va bientôt se retrouver dans les poches des happy few qui font de la planète un critère d'achat (Non ce n'est pas encore un article à propos de la COP21).

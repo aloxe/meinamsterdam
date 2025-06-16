@@ -10,7 +10,11 @@ image_alt:
 permalink: schiphol-hall-M-metamorphose/
 date: 2013-11-05
 update: 2019-11-25
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - schiphol
+ - escher
+ - expo
 ---
 
 
@@ -43,36 +47,7 @@ Ce n'est qu'au hasard de mes déplacements que je me suis retrouvé au pied de c
 
 Ce n'est hélas pas suffisant pour intéresser les voyageurs. Les yeux rivés sur leur billet ou leur téléphone, ils ne lèvent la tête que pour regarder le panneau des départs voir si la porte de leur vol est annoncée. Ce sera la porte M-quelque chose, **M comme Métamorphose**.
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<img src="/public/images/photos/2013/.fokker-derniers_s.jpg" alt="Les derniers Fokker à Schiphol" style="float:left; margin:0.5em 2em 1em 0; height:80px; width:auto;">
-<div style="margin:3px; text-align:center;">
-<h4 style="margin:0.5em 0 0 0;">Schiphol</h4>
-<ul style="margin:0 0 1em">
-<li><a href="/schiphol-l-aeroport-de-la-terreur">Schiphol, l'aéroport de la terreur</a>
-<li><a href="/vliegtuigspotters">Les Vliegtuigspotters de Schiphol</a>
-<li><a href="/un-voyage-avec-transavia">Un voyage avec Transavia</a> - <a href="/voyage-klm-retour">Voyage retour, voyage KLM</a>
-<li><a href="Dernier-Fokker/">Le dernier Fokker des Pays bas</a> - <a href="/pas-hier-pas-en-fokker">Pas hier, pas en Fokker</a>
-</ul>
-</div>
-</div>
-<!-- / HTML -->
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<div style="margin:3px; text-align:center;">
-<img src="/public/images/photos/2007-03/.mc-echer-img_8430carre200_sq.jpg" alt="MC ESCHER" style="float:left; margin:0.5em 2em 1em 0; height:80px; width:auto;">
-<h4 style="margin:0.4em;">MC Escher</h4>
-<ul style="margin:0 0 1em">
-<li><a href="/mauritz-cornelis-escher-in-het-paleis-van-den-haag">Mauritz Cornelis Escher in het Paleis van Den Haag</a>
-<li><a href="/expo-photos-en-plein-air-7">Expo photos en plein air (7)</a>
-<li><a href="/demenager-une-toile-de-48m">Comment déménager une toile de 48m de long</a>
-</p>
-</div>
-</div>
-<!-- / HTML -->
----
 <!-- post notes:
 https://mcescher.com/wp-content/uploads/2019/09/LW446geel2.jpg 
 https://en.wikipedia.org/wiki/Metamorphosis_III 

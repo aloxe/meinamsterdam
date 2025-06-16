@@ -11,6 +11,9 @@ permalink: expo-photos-en-plein-air-4/
 date: 2007-10-29
 update: 2015-04-16
 TODO: no image alt, shortened desc, image without alt
+subfooters:
+ - expo
+ - cliches
 ---
 
 La construction de la ligne de métro Nord-Sud (*Noordzuidlijn*) dure depuis des années. Les gens attendent leurs nouvelles stations et les rues sont toujours en travaux. Le sud de la Vijzelstraat, près de Weteringcicuit est coupée dans la longueur par une énorme tranchée qui gène les riverains depuis au moins 2005. Ces pauvres riverains subissent le bruit et les nuisances toute la journée, c'est surement pour ça qu'on a décider de leur offrir un peu d'évasion.
@@ -155,10 +158,3 @@ Callantsoog
 <!-- HTML -->
 </div><div style="clear:both; width:100%;"></div>
 <!-- / HTML -->
-
-### Voir aussi
-*[Expo photos en plein air (1)](/expo-photos-en-plein-air)
-*[Expo photos en plein air (2)](/expo-photos-en-plein-air-2)
-*[Expo photos en plein air (3)](/expo-photos-en-plein-air-3)
-*[Expo photos en plein air (5)](/expo-photos-en-plein-air-5)
----

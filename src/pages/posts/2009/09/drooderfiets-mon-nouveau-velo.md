@@ -10,7 +10,10 @@ image_alt: vélo transportfiets hollandais
 permalink: drooderfiets-mon-nouveau-velo/
 date: 2009-09-28
 update: 2018-08-03
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
 Vous vous rappelé qu'on m'a [volé mon Btwin](/un-b-twin-a-amsterdam) ? Ça fait longtemps que je n'en ai pas parlé parce qu'en fait, j'ai un nouveau vélo depuis six mois. Pas le [beachcruiser](/plein-de-velos#beachcruiser) [de remplacement](/mon-nouveau-velo), un vrai [vélo hollandais](/plein-de-velos-hollandais) tout neuf qui super dépote. En fait ceux qui me suivent [sur twitter](http://twitter.com/meinamsterdam) ont déjà vu mon vélo. J'en ai parlé [dès que je l'ai eu](http://twitter.com/meinamsterdam/status/1375877860). Il y a six mois je faisais cette photo pour pouvoir la mettre sur ce blog et vous montrer ma nouvelle bicyclette. C'est enfin fait:
@@ -41,79 +44,7 @@ Il s'appelle **Drooderfiets** et il se la pète un peu trop à mon goût. Il a [
 ## Il est où ?
 Pour trouver drooderfiets, le mieux c'est de prendre [cette carte d'Amsterdam](http://loc.alize.us/#/user:drooderfiets/geo:52.370398,4.897156,13,k/sort:date/), de zoomer sur les quartiers et d'essayer de voir où il se trouve.
 
-## Voir aussi quelques photos de [Drooderfiets en balade](/photos-drooderfiets-balade).
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
 ---
 [^1]: Ça n'arrive pas souvent les choses lourdes mais bon, j'ai déjà porté un canapé avec.
 [^2]: Ce nom est une référence aux *witte fietsenplan* lancé par le [mouvement provo](http://fr.wikipedia.org/wiki/Provo_%28mouvement%29) dans les années 60. Il faudra que je vous parle de ce mouvement un jour.

@@ -10,7 +10,9 @@ image_alt: Logo Giant
 permalink: plein-de-velos-pas-hollandais-4/
 date: 2009-09-09
 update: 2014-04-25
-TODO: shortened desc, subfooters
+TODO: shortened desc, 
+subfooters:
+ - velos
 ---
 
 Pays des vélos, les Pays-Bas sont les premier producteurs et surement l'un des premiers exportateurs de bicyclettes du monde. Néanmoins les Pays-Bas importent aussi des bicyclettes d'autres pays, eux aussi réputés pour leurs vélos.
@@ -45,76 +47,6 @@ Les marques de vélos connues comme **Gitane**, **Peugeot** en France, **Punch**
 
 Il y a aussi d'autres grandes marques étrangères importées aux Pays-Bas, se gardant une niche de marché. Les vélos italiens **Bianchi** sont connus dans le monde de la course tandis que les vélos allemands **Riese und Müller**  se croisent chez les randonneurs de campagne. Je ne peux pas être exhaustif ici mais je pense qu'avec [plein de vélos hollandais](/plein-de-velos-hollandais-3) et **plein de vélos (pas) hollandais**, vous avez un large aperçu des bicyclettes que l'on peut croiser tous les jours au pays de la petite reine[^2].
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
 ---
 [^1]: Voir [Les provinces des Pays-Bas](/les-provinces-des-pays-bas)
 [^2]: Non, je ne parle pas de Beatrix.

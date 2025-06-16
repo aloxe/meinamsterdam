@@ -10,6 +10,9 @@ image_alt: "Les amoureux devant l'expo photos"
 permalink: expo-photos-en-plein-air-5/
 date: 2008-01-23
 update: 2012-09-11
+subfooters:
+ - expo
+ - cliches
 ---
 
 
@@ -19,12 +22,3 @@ C'est une petite expo sans prétention qui a été posée sur la place du Dam de
 ![Les amoureux devant l'expo photos](expo-photos-dam-400.jpg){.center}
 
 Vous pouvez admirer le même genre de photos devqnt le parc des exposition de la ville **RAI**.
-
-
-### Voir aussi
-*[Expo photos en plein air (1)](/expo-photos-en-plein-air)
-*[Expo photos en plein air (2)](/expo-photos-en-plein-air-2)
-*[Expo photos en plein air (3)](/expo-photos-en-plein-air-3)
-*[Expo photos en plein air (4)](/expo-photos-en-plein-air-4)
-*[Expo photos en plein air (6)](/expo-photos-en-plein-air-6)
----

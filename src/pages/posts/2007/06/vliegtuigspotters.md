@@ -10,6 +10,9 @@ image_alt: longues-vues et avions
 permalink: vliegtuigspotters/
 date: 2007-06-17
 update: 2015-07-07
+subfooters:
+ - schiphol
+ - expo
 ---
 
 
@@ -41,9 +44,3 @@ Celui-ci a un poste de radio branché sur la fréquence de la tour de contrôle 
 <!-- / HTML -->
 
 L'aéroport de Schiphol lance aujourd'hui [une grande enquète](http://www.blikopnieuws.nl/bericht/51455) en direction de ces *anoraks* de l'aéronotique. L'aéroport souhaiterait aménager des endroits pour que ces spotters puisse continuer de vivre leur passion sans géner les riverains ni les accès aux aéroports.
-
-### voir aussi
-Moi aussi j'ai pris des avions en photo :
-* [Des Boeing 737 de KLM](/voyage-klm-retour)
-* [Un Fokker de KLM cityhopper](/hier-en-fokker)
----

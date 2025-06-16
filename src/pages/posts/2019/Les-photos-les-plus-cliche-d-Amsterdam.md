@@ -10,7 +10,9 @@ image_alt:
 permalink: Les-photos-les-plus-cliche-d-Amsterdam/
 date: 2019-02-18
 update: 2020-02-24
-TODO: no image, no image alt, shortened desc, subfooters
+TODO: no image, no image alt, shortened desc,  
+subfooters:
+ - expo
 ---
 
 Nous avons déjà vu sur ce blog, à l'aide de jolies cartes, quels étaient [les endroits les plus photographiés à Amsterdam](/le-amsterdam-des-touristes-et-loacaux). Les statistiques de flickr permettent de voir qui prennent les photos à quels endroits mais nous n'avons pas vu les photos en question. Voici donc pour me rattraper une** liste des photos les plus clichées d'Amsterdam** que les touristes aiment à montrer dans les soirées diapos à leur retour ou bien sur leur réseau social préféré. Cette sélection pointilleuse a été faite en toute subjectivité.
@@ -64,30 +66,7 @@ Rares sont les voyages à Amsterdam sans anecdote liée à la drogue locale disp
 Le marché aux fleurs d'Amsterdan est un haut lieu de photographie même si ces dernières sont interdites dans les stands. Peut de stand d'ailleurs mettent en avant [les tulipes colorées à bon prix](/1637-krach-de-la-tulipe), Seulement une à chaque extrémité pour attirer le chalant. Cela peut donner de bonnes images mais, quand c'est la bonne saison, les champs de tulipes autour d'Amsterdam permettent des prises de vue bien plus clichées. Techniquement on peut retrouver des champs de fleurs tout autour d'Amsterdam même au nord vers Alkmaar mais la région la plus connue est au sud-ouest, celle autour de Lisse où se visite [le parc floral de Keukenhof](/les-derniers-jours-de-keukenhof). Quand c'est la saison, s'y [balader à vélo](/la-sortie-tulipes-2011) est un must pour qui veut collecter des photos clichés.
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:80px;">
-<img src="/public/images/photos/2008-01/.expo-photos-dam-400_t.jpg?5.5420891735146E+17" alt="Expos photo en plein air" style="float:left; margin:0.5em 1em 1em 0;">
-<p style="margin:3px;">
- — <a href="/expo-photos-en-plein-air">Expo photos en plein air (1)</a>
- — <a href="/expo-photos-en-plein-air-2">Expo photos en plein air (2)</a>
- — <a href="/expo-photos-en-plein-air-3">Expo photos en plein air (3)</a>
- — <a href="/expo-photos-en-plein-air-4">Expo photos en plein air (4)</a>
- — <a href="/expo-photos-en-plein-air-5">Expo photos en plein air (5)</a>
- — <a href="/expo-photos-en-plein-air-6">Expo photos en plein air (6)</a>
-</p>
-</div>
-<!-- / HTML -->
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<a href="/photos-drooderfiets-balade" title="les photos de mon vélo à travers les Pays-Bas">
-<img src="http://farm4.static.flickr.com/3085/3468695122_119298f2ea_m.jpg" alt="Drooderfiets présentation" style="float:left; margin:0.5em 1em 1em 0; height:80px; width:auto;">
-<p style="margin:3px; text-align:center;">
-<h4 style="margin:1em;">Drooderfiets en balade</h4>
-</p>
-</div>
-<!-- / HTML -->
----
 <!-- post notes:
 VOIR AUSSI :
 http://www.parool.nl/parool/nl/34261/PS/article/detail/3968728/2015/04/21/Dit-zijn-de-10-grootste-fotocliches-van-Amsterdam.dhtml

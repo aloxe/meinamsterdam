@@ -10,7 +10,10 @@ image_alt:
 permalink: expo-photos-en-plein-air-7/
 date: 2013-06-16
 update: 2020-12-01
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - expo
+ - cliches
 ---
 
 
@@ -32,20 +35,3 @@ En fait chaque photo est un photo montage et la série n'a pas de fil conducteur
 Comme à chaque expo en plein air, les gens passent et s'en foutent…
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:1em 1em 0 1em; margin:5px; min-height:120px; ">
-<!-- / HTML -->
-((/public/images/photos/2008-01/.expo-photos-dam-400_t.jpg?5.5420891735146E+17|Expos photo en plein air|L))
-<!-- HTML -->
-<div style="float:left; text-wrap:no-wrap; margin-top: -1em;">
-— <a href="/expo-photos-en-plein-air">Expo photos en plein air (1)</a><br>
-— <a href="/expo-photos-en-plein-air-2">Expo photos en plein air (2)</a><br>
-— <a href="/expo-photos-en-plein-air-3">Expo photos en plein air (3)</a><br>
-— <a href="/expo-photos-en-plein-air-4">Expo photos en plein air (4)</a><br>
-— <a href="/expo-photos-en-plein-air-5">Expo photos en plein air (5)</a><br>
-— <a href="/expo-photos-en-plein-air-6">Expo photos en plein air (6)</a><br>
-</div>
-<div style="clear:both; margin-top:1em;"></div>
-</div>
-<!-- / HTML -->
----

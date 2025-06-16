@@ -12,7 +12,6 @@ update: 2014-04-25
 subfooters:
   - drooderfiets
   - velos
-  - telephone
 ---
 
 ![cadenas en forme de fer à cheval noir](cadenas-velo.jpg){.center}

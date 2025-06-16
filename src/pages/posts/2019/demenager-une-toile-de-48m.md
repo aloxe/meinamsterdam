@@ -10,7 +10,11 @@ image_alt:
 permalink: demenager-une-toile-de-48m/
 date: 2019-11-25
 update: 2019-11-25
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt,  
+subfooters:
+ - schiphol
+ - escher
+ - expo
 ---
 
 
@@ -30,21 +34,6 @@ Voilà presque 7 ans qu'il n'y a [plus un seul bureau de poste aux Pays-Bas](/la
 
 Même si l'information n'est plus toute fraîche elle reste un témoignage important de l'attention particulière que les néerlandais portent à la conservation de ce que les gens trouvent beau.
 
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:2px 8px; margin:5px; min-height:92px;">
-<div style="margin:3px; text-align:center;">
-<img src="/public/images/photos/2007-03/.mc-echer-img_8430carre200_sq.jpg" alt="MC ESCHER" style="float:left; margin:0.5em 2em 1em 0; height:80px; width:auto;">
-<h4 style="margin:0.4em;">MC Escher</h4>
-<ul style="margin:0 0 0.5em">
-<li><a href="/mauritz-cornelis-escher-in-het-paleis-van-den-haag">Mauritz Cornelis Escher in het Paleis van Den Haag</a>
-<li><a href="/expo-photos-en-plein-air-7">Expo photos en plein air (7)</a>
-<li><a href="/schiphol-hall-M-metamorphose">Schiphol, Hall M comme Metamorphose</a>
-</p>
-</div>
-</div>
-<!-- / HTML -->
----
 <!-- post notes:
 https://vimeo.com/59554543
 --->

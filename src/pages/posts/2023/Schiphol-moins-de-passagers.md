@@ -9,6 +9,9 @@ image_alt: cartes des pistes de Schiphol
 permalink: Schiphol-moins-de-passagers/
 date: 2023-04-07
 update: 2023-04-08
+subfooters:
+  - schiphol
+  - escher
 ---
 
 Interdiction des vols de nuit, réduction du nombre de passagers, annulation d\un projet de nouvelle piste et interdiction des jets privés. [L’annonce de l’aéroport de Schiphol ce mardi](https://news.schiphol.com/schiphol-to-be-quieter-cleaner-and-better-night-closure-ban-on-private-jets-and-people-first/) ne fait pas dans la demi-mesure. 

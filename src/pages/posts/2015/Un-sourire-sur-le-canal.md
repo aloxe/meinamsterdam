@@ -10,7 +10,10 @@ image_alt:
 permalink: Un-sourire-sur-le-canal/
 date: 2015-04-16
 update: 2019-11-05
-TODO: no image, no image alt, subfooters
+TODO: no image, no image alt, 
+subfooters:
+ - expo
+ - cliches
 ---
 
 
@@ -21,21 +24,3 @@ Voilà très longtemps que des photos ne se sont pas exposées sur ce blog. Heur
 
 :-)
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:15px; text-align:center; font-size:small; padding:1em 1em 0 1em; margin:5px; min-height:120px; ">
-<!-- / HTML -->
-((/public/images/photos/2008-01/.expo-photos-dam-400_t.jpg?5.5420891735146E+17|Expos photo en plein air|L))
-<!-- HTML -->
-<div style="float:left; text-wrap:no-wrap; margin-top: -1em;">
-— <a href="/expo-photos-en-plein-air">Expo photos en plein air (1)</a><br>
-— <a href="/expo-photos-en-plein-air-2">Expo photos en plein air (2)</a><br>
-— <a href="/expo-photos-en-plein-air-3">Expo photos en plein air (3)</a><br>
-— <a href="/expo-photos-en-plein-air-4">Expo photos en plein air (4)</a><br>
-— <a href="/expo-photos-en-plein-air-5">Expo photos en plein air (5)</a><br>
-— <a href="/expo-photos-en-plein-air-6">Expo photos en plein air (6)</a><br>
-— <a href="/expo-photos-en-plein-air-7">Expo photos en plein air (7)</a><br>
-</div>
-<div style="clear:both; margin-top:1em;"></div>
-</div>
-<!-- / HTML -->
----

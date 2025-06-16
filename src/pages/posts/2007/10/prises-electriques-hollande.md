@@ -10,7 +10,9 @@ image_alt: prise électrique femelle
 permalink: prises-electriques-hollande/
 date: 2007-10-16
 update: 2014-11-28
-TODO: shortened desc, subfooters
+TODO: shortened desc
+subfooters:
+ - telephone
 ---
 
 Pour les prises électriques, pas de problème ai-je dit en présentant celui des [prises de téléphone](/les-prises-telephoniques). C'était sans compter sur les petits détails, petits détails peuvent devenir des gros problèmes si l'on a besoin de brancher un appareil électrique français sur une prise électrique aux Pays-Bas. Voici ce qu'il faut savoir :
@@ -57,22 +59,6 @@ Une fiche électrique compatible doit présenter un trou pour la terre français
 <!-- / HTML -->
 Certaines prises mâles françaises sont rondes et les échancrures sur les coté des prises hollandaises empêchent de les brancher. à l'inverse, les prises mâles hollandaises (et allemandes) n'ont pas toujours de trou pour la terre française et ne peuvent donc pas se brancher en France.
 
-
-<!-- HTML -->
-<div class="horizontal-banner">
-<script type="text/javascript">
-    google_ad_client = "ca-pub-6770013384586203";
-    google_ad_slot = "5970813040";
-    google_ad_width = 468;
-    google_ad_height = 60;
-</script>
-<!-- amsterdam_bannière_468x60 -->
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-<!-- / HTML -->
-
 ## Les adaptateurs
 
 La meilleure solution est de veiller à ce que l'appareil que l'on veut brancher possède une prise mâle compatible avec les deux systèmes. Aujourd'hui c'est très souvent le cas. Sinon, il est toujours possible d'en acheter et d'en monter une. Votre appareil pourra ainsi se brancher aux Pays-Bas, en France mais aussi en Allemagne en Belgique, Espagne, Maroc, Grèce, Bulgarie, Autriche, Hongrie, République tchèque etc.
@@ -80,30 +66,6 @@ La meilleure solution est de veiller à ce que l'appareil que l'on veut brancher
 Si vous êtes malchanceux et que vous n'êtes pas bricoleur, sachez qu'il existe des adaptateurs comme indiqué en commentaire mais cette solution est une solution de dépannage temporaire. **Une solution plus pratique est d'acheter une rallonge ou une multiprise** dans le pays de compatibilité de l'appareil que l'on veut brancher, en prenant soin de vérifier que la fiche mâle de cette rallonge soit compatible avec les deux systèmes.
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/Katja-Shuurmann-cover-girl-pages-jaunes" title="Katja Shuurmann, la cover girl de Gouden Gids">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages jaunes](.gouden-gids-front-2004_t.jpg){.left}
-**Katja Shuurmann**  
-  
-Découvrez la cover-girl des pages jaunes néerlandaises.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; margin:5px; width:280px; float:left; height:120px;">
-<a href="/les-numeros-utiles" title="Les numéros de services au tarif normal">
-<!-- / HTML -->
-![Katja Shuurmann, cover girl des pages blanches](.telefoon-gids-back_t.jpg){.left}
-**Les numéros de service NL**  
-  
-La liste des numéros directs vers les services téléphoniques les plus courants aux Pays-Bas.
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
----
 <!-- post notes:
 http://www.pakata.com/blog/2014/02/prises-voltages-adaptateur-convertisseur/#Les_prises_Franaises_C_E_et_F_dans_le_monde
 --->

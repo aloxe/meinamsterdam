@@ -10,7 +10,11 @@ image_alt: vélo transportfiets hollandais
 permalink: photos-drooderfiets-balade/
 date: 2010-01-24
 update: 2016-04-29
-TODO: subfooters
+subfooters:
+ - velos
+ - expo
+ - cliches
+TODO: images external
 ---
 
 

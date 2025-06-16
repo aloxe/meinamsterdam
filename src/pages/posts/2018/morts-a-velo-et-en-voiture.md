@@ -10,7 +10,9 @@ image_alt:
 permalink: morts-a-velo-et-en-voiture/
 date: 2018-12-09
 update: 2019-01-30
-TODO: no image alt, shortened desc, subfooters, image without alt
+TODO: no image alt, shortened desc, image without alt
+subfooters:
+ - velos
 ---
 
 C'est une première et c'est bien triste. 2017 a été une année noire en terme de mortalité à vélo si bien que pour l'année 2017 il y a eu pour première fois il y a eu plus de cyclistes tués sur les routes (206) que d'automobilistes (201).  L'institut national des statistiques (*Centraal Bureau voor de Statistiek*) en a fait un communiqué spécial tant la nouvelle marque un tournant.
@@ -57,77 +59,6 @@ Les bons chiffres de l'automobile sont à modérer selon la *fietserbond*, [la p
 *) [signale tout de même que même](https://www.swov.nl/nieuws/stijging-aantal-verkeersdoden-629-2016) si le nombre de décès est en légère hausse, il s'explique avant tout par une mobilité en forte hausse. Logiquement, plus on parcourt de chemin, plus on a de chance d'avoir ou de rencontrer un accident. Mais globalement les Pays bas peuvent encore se féliciter d'être un des pays dont la route est l'une des plus sûrs du monde.
 
 
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo transportfiets hollandais](transportfiets.png){.center}  
-1) Les avantages  
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo omafiets hollandais](omafiets.png){.center}  
-2) Les styles
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-hollandais-3" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo bakfiets hollandais](bakfiets.png){.center}  
-3) Les marques
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/plein-de-velos-pas-hollandais-4" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo toerfits hollandais](toerfiets.png){.center}  
-4) Les marques étrangères
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/une-heure-sans-velo" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo opafiets hollandais](opafiets.png){.center}  
-5) Parking à vélos
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="border:2px solid #FF5521; border-radius:8px; text-align:center; font-size:small; padding:2px 8px; float:left; margin:5px; height:140px;">
-<a href="/les-velos-de-location" title="tout savoir sur la bicyclette aux Pays-Bas">
-<!-- / HTML -->
-**Plein de vélos hollandais**  
-![vélo moederfiets  hollandais](moederfiets.png){.center}  
-6) Vélos de location
-<!-- HTML -->
-</a></div>
-<!-- / HTML -->
-
-<!-- HTML -->
-<div style="clear:both;"></div>
-<!-- / HTML -->
----
 <!-- post notes:
 https://bicycledutch.wordpress.com/2018/04/25/more-cycling-fatalities-than-deaths-in-cars/ 
 https://nl.wikipedia.org/wiki/Stichting_Wetenschappelijk_Onderzoek_Verkeersveiligheid

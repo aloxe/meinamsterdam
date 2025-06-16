@@ -1,16 +1,14 @@
 ---
 layout: base
 title: Haro sur le 30% ruling
-description: 
 categorie: nederlandjes
 tags: ["administration", "politique", "économie"]
 isMarkdown: true
 thumbnail: United-Expats-ofthe-Netherlands.png
-image_alt: 
+image_alt: United Expats of theNetherlands
 permalink: Haro-sur-le-30-ruling/
 date: 2018-05-21
 update: 2018-07-08
-TODO: no image alt, image without alt
 ---
 
 
@@ -21,7 +19,7 @@ Les conditions pour obtenir cet avantage fiscal, telles que listées sur le site
 - avoir un travail aux Pays bas
 - avoir des compétences difficilement trouvables aux Pays bas
 - avoir vécu à 150 kilomètres hors des frontières du pays pendant au moins 16 mois au cours des deux dernières années.
-
+<!--excerpt-->
 Les demandes sont généralement faites par l'entreprise qui emploie l'expatrié et elles sont examinées au cas par cas. La sélection semble drastique mais dans les faits, tout expatrié venant avec un diplôme supérieur peut prétendre à cet avantage. Si je n'en ai pas encore parlé c'est que je n'ai pas fait partie de cette catégorie.
 
 ## 10 ans, 8 ans, 5 ans…
@@ -34,10 +32,11 @@ Depuis des années cet avantage est accordé pour une période de 10 ans. Seulem
 
 Dans [les premières évaluations du projet](https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2018Z07566&did=2018D25828) le gouvernement semble entendre que la réduction de la durée de cet abattement de 30% s'étendra à l'ensemble des expatriés qui en bénéficient et non plus comme ce fut le cas en 2012 aux seuls nouveaux bénéficiaires. C'est un coup dur pour les actuels bénéficiaires, cela signifie une baisse de 12 à 16% de leurs revenus. Alors évidement, ils ne sont pas d'accord.
 
-![](United-Expats-ofthe-Netherlands.png){.center}
+![logo United Expats of the Netherlands sur fond noir](United-Expats-ofthe-Netherlands.png){.center}
 
 Une pétition tourne pour appeler le gouvernement, non pas à changer son projet mais uniquement à ne pas le rendre rétroactif. Elle est issue d'un collectif qui se nomme *United expats of the Netherlands*. Leur slogan et leur logique est simple: **donner c'est donner…**[^1]. Ils arguent que cela ne rapportera pas beaucoup au budget de l'État mais risque d'avoir des conséquences négatives sur l'économie du pays.
 
 Pour en savoir plus, visitez le site qui reprend leur slogan : [A deal is a deal](https://www.adealisadeal.nl/).
----
+
+--- 
 [^1]: Le slogan est en anglais et en néerlandais et sonne beaucoup mieux: A deal is a deal soit *afspraak is afspraak* comme le disent les autochtones.

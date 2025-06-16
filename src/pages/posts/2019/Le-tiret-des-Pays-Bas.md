@@ -13,8 +13,6 @@ update: 2024-04-01
 TODO: no image, no image alt
 ---
 
-
-
 Il m'est arrivé aujourd'hui une anecdote rigolote en regardant la photo du [13 janvier de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wandelen_over_de_Planken_Wambuis_vanuit_Mossel_069_A.jpg).  
 
 J'avais légendé cette photo d'**Agnes Monkelbaan** :
@@ -33,7 +31,7 @@ Après [les éditions de la princesse](/editions-de-la-princesse), étudions don
 Les Pays-Bas ont donc un tiret et deux majuscules.
 
 ### Nouveau mot: Nederlanden
-
+<!--excerpt-->
 Le nom officiel local des Pays-Bas est *Koninkrijk der Nederlanden* qui se traduit évidement en **Royaume des Pays-Bas**. Ce le nom officiel et la traduction se fait donc au pluriel puisque ce royaume est composé de plusieurs pays. Il y a les pays qui formaient avant [les Antilles néerlandaises](/nouveaux-codes-iso-hollandais): Curaçao, Aruba et Saint-Martin ainsi que le pays qui constitue l'essentiel de la population et de la superficie du royaume, le Pays bas qu'on appellerait aussi la métropole si on osait une comparaison avec la France[^1] est un [pays constitutif](https://fr.wikipedia.org/wiki/Pays_constitutif).
 
 ### Nouveau mot: Nederland

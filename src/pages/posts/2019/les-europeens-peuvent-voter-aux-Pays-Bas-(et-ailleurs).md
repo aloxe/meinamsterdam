@@ -19,6 +19,7 @@ C'est pour lutter contre cette abstention que le site **Cette fois je vote** (*I
 
 ![Campagne: Cette fois ci je vote !](cettefoisjevote.png){.center}
 
+<!--excerpt-->
 Les traités européens (depuis Maastricht) garantissent à tout citoyen européen de voter où qu'il habite en Europe. Cette volonté de rendre tous les européens égaux devant le vote a ses limites puisque chaque pays a le droit d'organiser les élections comme il veut. Après avoir vu les [différentes possibilités offertes aux français des Pays-Bas](/Comment-les-francais-peuvent-voter-aux-Pays-Bas), **petite revue des différences par pays :**
 
 Si les états doivent se conformer aux traités européens en faisant participer les « étrangers », les états membres gardent toute liberté pour l'organisation de cette élection. En règle générale chaque état garde les mêmes habitudes que pour ses élections habituelles. Ainsi, les Pays-Bas comme la France autorisent leurs ressortissants résidant à l'étranger à prendre part au scrutin (ce qui n'est pas le cas de Malte ou de la République tchèque). Cependant, les néerlandais utilisent le vote par correspondance postale tandis que les français vont mettre en place des bureau de vote physiques dans les ambassades ou même d'autres lieux hors du sol français.
@@ -28,7 +29,7 @@ Au sein du *think tank* du parlement Européen, Alina Dobreva, Giulio Sabbati et
 
 ## Le nombre de députés passe de 751 à 705.
 
-((/public/images/scans/stats/nombre-de-deputes.png|Le nombre de député au parlement européen 751 → 705|Nombre de députés au parlement européen|C))
+![Le nombre de député au parlement européen 751 → 705](nombre-de-deputes.png){.center}
 
 Cette baisse s'explique par le retrait du Royaume Uni car même s'il n'est pas encore acté, il reste prévu tel que signé en mars 2017[^1]. Malgré cela, certain pays gagnent en nombre de sièges selon leur évolution démographique. Ainsi la France gagne 5 sièges et les Pays-Bas en gagnent 3 ce qui est plus proportionnellement. La palme de l'augmentation est celle de l'Estonie qui gagne 1 siège de plus et passe à 7 députés européens pour la prochaine mandature.
 
@@ -52,6 +53,10 @@ Autre règle affectant le pluralisme est le seuil d'éligibilité d'une liste. E
 Pour les européens restants, il est toujours possible de voter pour l'élection organisée dans leurs pays mais selon le pays, les options diffèrent entre vote par correspondance, à l'ambassade ou bien la procuration envoyée au pays. L'Estonie se démarque en étant le seul pays permettant le vote par Internet ce qui est une possibilité offerte aussi aux résidents à chaque scrutin depuis des années.
 
 Il y a encore d'autres différences moins notables qui sont présentée dans cette infographie très européenne. D'un coup d'œil, elle montre la diversité des approches pour remplir un devoir commun.
+
+<!-- HTML -->
+<div class="clear-both"></div>
+<!-- / HTML -->
 ---
 [^1]: Le Brexit, l'article 50 du traité de Lisbonne et tout ça…
 [^2]: Oui les noms des pays sur l'infographie sont classées par ordre alphabétique non français ce qui peut faire bizarre en français. D'autant que la base pour les calendriers est l'anglais mais la base pour les résidents à l'étranger est le nom local (endonyme comme on m'a dit que cela se disait).

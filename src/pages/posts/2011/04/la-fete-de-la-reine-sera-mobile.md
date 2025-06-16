@@ -32,7 +32,7 @@ Le seule à ne pas croire à cette tendance mobile, c'est Heineken, sa campagne 
 
 Je serais plutôt d'accord avec Heineken sur ce coup là. Le jour de la fête de la reine, il y a tellement de monde en ville que les réseaux mobiles sont saturés, il est impossible de passer ses coup de fils ou d'envoyer le moindre SMS. je doute que la moindre app connectée fonctionne correctement.
 
-**Pour la fête de la reine, un conseil, planifiez vous rendez-vous à l'ancienne: en avance**.
+**Pour la fête de la reine, un conseil, planifiez vos rendez-vous à l'ancienne: en avance**.
 
 Autres billets sur le sujet :
 * [Koninginnedag (la fête de la reine)](/koninginnedag)

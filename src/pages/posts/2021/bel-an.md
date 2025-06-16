@@ -12,13 +12,11 @@ date: 2021-01-06
 update: 2021-01-06
 TODO: no image, no image alt, 
 subfooters:
- - expo
  - cliches
+ - expo
 ---
 
-
-
-Parce que mes posts sont moins réguliers, j'ai perdu (des lecteurs) et l'habitude de présenter mes vœux pour la nouvelle année. Aux Pays-Bas l'Épiphanie est le dernier jour pour le faire alors j'en profite pour souhaiter aux *happy few* une belle année.
+Parce que mes posts sont moins réguliers, j'ai perdu ( des lecteurs et ) l'habitude de présenter mes vœux pour la nouvelle année. Aux Pays-Bas l'Épiphanie est le dernier jour pour le faire alors j'en profite pour souhaiter aux *happy few* une belle année.
 
 Si l'année dernière était une année de ZOZO, on peut espérer que l'année qui vient sera une année de ZOZI.
 
@@ -32,5 +30,5 @@ Les quelques autres nouvelles que j'ai postées sont hélas liée à l'épidémi
 
 Pour le volet économique on notera que la ville d'Amsterdam se dote d'indicateurs plus élaborés que le seul PIB et sa croissance pour évaluer et guider sa politique : La théorie du donut. Le gouvernement de droite, de son coté, [appelle à la modération salariale des hauts salaires](/patrons-salaire-a-la-baisse). Ça ne concerne que deux patrons en tout et pour tout mais j'explique que ça reste un appel fort de part le contexte local.
 
-Voilà pour cette année qui reste plus riche en événements qu'en posts sur ce blog. Je regrette de ne pas avoir pu partager d'expo photos en plein air comme par le passé mais en temps de confinement les expos sont moins à la mode. Sauf biensûr les expos en ligne. Même si c'est moins bien, c'est déjà ça. Alors je partage avec vous cette collection de vieilles expos photos comme cadeau du nouvel an:
+Voilà pour cette année qui reste plus riche en événements qu'en posts sur ce blog. Je regrette de ne pas avoir pu partager d'expo photos en plein air comme par le passé mais en temps de confinement les expos sont moins à la mode. Sauf biensûr les expos en ligne. Même si c'est moins bien, c'est déjà ça. Alors je partage avec vous cette collection de vieilles photos comme cadeau du nouvel an :
 

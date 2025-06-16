@@ -26,7 +26,7 @@ J'ai déjà parlé ici de l'historique de cette liaison ferroviaire depuis [la C
 
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column; margin:0 auto;">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRP7RPy1g5M?si=zFixSwBXoIvGjVF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->

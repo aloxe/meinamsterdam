@@ -18,7 +18,7 @@ Aujourd'hui **la petite reine**[^1] fait un retour en force dans le cool et la p
 Seulement cela n'a pas toujours été le cas et **cette pratique du vélo est le résultat de choix politiques datant des années 70**, mettant l'accent sur les infrastructures et la sécurité. C'est un tweet signalé par un lecteur qui m'a rappelé que je n'en avais pas encore parlé ici:
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">[THREAD]<br>Je souhaiterais vous faire partager un évènement auquel je me suis intéressé récemment et qui raconte comment les Pays-Bas ont commencé progressivement à réaliser des aménagements cyclables.<br>Cette histoire, je l&#39;ai lue dans le livre Bike Nation de <a href="https://twitter.com/peterwalker99?ref_src=twsrc%5Etfw">@peterwalker99</a>.<br>1/19</p>&mdash; Monsieur Ours (@GospodMedved) <a href="https://twitter.com/GospodMedved/status/948559218558324736?ref_src=twsrc%5Etfw">January 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -27,7 +27,7 @@ Seulement cela n'a pas toujours été le cas et **cette pratique du vélo est le
 L'histoire du livre **Bike Nation** est résumée en moins d'une dizaine de tweets mais pour les *réfractwitters*, il y avait possibilité de connaître cette histoire grâce à un article de *dadine* [sur le portail de leforum.nl](http://leforum.nl/index.php/report-section/39-reportages/315-lhistorique-des-pistes-cyclables-neerlandaises). L'article inspiré d'un blogpost en anglais reprenait le film suivant, centré sur les infrastructures où l'on voit un Amsterdam du début du siècle avec des tacots qui se joignent aux bicyclettes dans le trafic urbain naissant.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuBdf9jYj7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -54,7 +54,7 @@ Mais les Pays bas ne s'arrêtent pas là, les décideurs estiment que **l'usage 
 Les investissements les plus spectaculaires se portent aujourd'hui sur la construction d'*autoroutes pour vélos*. L'idée est que le réservoir de croissance pour la pratique du vélo est dans les trajets de plus de 12km et qu'il faut donc rendre ces trajets plus efficaces en vélo, pour que les usagers décident de laisser leur voiture au garage. C'est la raison pour laquelle les autoroutes pour vélos se développent autour et entre les villes de provinces. L'idée est de pouvoir relier les deux villes à vélo sans s'arrêter en construisant ci besoin des passerelles ou des tunnels. Quelques exemples existent déjà et illustrent que l'avance des Pays bas quand au développement des structures pour vélos n'est pas près de se résorber.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fweffrancais%2Fvideos%2F1577103105676161%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
 <!-- / HTML -->

@@ -20,7 +20,7 @@ Depuis peu j'ai vu réapparaître un vieux film présentant le nouveau vélo aut
 ### Le self-driving bike de Google
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSZPNwZex9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -35,7 +35,7 @@ Pour illustrer ce rappel, rien de mieux que le film qui montre le *making of* de
 ### Le film sur le self-driving bike de Google
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gOjRqlgk_Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->

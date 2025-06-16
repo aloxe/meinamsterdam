@@ -32,7 +32,7 @@ J'ai aimé y aller pour assister à des conférences ou des soirées sur le parq
 Malgré ces bons souvenirs, je dois aussi avouer que la Maison Descartes n'a pas été le haut lieu culturel de la ville. Les quelques initiatives que j'y ai vu n'étaient soutenues que du bout des lèvres et malgré la bonne volonté de certains personnels, il semble que, effectivement, les crédits n'étaient pas là et que l'espace était sous-utilisé à l'image de la salle de cinéma, grande fosse vide ou les derniers fauteuils arrachés prenaient la poussière sans que rien ne bouge[^2] [^3].
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe frameborder="0" scrolling="no" src="http://beeldbank.amsterdam.nl/beeldbank/weergave/record/layout/widget/tmpl/widget?id=010122057933&width=640" width="640" height="480"></iframe>
 </div>
 <!-- / HTML -->

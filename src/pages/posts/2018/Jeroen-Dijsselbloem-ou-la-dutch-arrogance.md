@@ -20,7 +20,7 @@ En mars dernier, **Jeroen Dijsselbloem**, le ministre des finances néerlandais 
 Suite aux protestations, il s'était justifié ensuite en prétextant la franchise très calviniste des Néerlandais. Cette justification a bien sûr attisé les animosités entre l'Europe du nord et celle du sud au sein de l'Eurogroupe et dans les éditoriaux. Non seulement cela lui évitait bien de demander des excuses pour avoir offensé tout un peuple mais en plus il donnait le crédit de la franchise à ce qui ne sont que des conneries de café du commerce.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <!-- / HTML -->
 ((https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Informal_Meeting_of_EU_Finance_Ministers_%2826482508722%29.jpg/566px-Informal_Meeting_of_EU_Finance_Ministers_%2826482508722%29.jpg|Dijsselbloem qui regarde des enfants de haut|C))
 <!-- HTML -->

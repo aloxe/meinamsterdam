@@ -13,12 +13,11 @@ update: 2021-05-22
 TODO: no image, no image alt
 ---
 
-
-
 En 2014, [je vous présentais les nouveaux élus](/Les-nouveaux-conseillers-consulaires) français aux Pays-Bas, conseillers consulaires, élus pour 6 ans. Il y avait là Tanguy le Breton, Hélène le Moing, Catherine Libeaut, Maryse Imbault et Hélène Degryse. Six ans plus tard, vos conseillers sont **Catherine  Libeaut**, **Hélène Degryse**, **Patrick Tezena**s, **Alexandra Berbain** et **Yann Martineau**. Certains noms ont changé non pas à cause d'une élection mais à cause de plusieurs démissions pour raisons diverses. Et si ces conseillers sont encore en place un an après la fin de leur mandat c'est que [la crise du COVID a empêché](https://amsterdam.consulfrance.org/Report-des-elections-des-conseillers-des-Francais-de-l-etranger-et-des-delegues-consulaires-720) la tenue d'élections pour les remplacer en 2020. Leur remplacement aura enfin lieu en mai.
 
 Entre 2020 et 2021, **la liste électorale d'Amsterdam a perdu 2000 français**. Malgré cela, le nombre de conseillers à élire reste stable : 5 conseillers des Français de l'étranger et un délégué (un élu qui ne siège pas mais vote aux sénatoriales).
 
+<!--excerpt-->
 ## Comment voter
 Pour les remplacer, l'élection aura lieu le 30 mai prochain à l'adresse indiquée sur la convocation que recevront les électeurs. Si vous ne pouvez pas vous déplacer, il sera possible d'établir une procuration ou bien de voter par Internet de manière anticipée entre les 21 et 26 mai. Pour cela il faut que votre inscription sur la liste électorale ait votre adresse mail et que le registre consulaire contienne bien votre bon numéro de téléphone portable.
 
@@ -53,8 +52,9 @@ Une seule liste se propose d'apporter le renouveau (c'est écrit dans leur nom).
 
 Il y a donc cinq listes pour cinq sièges mais c'est aux électeurs (vous) de résoudre cet équation facile en allant choisir le projet qui leur (vous) parle le plus.
 
-''Cet article a été modifié le 18 mai suites aux précisions d'un candidat''
----
+*Cet article a été modifié le 18 mai suites aux précisions d'un candidat*
+
+
 <!-- post notes:
 CR des conseils: 
   https://amsterdam.consulfrance.org/Proces-verbaux-des-reunions-du-conseil-consulaire 

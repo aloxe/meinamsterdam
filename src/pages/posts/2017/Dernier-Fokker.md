@@ -44,17 +44,17 @@ La liste des derniers vols KLM en Fokker a été annoncée par la compagnie suff
 Le tout dernier vol a donc été un vol en provenance de Londres à destination d'Amsterdam. Ce choix n'est pas dû au hasard, la compagnie a rappelé que le premier vol KLM à bord d'un avion Fokker a eu lieu le 15 septembre 1920 à destination de Londres. Le **KL1070** du 28 octobre a donc été le dernier d'une longue série. Les adieux ont donc été fêté en grande pompe avec les six avions, [leurs personnel de bord](https://blog.klm.com/our-fokkers-a-fleet-full-of-memories/) et les *community managers* qui ont pu tweeter les bons moments jusqu'aux aventures dans le cockpit du dernier vol.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">After a shared history of 97 years, KLM will phase out its last Fokker. Two passionate Fokker pilots share their love for this aircraft. ♥ <a href="https://t.co/2AKDcCcwm8">pic.twitter.com/2AKDcCcwm8</a></p>&mdash; Royal Dutch Airlines (@KLM) <a href="https://twitter.com/KLM/status/923831217996386304?ref_src=twsrc%5Etfw">October 27, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What a Fantastic Fokker farewell this weekend# You can find the full story here: <a href="https://t.co/nzTHNEKZNc">https://t.co/nzTHNEKZNc</a> <a href="https://t.co/FUK8NQEeGw">pic.twitter.com/FUK8NQEeGw</a></p>&mdash; Royal Dutch Airlines (@KLM) <a href="https://twitter.com/KLM/status/924688978112106499?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fasten your seatbelts and join us on the final flight of the Fokker 70! <a href="https://t.co/QgomfVVFVN">pic.twitter.com/QgomfVVFVN</a></p>&mdash; Royal Dutch Airlines (@KLM) <a href="https://twitter.com/KLM/status/925010910502060032?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -63,17 +63,17 @@ Le tout dernier vol a donc été un vol en provenance de Londres à destination 
 Biensûr les passagers ont été gâtés avec des petits cadeaux spécialement pour ce jour spécial. L'histoire ne dit pas combien de fans ont gardé le gâteau sous son plastique marqué « Last Fokker 70 flight » sans ouvrir.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yesterday&#39;s <a href="https://twitter.com/KLM?ref_src=twsrc%5Etfw">@KLM</a> <a href="https://twitter.com/hashtag/KL1746?src=hash&amp;ref_src=twsrc%5Etfw">#KL1746</a> service from <a href="https://twitter.com/luxairport?ref_src=twsrc%5Etfw">@luxairport</a> to <a href="https://twitter.com/Schiphol?ref_src=twsrc%5Etfw">@Schiphol</a> operated by PH-KZI was a lovely flight ♥ <a href="https://twitter.com/hashtag/AvGeek?src=hash&amp;ref_src=twsrc%5Etfw">#AvGeek</a> <a href="https://twitter.com/hashtag/Fokker70?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker70</a> <a href="https://twitter.com/hashtag/Fokker?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker</a> <a href="https://t.co/vLIh7Rgsa7">pic.twitter.com/vLIh7Rgsa7</a></p>&mdash; cloudsurferaero (@cloudsurferaero) <a href="https://twitter.com/cloudsurferaero/status/924558245255090177?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <!-- / HTML -->
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ru" dir="ltr">Голландская KLM отказалась от голландских самолетов марки Fokker после 97 лет полетов<a href="https://t.co/wi9H9qD7K8">https://t.co/wi9H9qD7K8</a> <a href="https://t.co/J11cjAqK6o">pic.twitter.com/J11cjAqK6o</a></p>&mdash; Avianews.com (@avianewscom) <a href="https://twitter.com/avianewscom/status/925062138770665473?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="da" dir="ltr">The last <a href="https://twitter.com/KLM?ref_src=twsrc%5Etfw">@KLM</a> Fokker 70 flight. <a href="https://twitter.com/hashtag/KLM?src=hash&amp;ref_src=twsrc%5Etfw">#KLM</a> <a href="https://twitter.com/hashtag/Fokker?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker</a> <a href="https://twitter.com/hashtag/Fokker70?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker70</a> <a href="https://t.co/wwQNWuTnNl">pic.twitter.com/wwQNWuTnNl</a></p>&mdash; Brendan Dorsey (@brendan_dorsey) <a href="https://twitter.com/brendan_dorsey/status/925420177830940672?ref_src=twsrc%5Etfw">October 31, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -82,12 +82,12 @@ Biensûr les passagers ont été gâtés avec des petits cadeaux spécialement p
 Le lendemain KLM découvrait un monument à la gloire de cet avion, une statue qui n'est rien d'autre que la queue d'un F70 immatriculé **PH-KBX** qui a été décommissionné plus tôt cette année. Si certains d'entre vous se demandent ce qu'ils ont fait du reste de l'avion et bien il a été découpé en morceau. Les morceaux peuvent numérotés avec certificat et tout peuvent être  achetés à l'occasion de la sortie d'un livre consacré à l’épopée Fokker et KLM,
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr"><a href="https://twitter.com/KLM?ref_src=twsrc%5Etfw">@KLM</a> Zondag 291017 indrukwekkend afscheid van de Fokker 70. Hiermee is een tijdperk afgesloten. Mooi monument op Schiphol Oost. <a href="https://t.co/TrItrBavSY">pic.twitter.com/TrItrBavSY</a></p>&mdash; Joop Hupkes (@JoopHupkes) <a href="https://twitter.com/JoopHupkes/status/925114569785331712?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/KLM?src=hash&amp;ref_src=twsrc%5Etfw">#KLM</a> <a href="https://twitter.com/hashtag/Fokker?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker</a> book released today at <a href="https://twitter.com/hashtag/amsterdam?src=hash&amp;ref_src=twsrc%5Etfw">#amsterdam</a> after <a href="https://twitter.com/hashtag/Fokker70?src=hash&amp;ref_src=twsrc%5Etfw">#Fokker70</a> farewell <a href="https://t.co/Q3SAJuz0n0">pic.twitter.com/Q3SAJuz0n0</a></p>&mdash; JetFlix (@JetFlixTV) <a href="https://twitter.com/JetFlixTV/status/924599424357191681?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -101,7 +101,7 @@ Le lendemain ce sont les **Embraer** qui prennent le relais dans les flotte City
 
 Plus de Fokker au départ de Schiphol ? Bien en fait…
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">LIVE: The last four <a href="https://twitter.com/KLM?ref_src=twsrc%5Etfw">@KLM</a> Fokker 70s have just left Amsterdam <a href="https://twitter.com/Schiphol?ref_src=twsrc%5Etfw">@Schiphol</a> in formation. Follow on <a href="https://twitter.com/flightradar24?ref_src=twsrc%5Etfw">@flightradar24</a> with Aircraft filter &#39;F70&#39;. <a href="https://t.co/nT020hUr1g">pic.twitter.com/nT020hUr1g</a></p>&mdash; Airport Webcams (@AirportWebcams) <a href="https://twitter.com/AirportWebcams/status/924577074488193025?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

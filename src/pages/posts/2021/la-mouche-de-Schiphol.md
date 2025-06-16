@@ -5,13 +5,15 @@ description: "C'est le nudge le plus connu du monde selon le Parisien et Europe 
 categorie: toering
 tags: ["animaux", "schiphol", "économie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: mouche-urinoir-schiphol.jpg
+image_alt: mouche dessinée au fond d'un urinoir
 permalink: la-mouche-de-Schiphol/
 date: 2021-05-18
 update: 2021-11-19
 TODO: no image, no image alt, shortened desc
 ---
+
+### Un nudge
 
 C'est le *nudge* le plus connu du monde selon [le Parisien](http://www.leparisien.fr/oise-60/des-exemples-de-nudges-qui-ont-fait-leurs-preuves-12-04-2016-5706295.php) et [Europe 1](https://www.europe1.fr/societe/nudges-ils-sont-partout-mais-a-quoi-servent-ils-3506750) qui font référence en apprentissage de l'anglais. Les *nudges* est donc le nouveau mot pour qualifier les incitations douces à faire quelque chose, invitation ludique ou compétitive utilisée en *marketing* ou en *design* urbain pour inciter les gens à adopter le comportement souhaité.
 
@@ -20,8 +22,9 @@ La remise en 2017, du prix nobel d'économie à Richard Thaler, auteur d'un livr
 La mouche de Schiphol est citée comme le *nudge* le plus connu du monde. Le dessin d'un petite mouche noire imprimée dans le fond des urinoirs de l'aéroport permettrait des économies de nettoyage des toilettes en incitant les hommes à viser quand il font pipi. Cette idée toute simple pour réduire les coûts de nettoyage. Les journaux français n’expliquent pas d'où vient cette idée ni si ça marche vraiment alors nous allons le voir ici.
 
 ![La mouche de Schiphol](mouche-urinoir-schiphol.jpg){.center}
-> Fly etched in Urinal at Amsterdam Schiphol Airport cc-by-sa [Vincent Lau](https://www.flickr.com/photos/viciousv/58631583/)
+*Fly etched in Urinal at Amsterdam Schiphol Airport cc-by-sa [Vincent Lau](https://www.flickr.com/photos/viciousv/58631583/)*
 
+<!--excerpt-->
 ### Pour se soulager (6)
 
 Faire pipi aussi est une occupation singulière pour un français aux Pays-Bas au point que cet article pourrait être le 6ème de la série « Pour se soulager » après les explications sur les [toilettes à l'allemande](/pour-se-soulager-4), les [urinoirs de rue en plastique](/pour-se-soulager-3) ou les [vespasiennes copeaux d'Amsterdam](/pour-se-soulager-2). Les néerlandais semblent continuer à vouloir se distinguer dans les sujets qu'on aborde pas dans les dîners en ville. Le pragmatisme efficace avant tout. Tous les gestionnaires d'aéroport se préoccupent de la propreté des locaux à disposition des voyageurs mais c'est seulement aux Pays-Bas on s'attarde sur comment les gens font pipi.
@@ -60,6 +63,7 @@ L'idée fut si bonne qu'elle a été reprise, laissant libre court à l'inventiv
 La mouche de Schiphol n'est pas en reste et se rencontre dans de nombreux pissoirs sur terre à commencer par l'aéroport JFK de New-York dont le terminal 4 est géré par la société… **Schiphol Group**. Le producteur de faïences **American Standard** a été le fournisseur de ces nouveaux matériels de toilettes et comme  **N.V. Koninklijke Sphinx** en son temps a essayé de promouvoir ce nouveau produits à d'autres gens qui ne prenait pas l'avion. Cela a fait des envieux au point qu'aujourd'hui une société du Colorado Revendique être [la mouche de l'urinoir](https://urinalfly.com/) (theurinalfly) avec un site qui vend des décalcomanies cible à coller dans ses urinoirs.
 
 Mais pour remonter le temps, même ce site est incapable de présenter le modèle de cible qui était dans les urinoirs de l'armée néerlandaise là où le jeune **Jos van Bedaf** effectuait son service militaire. peut-être était-ce l'œuvre d'un sergent zélé ou d'un bidasse lassé de sa corvée de chiottes.
+
 ---
 [^1]: Oui, vous avez bien lu, l'article de la BBC qui a induit le Parisien en erreur contient lui aussi une erreur. Les urinoirs à mouche n'ont pas été lancés en 1999 mais en 1991.
 <!-- post notes:

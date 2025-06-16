@@ -20,7 +20,7 @@ subfooters:
 Mark Wagenbuur a inspiré le titre de mon article en écrivant [Cycling in Amsterdam through French eyes](https://bicycledutch.wordpress.com/2019/01/23/cycling-in-amsterdam/). Le film français, il a pris soin de le sous-titrer en anglais pour ses lecteurs, avec l'aval de l'auteur Nadine Kuhn. Mais je suis heureux de le reprendre ici pour mes lecteurs qui comprennent le français.
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dmN7YR-NR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->

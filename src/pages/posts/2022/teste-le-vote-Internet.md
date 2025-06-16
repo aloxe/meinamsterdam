@@ -50,7 +50,7 @@ Je me suis quand même permis de noter mes observations pour en faire part aux �
 Pour les curieux voici le document que j'ai envoyé :
 
 <!-- HTML -->
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div class="flex flex-col items-center">
     <iframe src="/files/2022-Test-Vote-Internet.pdf" width="100%" height="800px" title = "document Test-Vote-Internet">
     </iframe>
 </div>

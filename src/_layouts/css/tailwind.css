@@ -103,8 +103,11 @@
   & h2 > a {
     @apply text-secondary no-underline visited:text-tertiary;
   }
-  & b {
+  & b, & strong {
     @apply font-[OpenSansBold];
+  }
+  & i, & em {
+    @apply font-[OpenSansItalic];
   }
   & .note {
     @apply text-justify text-note bg-note-bg border p-4 border-note border-l-8 before:content-['ⓘ_Note:_'] before:font-bold;

@@ -10,7 +10,7 @@ image_alt:
 permalink: keukenhof-ne-fermera-pas/
 date: 2020-04-28
 update: 2020-10-09
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 **Keukenhof**, Lisse, dans le nord de la Hollande Méridionale est le plus grand jardin du monde et le plus visité du pays. J'ai décidé de faire écho à ma présentation de [ce jardin en mai 2006](/les-derniers-jours-de-keukenhof) alors que j'annonçais sa fermeture imminente. Cette année le jardin ne fermera pas ses portes. Pour cause, il ne les a pas ouvertes, la faute au coronavirus qui nous contraint d'éviter les regroupements de personnes. Mais toutes les fleurs et les bulbes du jardin n'ont pas été plantées en vain, le jardin viens de proposer une visite en réalité virtuelle sur sa chaîne Youtube que je vous présente aujourd'hui.
@@ -25,6 +25,7 @@ Le Keukenhof attire les foules, chaque jour de mars à mai ce sont des milliers 
 </div>
 <!-- / HTML -->
 
+<!--excerpt-->
 ### 24 mars : Ouverture
 
 L;ouverture s'est donc faite le 24 mars avec une petite capsule musicale d'à peine une minute montrant les premiers parterre de fleurs au bord des allées désertes.
@@ -56,4 +57,3 @@ Le véritable clou de cette chaîne est arrivée aujourd'hui avec une capsule de
 <!-- / HTML -->
 
 De nombreuses personnes encore confinées ne pourront pas aller chez leur ami gamer ni acheter un casque de réalité virtuelle avec l'argent économisée sur le ticket d'entrée du jardin et les inévitables [poffertjes](/les-poffertjes) et souvenirs mais c'est là que vient la bonne nouvelle : ce film sera encore disponible quand les fleurs seront toutes fanées et c'est pour ça que je me permet de dire que **Keukenhof 2020 ne fermera jamais**.
----

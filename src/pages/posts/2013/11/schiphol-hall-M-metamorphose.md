@@ -34,7 +34,7 @@ En fait, **c'est la poste de la Haye qui a provoqué la création de Metamorphos
 ![Métamorphose 5ème partie](Metamorphose-III-5eme.jpg){.center}
 
 <!-- HTML -->
-<div class="clear"></div>
+<div class="clear-both"></div>
 <!-- / HTML -->
 
 Quand deux ans plus tard j'annonçais que les bureaux de poste allaient fermer, [à commencer par le mien](/la-fin-des-bureaux-de-poste), je ne me doutais pas que le bureau de poste central de la Haye, celui là même qui était décoré de la longue frise était déjà fermé depuis plus d'un an. Cette fermeture est complètement passée sous mon radar (et sous le votre aussi je suis certain) et ce n'est que bien plus tard que je me suis demandé ce qu'est devenu la toile de 48m de long signée MCE (M. C. Escher) qui décorait jadis ce bureau de poste.

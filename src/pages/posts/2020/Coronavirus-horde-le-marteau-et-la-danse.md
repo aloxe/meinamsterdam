@@ -5,8 +5,8 @@ description:
 categorie: dagelijks
 tags: ["politique", "économie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: impact-intervention-covid-19.png
+image_alt: Impact des interventions légales sur la propagation de la COVID19
 permalink: Coronavirus-horde-le-marteau-et-la-danse/
 date: 2020-03-22
 update: 2020-03-23
@@ -22,7 +22,9 @@ Fasse au coronavirus le gouvernement néerlandais n'a toujours pas opté pour ap
 Je ne vais pas vous faire une énième point sur cette pandémie qu'on  observe déjà depuis deux mois. Il est très contagieux et la réduction des interactions sociales est le moyen pour réduire sa progression. Non pas pour éradiquer le virus mais déjà pour permettre aux service de soin de faire face à la forte demande engendrée par la nouvelle maladie et ainsi sauver des vies. [#DATAGUEULE](https://peertube.datagueule.tv/videos/overview) l'explique mieux que moi.
 
 <!-- HTML -->
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.datagueule.tv/videos/embed/077002d4-7a80-4f0e-a46c-1b9a949cd36a" frameborder="0" allowfullscreen></iframe>
+<div class="flex flex-col items-center">
+<iframe width="560" height="315" title="video Datagueule" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.datagueule.tv/videos/embed/077002d4-7a80-4f0e-a46c-1b9a949cd36a" frameborder="0" allowfullscreen></iframe>
+</div>
 <!-- / HTML -->
 
 ## La stratégie de la horde
@@ -37,6 +39,7 @@ Thierry Wouters parle du prix à payer: le taux de mortalité du Covid-19 qu'il 
 
 Les exemples de Lombardie ou du Grand Est devraient être connues de Mark Rutte alors pourquoi cette stratégie?
 
+<!--excerpt-->
 ## La double courbe
 
 La réponse est peut-être dans une courbe publiée dans un article de The Imperial College UK ([PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)) montrant cette résurgence du nombre de cas après une levée des mesures prises pour stopper le virus. 
@@ -58,7 +61,7 @@ Une courbe similaire mais prenant mieux en compte le facteur temps a été publi
 Tomas Pueyo ne parle pas de cette étude mais il s'attarde sur la période après l'abaissement de la courbe (le marteau). Il indique que les reprises de foyers seraient bien mieux maîtrisés que lors de la première expansion de l'épidémie parce que le public serait préparé et que les pouvoir public saurait quelles mesures prendre rapidement. Il parle donc de danse de la courbe, le virus tentant plusieurs percées en vain parce que nous serions les plus forts.
 
 Comme nous en sommes encore avant le marteau, il nous reste encore à montrer que nous sommes les plus forts. Chiche ?
----
+
 <!-- post notes:
 https://commons.wikimedia.org/wiki/File:Covid-19-curves-graphic2-stopthespread-v3.gif
 --->

@@ -19,14 +19,14 @@ C'est pour lutter contre cette abstention que le site **Cette fois je vote** (*I
 
 ![Campagne: Cette fois ci je vote !](cettefoisjevote.png){.center}
 
+<!--excerpt-->
 Participer à l'élection au parlement européen est un droit garanti par les traités (depuis Maastricht) pour tout citoyen Européen où qu'il habite au sein de l'Union. Ce droit est maintenant connu mais **comment voter quand on n'habite pas dans son pays** est encore une question qui revient souvent. Voyons donc les possibilités qui sont offertes **aux français vivants aux Pays-Bas** et les démarches pour chaque option.
 
 ## Voter pour une liste française
 
 Avant 2019, il était possible pour les français résident à l'étranger d'être inscrit à la fois en France dans son ancienne commune et à l'étranger dans son consulat de rattachement. Ce n'est plus le cas et il est maintenant obligatoire de faire le choix de où voter à l'inscription. Le consulat l'a d'ailleurs rappelé dans un récent mail.
 
-![entête officielle: 31 mars 2019 :
-Dernière chance pour choisir où vous voterez !](derniere-chance-pour-voter-en-France.png){.center}
+![entête officielle: 31 mars 2019 : Dernière chance pour choisir où vous voterez !](derniere-chance-pour-voter-en-France.png){.center}
 
 Concrètement ceux qui étaient inscrits à la fois en France et dans leur consulat devront choisir. Par défaut c'est l'inscription à l'étranger  sur les listes consulaires qui est conservée. La radiation sera donc prononcée automatiquement pour les inscriptions en France.
 
@@ -55,7 +55,6 @@ Ce n'est évidement pas possible.
 
 Les français qui auront voté aux Pays-bas le mercredi ne pourront pas se présenter au bureau de vote où ils sont inscrits en France le dimanche. Les administrations de chaque pays se communiquent les données des votants étrangers et dans le bureau de vote français, le cahier d'émargement sera marqué pour vous empêcher de voter. Si cet échange n'a pas lieu `a priori`, je vous déconseille de voter, la vérification a lieu `a posteriori` et il le contrevenant s'expose à une sanction pouvant aller jusqu'à 15.000 euros d'amende.
 
-## Pour les non français ?
+## Pour les non-français ?
 
 Tous les étrangers résident (depuis plus de 5 ans) peuvent voter aux élections municipales aux Pays-Bas mais pour les élections européennes seuls les ressortissants européens peuvent voter. C'est un des acquis du traité de Maastricht. Seulement chaque pays gardant sa tradition pour l'organisation du scrutin, il est des différences qui ne sont pas abordées ici. Par exemple, les Belges et les Luxembourgeois ont le vote obligatoire et ce serait intéressant de savoir comment se passe leur participation à cette élection. Ce sera l'objet d'un troisième et dernier billet consacré à l'élection au parlement européen de 2019.
----

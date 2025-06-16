@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Faire du vélo à Amsterdam vu par des français
-description: "Mark Wagenbuur est un blogueur bien connu qui parle du vélo aux Pays-Bas en anglais. Il illustre souvent ces articles de vidéos tournées le long d'une piste "
 categorie: toering
 tags: ["Amsterdam", "blog", "film", "vélo"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt: vélo transportfiets hollandais
 permalink: Faire-du-velo-a-Amsterdam-vu-par-des-francais/
 date: 2019-01-24
 update: 2019-01-24
-TODO: shortened desc, 
 subfooters:
  - velos
 ---
@@ -27,6 +25,7 @@ Mark Wagenbuur a inspiré le titre de mon article en écrivant [Cycling in Amste
 
 Ceci n'est qu'un extrait de l'émission qui dure presque une heure au total et a été diffusé le 25 novembre sur [la chaîne voyage](https://www.unmondedaventures.fr/deux-trois-jours-en-ville-le-nouveau-city-tour-de-la-chaine-voyage/). Sur ce petit extrait, j'ai deux petites remarques parce qu'en deux, trois jours, on n'a pas le temps de cerner toute la complexité du vélo aux Pays-Bas:
 
+<!--excerpt-->
 * Les néerlandais ne détestent pas la voiture. Ils ont juste fait le choix d'éviter de s'en servir là ou ce n'est pas opportun comme en centre ville.  Il y a d'autres endroit ou la voiture est privilégiée et la dépense en infrastructure y est aussi très importante comme [les panneaux sur autoroute](/route-sous-surveillance).
 * La taxe générale sur les vélos n'a pas vraiment été abolie parce qu'elle était impopulaire et coûtait trop cher à collecter. Elle a été abolie par les allemands durant l'occupation et jamais réintroduite après. Je pense que l'occupant préférait collecter les vélos directement pour utiliser l'acier en Allemagne plutôt que de gagner quelques guilders.
 

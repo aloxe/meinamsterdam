@@ -10,7 +10,6 @@ image_alt: "Campagne: Cette fois je vote !"
 permalink: Cette-fois-je-vote/
 date: 2019-03-25
 update: 2019-11-19
-TODO: shortened desc
 ---
 
 Les élections au parlement européen ont lieu dans tout juste deux mois et comme d'habitude la participation sera plus faible que pour les autres élections. 
@@ -21,6 +20,7 @@ C'est pour lutter contre cette abstention que le site **Cette fois je vote** (*I
 
 Qui se cache derrière cette campagne et comment fait-on pour réduire l'abstention sont des questions qui me taraudent et que je vais essayer d'aborder ici. Il faudra ensuite rappeler comment voter quand on est français résident aux Pays-Bas parce que l'embarras du choix peut parfois laisser dans l'embarras.
 
+<!--excerpt-->
 ### Pourquoi tant d'abstention ?
 
 Les élections européennes sont moins médiatiques que les élections où les enjeux seulement nationaux passent plus régulièrement à la télé. L'agenda des élus locaux est plus lisible pour les journalistes du même pays et du coup, cela passe sous silence des discussions qui nous affectent tous mais qui sont peut-être jugée moins médiatiques parce que les seuls rapporteurs sont un député bulgare ou un commissaire portugais (Je schématise mais vous voyez le problème). Les gouvernements de tous les pays s’arrangent bien de ce désert médiatique européen. Ils rendent rarement des comptes aux journalistes quand ils vont à Bruxelles marchander des mesures avec leurs collègues. Ils évoquent bien plus volontiers Bruxelles quand un projet de loi nationale s'avère impopulaire arguant qu'il faut bien *se plier aux directives de Bruxelles* en procédure d'urgence si possible. On ne s'étonnera donc pas que l'Europe devienne impopulaire…
@@ -45,9 +45,10 @@ Le complotiste, lui, sera servi s'il jette un œil sur [les partenaires](https:/
 
 La nouveauté de cette campagne n'est pas dans l'iconographie mais plutôt dans l'approche. Les européens eux même,sont invités à s'approprier la campagne et à organiser des événements pour dire **cette fois ci je vote** autour d'eux.
 
-> Le Parlement a lancé ce dispositif en juin en demandant aux Européens non seulement de voter, mais également de faire passer le message et de mobiliser leur famille, leurs amis, leurs voisins, leur communauté pour qu’ils le fassent également.
+*Le Parlement a lancé ce dispositif en juin en demandant aux Européens non seulement de voter, mais également de faire passer le message et de mobiliser leur famille, leurs amis, leurs voisins, leur communauté pour qu’ils le fassent également.*
 
-Pour participer, il y a quelques règles à respecter comme la neutralité partisane mais en gros la manière de faire cette campagne est libre. Les événements sont ensuite annoncés sur le site de l'opération qui témoigne de la diversité des initiatives. [Aux Pays-Bas](https://nederland.ikstemdezekeer.eu/), vous pouvez  aller au théâtre voir une pièce sur le Brexit, au cinéma ou faire un Pub Quizz. Tout cela est annoncé sur **Ik stem dese keer**. Si vous êtes français des Pays-Bas, vous pouvez donc dire cela autour de vous. Pour savoir comment voter ce sera dans le billet suivant.
+Pour participer, il y a quelques règles à respecter comme la neutralité partisane mais en gros la manière de faire cette campagne est libre. Les événements sont ensuite annoncés sur le site de l'opération qui témoigne de la diversité des initiatives. [Aux Pays-Bas](https://nederland.ikstemdezekeer.eu/), vous pouvez  aller au théâtre voir une pièce sur le Brexit, au cinéma ou faire un Pub Quizz. Tout cela est annoncé sur **Ik stem dese keer**. Si vous êtes français des Pays-Bas, vous pouvez donc dire cela autour de vous. Pour savoir comment voter ce sera dans [le billet suivant](/Comment-les-francais-peuvent-voter-aux-Pays-Bas/).
+
 ---
 [^1]: Selon les [chiffres de 2017](https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/FE.html)
 [^2]: Selon les [chiffres de 2014](https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EP20140522)

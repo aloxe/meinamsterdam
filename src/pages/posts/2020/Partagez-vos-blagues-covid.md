@@ -5,7 +5,7 @@ description:
 categorie: nederlandjes
 tags: ["humour", "internet", "mots"]
 isMarkdown: true
-thumbnail: .universite-amsterdam-pays-bas_m.png
+thumbnail: universite-amsterdam-pays-bas.png
 image_alt: "Université d'Amsterdam, Pays-Bas"
 permalink: Partagez-vos-blagues-covid/
 date: 2020-04-01

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Plus de morts à vélo qu'en voiture en 2017"
-description: "C'est une première et c'est bien triste. 2017 a été une année noire en terme de mortalité à vélo si bien que pour l'année 2017 il y a eu pour première "
 categorie: nederlandjes
 tags: ["transports", "voiture", "vélo"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt:
 permalink: morts-a-velo-et-en-voiture/
 date: 2018-12-09
 update: 2019-01-30
-TODO: no image alt, shortened desc, image without alt
 subfooters:
  - velos
 ---
@@ -19,21 +17,23 @@ C'est une première et c'est bien triste. 2017 a été une année noire en terme
 
 La pratique du vélo de cesse d'augmenter depuis les années 70 mais comme les infrastructures de sécurité suivent, le nombre d'accidents fatals reste plutôt stable (ligne verte). Pour la voiture, les infrastructures mais aussi les mesures visant à responsabiliser les conducteurs ont aussi amené une baisse du nombre des  accidents mortels (ligne bleue). Il fallait bien que ça arrive, les courbes se sont donc croisées en 2017 aux Pays bas.
 
-![](courbe-deces-sur-route-paysbas.png){.center}
+![Courbe des décès sur route aux Pays-Bas: total baisse, passagers de voiture baisse, cyclistes baisse moins.](courbe-deces-sur-route-paysbas.png){.center}
 
 Cela ne veut pas dire que le vélo est devenu plus dangereux que la voiture ; le *Centraal Bureau voor de Statistiek* nous aide à mieux lire cette triste nouvelle et à en analyser les causes.
-
+<!--excerpt-->
 La nouvelle pourrait nous faire pense que faire du vélo aux Pays bas est dangereux mais en fait, comme le nombre de kilomètre parcourus à vélo a aussi augmenté en 2017 ce qui fait qu'il y a moins de décès par distance parcourus en 2017 qu'en 2016. Mais la pratique plus intensive du vélo n'est pas la seule explication de ce pic et les statistiques par age, catégories ou région nous aident à comprendre mieux les tendances et les pratiques qui font augmenter le nombre de morts en selle.
 
-L'étude est disponible en ligne ici|https://www.cbs.nl/nl-nl/nieuws/2018/17/in-2017-meer-verkeersdoden-op-de-fiets-dan-in-de-auto].
+L'étude est disponible [en ligne ici](https://www.cbs.nl/nl-nl/nieuws/2018/17/in-2017-meer-verkeersdoden-op-de-fiets-dan-in-de-auto).
 
 <!-- HTML -->
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AOoFtjSIFA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="flex flex-col items-center">
+<iframe width="560" height="315" title="video" src="https://www.youtube-nocookie.com/embed/AOoFtjSIFA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <!-- / HTML -->
 
 Ainsi, les provinces ayant enregistré le plus de décès de cyclistes sont le Brabant septentrional et la Gueldre. Ce sont aussi des provinces les cyclistes parcourent le plus de kilomètres par jour (derrière la Hollande septentrionale et la Hollande du sud quand même). À l'autre bout du tableau, le Flevoland et la Drente sont des provinces enregistrant peu de décès mais ce sont aussi les provinces ou les gens sont moins longtemps sur leur vélo. Au final ce sont les provinces de Zélande et de Drente et d'Overyssel qui enregistrent le plus grand nombre de cyclistes décédés par kilomètre parcouru.
 
-![](deces-cyclistes-2017-provinces.png){.center}
+![Diagramme des morts de cyclistes par km parcourus puis par provinces](deces-cyclistes-2017-provinces.png){.center}
 
 ## Plus d'hommes que de femmes
 
@@ -55,8 +55,7 @@ Le deuxième volet de cette nouvelle sur les morts à vélo et en voiture est le
 
 Les bons chiffres de l'automobile sont à modérer selon la *fietserbond*, [la puissante fédération des cyclistes](/comment-les-hollandais-sont-passes-au-velo) qui souligne dans un article en réaction que la plupart des décès de cyclistes sont dûs à des collisions avec des voitures. La *fietserbond* en profite pour plaider en faveur de la limitation de vitesse en ville à 30 km/h en zone urbanisée comme cela est le cas déjà dans de nombreuses villes.
 
- Peter van der Knaap de la fondation de recherche sur la sécurité routière SWOV (*Stichting Wetenschappelijk Onderzoek Verkeersveiligheid
-*) [signale tout de même que même](https://www.swov.nl/nieuws/stijging-aantal-verkeersdoden-629-2016) si le nombre de décès est en légère hausse, il s'explique avant tout par une mobilité en forte hausse. Logiquement, plus on parcourt de chemin, plus on a de chance d'avoir ou de rencontrer un accident. Mais globalement les Pays bas peuvent encore se féliciter d'être un des pays dont la route est l'une des plus sûrs du monde.
+ Peter van der Knaap de la fondation de recherche sur la sécurité routière SWOV (*Stichting Wetenschappelijk Onderzoek Verkeersveiligheid*) [signale tout de même que même](https://www.swov.nl/nieuws/stijging-aantal-verkeersdoden-629-2016) si le nombre de décès est en légère hausse, il s'explique avant tout par une mobilité en forte hausse. Logiquement, plus on parcourt de chemin, plus on a de chance d'avoir ou de rencontrer un accident. Mais globalement les Pays bas peuvent encore se féliciter d'être un des pays dont la route est l'une des plus sûrs du monde.
 
 
 <!-- post notes:

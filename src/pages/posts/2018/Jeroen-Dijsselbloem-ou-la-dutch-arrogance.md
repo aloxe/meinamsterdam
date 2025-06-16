@@ -22,7 +22,7 @@ Suite aux protestations, il s'était justifié ensuite en prétextant la franchi
 <!-- HTML -->
 <div class="flex flex-col items-center">
 <!-- / HTML -->
-((https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Informal_Meeting_of_EU_Finance_Ministers_%2826482508722%29.jpg/566px-Informal_Meeting_of_EU_Finance_Ministers_%2826482508722%29.jpg|Dijsselbloem qui regarde des enfants de haut|C))
+![Dijsselbloem qui regarde des enfants de haut](Informal_Meeting_of_EU_Finance_Ministers.jpg){.center}
 <!-- HTML -->
 </div>
 <!-- / HTML -->
@@ -36,14 +36,14 @@ Jeroen Dijsselbloem a déjà eu la faveur de ce blog alors que je vous présenta
 Le Néerlandais a la réputation d'être pingre mais cet attribut a une appellation positive: être économe. La tradition néerlandaise est de connaître ses limites et de ne pas effectuer de dépenses superflues jugées « décadentes ». Encore une tradition [calviniste](/catholiques-et-protestants). Même si elle n'est pas toujours très bien respectée[^2] l'attitude du ministre des finances résonne dans le cœur des gens et sa remarque sur les Grecs le place définitivement du coté de ceux qui font ce qu'il faut : le coté des bons gestionnaires qui ne gaspillent pas.
 
 ## Retour historique 
+<!--excerpt-->
+L'indélicatesse et l'avarice des Néerlandais, ( pardon, la franchise et la bonne gestion des Néerlandais) sont des qualités nationales et [un article de Saskia Pieterse](https://www.groene.nl/artikel/de-rel-rond-jeroen-dijsselbloem-en-waarom-nederlanders-zo-bot-zijn) passe en revue quelques exemples historiques très intéressants en citant **Erasme** et **Justus van Effen** ou en commentant les affiches de motivation de la chaîne de magasin [Albert Hein](/albert-hein-et-compagnie) en en soulignant leur arrogance crase. Pour résumer son article, les Hollandais sont des paysans peu éduqués qui sont devenus des marchands prospères. Ils n'ont jamais appris la bienséance et les subtilités du langage et ont dû très tôt faire attention à bien épargner leurs gains pour faire face à l'hiver. Avec leur succès dans les affaires, leur maque de tact est devenu un franc parler vertueux. D'ailleurs, *quiconque ne fait pas de vaines promesses et ne gaspille pas son argent en vains plaisirs, peut conclure des accords écrits ou oraux avec de fortes garanties, devient un partenaire commercial fiable avec une bonne réputation de solvabilité.* 
 
-L'indélicatesse et l'avarice des Néerlandais, ( pardon, la franchise et la bonne gestion des Néerlandais) sont des qualités nationales et [un article de Saskia Pieterse](https://www.groene.nl/artikel/de-rel-rond-jeroen-dijsselbloem-en-waarom-nederlanders-zo-bot-zijn) passe en revue quelques exemples historiques très intéressants en citant **Erasme** et **Justus van Effen** ou en commentant les affiches de motivation de la chaîne de magasin [Albert Hein](/albert-hein-et-compagnie) en en soulignant leur arrogance crase. Pour résumer son article, les Hollandais sont des paysans peu éduqués qui sont devenus des marchants prospères. Ils n'ont jamais appris la bienséance et les subtilités du langage et ont dû très tôt faire attention à bien épargner leurs gains pour faire face à l'hiver. Avec leur succès dans les affaires, leur maque de tact est devenu un franc parler vertueux. D'ailleurs, *quiconque ne fait pas de vaines promesses et ne gaspille pas son argent en vains plaisirs, peut conclure des accords écrits ou oraux avec de fortes garanties, devient un partenaire commercial fiable avec une bonne réputation de solvabilité.* 
-
-La franchise peut aussi être une explication de l'[absence de rideaux aux fenêtres](/venez-voir-chez-moi). ''Regardez voir, je suis honnête, je n'ai rien à cacher''.
+La franchise peut aussi être une explication de l'[absence de rideaux aux fenêtres](/venez-voir-chez-moi). « Regardez voir, je suis honnête, je n'ai rien à cacher ».
 
 L'article donne des exemples où l'enseignement de ces préceptes dans les colonies hollandaises sont une belle illustration de condescendance et d'arrogance que le peuple batave a du mal assumer.
 
-Force est de constater que cette façon de voir les choses est à l'opposée de la culture de la France, de sa tradition diplomatique et de son *bon usage*.  À propos de la France, Saskia Pieterse cite un roman de *Wolff en Dekens* (1782), où le marchand Abraham Blankaart, basé à Paris écrit que ''vous pouvez obtenir des « sacs pleins de compliments » des Français, mais pas de « l'argent ».'' 
+Force est de constater que cette façon de voir les choses est à l'opposée de la culture de la France, de sa tradition diplomatique et de son *bon usage*.  À propos de la France, **Saskia Pieterse** cite un roman de *Wolff en Dekens* (1782), où le marchand Abraham Blankaart, basé à Paris écrit que *vous pouvez obtenir des « sacs pleins de compliments » des Français, mais pas de « l'argent »*.
 
 Les français ont aussi plein d'exemples d'arrogance avec leurs colonies mais elle s'illustre plus dans la manière d'enseigner sa culture et ses règles de bonne tenue et la politesse aux autochtones.
 
@@ -63,7 +63,8 @@ Comme en conclut Saskia Pieterse, on ne sait pas si les Néerlandais sont histor
 
 ### A franchise, franchise et demi
 
-Cette histoire Dijsselbloem est ancienne l'article de Saskia Pieterse aussi mais j'avais envie depuis pas mal de temps d'en faire un post jusqu'à ce que le temps  chassant les actualités anciennes, je me décourage. Mais voilà, un Grec proche de cette histoire m'a fait rebondir.  En effet, **Yanis Varoufakis** a sorti un livre *Conversations entre amis* le 11 Octobre dernier. Il y parle des négociations pour faire tenter de faire sortir la Grèce de la Crise, avec le FMI, La BCE, La Troïka et l'Eurogroupe dont le président était … Jeroen Dijsselbloem. Dans ce livre, il parle du plan qu'il avait élaboré à l'époque et surtout de la manière dont il a été reçu par les responsables d'alors.  Il explique[^5] que Jeroen Dijsselbloem était venu le voir peu de temps après sa nomination mais qu'il évitait de parler du fond… Dans le genre franc, il y a mieux.
+Cette histoire Dijsselbloem est ancienne l'article de Saskia Pieterse aussi mais j'avais envie depuis pas mal de temps d'en faire un post jusqu'à ce que le temps  chassant les actualités anciennes, je me décourage. Mais voilà, un Grec proche de cette histoire m'a fait rebondir.  En effet, **Yanis Varoufakis** a sorti un livre *Conversations entre amis* le 11 Octobre dernier. Il y parle des négociations pour faire tenter de faire sortir la Grèce de la Crise, avec le FMI, La BCE, La Troïka et l'Eurogroupe dont le président était … Jeroen Dijsselbloem. Dans ce livre, il parle du plan qu'il avait élaboré à l'époque et surtout de la manière dont il a été reçu par les responsables d'alors. Il explique[^5] que Jeroen Dijsselbloem était venu le voir peu de temps après sa nomination mais qu'il évitait de parler du fond… Dans le genre franc, il y a mieux.
+
 ---
 [^1]: Jeroen Dijsselbloem n'est plus président de l'Eurogroupe depuis le 13 janvier 2018. Il a été remplacé par le portugais [Mário Centeno](https://fr.wikipedia.org/wiki/M%C3%A1rio_Centeno).
 [^2]: Il suffit de voir leur [dépenses superflues](/Bresil-en-orange) en [orange tous les deux ans](/decorations-oranges-choisies) pour s'en assurer. 

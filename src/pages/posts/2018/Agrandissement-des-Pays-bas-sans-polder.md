@@ -10,7 +10,6 @@ image_alt:
 permalink: Agrandissement-des-Pays-bas-sans-polder/
 date: 2018-01-02
 update: 2018-01-03
-TODO: no image, no image alt, shortened desc
 ---
 
 Les billets de début d'année sont souvent l'occasion d'annoncer des réductions comme la [réduction de libertés](/deux-nouvelles-annees) ou du [nombre de communes](/fusions-communes-se-poursuivent). Une fois n'est pas coutume, je vais vous parler d'augmentation. Les Pays bas ont grandit de 10 ha en ce 1er janvier et ce n'est pas en gagnant des m² sur la mer… En fait les nouveaux territoires néerlandais ont été gagnés sur la Belgique, sans tambours ni trompettes.
@@ -33,12 +32,13 @@ Les atlas de nos CDI ne vont pas changer pour ce point de détail mais ce blog �
 
 Bon, pour Google maps, c'est pas encore fait. L'année du © a été mise à jour automatiquement mais pour tracer la frontière qui va bien, il va falloir attendre. Bingmaps et Here ne font pas mieux.
 
-![2018-Google-maas-wrong.png](2018-Google-maas-wrong.png){.center}
+![Google: la frontière suit un cours sinueux de l'ancienne Meuse alors que la rivière est maintenant droite](2018-Google-maas-wrong.png){.center}
 
 Encore une fois, c'est OpenStreetMaps qui gagne la course à la mise à jour. Le regroupement hétéroclite de contributeurs bénévoles est encore une fois plus efficace qu'une des plus grosses boites commerciales du monde.
 
-![2018-openstreetmap-maas-a-jour.png](2018-openstreetmap-maas-a-jour.png){.center}
+![Openstreetmap: la frontière suit exactement le cours d'eau](2018-openstreetmap-maas-a-jour.png){.center}
 
 La différence entre les deux captures d´écran vous montre donc l’étendue de ce changement de frontière.
+
 ---
 [^1]: Le communiqué du gouvernement belge a l'avantage d'être aussi [disponible en français](https://diplomatie.belgium.be/fr/newsroom/nouvelles/2016/la_belgique_et_les_pays_bas_signent_protocole_accord_sur_rectification_frontiere).

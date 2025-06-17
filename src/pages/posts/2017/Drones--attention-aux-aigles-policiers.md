@@ -18,21 +18,21 @@ Comme le titrait une [dépêche AFP de saison](http://www.francetvinfo.fr/replay
 Le site drones.nl profite de l'occasion de noël pour se moquer de tous ceux qui filment [leurs accidents de débutants](https://www.drones.nl/nieuws/2014/12/drones-populair-kerst-cadeau-vele-crashes-als-gevolg). Je ne résiste pas moi même à partager ces vidéos rigolotes.
 
 <!-- HTML -->
-<div style="text-align:center; font-size:smaller;">
+<div class="flex flex-col items-center my-1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rhIMfjcwbE" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 
-Ce même site rappelle [les règles à suivre](https://www.drones.nl/videos/2014/12/drone-regels-in-jip-en-janneketaal) avant de  faire voler son nouveau drone.
+Ce même site rappelle [les règles à suivre](https://www.drones.nl/videos/2014/12/drone-regels-in-jip-en-janneketaal) avant de faire voler son nouveau drone.
 
-Les conseils sont aussi valables pour les quadroptères puisque c'est souvent ces appareils qu'on appel drones. La vidéo sur fond de musque de noël est adaptée à la saison. Elle est américaine et mentionne les règles applicables dans ce pays mais nul doute que drones.nl rappelle régulièrement les règles valables en pays batave. Chose manquante sur la vidéo, la police peut saisir un drone survolant une zone interdite. Si l'opérateur ne peut être appréhendé les auxiliaires de police volants sauront neutraliser l'engin.
+Les conseils sont aussi valables pour les quadroptères puisque c'est souvent ces appareils qu'on appelle drones. La vidéo sur fond de musique de noël est adaptée à la saison. Elle est américaine et mentionne les règles applicables dans ce pays mais nul doute que drones.nl rappelle régulièrement les règles appliquables en pays batave. Chose manquante sur la vidéo, la police peut saisir un drone survolant une zone interdite. Si l'opérateur ne peut être appréhendé les auxiliaires de police volants sauront neutraliser l'engin.
 
-### Des aigles pour capturer les drones
+## Des aigles pour capturer les drones
 
-Vous avez sûrement suivit [la presse](http://www.ouest-france.fr/insolite/pays-bas-la-police-adopte-des-aigles-pour-capturer-les-drones-4470356) [française](http://www.leparisien.fr/insolite/la-police-neerlandaise-adopte-des-aigles-pour-capturer-les-drones-12-09-2016-6114807.php) qui reprenait partout la même information comme quoi les policiers néerlandais avait commencé à entraîner des aigles pour capturer les drones menaçants ou survolants des zones illégales. Il y a même eu un reportage de 30 millions d'amis montrant comment le rapace était devenu le meilleur ami de l'homme.
+Vous avez sûrement suivit [la presse](http://www.ouest-france.fr/insolite/pays-bas-la-police-adopte-des-aigles-pour-capturer-les-drones-4470356) [française](http://www.leparisien.fr/insolite/la-police-neerlandaise-adopte-des-aigles-pour-capturer-les-drones-12-09-2016-6114807.php) qui reprenait partout la même information comme quoi les policiers néerlandais avait commencé à entraîner des aigles pour capturer les drones menaçants ou survolants des zones illégales. Il y a même eu un reportage de 30 millions d'amis montrant comment le rapace était devenu le meilleur ami de l'homme (en uniforme).
 
 <!-- HTML -->
-<div style="text-align:center; font-size:smaller;">
+<div class="flex flex-col items-center my-1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4SeUv0Q6w0" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -42,13 +42,13 @@ Seulement l'information n'est pas complètement exacte. Les aigles sont entraîn
 Le [communiqué de presse de la police](https://www.politie.nl/nieuws/2016/september/13/politie-traint-roofvogels-om-drones-te-onderscheppen.html) indique malgré tout que la police néerlandaise est déjà prête pour intercepter les quadroptères avec plusieurs aigles et policiers autoursiers entraînés par **Guard from Above**. Ces derniers seront déployés lors de visites de dignitaires ou lors d'événements sensibles.
 
 <!-- HTML -->
-<div style="text-align:center; font-size:smaller;">
+<div class="flex flex-col items-center my-1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ccx3WOovGh0" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 
 Espérons que les autoursiers de la police sont meilleurs en fauconnerie de bas vol qu'en jeu d'acteur parce que coté cinéma, ils n'ont pas vraiment convaincu…
----
+
 <!-- post notes:
 accident: fail
 <iframe class="vine-embed pinged loaded in-view" src="https://vine.co/v/MYUUzLA2aO9/embed/simple?wmode=transparent" width="600" height="600" frameborder="0"></iframe> 

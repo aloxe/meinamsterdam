@@ -1,16 +1,14 @@
 ---
 layout: base
 title: Le dernier Fokker des Pays bas
-description: "J'ai commencé ce blog il y a 10 ans pour vous parler du Fokker, un avion de conception néerlandaise qui équipait la flotte Cityhopper de la compagnie néerla"
 categorie: nederlandjes
 tags: ["schiphol", "sociétés", "transports"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Antony-Fokker-sur-F70-par-tjdarmstadt.jpg
+image_alt: F70 livrée spéciale montrant Antony Fokker
 permalink: Dernier-Fokker/
 date: 2017-11-03
 update: 2018-01-12
-TODO: no image, no image alt, shortened desc
 ---
 
 J'ai commencé ce blog il y a 10 ans pour vous [parler du Fokker](/hier-en-fokker), un avion de conception néerlandaise qui équipait la flotte **Cityhopper** de la compagnie néerlandaise **KLM**. Il y a quelques années je vous ai parlé des nouveaux **Embraer** que cette même compagnie achetait pour remplacer les vieux Fokker. Déjà les **Fokker 100** et les **Fokker 50** ont [été remplacés](/pas-hier-pas-en-fokker) Il ne reste plus que des **Fokker 70** qui vont eux aussi être décommissionnés. Quand le dernier Fokker 70 aura quitté le tarmac de Schiphol, ce sera fini de cette longue relation de 97 ans entre la compagnie KLM et l'avionneur local. Cela valait bien un dernier baroud d'honneur:
@@ -18,7 +16,7 @@ J'ai commencé ce blog il y a 10 ans pour vous [parler du Fokker](/hier-en-fokke
 <!-- HTML -->
 <div style="text-align:center; margin: auto; font-size:small;">
 <!-- / HTML -->
-![Antony-Fokker-sur-F70-par-tjdarmstadt.jpg](.Antony-Fokker-sur-F70-par-tjdarmstadt_m.jpg){.center}
+![Fokker F70 avec livrée spéciale montrant Antony Fokker](Antony-Fokker-sur-F70-par-tjdarmstadt.jpg){.center}
 Fokker 70 avec une livrée représentant Antonny Fokker par tjdarmstadt
 <!-- HTML -->
 </div>
@@ -27,7 +25,7 @@ Fokker 70 avec une livrée représentant Antonny Fokker par tjdarmstadt
 Le 7 juin dernier KLM [a révélé](http://news.klm.com/portrait-of-anthony-fokker-to-adorn-fokker-70-tail/) la dernière livrée de son Fokker 70 immatriculé **PH-KZU** à l'effigie d'**Anthony Fokker**, l'homme à l'origine de ce constructeur aéronautique. Cette livrée, qualifiée de livrée d'adieu est complété du logo Fokker comme une signature et d'un discret **Thank you** sur les flancs de l'appareil. L'avion restera en service avec ces couleurs moins de six mois. Les derniers vols ayant eu lieu le 28 octobre 2017.
 
 La liste des derniers vols KLM en Fokker a été annoncée par la compagnie suffisamment en avance pour que les fans (et [les spotters](/vliegtuigspotters)) puissent en être:
-
+<!--excerpt-->
 - DUS – Düsseldorf KL1862 arrival Amsterdam 19.05 hrs
 
 - NWI- Norwich KL1512 arrival Amsterdam 19.15 hrs
@@ -41,7 +39,11 @@ La liste des derniers vols KLM en Fokker a été annoncée par la compagnie suff
 - LHR – London KL1070 arrival Amsterdam 20.30 hrs
 
 
-Le tout dernier vol a donc été un vol en provenance de Londres à destination d'Amsterdam. Ce choix n'est pas dû au hasard, la compagnie a rappelé que le premier vol KLM à bord d'un avion Fokker a eu lieu le 15 septembre 1920 à destination de Londres. Le **KL1070** du 28 octobre a donc été le dernier d'une longue série. Les adieux ont donc été fêté en grande pompe avec les six avions, [leurs personnel de bord](https://blog.klm.com/our-fokkers-a-fleet-full-of-memories/) et les *community managers* qui ont pu tweeter les bons moments jusqu'aux aventures dans le cockpit du dernier vol.
+Le tout dernier vol a donc été un vol en provenance de Londres à destination d'Amsterdam. Ce choix n'est pas dû au hasard, la compagnie a rappelé que le premier vol KLM à bord d'un avion Fokker a eu lieu le 15 septembre 1920 à destination de Londres. 
+
+Le **KL1070** du 28 octobre 2017 a donc été le dernier d'une longue liste de vols en Fokker. 
+
+Les adieux ont été fêtés en grande pompe avec les six avions, [leurs personnel de bord](https://blog.klm.com/our-fokkers-a-fleet-full-of-memories/) et les *community managers* qui ont pu tweeter les bons moments jusqu'aux aventures dans le cockpit du dernier vol.
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
@@ -108,6 +110,7 @@ Plus de Fokker au départ de Schiphol ? Bien en fait…
 <!-- / HTML -->
 
 Oui car c'est sur le bord d'une piste de Norwich en Angleterre que trois des F70 restant, dont le PH-KZU[^1] à effigie d'Anthony Fokker vont aller prendre un repos bien mérité.
+
 ---
 [^1]: Pour les plane spotters, vous trouverez là bas le PH-KZU avec la livrée d'adieu et les PH-KZS et PH-KZB en livrée plus classique.
 <!-- post notes:

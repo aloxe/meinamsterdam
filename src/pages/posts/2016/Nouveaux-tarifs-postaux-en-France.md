@@ -1,25 +1,26 @@
 ---
 layout: base
 title: Nouveaux tarifs postaux en France
-description: Vous avez peut-être remarqué les publicités de la poste pour ses nouveaux tarifs postaux, en vigueur depuis le premier janvier 2016 (bonne année). Ces publi
 categorie: ik-ben-frans
 tags: ["timbres"]
 isMarkdown: true
 thumbnail: timpres-poste-marianne.png
-image_alt: timpres-poste-marianne.png
+image_alt: timpres poste marianne de 2016
 permalink: Nouveaux-tarifs-postaux-en-France/
 date: 2016-01-14
 update: 2016-09-13
-TODO: shortened desc
+subfooters:
+ - timbres
 ---
 
 Vous avez peut-être remarqué les publicités de la poste pour ses nouveaux tarifs postaux, en vigueur depuis le premier janvier 2016 (bonne année). Ces publicités insistent sur le coté pratique de l’affranchissement avec le timbre pour unité de compte. 20g = 1 timbre, 20 à 100g = 2 timbres etc. Le coté pratique est incontestable, un carnet de timbres permet de réaliser tous ses affranchissements au centime prêt.
 
 ![timpres-poste-marianne.png](timpres-poste-marianne.png){.center}  
   
-**Cette bonne idée est en usage aux Pays bas depuis au moins 2006** année de l'ouverture de mon blog (10 ans déjà) et [je vous l'expliquais](/les-tarifs-postaux) en concluant par un : « ''Il y a quand même un coté pratique qu'on ne saurait retirer à TPG Post. Une idée à exporter'' ». Depuis, la poste a [changé de nom](/le-nouveau-nom-de-la-poste-aux-pays-bas) deux fois mais l'idée est restée.
+**Cette bonne idée est en usage aux Pays bas depuis au moins 2006** année de l'ouverture de mon blog (10 ans déjà) et [je vous l'expliquais](/les-tarifs-postaux) en concluant par un : « ''Il y a quand même un coté pratique qu'on ne saurait retirer à TPG Post. Une idée à exporter'' ». Depuis, la poste a [changé de nom](/le-nouveau-nom-de-la-poste-aux-pays-bas) deux fois mais la bonne idée est restée.
 
 ## Les différences 
+<!--excerpt-->
 
 Actuellement sur le site de la poste française, les tarifs sont présentés avec de jolis dessins de timbres colorés pour chaque tranche de poids. Ce n'est pas plus lisible mais ça fait joli. On remarque qu'il y a trois colonnes parce que le tarif éco et le tarif vert (la même chose avec un emballage écolo) subsiste en France alors que la poste néerlandaise [a supprimé le courrier deuxième classe en 2010](/les-timbres-de-decembre-2010).
 
@@ -255,14 +256,3 @@ Avec ces deux tableaux simples, on se dit qu'il est possible de comparer les pri
 <!-- / HTML -->
 
 Les Pays bas restent plus cher que la France pour affranchir son courrier mais sur les envois les plus lourds (entre 500g et 2kg), le nombre de timbres à coller en France rend les envois si cher que **Postnl** arrive à faire mieux pour l'international et même pour l'Europe. Sans surprise il est moins cher de poster dans le pays d'affranchissement, les tarifs français sont les mieux pour la France et les tarifs hollandais sont les mieux pour les Pays bas… sauf… Sauf, à cause des tranches différentes entre les deux pays, sauf pour les plis de 50 à 100g où l'envoi depuis la France coûte **19 centimes de moins** que depuis le même pays. Vive les [effets de seuil](/impot-sur-le-revenu-effet-de-seuil).
-
-## Voir aussi
-* [Timbres de décembre en 2006](/augmentation-du-prix-du-timbre)
-* [Timbres de décembre en 2007](/timbres-en-promo)
-* [Timbres de décembre en 2008](/les-timbres-de-saison)
-* désolé, je n'ai pas ceux de  2009
-*  [Timbres de décembre en 2010](/les-timbres-de-decembre-2010)
-* désolé, je n'ai pas ceux de 2011
-*  [Timbres de décembre en 2012](/Les-timbres-de-decembre-ont-25-ans)
-* [Timbres de décembre de 2015](/Tricolore-sur-les-timbres-de-decembre)
----

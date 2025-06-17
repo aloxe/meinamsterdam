@@ -1,22 +1,23 @@
 ---
 layout: base
 title: "Reférendum: Les Pays bas sont encore contre"
-description: "Etes-vous pour ou contre la ratification de l'accord d'association entre l'Union européenne et l'Ukraine ? C'est la question qui était posé hier à l'ensemb"
 categorie: nederlandjes
 tags: ["Europe", "politique"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: NOS-referendum-Screenshot-7.4.2016-08_53_37.png
+image_alt: résultat du réferendum avec carte
 permalink: Referendum-Pays-bas-sont-encore-contre/
 date: 2016-04-07
 update: 2016-04-07
-TODO: no image, no image alt, shortened desc
 ---
 
-**Etes-vous pour ou contre la ratification de l'accord d'association entre l'Union européenne et l'Ukraine ?** C'est la question qui était posé hier à l'ensemble des néerlandais par voie référendaire. (*Bent u voor of tegen de wet tot goedkeuring van de Associatieovereenkomst tussen de Europese Unie en Oekraïne?*). 
+> Bent u voor of tegen de wet tot goedkeuring van de Associatieovereenkomst tussen de Europese Unie en Oekraïne?
+
+ C'est la question qui était posé hier à l'ensemble des néerlandais par voie référendaire. (**Etes-vous pour ou contre la ratification de l'accord d'association entre l'Union européenne et l'Ukraine ?**). 
 
 Ça peut parraitre assez futile comme question, pas de grand choix de société ou constitutionnel mais c'est tout ce que les partis anti-européens ont trouvés pour gripper la mecanique européenne des Pays bas. Et ça marche. Le quorum de plus de 30% a été atteind et le **contre** (*Tegen*) est sorti majoritaire de manière écrasante.
 
+<!--excerpt-->
 ### La loi sur le référendum consultatif
 
 Cette loi, *Wet raadgevend referendum* a été promulguée en 2015 et **permet d'associer le peuple aux décisions législatives**. Selon cette loi, il est désormait possible aux Pays bas de contester par référendum une loi qui a été promulguée. Il faut pour cela réunir deux fois un minimum de signatures réclamant la tenue de ce référendum. La première demande doit rassembler un minimum de 10.000 signatures en 4 semaines et la seconde 300.000 signatures en 6 semaines.
@@ -78,10 +79,11 @@ Il reste à savoir ce que la Commission -Il-n'y-a-pas-de-plan-B- va faire de ce 
 
 ### Et après
 
-> *We gaan dit heel zorgvuldig bespreken. Daar gaan dagen zo niet weken overheen*
-Premier Mark Rutte 
+> We gaan dit heel zorgvuldig bespreken. Daar gaan dagen zo niet weken overheen
+*Premier Mark Rutte*
 
 Le Premier ministre Mark Rutte a déjà annoncé qu'il allait travailler à une alternative, lui qui est aujourd'hui à la tête du gouvernement qui a la présidence tournante de l'Union. L'idée serait de renégocier une partie de l'accord afin de tenir compte du message des électeurs mais de faire en sorte que les autres partenaires européens puisse avancer sur le dossier. L'accord a un volet économique et un volet politique. Le premier volet n'ayant jamais fait trop de vagues, il est fort probable que ce soit le volet politique qui sera discuté dans les cabinets dans les jours, voire les semaines qui viennent.
+
 ---
 [^1]: J'aime les zeugmas
 [^2]: À peu de choses près, je ne connais pas du tout la commune de Lochen ni l'île de Vlieland où le oui l'a emporté aussi

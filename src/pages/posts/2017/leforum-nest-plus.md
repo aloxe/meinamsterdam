@@ -1,16 +1,14 @@
 ---
 layout: base
 title: "Le forum n'est plus"
-description: "    Je vous ai présenté le forum des Hollandais dès mon arrivée à Amsterdam en 2006 et je n'ai cessé de le citer depuis. Le pot organisé à l'époque et "
 categorie: ik-ben-frans
-tags: []
+tags: ["internet"]
 isMarkdown: true
 thumbnail: forum-des-hollandais.png
-image_alt: forum-des-hollandais.png
+image_alt: forum des hollandais
 permalink: leforum-nest-plus/
 date: 2017-10-18
 update: 2017-11-03
-TODO: shortened desc
 ---
 
 ![forum-des-hollandais.png](forum-des-hollandais.png){.center}
@@ -30,12 +28,12 @@ Comme Zygo et Zungo et sa bande ne sont pas du genre à se tourner les pouces. L
 Il reste que cet outil en ligne formidable a marqué des centaines de vies de francophones installés au Pays bas et en a changé définitivement comme en témoigne framboise:
 
 <!-- HTML -->
-<div style="text-align:center; margin: auto;">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchristina.polidori.94%2Fposts%2F10155895657698413&width=500" width="500" height="386" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" style="margin: 0, auto;"></iframe>
+<div class="flex flex-col items-center my-1">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchristina.polidori.94%2Fposts%2F10155895657698413&width=500" width="500" height="386" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" style="margin: 0, auto;" title="post-facebook"></iframe>
 </div>
 <!-- / HTML -->
 
 Déjà chacun relate ses souvenirs avec le forum grâce auquel certain ont trouvé un boulot, un appart ou l'âme sœur. Mon dernier souvenir est je crois [la sortie tulipe](/la-sortie-tulipes-2011) à laquelle j'ai participé plusieurs années de suite et qui m'a valut de prêter ma voix à [un film promouvant un véhicule antique](/la-chanson-mobile-extraordinaire). Il y a aussi les pots et les match de rugby au *Mulligans* et au ''Coco's outback'' que je ne peux pas oublier.
 
-Le forum était aussi une association qui, se joignant avec les autres assos françaises des Pays bas, organisent tous les ans [le 14 juillet](/la-revolution-du-14-juillet) festif [que l'ambassade a lâché](/juillet-sans) en 2008. Je pense que cette activité hors ligne perdurera. Et puis il reste toujours je groupe facebook.
----
+Le forum était aussi une association qui, se joignant avec les autres assos françaises des Pays bas, organisent tous les ans [le 14 juillet](/la-revolution-du-14-juillet) festif [que l'ambassade a lâché](/juillet-sans) en 2008. Je pense que cette activité hors ligne perdurera. Et puis il reste toujours je groupe facebook. L'entraide ne s'arrête jamais.
+

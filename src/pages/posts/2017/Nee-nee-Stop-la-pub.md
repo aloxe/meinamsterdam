@@ -41,11 +41,12 @@ Les mesures sont faites régulièrement par la DDMA (Dutch Dialogue Marketing As
 
 Vous qui lisez ce blog, ne serait-il pas temps de demander votre autocollant ?
 
-[![deux boites, deux stickers…](.deux-boites-lettre_m.jpg){.center}|/public/images/photos/2014/deux-boites-lettre.jpg||deux-boites-lettre.jpg]
+![deux boites, deux stickers…](deux-boites-lettre.jpg){.center}
 
-### Nouvel autocollant sop pub
+### Nouvel autocollant stop pub
 
 lire aussi: [Ja Ja, stop la pub](/ja-ja-stop-la-pub) ,une encore meilleure initiative
+
 ---
 [^1]: Et pour illustrer [des articles sur les traditions locales](/qui-est-tu-zwarte-piet).
 [^2]: Et qu'ils viennent passer leurs vacances en France avec le coffre plein de pommes-de-terre.

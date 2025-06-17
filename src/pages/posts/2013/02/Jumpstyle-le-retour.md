@@ -23,7 +23,7 @@ Après avoir lancé ses tubes, DJ Patrick a été repris et copié à outrance, 
 Ce dernier clip de **DJ Patrick** reprend le concept de ses fans en se mettant en scène, faisant une démonstration de jumpen. Ce nouveau titre, **The Sound of Amsterdam** est un peu un pied de nez à la capitale néerlandaise. Ce son est orriginaire de Rotterdam et il n'a que très peu pris à **Amsterdam** tant les habitants de la capitale aiment toiser les beaufs de la grande ville du sud, **Rotterdam**. C'est peut-être aussi parce que la renommée de DJ Patrick n'est plus à faire qu'il se lance maintenant à l'assaut de la capitale...
 
 <!-- HTML -->
-<div class="central">
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X8BQWQTV_xQ" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->

@@ -27,30 +27,30 @@ L'accord d'association entre l'Union européenne et l'Ukraine, signé entre les 
 Geenstijl et divers groupes eurosceptiques ont fait campagne pour la collecte des signatures et le nombre de signatures nécessaires a été atteind et même dépassé.
 
 <!-- HTML -->
-<center>
-<table class="wikitable" style="text-align:right">
+<div class="flex flex-col items-center">
+<table class="table-auto md:table-fixed">
 <tbody>
 <tr>
-<th>Étape</th>
-<th>Requises</th>
-<th>Reçues</th>
-<th>Validées</th>
+<th class="border border-gray-200 bg-gray-50 p-4 py-3 pl-8 text-left font-medium text-gray-400 dark:border-gray-600 dark:bg-gray-700 dark:text-gray-200">Étape</th>
+<th class="border border-gray-200 bg-gray-50 p-4 py-3 pl-8 text-left font-medium text-gray-400 dark:border-gray-600 dark:bg-gray-700 dark:text-gray-200">Requises</th>
+<th class="border border-gray-200 bg-gray-50 p-4 py-3 pl-8 text-left font-medium text-gray-400 dark:border-gray-600 dark:bg-gray-700 dark:text-gray-200">Reçues</th>
+<th class="border border-gray-200 bg-gray-50 p-4 py-3 pl-8 text-left font-medium text-gray-400 dark:border-gray-600 dark:bg-gray-700 dark:text-gray-200">Validées</th>
 </tr>
 <tr>
-<td align="left">Signatures préliminaires</td>
-<td>10 000</td>
-<td>14 441</td>
-<td>13 480</td>
+<td class="border border-gray-200 text-left p-4">Signatures préliminaires</td>
+<td class="border border-gray-200 text-right p-4">10 000</td>
+<td class="border border-gray-200 text-right p-4">14 441</td>
+<td class="border border-gray-200 text-right p-4">13 480</td>
 </tr>
 <tr>
-<td align="left">Signatures définitives</td>
-<td>300 000</td>
-<td>472 849</td>
-<td>427 939</td>
+<td class="border border-gray-200 text-left p-4">Signatures définitives</td>
+<td class="border border-gray-200 text-right p-4">300 000</td>
+<td class="border border-gray-200 text-right p-4">472 849</td>
+<td class="border border-gray-200 text-right p-4">427 939</td>
 </tr>
 </tbody>
 </table>
-</center>
+</div>
 <!-- / HTML -->
 
 Ya pas photo. Le 14 octobre 2015, le Conseil électoral, après avoir vérifié la validité des signatures, a annoncé que les deux étapes avaient bien été remplies. **Le référendum a donc été organisé pour le 6 avril 2016** et 25 millions d'euros[^1]. En attendant, la loi promulguée a été suspendue mais s'agissant le l'approbation d'un accord, cela ne s'oppose pas à ce que les dispositions prévues par cet accord soient mises en place.

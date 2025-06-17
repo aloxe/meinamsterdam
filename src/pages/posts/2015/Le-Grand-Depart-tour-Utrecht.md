@@ -20,6 +20,8 @@ Comme [nous l'a promis notre ambassadeur](/Un-ambassadeur-qui-tombe-a-point-nomm
 
 ![grand-depart-utrecht2015.jpg](grand-depart-utrecht2015.jpg){.center}
 
+<!--excerpt-->
+
 Depuis le début de la semaine, la ville entière s'est parée de jaune (*Geel*) car le tour s'y est installé. Les équipes sont déjà là et ont été présentée officiellement à la presse le 2 juillet. L'habituel contre la montre du prologue aura lieu le 4, veille du grand départ le dimanche 5. Entre temps c'est la fête dans la ville avec de nombreuses activités autour du vélo. Le village de l'Avant Tour a élu ses quartiers dans la plus grande halle d'expo du pays, la Jaarbeurs[^2].
 
 Parmi les manifestation en marge du tour, on peut noter une opération (pièces) jaunes (la couleur du maillot jaune) [portée par la fondation Vrienden WKS](https://wijkleurengeel.mijnjeugdsportfondsactie.nl/). Des jeunes réaliseront des exploits sportifs pour collecter des fonds qui iront aider à aménager des espaces pour les enfants dans les hopitaux.
@@ -30,14 +32,13 @@ Cette année Utrecht, qui veut devenir la capitale européenne du vélo profite 
 
 ![kruiwagen de Gerrit Rietveld](kruiwagen_1923-Gerrit-Rietveld.gif){.center}
 
-Enfin, la chanson du tour «Bon voyage» est écrite et interprétée par **Blaudzun**, un Utrechtois barbu et le clip a été réalisé par les Utrechtois **Job, Joris & Marieke**. Oui, vous avez bien lu, ce sont eux qui ont gagné le prix du public au [festival des très court cette année](http://trescourt.com/fr/prix-du-public) avec un autre très court « *A single life* ». Voilà comment je termine ce billet sur le tour de France en rappelant les deux précédant billets dans une sorte d'épanadiplose vélocipèdique. [Bon voyage en Asie/Mes-vacances-en-Asie|] et le [Festival très court](/Le-retour-du-festival-Tres-Court) en un seul clip:
+Enfin, la chanson du tour «Bon voyage» est écrite et interprétée par **Blaudzun**, un Utrechtois barbu et le clip a été réalisé par les Utrechtois **Job, Joris & Marieke**. Oui, vous avez bien lu, ce sont eux qui ont gagné le prix du public au [festival des très court cette année](http://trescourt.com/fr/prix-du-public) avec un autre très court « *A single life* ». Voilà comment je termine ce billet sur le tour de France en rappelant les deux précédant billets dans une sorte d'épanadiplose vélocipèdique. [Bon voyage en Asie](/Mes-vacances-en-Asie) et le [Festival très court](/Le-retour-du-festival-Tres-Court) en un seul clip (aujourd'hui hors ligne)
 
-<!-- HTML -->
-<div class="central">
+<!-- HTML Gone
+<div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/llpcWJ2XeAs" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
-
 
 ---
 [^1]: Utrecht est la quatrième ville la plus peuplée des Pays-Bas après Amsterdam, Rotterdam et la Haye qui ont déjà accueilli le Grand Départ. Pour Rotterdam, c'était [en 2010 et j'en avait parlé](/le-grand-depart-2010)

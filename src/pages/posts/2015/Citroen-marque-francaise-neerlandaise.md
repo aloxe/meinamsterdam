@@ -10,7 +10,6 @@ image_alt: Citroen
 permalink: Citroen-marque-francaise-neerlandaise/
 date: 2015-07-23
 update: 2015-07-23
-TODO: no image, no image alt, shortened desc
 ---
 
 Tout le monde connait la marque de voiture **Citroën**, créatrice de plusieurs **légendes de l'automobile** comme [la deuche](/bon-anniversaire-la-2cv) ou [la traction avant](https://fr.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant). 
@@ -18,6 +17,8 @@ Tout le monde connait la marque de voiture **Citroën**, créatrice de plusieurs
 ![citroen_logo.png](citroen_logo.png){.center}
 
 Cette marque, fleuron de l'industrie automobile française est aussi une marque aux accents néerlandais. Ceci pour plusieurs raisons :
+
+<!--excerpt-->
 
 ### Quand André Citroen devient André Citroën
 
@@ -57,6 +58,7 @@ C'est ainsi que [ma première voiture](/bon-anniversaire-la-2cv) est devenue, el
 Au Pays-Bas comme ailleurs Citroën est devenu un constructeur généraliste qui ne se démarque plus vraiment des autres. La marque aux chevrons bénéficie toujours d'une bonne image dans le pays d'origine de son inventeur mais rien de comarable à ce qui a existé avec des modèles de légende qui ont été produit sur plusieurs décénies. Aujourd'hui, un modèle chasse l'autre et il est difficile pour un constructeur de prendre le risque de révolutionner l'automobile. L'auto est devenu un objet utilitaire et de plus en plus d'usagers optent pour l'[autopartage](/Voiture-electrique-Amsterdam-en-avance). 
 
 Mais quand je dois à nouveau acheter une nouvelle voiture c'est quand même vers la marque de ma première auto, la marque française la plus néerlandaise [que je me suis tourné](/acheter-une-voiture-aux-pays-bas).
+
 ---
 [^1]: Les [mots sont voyageurs](/les-mots-migrateurs), je l'ai souvent dit.
 [^2]: Bien que **Milan Van lange** s'est mis en tête de référencer toutes les DS du pays [sur son site](http://iddsregister.wordpress.com/). Il en dénombre 7000.

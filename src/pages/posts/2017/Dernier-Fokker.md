@@ -13,14 +13,10 @@ update: 2018-01-12
 
 J'ai commencé ce blog il y a 10 ans pour vous [parler du Fokker](/hier-en-fokker), un avion de conception néerlandaise qui équipait la flotte **Cityhopper** de la compagnie néerlandaise **KLM**. Il y a quelques années je vous ai parlé des nouveaux **Embraer** que cette même compagnie achetait pour remplacer les vieux Fokker. Déjà les **Fokker 100** et les **Fokker 50** ont [été remplacés](/pas-hier-pas-en-fokker) Il ne reste plus que des **Fokker 70** qui vont eux aussi être décommissionnés. Quand le dernier Fokker 70 aura quitté le tarmac de Schiphol, ce sera fini de cette longue relation de 97 ans entre la compagnie KLM et l'avionneur local. Cela valait bien un dernier baroud d'honneur:
 
-<!-- HTML -->
-<div style="text-align:center; margin: auto; font-size:small;">
-<!-- / HTML -->
+
 ![Fokker F70 avec livrée spéciale montrant Antony Fokker](Antony-Fokker-sur-F70-par-tjdarmstadt.jpg){.center}
-Fokker 70 avec une livrée représentant Antonny Fokker par tjdarmstadt
-<!-- HTML -->
-</div>
-<!-- / HTML -->
+*Fokker 70 avec une livrée représentant Antonny Fokker par tjdarmstadt*
+
 
 Le 7 juin dernier KLM [a révélé](http://news.klm.com/portrait-of-anthony-fokker-to-adorn-fokker-70-tail/) la dernière livrée de son Fokker 70 immatriculé **PH-KZU** à l'effigie d'**Anthony Fokker**, l'homme à l'origine de ce constructeur aéronautique. Cette livrée, qualifiée de livrée d'adieu est complété du logo Fokker comme une signature et d'un discret **Thank you** sur les flancs de l'appareil. L'avion restera en service avec ces couleurs moins de six mois. Les derniers vols ayant eu lieu le 28 octobre 2017.
 

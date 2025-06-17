@@ -19,21 +19,35 @@ TODO: no image, no image alt, shortened desc
 C'est comme ça que commence ma présentation sur le site de Thalys ([mon train préféré](/?q=Thalys) entre Paris et Amsterdam), où pendant deux ans (2011 et 2012) j'ai invité les lecteurs à partager mes meilleurs spots d'Amsterdam. L'exercice avait des figures imposées comme les thèmes, le ton et le format. Les sujets étaient soigneusement contrôlés avant publication mais c'était une activité intéressante qui a peut-être fait chuter le nombre d'articles sur ce blog.
 
 Alors pour me rattraper, et comme je me l'étais promis il y a si longtemps, je vais vous les proposer à la lecture ici même. Cette série s'appelle **bienvenue à Amsterdam** parce que nous étions présentés par le site comme les *welcomers* des voyageurs en train. Pour commencer, je vous propose les bonnes adresses pour manger.
+<div class="flex flex-col items-center">
 
 ### Les restaurants
 
+</div>
+
+<!--excerpt-->
+
 ## Proef
-<!-- ![https://www.thalys.com/img/1399974853/destination/welcommers/1310542834_thumb.jpg]() TODO: external image alt -->{.left} -->
-**un pic-nic à la campagne**  
+<!-- ![https://www.thalys.com/img/1399974853/destination/welcommers/1310542834_thumb.jpg]() TODO: external image alt -->
 Proef se veut un nouveau concept de restaurant qui vous invite à essayer, c’est d’ailleurs la signification de «*proef*». Mais j'ai adopté ce resto avant même la première bouchée.
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/proef" rel="nofollow">Lire la suite...</a>
 </p>
+-->
 
-<div style="clear:both;"></div>
-<!-- / HTML -->
+#### Comme un pic-nic à la campagne
+
+Situé au milieu de Westerpark, Proef est petit local bordé d'un jardin qui se transforme en terrasse les jours de beau temps. L'intérieur fait penser à un loft : murs bruts de décoffrage, meubles rustiques savamment design et tables bien espacées. 
+J'ai tout de suite été attiré par la cuisine, spacieuse et ouverte sur la salle, ici c'est la cuisine qui compte et ça me plait. Il y a peu de choix mais la carte change tous les jours ce qui garantit des plats frais et de saison.
+
+#### Sa succulente planche de légumes
+
+La spécialité reste la planche de légumes proposée en accompagnement quel que soit le plat. Les néerlandais ont souvent l'habitude de parler de l'accompagnement pour raconter ce qu'ils ont mangé la veille. Avec Proef, ils ont de quoi raconter. La planche est riche en saveurs et en couleurs, mélanges originaux et légumes rares donnent l'eau à la bouche. Le reste est tout bonnement délectable.
+
+On sent bien qu'ici les produits ne viennent pas de la supérette du coin. Parfois le personnel explique l'origine des produits comme s'il connaissait le producteur. Beaucoup de produits sont bios, ce que je déconseille pour le vin*. Pourquoi ne pas essayer leurs jus de fruit en apéritif, c'est une succulente entrée en matière, d'ailleurs certains ne s'y trompent pas et viennent ici juste pour boire un coup. Une bonne excuse pour revenir.
+
 
 ## Tempo Doeloe
 <!-- ![https://www.thalys.com/img/1399974782/destination/welcommers/1328810906_thumb.jpg]() TODO: Add image alt {.left} -->
@@ -41,7 +55,7 @@ Proef se veut un nouveau concept de restaurant qui vous invite à essayer, c’e
 En tant qu'ancienne colonie néerlandaise, les indonésiens ont une place de choix dans la société néerlandaise. Leur cuisine fait aujourd'hui partie de la culture locale et beaucoup de plats comme le « *kip saté* », ou poulet aux cacahuètes ou le « *nasi goreng* » (riz frit) sont aujourd'hui des classiques bataves. 
 
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="Tempo Doeloe" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/tempo-doeloe" rel="nofollow">Lire la suite...</a>
 </p>
@@ -54,7 +68,7 @@ En tant qu'ancienne colonie néerlandaise, les indonésiens ont une place de cho
 ** les vrais petits dejs du Pijp**  
 Rien de tel quand on est dans un pays étranger que d’aller prendre son petit déj à l’extérieur pour s'imprégner de l’ambiance d’une ville.
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/bakers-and-roasters" rel="nofollow">Lire la suite...</a>
 </p>
@@ -67,7 +81,7 @@ Rien de tel quand on est dans un pays étranger que d’aller prendre son petit 
 **Comme à la maison**  
 Pendant longtemps j'ai pensé qu'il n'y avait pas, à Amsterdam, de petits restaurants simples et succulents. Le genre de resto où le patron est toujours là, derrière les fourneaux, ou en salle à partager ses dernières trouvailles culinaires avec les clients.
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/madelief" rel="nofollow">Lire la suite...</a>
 </p>
@@ -82,12 +96,11 @@ Pendant longtemps j'ai pensé qu'il n'y avait pas, à Amsterdam, de petits resta
 Ce café restaurant porte le nom de ce qu'il a de mieux à vendre : la lumière du nord. Situé sur la rive nord de l'IJ, sa terrasse herbacée fait face au sud et à la ville. Un endroit tranquille pour siroter un verre au soleil, sur le gazon.
 
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/noorderlicht" rel="nofollow">Lire la suite...</a>
 </p>
 
-<div style="clear:both;"></div>
 <!-- / HTML -->
 
 ## REM Eiland
@@ -95,7 +108,7 @@ Ce café restaurant porte le nom de ce qu'il a de mieux à vendre : la lumière 
 **Déjeuner sur l'eau**  
 Ce nouveau restaurant intrigue par son emplacement hors du commun. En effet, il est situé en plein milieu de l'eau, sur une structure qui ressemble à ces plateformes de forage en mer du Nord.
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/rem-eiland" rel="nofollow">Lire la suite...</a>
 </p>
@@ -108,7 +121,7 @@ Ce nouveau restaurant intrigue par son emplacement hors du commun. En effet, il 
 **Graine d'étoile**  
 Ce restaurant a ouvert dans mon quartier l'année dernière et je regrette de ne pas l'avoir connu plus tôt. La façade ne paye pas de mine mais il faut oser entrer chez Jasper pour découvrir son monde, un monde qui excite les papilles dès que l'on pousse la porte.
 
-<!-- HTML -->
+<!-- HTML Gone
 <p class="read-it">
 <a title="" href="https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/alix/food/restaurant-jaspers" rel="nofollow">Lire la suite...</a>
 </p>
@@ -120,7 +133,9 @@ En bonus je vous propose aussi deux restaurant que j'aurais aimé couvrir mais m
 
 * [De kas](https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/romain/food/de-kas), bio jusqu'au bout.
 * [Moeders](https://www.thalys.com/fr/fr/destinations/welcomers/amsterdam/laurence/food/moeders), la cuisine hollandaise de chez maman.
----
+
+*Comme le Thalys a été remplacé par l'Eurostar, les bon plans de l'époque ont disparu avec le site Thalys. Certains lieux existent toujours. Je pense que je peux encore les recommander.*
+
 <!-- post notes:
 [((https://www.thalys.com/img/1399974854/destination/welcommers/1310541713_thumb.jpg|La brasserie Brouwerij 'tIJ|L))|] !!La brasserie près du moulin 
 http://www.thalys.com/nl/en/destinations/welcommers/Amsterdam/Alix/all/HESTER-VAN-EEGHEN 

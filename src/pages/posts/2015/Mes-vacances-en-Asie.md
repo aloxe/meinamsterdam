@@ -10,9 +10,9 @@ image_alt: Sjezus zeg Zilla page
 permalink: Mes-vacances-en-Asie/
 date: 2015-06-26
 update: 2015-07-07
+subfooters:
+ - drooderfiets
 ---
-
-
 
 Autant vous le dire tout de suite pour éviter toute confusion, je ne suis pas parti en Asie et je ne vais donc pas vous parler de mes vacances[^1]. Je vais vous parler des vacances de Zilla van den Born, graphiste-designeuse d'Amsterdam. Ces vacances en Asie, ce sont les siennes.
 
@@ -20,10 +20,12 @@ L'année dernière, **Zilla** terminait son cursus de graphisme à l'école d'ar
 
 [![Sjezus zeg Zilla page](sjezus-zeg-zilla.png){.center}](http://eindwerk.hku.nl/nl/student/zilla-van-den-born/sjezus-zeg-zilla/)
 
+<!--excerpt-->
+
 Pour berner son monde, Zilla a simplement alimenté sa page facebook, son twitter et son compte vimeo avec des messages des photos et des vidéos de ses soit-disant vacances, messages, photos et vidéos qu'elle peaufinait depuis sa chambre Amstelodamoise. Pour les photos de *food porn*[^2], elle est simplement allée diner dans un des nombreux restaurants asiat' de la capitale mais pour les [photos de plongée](http://www.hln.be/hln/nl/922/Nieuws/article/detail/1893655/2014/05/21/Studente-misleidt-vrienden-met-tropische-schijnreis.dhtml) ou de voyage en tuk-tuk, elle s'est assuré la complicité dans copain photographe qui manie la retouche d'image à merveille comme tout bon photographe. Le plus déroutant vient peut-être les [sessions skype](https://www.facebook.com/zillavandenborn/photos/pb.642212742560589.-2207520000.1435751650./642237942558069/) qu'elle avait avec ses proches, soit-disant depuis son hôtel alors qu'elle était toujours dans sa chambre à Amsterdam, après s'être offert un coup de soleil dans un solarium de la ville.
 
 <!-- HTML -->
-<div class="central">
+<div class="flex flex-col items-center">
 <iframe src="https://player.vimeo.com/video/68079152" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -31,7 +33,7 @@ Pour berner son monde, Zilla a simplement alimenté sa page facebook, son twitte
 Une autre vidéo de la blagueuse montre ses famille et amis devant l'annonce de la supercherie. Surprise, étonnement, incrédulité et colère se lisent sur les visages. Si certains ont trouvé ça rigolo, d'autres n'ont pas du tout apprécié que leur petite Zilla (Sjesus zeg Zilla) leur mente.
 
 <!-- HTML -->
-<div class="central">
+<div class="flex flex-col items-center">
 <iframe src="https://player.vimeo.com/video/69182140" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -47,6 +49,7 @@ Si la blague de Zilla est un gros mensonge assumé, combien d'entre nous archive
 Ce premier juin, Zilla a posté une photo de son départ en vacances sur son compte facebook... Devinez quelle est la première réaction ?
 
 ![Zilla part en vacances](Zilla-en-vacances-2015.jpg){.center}
+
 ---
 [^1]: Pour ceux qui veulent en savoir plus sur mes vacances en Asie, je vous invite à [relire ce billet](/millions-de-neerlandais) avec une photo de la rivière Tembeling en Malaisie.
 [^2]: Vous savez, ces gens qui postent une photo de ce qu'ils ont dans leur assiette...

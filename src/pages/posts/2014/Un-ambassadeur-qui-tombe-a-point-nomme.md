@@ -1,9 +1,8 @@
 ---
 layout: base
 title: Un ambassadeur qui tombe à... point nommé
-description: 
 categorie: ik-ben-frans
-tags: []
+tags: ["administration"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -13,19 +12,18 @@ update: 2018-08-28
 TODO: no image, no image alt
 ---
 
+L'ambassadeur de France M. **Pierre Menat**, a rendu quitté ses fonctions aux Pays-Bas le 6 septembre dernier, après trois ans de service comme c'est l'usage. Il aura été l'ambassadeur du [déménagement de l'Ambassade à la Haye](/Une-nouvelle-Ambassade-de-France) et de la réception du Président de la République dans un pays qui porte son nom.
 
-
-L'ambassadeur de France M. **Pierre Menat**, a rendu quitté ses fonctions aux Pays-Bas le 6 septembre dernier, après trois ans de service comme c'est l'usage. Il aura été l'ambassadeur du [déménagement de l'Ambassade à la Haye](/Une-nouvelle-Ambassade-de-France) et de la réception du Président de la République dans un pays qui porte le même nom que lui.
+<!--excerpt-->
 
 Il faudra attendre un mois pour que la **lettre de créance** nommant officiellement son successeur [soit reçue par le roi Willem-Alexander des Pays-Bas](http://www.ambafrance-nl.org/Presentation-des-lettres-de-19989). Dans les fait, le nouvel ambassadeur est nommé par le quai d'Orsay à temps pour que la transition ne laisse pas de vite. Le nom du successeur  de M. Pierre Menat est connu depuis le 17 juillet avec le [décret qui le nomme](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029263505) mais officiellement c'est à la remise de la lettre de créance au chef de l'état hôte, que l'ambassadeur entre officiellement en fonction. **Laurent Pic**, ancien conseiller diplomatique du premier ministre **Jean-Marc Ayrault** devient ambassadeur de France aux pays-Bas pour son premier poste dans cette fonction.
 
 Comme toujours la nomination d'un ambassadeur est l'occasion de rappeler le rôle d'un ambassadeur aussi bien aux futurs interlocuteurs autochtones qu'aux français établis aux Pays-Bas qui ont parfois à faire avec les services de l'ambassade. Cet exercice a été rempli à l'aide d'une vidéo où est interviewé le nouvel ambassadeur.
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <!--iframe width="560" height="315" src="//www.youtube.com/embed/N9PMvLp17Gw" frameborder="0" allowfullscreen></iframe-->
 <iframe width="560" height="315" src="//www.youtube.com/embed/mM7J6af2PL0" frameborder="0" allowfullscreen></iframe>
-</video>
 </div>
 <!-- / HTML -->
 
@@ -36,7 +34,8 @@ M. Laurent Pic y parle aussi de personnalités néerlandaises que je ne connais 
 lire aussi: 
 * [Renouvellement diplomatique](/renouvellement-diplomatique)
 * [La nouvelle ambassade de France](/Une-nouvelle-Ambassade-de-France)
----
+
+
 <!-- post notes:
 https://fr.wikipedia.org/wiki/Ambassade_de_France_aux_Pays-Bas 
 http://www.ambafrance-nl.org/Le-mot-de-l-Ambassadeur-Septembre 

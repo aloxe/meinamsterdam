@@ -5,19 +5,20 @@ description:
 categorie: nederlandjes
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: petit-chien-orange.jpg
+image_alt: petit chien orange
 permalink: Bresil-en-orange/
 date: 2014-06-23
 update: 2014-09-08
-TODO: no image, no image alt
 ---
 
 
 
-![petit chier orange](petit-chien-orange.jpg){.center}
+![petit chien avec maillot orange](petit-chien-orange.jpg){.center}
 
 J'ai [déjà souligné](http://meinamsterdam.nl/decorations-oranges-choisies) **la folie orange** qui s’empare de toute la Hollande (*Hup hup Holland*) quand vient le moment des grandes compétitions de foot[^1]. J'ai donc fait appel à twitter pour avoir les meilleurs plans orange de l'année mais depuis que la couronne s'est masculinisé, il semble que la testostérone soit un peu retombée. C'est surement pour cela que l'on m'a suggéré [la moustache orange](https://twitter.com/Do_56/status/476670606063448064) (*De oranje snor*).
+
+<!--excerpt-->
 
 ![moustache-orange-3.jpg](moustache-orange-3.jpg){.center}
 
@@ -36,7 +37,7 @@ Chez Bavaria, on ne change pas un produit qui marche. Après avoir cassé la bar
 Et la pub télé tout en finesse :
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <iframe src="//player.vimeo.com/video/96948295" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -46,6 +47,7 @@ Ce n'est pas sans rappeler l’opération Heineken de 2006, avec leur chapeau al
 ### Voir aussi :
 * [Tous derrière la balle](/tous-derriere-la-balle)
 * [Marie Heineken est fan de l'Olympique de Marseille](/marie-heineken-est-fan-de-l-om)
+
 ---
 [^1]: voir rappels ci-dessous
 <!-- post notes:

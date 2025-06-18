@@ -1,22 +1,22 @@
 ---
 layout: base
 title: "Train de nuit, c'est fini"
-description: "J'essaye un service de train de nuit pratique et moins cher entre Prague et Amsterdam et hop, voilà que Deutsche Bahn annonce sa fermeture.    N En 2010, Je de"
 categorie: toering
-tags: []
+tags: ["transport", "Allemagne"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Prague-Amsterdam-CNL.jpg
+image_alt: Panneau de wagon 173 avec destination Prague
 permalink: Train-de-nuit--c-est-fini/
 date: 2014-11-11
 update: 2023-02-19
-TODO: no image, no image alt, shortened desc
 ---
 
 **J'essaye un service de train de nuit pratique et moins cher entre Prague et Amsterdam et hop, voilà que Deutsche Bahn annonce sa fermeture.**
 
 ## Nouveau mot : Slaaptrein
 En 2010, Je devais me rendre à Prague [pour le boulot](http://ripe60.ripe.net/) fin avril. Mais les perturbations fumeuses du volcan islandais Eyjafjöll (j'espère l'avoir bien dit) m'a incité à chercher d'autres moyens de transport que [l'avion](/pas-hier-pas-en-fokker). C'est là que j'ai découvert l'option **train de nuit** (*slaaptrein*). Les néerlandais disent train où dormir même si le *nachttrein* qui veut dire train de nuit existe aussi. Tout le monde comprend, s'il est aussi possible de dormir dans un tain de jour même si c'est moins confortable...
+
+<!--excerpt-->
 
 ## City Night Line
 Le service de train de nuit est opéré par la **CNL**, **City Night Line**, filiale de la DB allemande très présente à Amsterdam Centraal avec ses ICE rouge et blancs. Les trains de CNL sont plus discrets le soir mais il y en a plusieurs partant entre 17 et 18 heures en direction de Prague, mais aussi de Varsovie  (le même train qui se sépare à Berlin), Copenhague ou Zurich. Les billets sont disponibles à partir de 29 euros (prix promo en siège inclinable) à presque 300 euros en coupé individuel de luxe.
@@ -57,8 +57,10 @@ Puisque c'est vous et que j'ai le temps, je vous liste ici l'ensemble des pétit
 * [Sauvez les trains de nuit de Copenhague](http://savethenighttrain.eu/) (dk) anglais
 
 Chaque pétition rassemble plusieurs milliers de signatures mais ce n'est pas forcément ces signatures qui vont remplir les trains alors pour le moment, les compagnies ne changent pas d'avis. De plus les initiatives pétitionnaires sont diffuses et ne font pas le poids parce qu'elles se font concurrence. De l'autre coté DB n'a pas de concurrent sur ces lignes. C'est peut-être là que repose la solution, une compagnie concurrente orientée service, capable de reprendre le service avec une offre moderne et rentable. **Trenitalia** et **Transdev** sont en train de montrer en France que ce n'est pas impossible.
+
 ---
 [^1]: Je n'ai fait que deux voyages et mon expérience n'est pas significative. Mais je la partage malgré tout d'autant que la fraicheur des wagons et l'absence de wagon-restaurant peut se vérifier sur tout autre trajet.
+
 <!-- post notes:
 http://carfree.fr/index.php/2013/12/19/la-grande-vitesse-est-en-train-de-tuer-le-reseau-ferroviaire-europeen/ 
 

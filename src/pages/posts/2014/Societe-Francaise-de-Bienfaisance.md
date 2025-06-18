@@ -1,16 +1,14 @@
 ---
 layout: base
 title: La Société Française de Bienfaisance a 130 ans
-description: 
 categorie: ik-ben-frans
 tags: ["administration"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: SFB.jpg
+image_alt: bandeau SFB
 permalink: Societe-Francaise-de-Bienfaisance/
 date: 2014-04-24
 update: 2015-02-11
-TODO: no image, no image alt
 ---
 
 
@@ -34,6 +32,7 @@ Cette année des 130 ans n'a pas été de tout repos pour l'association. Sa pré
 ## Un nouveau statut
 
 En reconnaissance des actions menées depuis plus d'un siècle par la SFB Pays-Bas, l'association a été reconnu d'utilité publique en novembre 2013. Cela lui donnera encore plus de crédit auprès des autorités locales comme auprès des donateurs. On ne peut pas réellement leur souhaiter de nombreux nouveaux dossier mais juste bon courage dans leurs actions de 2014 et au delà.
+
 ---
 [^1]: Selon [les status](http://sfb-paysbas.nl/statuts-association/)
 [^2]: Les associations françaises aux Pays-Bas sont souvent appelées **fondations** parce que la structure utilisée est souvent celle d'une *stichting* qui signifie fondation en néerlandais. **C'est un faux ami**, en français, une fondation est crée sur la base d'un leg ou d'une donation. S'il s’agit d'un groupement de personnes autour d'un même but, on doit dire **association**.

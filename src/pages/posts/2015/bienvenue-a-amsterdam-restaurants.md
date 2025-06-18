@@ -1,19 +1,19 @@
 ---
 layout: base
 title: Bienvenue à Amsterdam
-description: "Alix, 40 ans GEEK ET FAN DE NATURE. Si je passe beaucoup de temps devant mon ordinateur, je préfère que l’on me suive à vélo que sur Twitter."
 categorie: toering
 tags: ["Amsterdam", "cuisine"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: alix_welcommer.jpg
+image_alt: Alix Welcommer
 permalink: bienvenue-a-amsterdam-restaurants/
 date: 2015-02-25
 update: 2015-02-25
 TODO: no image, no image alt, shortened desc
 ---
 
-**Alix, 40 ans GEEK ET FAN DE NATURE**  
+> **Alix, 40 ans GEEK ET FAN DE NATURE**  
+> ![Welcommer Alix Guillard](alix_welcommer.jpg)
 > Si je passe beaucoup de temps devant mon ordinateur, je préfère que l’on me suive à vélo que sur Twitter. J'aime Amsterdam pour... ses ruelles, ses richesses, ses trésors et tous ces spots où l’on sert de la bonne bière. Suivez le guide # Mon petit + : Partir à la découverte de la nature.
 
 C'est comme ça que commence ma présentation sur le site de Thalys ([mon train préféré](/?q=Thalys) entre Paris et Amsterdam), où pendant deux ans (2011 et 2012) j'ai invité les lecteurs à partager mes meilleurs spots d'Amsterdam. L'exercice avait des figures imposées comme les thèmes, le ton et le format. Les sujets étaient soigneusement contrôlés avant publication mais c'était une activité intéressante qui a peut-être fait chuter le nombre d'articles sur ce blog.

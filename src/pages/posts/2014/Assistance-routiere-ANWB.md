@@ -5,8 +5,8 @@ description: "Nombreuses sont les personnes qui m'ont fait remarquer le design b
 categorie: dagelijks
 tags: ["mots", "sociétés", "transports", "voiture"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: voiture-en-panne-le-2014-0914.jpg
+image_alt: je suis en panne sur l'Autoroute
 permalink: Assistance-routiere-ANWB/
 date: 2014-09-18
 update: 2014-11-28
@@ -29,32 +29,38 @@ La couleur jaune de ces bornes est ancienne, elle vient de la couleur de l'assoc
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFf0; font-size:small; width=530px; text-align:center; padding:1em; font-style:italic;">
-<!-- / HTML -->
+
 **AJOUT** : On me signale en commentaire que l'association est née en 1893 et qu'à l'origine c'était une association cycliste donc l'acronyme signifiait. *Algemene Nederlandse Wielrijders Bond* qui veut dire association générale néerlandaise des cyclistes. Le Wegenwacht est arrivé plus tard, quand les automobilistes ont été admis dans l'association.
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 Les deux pointes qui dardent vers le ciel sont en fait des panneaux fait pour arrêter le bruit des voitures et permettre de mieux dialoguer avec son correspondant de l'assistance. Il faut se pencher très près du micro pour que ce soit un petit peu efficace. Les Pays-bas sont le seul pays à avoir pensé que le passage des voitures peuvent être une nuisance pour la personne en demande de secours au bord de la route. Cette solution aux grandes oreilles a été mise en place dès 1970. 
+
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; font-size:smaller; width=530px; text-align:center; padding:2em; font-style:italic;">
-<!-- / HTML -->
-![M. Bakker, ministre des transports et des voies navigables révèle la nouvelle borne ANWB (1970)](.Minister-Bakker-ANWB-1970_m.jpg){.center}
-<!-- HTML -->
-M. Bakker, ministre des transports et des voies navigables des Pays-bas, dévoile au public la nouvelle borne d'appel ANWB en décembre 1970<br/>
-<a href="http://www.anp-archief.nl/page/2249049/nl">cc-by-nc-sa Cor Out</a>
+
+![M. Bakker, ministre des transports et des voies navigables révèle la nouvelle borne ANWB (1970)](Minister-Bakker-ANWB-1970.jpg){.center}
+
+M. Bakker, ministre des transports et des voies navigables des Pays-bas, dévoile au public la nouvelle borne d'appel ANWB en décembre 1970. [cc-by-nc-sa Cor Out](http://www.anp-archief.nl/page/2249049/nl)
+
 </div>
 <!-- / HTML -->
+
+
 Le modèle que l'on voit aujourd'hui au bord des routes, avec ces grandes oreilles pointues date de 1994. Il a été dessiné par l’ingénieur C.M. Gerrits.
+
+
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; font-size:smaller; width=530px; text-align:center; padding:2em; font-style:italic;">
-<!-- / HTML -->
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Praatpaal_3.JPG/160px-Praatpaal_3.JPG](praatpaal 126){.center}](https://commons.wikimedia.org/wiki/File:Praatpaal_3.JPG)
-<!-- HTML -->
+
+[![praatpaal moderne n°126](330px-Praatpaal.jpg){.center}](https://commons.wikimedia.org/wiki/File:Praatpaal_3.JPG)
+
+
 La borne d'appel n°126 qui illustre l'article  <a href="https://nl.wikipedia.org/wiki/ANWB">ANWB</a> de Wikipedia est une anagramme de la n°216 que j'ai décidé d'utiliser après être tombé en panne à Terschuur
+
 </div>
 <!-- / HTML -->
-Aujourd'hui 
 
 À partir de ces bornes, 193.000 appels ont été passés en 1987 et 39.655 appels en 2012. L'entretien de ces poteaux coute cher[^3] et le gouvernement prévoit de supprimer le service en 2017 ou 2018 présumant que tout le monde dispose d'un téléphone mobile. Le contrat du gouvernement avec ANWB se termine en 2017 et ne devrait pas être renouvelé. Tant pis pour les 30.000 personnes qui comptent encore dessus.
 
@@ -68,9 +74,9 @@ Pour les distraits comme moi qui n'ont pas de couverture l'assistance ponctuelle
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFf0; font-size:small; width=530px; text-align:center; padding:1em; font-style:italic;">
-<!-- / HTML -->
+
 **AJOUT** : Si vous êtes curieux et voulez connaitre la suite de mes déboires, lisez [leur récit en commentaire ci-dessous](#c2002).
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Les nouveaux conseillers consulaires
-description: "Depuis mon premier billet sur l'Assemblée des français de l'étranger, annonçant le résultat des élections de 2006 il y a eu de nombreuses évolutions. En "
 categorie: ik-ben-frans
 tags: ["administration", "politique"]
 isMarkdown: true
@@ -10,12 +9,14 @@ image_alt:
 permalink: Les-nouveaux-conseillers-consulaires/
 date: 2014-05-28
 update: 2021-04-10
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 Depuis mon premier billet sur l'Assemblée des français de l'étranger, annonçant le [résultat des élections de 2006](http://meinamsterdam.nl/resultat-des-elections) il y a eu de nombreuses évolutions. En 2006 Tanguy le Breton était élu délégué AFE pour un mandat de 6 ans qui s'est prolongé jusqu'à aujourd'hui.
 
 Depuis 2006, nous avons assisté à de nombreux changements dans la représentation des français de l'étranger. Nous avons d'abord eu un Secrétaire d'État puis un Ministre délégué. Nous avons ensuite eu de nouveaux députés élus en 2012 (lors d'un scrutin [auquel je participais](http://meinamsterdam.nl/candidat-pour-les-legislatives)). Enfin en 2013, la réforme de la *représentation des Français établis hors de France* créait **les conseillers consulaires**, plus nombreux et en principe plus proches de la population, ils n'en sont pas moins sans pouvoir réel comme je le regrettais [dans un article au cours des débats](http://alix.guillard.fr/guillard2013/la-reforme-ratee-de-la-representation-des-francais-a-letranger-reforme-afe.html).
+
+<!--excerpt-->
 
 ### Les listes en lice
 
@@ -67,5 +68,6 @@ Avec trois anciens conseillers AFE, sur cinq sièges, ce conseil peut surement p
 Le délégué consulaire sera **Brieuc-Yves (Mellouki) Cadat**
 
 Toutes mes félicitations aux nouveaux élus.
+
 ---
 [^1]: Contrairement à la règle du plus fort reste, utilisé en Allemagne, en Italie ou en Russie et qui donne aux petites formations une chance d'emporter un siège résiduel.

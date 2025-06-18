@@ -10,7 +10,9 @@ image_alt: mouche dessinée au fond d'un urinoir
 permalink: la-mouche-de-Schiphol/
 date: 2021-05-18
 update: 2021-11-19
-TODO: no image, no image alt, shortened desc
+subfooters:
+ - soulager
+ - schiphol
 ---
 
 ### Un nudge

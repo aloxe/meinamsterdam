@@ -5,8 +5,8 @@ description: "Depuis quelques jours, de grands panneaux ont été disposés dans
 categorie: toering
 tags: ["drogue", "panneaux"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: white-heroine.jpg
+image_alt: white heroine sold to tourists
 permalink: Fausse-cocaine-d-Amsterdam/
 date: 2014-12-05
 update: 2014-12-08
@@ -46,7 +46,8 @@ C'est donc dans la rue que les policiers ont lancé leur campagne, visant les to
 La police n'a toujours pas d'information sur le ou les dealers de fausse-cocaïne-vraie-héroïne-blanche et offrent aussi 15.000 euros à qui pourrait donner des éléments permettant de déterminer l'origine de cette poudre. Cette information est dans les journaux uniquement. La campagne se borne à informer les visiteurs pour éviter le pire. Espérons que les touristes visés y fassent attention avant de se faire avoir.
 
 ![cocaine oups ](cocaine-oups.jpg){.center}
----
+
+--- 
 [^1]: Et la nouvelle a été [reprise outre Manche](http://www.dailymail.co.uk/news/article-2810682/British-tourist-22-dies-taking-cocaine-heroin-trip-Amsterdam.html)
 [^2]: Les guides en ligne [aussi](http://www.amsterdam.info/drugs/)
 <!-- post notes:

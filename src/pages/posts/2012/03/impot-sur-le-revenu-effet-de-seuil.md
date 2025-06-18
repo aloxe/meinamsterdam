@@ -5,15 +5,15 @@ description: "O   Au cours de la campagne présidentielle, Le candidat François
 categorie: ik-ben-frans
 tags: ["politique"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: 32_maart.jpg
+image_alt: affiche sucette 32 Maart bestaat niet
 permalink: impot-sur-le-revenu-effet-de-seuil/
 date: 2012-03-30
 update: 2019-03-04
 TODO: no image, no image alt, shortened desc
 ---
 
-## Où l'on explique que l'effet de seuil n'existe pas et autres idées reçues
+***Où l'on explique que l'effet de seuil n'existe pas et autres idées reçues***
 
 Au cours de la campagne présidentielle, Le candidat François Hollande a annoncé ([le 27 février au matin](http://www.leparisien.fr/election-presidentielle-2012/en-direct-nicolas-sarkozy-sur-the-artist-bravo-a-toute-l-equipe-27-02-2012-1879985.php)) vouloir créer une nouvelle tranche d'impôt de 75% pour les très riches, ceux qui gagnent plus de 1 millions d'euros par an.
 
@@ -30,6 +30,8 @@ C'est parce que a moulinette fiscale découpe le revenu de chaque contribuable e
 > Cet impôt comporte, depuis 2006, quatre tranches successives d'imposition. La partie des revenus qui dépasse la limite entre deux tranches est taxée au taux de la tranche supérieure, et ainsi de suite. Les taux d'imposition marginaux sont de plus en plus élevés lors du passage entre chaque tranche. Contrairement à une idée répandue il n'y a donc pas d'effet de tranche en France : l'augmentation du revenu brut entraîne toujours une augmentation du revenu disponible après impôts, même en cas de changement de tranche.
 
 Vous avez bien lu, **l'augmentation du revenu brut entraîne toujours une augmentation du revenu disponible après impôts, même en cas de changement de tranche**. Chassez donc cette idée reçue, l’effet de seuil n'existe pas pour les impôts en France.  
+
+<!--excerpt-->
 
 ### Comment ça se passe en Europe ?
 
@@ -103,6 +105,7 @@ Autre idée reçue qui tombe: **Non je ne suis pas parti aux Pays-bas pour payer
 La comparaison avec les autres pays a aussi ses limites. Au Pays-Bas l'impôt peut sembler pesant et élevé dès le premier euro (ce qui pénalise les pauvres) et avec des taux importants dès les premières tranches ce qui pénalise les classes moyennes. Mais en même temps, l'état redistribue généreusement les richesses. Chaque contribuable a par exemple un crédit d'impôt de 1.987 euros que j'aurais pu appliquer à mon calcul. J'ai aussi déjà parlé de cette fameuse loi sur le [remboursement des intérêts d'emprunt](/credits-pays-bas) pour [les crédits immobiliers](/credits-pays-bas). Une autre raison est que la société néerlandaise est plus égalitaire, avec des pauvres moins pauvres et des riches moins riches ce qui explique le resserrement des tranches d'imposition mais aussi l'acceptation de taux plus élevés dès les classes moyennes.
 
 On en apprend des choses quand on suit un peu les campagnes électorales hein ?
+
 ---
 [^1]: C'est pourtant ce que j'ai toujours cru, lisant les conseils de [journaux sérieux](http://votreargent.lexpress.fr/) me conseillant de reporter à janvier le paiement de mon 13ème mois pour ne pas franchir la tranche supérieure...
 [^2]: Je parle ici du candidat Hollande et pas des Pays-Bas.

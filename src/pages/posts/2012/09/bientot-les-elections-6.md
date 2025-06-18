@@ -10,10 +10,11 @@ image_alt: évolution des sondages pour les principaux partis
 permalink: bientot-les-elections-6/
 date: 2012-09-11
 update: 2012-09-24
-TODO: shortened desc
 ---
 
 2012 Est une année électorale, **c'est au tour des néerlandais de voter**, demain, pour renouveler leur députés. Les élections générales ont été provoquées au printemps par la chute du gouvernement ayant eu lieu en avril dernier. Les pourparlés avaient commencé en mars 2012 pour boucler un budget 2013 de crise où il fallait décider de nouvelles coupes budgétaires pour trouver au moins 9 millards d'euros d'économies. Le parti de la liberté (PVV) de Gert Wilders, qui jusqu'alors soutenait le gouvernement sans y participer, n'a pas voulu soutenir les réductions de budget de la sécurité sociale sans contre-partie sur le droit d'immigration. Après d'âpres négociation, le premier ministre Rutte a constaté l'échec des discussions et a remis sa démission à la reine le 23 avril 2012.
+
+<!--excerpt-->
 
 ## Tweede kamer Verkiezingen 2012
 
@@ -32,4 +33,3 @@ Il faut rappeller que les sondages ne sont pas forcément le reflet de ce qui se
 Pour cette élection nombreux sont les petits partis qui tentent leur chance pour la première fois, espérant un siège ou plus à la chambre basse. Les plus crédibles sont **50plus**, un parti voulant défendre les intérêts des seniors et le **Piratenpartij**, le parti pirate des Pays-Bas. Il y a aussi le **Democratisch Politiek Keerpunt** conduit par Hero Brinkman, député sortant et discident du **PVV** de Gert Wilders qui en avait marre des sautes d'humeur de son chef. La [liste complète des listes en présence](http://www.kiesraad.nl/nieuws/kandidatenlijsten-bekend), mentionne aussi une liste libertaire, une autre anti-européenne, une liste LibDem, un parti des hommes et de l'esprit (MenS), un parti du futur et d'autres au noms plus funky comme NXD ou SOPN. Pas étonnant qu'il y ait tant d'indécis.
 
 Il n'y a que 150 sièges à la deuxièmes chambre des Pays-Bas. On saura mercredi soir qui aura le droit de s'y assoir.
----

@@ -1,7 +1,7 @@
 ---
 date: 2012-03-30
 author: 01 informatique
-email: 01@blog.re
+email: 01@01net.com
 site: http://01net.com
 tags: comment
 permalink: false
@@ -11,5 +11,4 @@ permalink: false
 
 <p><a href="http://www.01net.com/editorial/318514/le-vote-par-internet-des-francais-a-letranger-fait-un-flop/" title="http://www.01net.com/editorial/318514/le-vote-par-internet-des-francais-a-letranger-fait-un-flop/">http://www.01net.com/editorial/318514/le-vote-par-internet-des-francais-a-letranger-fait-un-flop/</a></p>
 
-<h2 class="title-large padding-bottomx2 blocx3 border-b-s" itemprop="description">A peine plus de 14 000 électeurs ont confirmé leur volonté de participer au vote par Internet. La faute à une procédure d'inscription compliquée qui, par crainte de fraudes, en a rebuté plus d'un.</h2>
----
+**A peine plus de 14 000 électeurs ont confirmé leur volonté de participer au vote par Internet. La faute à une procédure d'inscription compliquée qui, par crainte de fraudes, en a rebuté plus d'un.**

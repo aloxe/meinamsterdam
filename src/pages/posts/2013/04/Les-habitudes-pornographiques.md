@@ -3,7 +3,7 @@ layout: base
 title: Les habitudes pornographiques
 description: 
 categorie: nederlandjes
-tags: []
+tags: ["economie", "coutumes"]
 isMarkdown: true
 thumbnail: pornmd-pays-bas.png
 image_alt: Les recherches porno aux Pays-Bas
@@ -21,5 +21,6 @@ Pour les Pays-Bas, pas de surprise, les gens crânent en montrant qu'ils parlent
 
 ![Les recherches porno en France](pornmd-france.png){.center}
 Pour la France non plus, pas de surprise, la faible maitrise de l'anglais fait arriver «française» en troisième position après d'autres choix typiquement locaux. L'attrait très français pour la culture nippone est visible grâce à «Hentai» qui veut dire pervers dans la langue du soleil levant. Enfin on note une recherche *gay* chez les français uniquement, sans doute parce qu'il est plus difficile qu'aux Pays-Bas de trouver des *gays* en dehors de l'écran.
+
 ---
 [^1]: il doit y avoir environ une catégorie par pays

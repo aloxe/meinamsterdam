@@ -21,7 +21,7 @@ permalink: false
 
 <p>Si oui, je vous mets le lien ci-dessous :</p>
 
-<pre>[http://enquete.campus-igs-toulouse.fr/profs/pdtsfrancais/index.htm]</pre>
+``http://enquete.campus-igs-toulouse.fr/profs/pdtsfrancais/index.htm``
 
 
 <p>Merci d'avance!!</p>

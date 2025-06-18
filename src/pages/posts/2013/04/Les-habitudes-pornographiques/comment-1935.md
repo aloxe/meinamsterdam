@@ -9,4 +9,3 @@ permalink: false
 
 <p>Votre article est putassier, cher ami !<br />
 Et je suis vert de voir que tu as écrit pervert ! Tu verses donc dans l'anglicisme, toi aussi ? ;-)</p>
----

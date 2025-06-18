@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Les routes du futur
-description: "Avec leur réseau d'autoroutes dense, à fort trafic et réglées au millimètre, les Pays-Bas sont les champions des autoroutes. Il faut dire qu'il n'y a pas d"
 categorie: nederlandjes
 tags: ["architecture", "panneaux", "transports", "voiture", "vélo"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt: vélo transportfiets hollandais
 permalink: Les-routes-du-futur/
 date: 2013-01-14
 update: 2014-08-08
-TODO: shortened desc, 
 subfooters:
  - velos
 ---
@@ -20,6 +18,8 @@ Avec leur réseau d'autoroutes dense, à fort trafic et réglées au millimètre
 ![Routes du futur](dynamic-paint-route-du-futur.png){.center}
 
 Pas étonnant que les autoroutes du futur soient pensées aujourd'hui dans ce pays.
+
+<!--excerpt-->
 
 Le [Studio Roosegaarde](http://www.studioroosegaarde.net/) est un cabinet de design de réputation mondiale. Avec l'autoroute intelligente *Smart Highway* en anglais dans le texte, le cabinet propose plusieurs designs interactifs qui peuvent préfigurer les routes du futur. Il a fait équipe avec l'entreprise de BTP [Heijmans](http://www.heijmans.nl/) pour mettre au points des technologies permettant à la route, le revêtement, la signalisation, de s'adapter au temps et au trafic.
 

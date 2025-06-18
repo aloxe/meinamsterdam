@@ -8,4 +8,3 @@ permalink: false
 ---
 
 <p>Très jolies nuances d'orange...</p>
----

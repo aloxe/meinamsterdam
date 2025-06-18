@@ -1,21 +1,20 @@
 ---
 layout: base
 title: Rencontre autour du vote électronique
-description: "Certains des Français à l'étranger vont à nouveau devoir voter et ils vont à nouveau pouvoir le faire via Internet. Je recycle ici un article que j'ai écr"
 categorie: ik-ben-frans
 tags: ["administration", "politique", "sociétés"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: rop-gonggrijp-et-alix-guillard.jpg
+image_alt: Rop Gonggrijp et Alix Guillard
 permalink: Rencontre-vote-electronique/
 date: 2013-04-24
 update: 2014-05-27
-TODO: no image, no image alt, shortened desc
 ---
 
-Certains des Français à l'étranger vont [à nouveau devoir voter](http://www.diplomatie.gouv.fr/fr/vivre-a-l-etranger/vivre-a-l-etranger-vos-droits-et/elections-legislatives-partielles/dates-et-modalites-de-vote/article/dates-de-scrutin-et-modalites-de) et ils vont à nouveau pouvoir le faire **via Internet**. Je recycle ici un article que j'ai écrit pour le candidat pirate il y a un an, au cours de la campagne des législatives. À l'époque je commençais juste à me rendre compte qu'il y avait un truc qui clochait dans le vote par Internet. J'ai voulut en savoir plus en découvrant l'expérience des Pays-Bas, lisez plutôt :
+***Certains des Français à l'étranger vont [à nouveau devoir voter](http://www.diplomatie.gouv.fr/fr/vivre-a-l-etranger/vivre-a-l-etranger-vos-droits-et/elections-legislatives-partielles/dates-et-modalites-de-vote/article/dates-de-scrutin-et-modalites-de) et ils vont à nouveau pouvoir le faire **via Internet**. Je recycle ici un article que j'ai écrit pour le candidat pirate il y a un an, au cours de la campagne des législatives. À l'époque je commençais juste à me rendre compte qu'il y avait un truc qui clochait dans le vote par Internet. J'ai voulut en savoir plus en découvrant l'expérience des Pays-Bas, lisez plutôt :***
 
-Suite aux inquiétudes dont les délégués nous ont fait part [au sujet du bureau de vote électronique|http://legislatives.partipirate.org/2012/2012/05/21/le-parti-pirate-denonce-lopacite-du-vote-par-internet-des-francais-a-letranger-et-labandon-du-controle-des-elections-a-des-societes-privees/||Sur le site du parti pirate], mon suppléant, **Alix Guillard**, a rencontré **Rop Gonggrijp**, tous deux habitant Amsterdam. Rop Gonggrijp est le fondateur de l’un des premier fournisseur d’accès aux Pays-Bas. Il s’est rendu célèbre en 2006 en exposant à la télévision une manière de truquer un vote avec en hackant une machine à voter. Sa démonstration a amené le gouvernement à supprimer les lois d’exception qui autorisait ces systèmes.
+<!--excerpt-->
+Suite aux inquiétudes dont les délégués nous ont fait part [au sujet du bureau de vote électronique](https://web.archive.org/web/20120525104021/http://legislatives.partipirate.org/2012/2012/05/21/le-parti-pirate-denonce-lopacite-du-vote-par-internet-des-francais-a-letranger-et-labandon-du-controle-des-elections-a-des-societes-privees/), mon suppléant, **Alix Guillard**, a rencontré **Rop Gonggrijp**, tous deux habitant Amsterdam. Rop Gonggrijp est le fondateur de l’un des premier fournisseur d’accès aux Pays-Bas. Il s’est rendu célèbre en 2006 en exposant à la télévision une manière de truquer un vote avec en hackant une machine à voter. Sa démonstration a amené le gouvernement à supprimer les lois d’exception qui autorisait ces systèmes.
 
 Mon suppléant lui a demandé de revenir sur cette histoire et de donner son avis sur le vote par Internet actuellement en cours en France. La discussion s’est prolongée dans un joli parc d’Amsterdam sous un grand soleil. Cédric Delorme, mon mandataire financier les accompagnait.
 
@@ -38,4 +37,4 @@ Rop Gonggrijp est devenu un expert dans les questions de vote électronique et i
 C’est pourtant ce système qui est actuellement utilisé en France pour les élections législatives des français établis à l’étranger. Chaque électeur se voit remettre un reçu de vote qu’il pourra utiliser pour voir si son bulletin électronique a été pris en compte et décompté. Pour Rob Gonggrijp c’est insuffisant, à partir du moment où l’électeur vote de manière électronique, les données manipulées par le serveur ne sont pas traçables et **il n’y a aucune certitude que le résultat du scrutin annoncé par la machine corresponde à la véritable expression des électeurs**.
 
 **Il espère que, comme aux Pays-Bas, le France abandonnera les machines à voter et le vote par Internet.**
----
+

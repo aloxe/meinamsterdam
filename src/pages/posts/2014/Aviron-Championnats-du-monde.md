@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Aviron : Championnats du monde d'Amsterdam"
-description: Pour ce qui est du sport, je vous ai déjà parlé en long en large et en travers du football, le principal sport national et un petit peu de hockey, un autre s
 categorie: toering
 tags: ["sport"]
 isMarkdown: true

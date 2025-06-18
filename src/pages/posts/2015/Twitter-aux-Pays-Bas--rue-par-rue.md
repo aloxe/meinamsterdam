@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Twitter aux Pays-Bas, rue par rue
-description: "J'avais souligné, après le jour de l'an 2001 <a href='/twitter-aux-pays-bas'>le nombre de tweets venant des Pays-Bas était plus important qu’ailleurs</a"
 categorie: nederlandjes
 tags: ["Amsterdam", "internet", "mer", "photos"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt: carte des tweets par language
 permalink: Twitter-aux-Pays-Bas--rue-par-rue/
 date: 2015-01-06
 update: 2022-10-27
-TODO: no image, no image alt, shortened desc
 ---
 
 J'avais souligné, après le jour de l'an 2001 <a href="/twitter-aux-pays-bas">le nombre de tweets venant des Pays-Bas était plus important qu’ailleurs</a>. Une question était en suspend, celle de la raison de cette loquacité batave<sup>(<a name="backnote1"></a><a href="#note1">1</a>)</sup>. Le service Mapbox a dévoilé en 2013 <strong>une carte du monde des tweets géolocalisés</strong> faisant apparaitre les lieux où l'on tweetait le plus. Encore une fois, les Pays-bas se détachent des pays environnants mais moins que sur <a href="/twitter-aux-pays-bas" title="mon premier article sur twitter aux Pays-Bas">la carte des tweets du nouvel an</a>. Ils semble que les courtes distances entre les grandes villes où l'on tweete soit ce qui crée cette impression que le pays entier tweete. Par comparaison, l'Angleterre, où il y a aussi de nombreux tweets ressemble plus à un réseau étalé que les Pays-Bas.

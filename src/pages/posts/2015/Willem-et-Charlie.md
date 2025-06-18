@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Willem et Charlie
-description: 
 categorie: ik-ben-frans
 tags: ["culture"]
 isMarkdown: true

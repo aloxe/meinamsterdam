@@ -1,23 +1,21 @@
 ---
 layout: base
 title: Les fusions de communes se poursuivent
-description: En 2010 (Regroupement de communes) et en 2011 (Les Pays-Bas perdent 3% de leurs communes), je vous ai parlé des regroupements de communes néerlandaises avec c
 categorie: nederlandjes
 tags: ["2", "tag", "administration", "cartes", "politique"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Nederlandse-gemeentes-herindeling-2015.png
+image_alt: Fusion des communes néerlandaises en 2015
 permalink: fusions-communes-se-poursuivent/
 date: 2014-06-25
 update: 2016-09-06
-TODO: no image, no image alt, shortened desc
 ---
 
 En 2010 ([Regroupement de communes](/regroupement-de-communes)) et en 2011 ([Les Pays-Bas perdent 3% de leurs communes](/les-pays-bas-perdent-de-leurs-communes)), je vous ai parlé des regroupements de communes néerlandaises avec cet objectif de ne pas avoir de communes de moins de 25.000 habitants. Je vous en est parlé en janvier quand les communes fusionnent officiellement mais ce que je n'ai pas dit c'est que cela ne se décide pas du jour au lendemain et que chaque fusion fait l'objet d'un projet de loi qui sont discutées à plusieurs niveaux et généralement votés dans les mois d'été.
 
 Prenons par exemple le projet de loi qui institue la fusion de **Bergambacht**, **Nederlek**, **Ouderkerk**, **Schoonhoven** et **Vlist** en [Hollande Méridionale](/les-provinces-des-pays-bas). Le procésus a commencé avec un message du roi en **octobre 2013**. à partir de cette date, l'ensemble des procédures pour l'établissement d'une loi a lieu. Exposé des motifs, rapport préliminaire, études en commission, mémoires, études d'impact, discussions à la deuxième chambre, puis à la première chambre et enfin validation de la loi à la première chambre le 17 juin 2014. Le 1er jamvier prochain, les communes de Bergambacht, Nederlek, Ouderkerk, Schoonhoven et Vlist vont fusionner. Le nom de la nouvelle commune sera **Krimpenerwaard**. Hop, quatre communes de moins. Le résumé des documents et débats est [disponible sur le site de la première chambre](http://www.eerstekamer.nl/wetsvoorstel/33788_samenvoeging_gemeenten).
 
-----
+<!--excerpt-->
 
 ![Fusion des communes néerlandaises en 2015](Nederlandse-gemeentes-herindeling-2015.png){.center}
 
@@ -61,6 +59,7 @@ Depuis mon dernier article sur les [fusions de communes en 2011](/les-pays-bas-p
 Pour les regroupements de 2015, voir la carte[^1] et les détails plus haut, au premier janvier les Pays-Bas ne compteront plus que 396 communes. 
 
 À ce rhytme là, les Pays-Bas devraient former une seule et unique commune dans exactement 99 ans.
+
 ---
 [^1]: Les cartes ont été faites par **jrnsndrs**, membre d'[eurobilltracker](http://forum.eurobilltracker.com/viewtopic.php?f=43&t=8227&start=1395#p1072127) qui suit de prêt cette actualité. Merci à lui.
 <!-- post notes:

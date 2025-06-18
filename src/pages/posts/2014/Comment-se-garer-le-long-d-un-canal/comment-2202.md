@@ -7,7 +7,6 @@ tags: comment
 permalink: false
 ---
 
-<p>&lt;p&gt;Il y a une aventure encore plus impressionnante avec un minibut chargé de touristes qui est tombé dans le canal.&lt;/p&gt;</p>
+<p>Il y a une aventure encore plus impressionnante avec un minibus chargé de touristes qui est tombé dans le canal.</p>
 
-<p>&lt;div align="center" style="margin:5px;"&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qFhyKFvEE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</p>
----
+<div align="center" style="margin:5px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qFhyKFvEE-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -1,33 +1,32 @@
 ---
 layout: base
 title: "Comment se garer le long d'un canal"
-description: "Cela fait longtemps que je n'avait pas parlé de la difficulté de garer sa voiture à Amsterdam. Les places de parking sont rares et chères et même les rési"
 categorie: dagelijks
 tags: ["transports", "voiture"]
 isMarkdown: true
-thumbnail: .clio-dans-canal-02_m.jpg
+thumbnail: clio-dans-canal-02.jpg
 image_alt: Une clio dans le canal ?
 permalink: Comment-se-garer-le-long-d-un-canal/
 date: 2014-08-28
 update: 2014-10-08
-TODO: shortened desc
 ---
 
 **Cela fait longtemps que je n'avait pas parlé de [la difficulté de garer sa voiture à Amsterdam](/a-amsterdam-se-garer-coute-cher)**. Les places de parking sont rares et chères et même les résidents doivent attendre parfois plusieurs années avant d'obtenir un permis de stationnement résidentiel. 
 
 Une fois la place trouvée, il faut faire face à une nouvelle difficulté : celle de la remplir sans dépasser. En effet, les places le long des canaux sont très étroites et comme elles sont le long des canaux, sortir de l'emplacement indiqué peut  être fatal pour votre véhicule. 
 
-[![Une clio dans le canal ?](.clio-dans-canal-02_m.jpg){.center}](/public/images/contribs/2014/clio-dans-canal-02.jpg)
+![Une clio dans le canal ?](clio-dans-canal-02.jpg){.center}
 
 C'est ce qui est arrivé l'été dernier à **Niels Huijbregts**[^1] dans son quartier d'Amsterdam Oost.
 
-[![Une clio dans le canal ?](.clio-dans-canal-01_m.jpg){.center}](/public/images/contribs/2014/clio-dans-canal-01.jpg)
+<!--excerpt-->
+![Une clio dans le canal ?](clio-dans-canal-01.jpg){.center}
 
 Heureusement, une dépanneuse est arrivée pour le sortir de ce mauvais pas.
 
-[![Une clio sauvée du canal ?](.clio-dans-canal-03_m.jpg){.center}](/public/images/contribs/2014/clio-dans-canal-03.jpg)
+![Une clio sauvée du canal ?](clio-dans-canal-03.jpg){.center}
 
-[![Une clio sauvée du canal ?](.clio-dans-canal-04_m.jpg){.center}](/public/images/contribs/2014/clio-dans-canal-04.jpg)
+![Une clio sauvée du canal ?](clio-dans-canal-04.jpg){.center}
 
 
 Niels m'a même indiqué que l'assurance avait pris en charge le déplacement de la dépanneuse. Tout est donc bien qui fini bien pour lui qui ne garde de cette aventure que le souvenir d'une grosse frayeur. Ce n'est hélas pas le cas de tout le monde et il arrive que des autos tombent complètement dans les canaux. Plouf !
@@ -47,9 +46,13 @@ Sur les bateaux de touristes qui circulent sur les canaux du centre ville, une j
 [Parking pour ceux qui viennent nous voir en voiture](/pour-ceux-qui-viennent-nous-voir-en-voiture)
 
 [Le dimanche sans voiture](http://meinamsterdam.nl/le-pijp-en-fete)
+
 ---
-[^1]: Le porte parole de mon fournisseur d'accès Internet dont j'ai déjà diffusé la photo [à l'occasion d'un célèbre procès anti Pirate Bay](/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas). Il m'autorise à publier les photos de [ses déboires](https://www.facebook.com/njahuijbregts/posts/623447001011098?stream_ref=10)
+[^1]: Le porte parole de mon fournisseur d'accès Internet dont j'ai déjà diffusé la photo [à l'occasion d'un célèbre procès anti Pirate Bay](/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas). Il m'autorise à publier les photos de ses déboires.
+
 <!-- post notes:
+ [ses déboires](https://www.facebook.com/njahuijbregts/posts/623447001011098?stream_ref=10)
+
 https://www.facebook.com/njahuijbregts/posts/623447001011098?stream_ref=10
 https://www.facebook.com/njahuijbregts/posts/623475997674865?stream_ref=10 
 http://www.rtvnh.nl/nieuws/77880/Fiat+500+de+gracht+ingeduwd

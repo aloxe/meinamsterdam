@@ -18,10 +18,12 @@ TODO: no image, no image alt
 Le 5 janvier 2011, en début d'après-midi, à [Moerdijk](http://fr.wikipedia.org/wiki/Moerdijk), un incendie s'est déclaré dans les prémices de la société Chemie-Pack. Il se trouvait sur ce terrain, 23.500 litres de produits corrosifs, toxiques et inflamables. La chaleur a fait exploser leurs cuves et les produits ont pris feu, libérant un épais nuage de fumées noires que l'on pouvait voir à des kilomètres à la ronde jusque dans la nuit.
 
 <!-- HTML -->
-<div style="margin:0 auto; text-align:center;">
-<object width="352" height="198"><param name="movie" value="http://s.nos.nl/swf/nos_video_embed.swf"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="true"></param><param name="flashvars" value="tcmid=tcm-5-874660" /><embed src="http://s.nos.nl/swf/nos_video_embed.swf" type="application/x-shockwave-flash" width="352" height="198" allowscriptaccess="always" allowfullscreen="true" flashvars="tcmid=tcm-5-874660"></embed></object>
+<div class="flex flex-col items-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DlQAh-dNZFc?si=iPy37g5KNiHSJ6s1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
+
+<!--excerpt-->
 
 Avec le vent, la fumée s'est répandue dans la région, nottement à Dordrecht et Rotterdam. Heureusement les études ont montré que la fumée n'était pas toxique pour la santé. Les dégats causés par l'incendie ont été estimés à 70 millions d'euros. Un [reportage de NOS](http://nos.nl/video/243351-reconstructie-van-de-brand-bij-chemiepack.html) montre comment l'incendie à été déclanché et comment il s'est propagé puis contenu par les pompiers.
 
@@ -32,6 +34,7 @@ Telle nouvelle a fait la une des journaux à il y  deux ans et puis les médias 
 ![Incendie à Chemie-pack](chemie-pack-brand.jpg){.center}
 
 Sur cette photo on voit aussi le slogan de la firme malchanceuse : *Vertrouwde omgang met chemische producten* ce qui signifie l'**intimité avec les produits chimiques**. Un slogan qu'on croirait choisit pour l'occasion de l'incendie.
+
 ---
 <!-- post notes:
 http://www.bndestem.nl/regio/moerdijk/10382663/College-Moerdijk-wil-achterstand-na-Chemie-Pack-wegwerken.ece

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "La neutralité d'Internet à la sauce hollandaise"
-description: "Ça fait des années qu'on parle de neutralité du net, en France, le sujet a été remis sur le tapis quand un fournisseur d'accès qui n'a de gratuit que le n"
 categorie: nederlandjes
 tags: ["administration", "internet", "mots", "politique", "sociétés"]
 isMarkdown: true
@@ -10,12 +9,14 @@ image_alt:
 permalink: La-neutralite-Internet-sauce-hollandaise/
 date: 2013-03-11
 update: 2019-01-02
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
-Ça fait des années qu'on parle de neutralité du net, en France, le sujet a été remis sur le tapis quand un fournisseur d'accès qui n'a de gratuit que le nom s'est mis à filtrer la pub. La Ministre, **Fleur Pellerin**, a aussitôt reunit les acteurs du net [pour ne pas les écouter et leur dire](http://blog.penet.org/index.php?post/2013/01/16/De-retour-de-la-table-ronde-sur-la-neutralit%C3%A9-du-net) que le Conseil National du Numérique se chargera de la question. 
+Ça fait des années qu'on parle de neutralité du net, en France, le sujet a été remis sur le tapis quand un fournisseur d'accès qui n'a de gratuit que le nom s'est mis à filtrer la pub. La Ministre, **Fleur Pellerin**, a aussitôt reunit les acteurs du net [pour ne pas les écouter et leur dire](https://web.archive.org/web/20130423191613/https://blog.penet.org/index.php?post/2013/01/16/De-retour-de-la-table-ronde-sur-la-neutralit%C3%A9-du-net) que le Conseil National du Numérique se chargera de la question. 
 
-Avant que le conseil ne rende sa copie, on peut leur rappeler que depuis le printemps 2011, les Pays-Bas ont inscrit la neutralité du net dans la loi sans que ça ne gène personne. Un exemple qu'on pourrait regarder de plus près.
+Avant que le conseil ne rende sa copie, on peut leur rappeler que depuis le printemps 2011, les Pays-Bas ont inscrit la neutralité du net dans la loi sans que ça ne gène personne. Un exemple qu'on pourrait regarder de plus près :
+
+<!--excerpt-->
 
 ## La transparence
 
@@ -68,9 +69,10 @@ ne se plaignent pas.
 
 L'année dernière, la société [KPN a annoncée la suppression de plusieurs milliers de postes](http://meinamsterdam.nl/licenciements-serie) en accusant les utilisateurs de ne plus payer leurs SMS parce qu'ils utilisent des services comme Whatsapp à la place. Cette loi, qui les oblige à ne pas bloquer Whatsapp a un temps été citée par le ministre sortant **Maxime Verhagen** comme la cause de leur maux, mais l'argument n'a pas tenu longtemps ailleurs en Europe les grandes sociétés de téléphone sont en crise aussi alors que la neutralité du net n'est pas garantie par la loi. En France c'est le quatrième opérateur qu'on accuse d'être la cause d'un déclin des services à forte marge.
 
-2012 a aussi vu le lobbie des grosses maisons de disques, **BREIM**, forcer deux fournisseurs d'accès, **Ziggo** et **XS4ALL** à [filtrer The Pirate Bay](https://blog.xs4all.nl/2011/11/08/het-gaat-niet-om-the-pirate-bay-het-gaat-om-niet-blokkeren-nu-niet-en-nooit-niet-daar-gaat-het-om/). C'est une décision de justice[^2] que les fournisseurs d'accès ont dut appliquer (point d de l'article 7.4).
+2012 a aussi vu le lobbie des grosses maisons de disques, **BREIN**, forcer deux fournisseurs d'accès, **Ziggo** et **XS4ALL** à [filtrer The Pirate Bay](https://blog.xs4all.nl/2011/11/08/het-gaat-niet-om-the-pirate-bay-het-gaat-om-niet-blokkeren-nu-niet-en-nooit-niet-daar-gaat-het-om/). C'est une décision de justice[^2] que les fournisseurs d'accès ont dû appliquer (point d de l'article 7.4).
 
-Donc après deux ans, on peut voir que la neutralité du net dans la loi, c'est pas bien difficile et que ça ne tue pas les bébé phoques. Je me demande bien pourquoi on ne l'applique pas en France.
+Donc après deux ans, on peut voir que la neutralité du net dans la loi, c'est pas bien difficile et que ça ne tue pas les bébé phoques. Je me demande bien pourquoi on ne l'applique pas en France (non).
+
 ---
 [^1]: C'est d'ailleurs ce qui est arrivé récemment et que je n'ai pas eu le temps de relater.
 [^2]: Même si elle est discutable, une décision de justice est applicable. Dans le cas présent, elle est discutable et XS4ALL a fait appel.

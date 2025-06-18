@@ -1,9 +1,8 @@
 ---
 layout: base
 title: Me ne sera plus in Amsterdam
-description: Après plus de six ans à Amsterdam, le temps est venu pour moi de partir pour de nouvelles aventures.
 categorie: dagelijks
-tags: []
+tags: ["internet"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -22,4 +21,3 @@ La gestion de l'Internet, qui a rempli quelques billets ([ripe 55](/c-etait-ripe
 Mon travail au sein du RIPE NCC s'est terminé fin avril. Licencié économique, je suis techniquement encore salarié de l'entreprise mais je suis disponible. Où plutôt, j'étais disponible. Un membre de la communauté RIPE m'a contacté pour assurer le même travail ([webmaster](http://alix.guillard.fr/cv/)) dans son entreprise. C'est à Prague. Je commence le 4 juin et d'ici là je dois trouver un logement et organiser mon déménagement à 900km. Il reste beaucoup à faire.
 
 Comme vous le constatez, beaucoup de choses ont changé dans ma vie dernièrement et cela explique le peu de mise à jour de «me in Amsterdam». Mon départ ne signifie pas la fin du blog parce que j'ai encore beaucoup de marbres stockés dans les neurones et de sujets intéressants et bataves à partager. à bientôt donc.
----

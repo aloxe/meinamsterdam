@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Laser 3.14
-description: "Hier, c'était le jour de pi, j'imagine que cette date a été choisie pour son 3.14. Un nombre sur lequel les savants continuent de découvrir.    Hier c'étai"
 categorie: toering
 tags: ["Amsterdam", "art"]
 isMarkdown: true
@@ -10,7 +9,7 @@ image_alt: Laser 3.14
 permalink: laser-314/
 date: 2012-03-15
 update: 2012-09-04
-TODO: shortened desc
+TODO: external content
 ---
 
 Hier, c'était le jour de [pi](http://fr.wikipedia.org/wiki/Pi), j'imagine que cette date a été choisie pour son 3.14. Un nombre sur lequel les savants continuent de découvrir.
@@ -18,6 +17,8 @@ Hier, c'était le jour de [pi](http://fr.wikipedia.org/wiki/Pi), j'imagine que c
 Hier c'était aussi le jour de 3.14 puisque j'ai croisé à nouveau des graffitis de **Laser 3.14** un graffiti artiste qui sévit depuis plus de 10 ans dans la capitale hollandaise. Laser 3.14 orne les murs et les surfaces temporaires (palissades, planches, roulottes...) de phrases emblématiques en anglais, qu'il signe d'un [tag](http://fr.wikipedia.org/wiki/Tag_%28graffiti%29) facile à identifier. Quand je suis arrivé à Amsterdam Laser 3.14 était dans tous les quartiers sur toutes les palissades. Aujourd'hui, il est moins fréquent croiser sa prose, mais c'est ce qui m'est arrivé hier soir.
 
 ![Laser 3.14](laser-314-burning-bush.JPG){.center}
+
+<!--excerpt-->
 
 Il faut dire que **Laser 3.14** s'est fait un nom dans le monde des artistes street art. Il expose dans des galeries et a sorti un livre en 2009 ([Are you reading me?](http://www.lebowskipublishers.nl/result_auteur.asp?A_Id=147)). Il en profite aussi pour souiller les murs temporaires d'autres villes comme Londres. Le 3.14 de son nom est une référence à PI. Mais il aime bien indiquer que PI signifie *public image*, un paradoxe puisque comme beaucoup de graffiti artistes, Laser 3.14 ne montre pas trop son visage en public.
 

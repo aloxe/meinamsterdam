@@ -1,19 +1,19 @@
 ---
 layout: base
 title: "Censure de l'Internet aux Pays-Bas"
-description: "2012 ne commence pas bien pour l'internet. Aux États-Unis, la bataille autour de la proposition de loi SOPA présage une censure de l'Internet basée sur les n"
 categorie: dagelijks
-tags: ["politique", "web"]
+tags: ["politique", "internet"]
 isMarkdown: true
 thumbnail: The-Pirate-Bay-special-NL.png
 image_alt: Le Pays-Bas sur la Pirate Bay
 permalink: censure-de-l-internet-aux-pays-bas/
 date: 2012-01-16
 update: 2014-09-11
-TODO: shortened desc
 ---
 
-2012 ne commence pas bien pour l'internet. Aux États-Unis, la bataille autour de [la proposition de loi SOPA](http://fr.wikipedia.org/wiki/SOPA) présage une censure de l'Internet basée sur les noms de domaines, avec tous les dommages collatéraux que ce la implique. Aux Pays-Bas, pas encore de loi mais déjà une décision judiciaire vient d'ordonner deux fournisseurs d'accès de **filtrer 3 IPs et 24 noms de domaines**. Décision exécutoire avant le 21 janvier.
+2012 ne commence pas bien pour l'internet. Aux États-Unis, la bataille autour de [la proposition de loi SOPA](http://fr.wikipedia.org/wiki/SOPA) présage une censure de l'Internet basée sur les noms de domaines, avec tous les dommages collatéraux que ce la implique. Aux Pays-Bas, pas encore de loi mais déjà une décision judiciaire vient d'ordonner deux fournisseurs d'accès de **filtrer 3 IPs et 24 noms de domaines**. Décision exécutoire avant le 21 janvier 2012.
+
+<!--excerpt-->
 
 Les associations de racket autour du droits d'auteurs n'ont pas réussi à faire fermer le site **The Pirate Bay**, fournisseur de fichiers torrents permettant de télécharger des fichiers avec ce protocole. Ce, malgré plusieurs actions de justice notamment en Suède, pays de naissance du Pirate Bay.
 
@@ -30,6 +30,7 @@ Pendant ce temps d'autres groupes mettent en place des miroirs du site ce qui re
 ### Lire aussi
 * [La neutralité d'Internet à la sauce hollandaise](/La-neutralite-Internet-sauce-hollandaise)  
 * [Pirate Bay pas vraiment bloqué aux Pays-Bas](/Pirate-Bay-pas-vraiment-bloque-aux-Pays-Bas)  
-* [The Pirate Bay n'est plus bloqué aux Pays-Bas](/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas)  
+* [The Pirate Bay n'est plus bloqué aux Pays-Bas](/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas) 
+
 ---
 [^1]: Si le verdict est trop long à lire, essayez l'[information diffusée par le tribunal à ce sujet](http://www.rechtspraak.nl/Organisatie/Rechtbanken/Den-Haag/Nieuws/Pages/Ziggo-en-XS4ALL-moeten-toegang-tot-The-Pirate-Bay-blokkeren.aspx)

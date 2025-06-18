@@ -14,8 +14,6 @@ update: 2024-12-18
 TODO: no image, no image alt
 ---
 
-
-
 Paraplu
 
 Bagage
@@ -37,4 +35,3 @@ Privé
 Retraite
 
 Cadeau
----

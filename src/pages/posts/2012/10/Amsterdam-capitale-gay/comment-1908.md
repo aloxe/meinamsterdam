@@ -8,5 +8,5 @@ permalink: false
 ---
 
 <p>Complément sur la loi aux Pays-Bas: Douze ans de #MariagePourTous en Hollande — Un bilan effrayant<br />
-<a href="http://www.minorites.org/index.php/2-la-revue/1436-douze-ans-de-mariagepourtous-en-hollande-%EF%BF%BD-un-bilan-effrayant.html" title="http://www.minorites.org/index.php/2-la-revue/1436-douze-ans-de-mariagepourtous-en-hollande-%EF%BF%BD-un-bilan-effrayant.html">http://www.minorites.org/index.php/...</a></p>
+<a href="http://www.minorites.org/index.php/2-la-revue/1436-douze-ans-de-mariagepourtous-en-hollande-%EF%BF%BD-un-bilan-effrayant.html" title="articles de la revue Minorités">http://www.minorites.org/index.php/...</a></p>
 ---

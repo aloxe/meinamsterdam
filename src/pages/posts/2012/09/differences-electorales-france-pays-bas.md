@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "5 différences électorales dont la France pourrait s'inspirer"
-description: "2012 est une année d'élections dans beaucoup de pays. Egypte, Finlande, Iran, Taïwan, Grèce, Mexique, Quebec, Belgique, États-Unis pour ne citer que les pl"
 categorie: ik-ben-frans
 tags: ["politique"]
 isMarkdown: true
@@ -10,10 +9,12 @@ image_alt:
 permalink: differences-electorales-france-pays-bas/
 date: 2012-09-12
 update: 2012-09-13
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 2012 est une année d'élections dans beaucoup de pays. Egypte, Finlande, Iran, Taïwan, Grèce, Mexique, Quebec, Belgique, États-Unis pour ne citer que les plus médiatisées. Les Pays-Bas se sont invités dans cette liste à la faveur de la [démission du gouvernement de Mark Rutte](/bientot-les-elections-6). 2012 va donc changer la face du monde qu'on le veuille ou non (c'est pas moi, c'est les mayas qui le disent). Sur ce blog, j'ai suivi et commenté les élections françaises et évoqué l'élection néerlandaise. C'est l'occasion idéale pour regarder les différences entre ces deux pays au processus démocratique est bien rôdé.
+
+<!--excerpt-->
 
 ### Les Pays-Bas votent le mercredi, la France le dimanche
 Les Français n'ont trouvé que cette journée où ils pouvaient se rendre disponible pour aller à l'urne. Ceux qui ne le peuvent pas sont surement à la pêche. Hors de question de faire pareil aux Pays-Bas, le dimanche étant le jour du seigneur, il faut en trouver un autre jour, le mercredi. Ce jour peut être décalé si ce mercredi est ferié. Voter en semaine fait du vote un devoir comparable aux autres, comme déposer les enfants à l'école où faire les courses. Les employeurs sont priés de laisser du temps à leurs employés pour ce devoir civique. Les bureaux de vote ouvrent suffisement tôt et ferment suffisamment tard pour accueillir ceux qui ne peuvent pas quiter leur poste.
@@ -30,7 +31,8 @@ En France, la campagne officielle s'arrête deux jours avant le scrutin. Le vend
 
 ### Et la participation ?
 Sans surprise, avec des élections moins nombreuses et organisées en semaine, **les néerlandais sont aussi plus nombreux à se déplacer aux urnes que les français**. Les élections générales affichent régulièrement une participation aux alentour de 80%. Des récentes élections générales, seule l'[élection de 2010](http://blog.re/me-in-amsterdam/index.php/chaises-musicales-et-politiques) a vu une participation en baisse à 75,40%. Cela reste très au dessus du taux de participation habituel aux legislatives françaises qui n'atteind jamais 70% (57,22% au premier tour en 2012). En fait, le taux de participation néerlandais correspond plutôt à celui des élections présidentielles, le scrutin le plus populaire en France. Le premier tour rassemble régulièrement autour de 80% des inscrits (79,48 % en 2012). Léger avantage néerlandais. Aux Pays-Bas, les autres élections sont, elles aussi, moins populaires. En bas de tableau, on trouve les élections provinciales, équivalent des cantonales en France. Dans les deux cas, à peine la moitié des votants se déplacent.
----
+
+
 <!-- post notes:
 http://nos.nl/artikel/417088-peilingwijzer-vvd-pvda-gelijk.html
 --->

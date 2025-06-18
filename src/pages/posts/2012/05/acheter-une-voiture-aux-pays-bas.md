@@ -29,17 +29,16 @@ Après vérification de la cote et de l'état du véhicule[^2], je me suis donc 
 
 Le tout a été fait en deux jours avec une facilité qui m'a déconcerté. Le fait que j'ai tout fait en néerlandais m'a aussi surpris mais après six ans dans ce pays, même si je baragouine, c'est quand même la moindre des choses de m'exprimer dans la langue locale.
 
-## Lire aussi 
-
-* [L'assistance automobile avec ANWB](/Assistance-routiere-ANWB)
-
-* [Se garer à Amsterdam, ça coûte cher](/a-amsterdam-se-garer-coute-cher)
-
-* [Les nouvelles plaques d'immatriculation](/les-nouvelles-plaques-d-immatriculation)
----
+--- 
 [^1]: J'ai choisi [la marque française la plus néerlandaise](/Citroen-marque-francaise-neerlandaise).
 [^2]: Pour vérifier la cote d'occasion de cette voiture, je suis allé sur le site de l'argus mais certains modèles étant différents, il est possible de le vérifier sa cote néerlandaise sur le site de l'[ANWB](/Assistance-routiere-ANWB) dans le rubrique [Koerslijst](http://www.anwb.nl/auto/koerslijst#stap1).
 [^3]: Comme vous le savez, [les bureaux de poste des Pays-Bas vont disparaitre](/la-fin-des-bureaux-de-poste) mais il sera possible de faire ces démarches dans les lieux qui reprendront ces services.
 <!-- post notes:
 https://www.google.nl/maps/dir/Suikerplein,+1013+CL+Amsterdam,+Nizozemsko/AUTO+TOTAAL+HAARLEM,+Zijlweg+294,+2015+CN+Haarlem,+Nizozemsko/@52.3864008,4.6763742,18057m/am=t/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0x47c6082cd02b08ef:0x3617f8aea81cf8e1!2m2!1d4.8810013!2d52.3890702!3m4!1m2!1d4.6441592!2d52.383494!3s0x47c5ef6f6f4e64c9:0xc6e0b0b3740ec983!1m5!1m1!1s0x47c5ef1c96ab2fe1:0xece0a85f411d4be!2m2!1d4.6118232!2d52.3869962!3e1
 --->
+
+## À lire aussi 
+
+* [L'assistance automobile avec ANWB](/Assistance-routiere-ANWB)
+* [Se garer à Amsterdam, ça coûte cher](/a-amsterdam-se-garer-coute-cher)
+* [Les nouvelles plaques d'immatriculation](/les-nouvelles-plaques-d-immatriculation)

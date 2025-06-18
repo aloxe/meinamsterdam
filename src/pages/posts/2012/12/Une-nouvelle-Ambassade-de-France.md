@@ -1,16 +1,14 @@
 ---
 layout: base
 title: Une nouvelle Ambassade de France
-description: "L'ambassade de France a déménagé officiellement en novembre sa nouvelle adresse est %%%  Anna Paulownastraat 76%%%  2518BJ La Haye"
 categorie: ik-ben-frans
 tags: ["administration"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: kodakgebouw.jpg
+image_alt: le bâtiment Kodak 
 permalink: Une-nouvelle-Ambassade-de-France/
 date: 2012-12-01
 update: 2018-08-28
-TODO: no image, no image alt
 ---
 
 L'ambassade de France a déménagé officiellement en novembre sa nouvelle adresse est   
@@ -25,6 +23,8 @@ Le 12 novembre dernier, l'Ambassadeur Pierre Ménat et la conseillère municipal
 
 À la place de l'ancien batiment de l'ambassade de France, sera construit un nouveau qui habritera la cour suprême des Pays-Bas.
 
+<!--excerpt-->
+
 ![Kodakgebouw](kodakgebouw.jpg){.right}
 ## Mise à jour d'adresse.
 Aujourd'hui, 1er décembre, lorsque j'écris cet article, il semble que tout le monde ne soit pas au courant de ce changement. **Une recherche dans Google me donne toujours l'ancienne adresse** avec la route pour m'y rendre et tout et tout. 
@@ -32,6 +32,7 @@ Aujourd'hui, 1er décembre, lorsque j'écris cet article, il semble que tout le 
 **Le consulat à Amsterdam non plus ne semble pas être au courant** puisque le site annonce toujours l'[ancienne adresse](http://www.consulfrance-amsterdam.org/Ambassade-de-France-a-La-Haye). Heureusement, on peut cliquer sur les liens offert par ces deux sites et retrouver la nouvelle adresse et des jolies photos [sur le site de l'Ambassade](http://www.ambafrance-nl.org/Nouvelle-adresse-pour-l-Ambassade).
 
 On peut aussi aller sur Wikipedia, l'[ambassade de France y est référencée](http://fr.wikipedia.org/wiki/Ambassade_de_France_aux_Pays-Bas) avec sa nouvelle adresse. La modification y a été faite [le 22 novembre](http://fr.wikipedia.org/w/index.php?title=Ambassade_de_France_aux_Pays-Bas&diff=85641771&oldid=81685258) par [213.148.236.81](http://www.concepts.nl/). Du coup, je me demande quel est le fournisseur d'accès internet de l'Ambassade[^1].
+
 ---
 [^1]: Si cette histoire vous rappelle [les éditions de la princesse](/editions-de-la-princesse), sachez qu'à moi aussi.
 <!-- post notes:

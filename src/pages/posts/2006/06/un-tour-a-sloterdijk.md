@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Un tour à Sloterdijk
-description: La semaine dernière je suis retourné à Sloterdijk, un de ces n?uds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour al
+description: La semaine dernière je suis retourné à Sloterdijk, un de ces nœuds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour al
 categorie: toering
 tags: ["Amsterdam", "architecture"]
 isMarkdown: true
@@ -13,7 +13,7 @@ update: 2014-12-18
 TODO: shortened desc
 ---
 
-La semaine dernière je suis retourné à Sloterdijk, un de ces n?uds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour aller à Haarlem, Schiphol ou La Haye sans passer par le centre. Il y a aussi une station de métro et des terminus de trams et de bus. le Ring (autautoute A10) qui passe à coté peut vous conduire jusqu'à [un Park and Ride](/a-amsterdam-se-garer-coute-cher) proche de cette gare.
+La semaine dernière je suis retourné à Sloterdijk, un de ces nœuds urbains qui entourent la ville. À NS Station Sloterdijk, on peut prendre le train pour aller à Haarlem, Schiphol ou La Haye sans passer par le centre. Il y a aussi une station de métro et des terminus de trams et de bus. le Ring (autautoute A10) qui passe à coté peut vous conduire jusqu'à [un Park and Ride](/a-amsterdam-se-garer-coute-cher) proche de cette gare.
 Autour de ce lieu, les tours de bureaux ont poussé et c'est dans l'une d'elle que je suis déjà [allé chercher mon SoFi nummer](/sophie-pas-numero). 
 
 ## La Crystal Tower

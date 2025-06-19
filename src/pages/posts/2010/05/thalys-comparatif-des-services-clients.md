@@ -1,19 +1,19 @@
 ---
 layout: base
 title: "Thalys : comparatif des services clients"
-description: "Suite aux différents déboires auxquels j'ai du faire face en allant à Paris en Thalys, j'ai eu droit à plusieurs remboursements et j'ai voulu tester pour vo"
 categorie: ik-ben-frans
-tags: []
+tags: ["thalys", "transports"]
 isMarkdown: true
 thumbnail: vouchers-surprise.jpg
 image_alt: Moi et mes vouchers
 permalink: thalys-comparatif-des-services-clients/
 date: 2010-05-17
 update: 2014-09-10
-TODO: shortened desc
 ---
 
 Suite aux différents déboires auxquels j'ai du faire face [en allant à Paris en Thalys](/le-thalys-a-moins-grande-vitesse), j'ai eu droit à plusieurs remboursements et j'ai voulu tester pour vous les différents services clientèle Thalys pour vous faire part des avantages et des inconvénients. En **Belgique** et en **France** le service client est chez **Thalys** à Bruxelles alors qu'aux **Pays-Bas**, c'est **Hi-Speed**, la **filiale de NS** qui assure le service. Les engagements commerciaux sont les mêmes mais leur application peut varier.
+
+<!--excerpt-->
 
 ## La méthode
 Pour des retards équivalents, j'ai renvoyé les billets utilisés et le formulaire de remboursement dument rempli avec même demande et mon adresse à Amsterdam. Pour les mêmes voyages j'ai envoyé une paire de tickets à Hi-Speed et une paire de tickets à Thalys-Bruxelles. Les billets ont été utilisés pour le même voyage, un aller Amsterdam-Paris avec 3 heures de retard et sans restauration, un Paris-Amsterdam avec 1h20 de retard.
@@ -49,5 +49,6 @@ La palme du foutage de gueule revient à la compagnie néerlandaise qui oblige l
 
 ## Troisième conclusion
 Mieux vaut ne pas arriver en retard. Avec le beau temps et la fin des problèmes sur le réseau belge, les trains Thalys commencent à nouveau à ne pas être tous en retard. Pour ceux qui ne veulent pas tenter le diable dans des rames vieilles de plus de dix ans, il y a plein d'autres solutions pour rallier les deux villes. La dernière que j'ai pratiquée est le covoiturage, ça marche bien et c'est sympa.
+
 ---
 [^1]: lire *billets et biais* dix fois tous les matins.

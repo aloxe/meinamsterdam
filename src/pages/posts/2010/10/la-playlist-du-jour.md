@@ -1,23 +1,24 @@
 ---
 layout: base
 title: La playlist du jour
-description: "Aujourd'hui encore j'ai risqué un tour à vélo alors que le ciel n'était pas vraiment bleu. Comme il fallait s'y attendre, il s'est mis à pleuvoir. J'ai fau"
 categorie: dagelijks
 tags: ["bière", "musique"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: cafebrun-400.jpg
+image_alt: café brun
 permalink: la-playlist-du-jour/
 date: 2010-10-02
 update: 2012-10-17
-TODO: no image, no image alt, shortened desc
 ---
 
 Aujourd'hui encore j'ai risqué un tour à vélo alors que le ciel n'était pas vraiment bleu. Comme il fallait s'y attendre, il s'est mis à pleuvoir. J'ai faut comme quand il fait trop chaud, je me suis réfugié dans un bar en attendant que ça passe. Cette fois ci, grâce à mes quatre mots de néerlandais, j'ai pu échanger un peu plus avec les autochtones.
 
+<!--excerpt-->
+
 ## les café bruns 
 
-[![http://farm4.static.flickr.com/3583/3306652628_8c697b67b2_m.jpg](café brun à Breukeleun){.right}](http://www.flickr.com/photos/13274211@N00/3306652628/)
+[![Café brun à Breukelen deux clients et la patrone](cafebrun-400.jpg){.center}](http://www.flickr.com/photos/13274211@N00/3306652628/)
+
 Je ne vous ai jamais parlé des cafés bruns des Pays Bas, ces cafés sont appelés bruns parce que la plupart du temps ils ont une athmosphère réchauffante parce que étriquée et tapissée de lambris ou autre lattes de bois. La couleur brune peut aussi venir de l'ancienneté de la décoration qui a absorbé plus de fumée de cigarette que Serge Gainsbourg dans toute sa vie. À Amsterdam, les cafés bruns s'opposent aux cafés blancs, spacieux design et limuneux ou la clientèles semble moins authentique. [Le Jaren](/la-reprise-du-jaren) est un exemple de café blanc. 
 
 ## de banlieue et d'ailleurs
@@ -39,5 +40,6 @@ Je suis rentré pour prendre une bière, garder la monnaie et attendre que la pl
 * [Julien Clerc - Ce n'est rien](http://www.dailymotion.com/video/x2f40r_julien-clerc-ce-n-est-rien_music)
 
 Certain pourraient se plaindre que la playlist est un peu ancienne mais ce sont des chanson de la même époque que j'ai entendu en anglais et néerlandais en entrant dans le bar. Après ces trois morceaux, la stéréo a repris sa playlist anglo-saxonne. La pluie ayant cessée, je finis ma bière et m'en vais.
+
 ---
-[^1]: Voir [le blog de drooderfiets](http://drooderfiets.tumblr.com/post/220776468/badoeverdorp-houses)
+[^1]: Voir [le blog de drooderfiets](https://pixelfed.social/p/drooderfiets/841268900171266894)

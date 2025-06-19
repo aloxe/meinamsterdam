@@ -5,20 +5,23 @@ description:
 categorie: dagelijks
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: lumieres-noel.jpg
+image_alt: décorations de noël
 permalink: saint-nicolas-ne-concurence-pas-noel/
 date: 2010-12-13
 update: 2010-12-14
-TODO: no image, no image alt
+subfooters:
+ - noel
 ---
-
-
 
 Saint Nicolas est passé et les enfants sages ont eu leur cadeaux. Tout le monde est content, les [zwarte piets](/qui-est-tu-zwarte-piet) on disparu des vitrines et ont été remplacés par des décorations de noël. Cette autre fête importante permet encore aux commerçants de faire des affaires. Autant Saint Nicolas est une tradition bien néerlandaise que le pays a su conserver, autant noël subit les influences de ce qu'il se passe en divers pays pour célébrer cette fête.
 
+<!--excerpt-->
+
 ## Les décorations de noël
-[![http://farm6.static.flickr.com/5204/5255570946_11873b8d4b_m.jpg](décorations de noël à Amsterdam){.left}](http://www.flickr.com/photos/13274211@N00/5255570946/)
+
+[![décorations de noël dans une rue pluvieuse d'Amsterdam](lumieres-noel.jpg){.center}](http://www.flickr.com/photos/13274211@N00/5255570946/)
+
 Elle sont présentes dans chaque rue commerçante, payées par les magasins qui donnent ainsi un cachet à leur rue. Par exemple les décorations des [9 ruelles](/les-neuf-ruelles-9-straatjes) portent un gros **9**. Les décorations de fin d'année sont aussi là pour la Saint Nicolas car on commence à les accrocher dès début novembre. 
 Je ne connais pas l'origine des décorations de fin d'année. On peut peut être les attribuer à Lyon qui fête les lumières à la même époque. Les juifs aussi fêtent les lumières [à Hanouka](/nouveau-mot-chanoeka).
 
@@ -36,6 +39,3 @@ Comme dans de nombreux pays, les néerlandais participent au plus gros **carnage
 
 ## Les chansons de noël
 Les chanteurs anglais et étasuniens aiment bien sortir des **chansons de noël**. Ils savent qu'avec un peu de chance ils se retrouveront sur une compilation de noël aux cotés de Band Aid, Wham# ou John Lennon. Les Néerlandais raffolent de ces compilations de saison. 4 magasins sur 5 passent en boucle ces chansons de noël et les playlists des radios s'agrémentent de chansons avec cloches et grelots. Cette tradition anglo-saxone a vraiment bien pris ici et on entend parfois des adaptations bataviennes de chansons de noël, comme cette [chanson de Kus](/chanson-de-noel) que je vous ai présenté en 2006.
-
-Voir aussi [Les noëls des Pays-Bas](/noel-des-pays-bas)
----

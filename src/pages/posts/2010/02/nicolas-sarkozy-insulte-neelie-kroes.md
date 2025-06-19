@@ -22,6 +22,7 @@ Chapeau bas de la part de tous? non, une petit teigneux résiste encore à l'ass
 Qu'apprend-on dans le canard enchaîné? Sarkozy aurait dit que Mme Kroes « n'a pas plus de deux neurones dans sa tête », que, si l'idiotie entrainait des punitions, « Kroes serait corrigée sans pitié »? Bon c'est vrai qu'il est pas finaud, le Sarko, il avait des arguments pour répondre à l'eurocommissaire, il n'y avait pas besoin de sortir une tirade à la « casse-toi pov'con ». On sait déjà qu'il est copain avec Berlusconi, c'est pas la peine d'en rajouter. Mais bon, on ne refait pas l'homme ce qui est sorti est sorti et voilà que les Néerlandais se déchainent.
 
 **Hans Van Baalen**, député VVD a demandé à ce que le Président de la République présente ses excuses tandis que le premier ministre **Jan Peter Balkenende** (CDA) voudrait saisir **Herman Van Rompuy** le tout nouveau président de l'UE (celui qui occupe le poste qu'il aurait aimé). Biensur il n'en sera rien mais ces déclarations sont reprisent [dans la presse](http://www.depers.nl/binnenland/default.aspx?Id=421250) ce qui permet au Telegraff de faire [un long papier](http://www.telegraaf.nl/binnenland/5906006/__Sarkozy_kwetst_Kroes__.html) bien polémique comme on les aime.
+
 ---
 [^1]: Quoi que l'assentiment ne soit pas si général que ça, Neelie Kroes a été un peu légère pour présenter son nouveau commissariat devant les députés européens et [elle va devoir repasser une audission](http://www.paperblog.fr/2727488/copie-a-revoir-neelie-kroes-repassera-devant-les-eurodeputes/).
 <!-- post notes:

@@ -17,7 +17,7 @@ Cette promesse inattendue du candidat à la présidentielle a suscitéé un
 vif débat au second semestre 2007. Le système de bourses, efficace et
 éprouvé, permettait déjà aux familles dobtenir, sous conditions financières, tout ou partie de la prise en charge par lEtat des frais de scolarité de leurs enfants. On aurait donc pu sattendre à voir ce système
 abondé, apportant plus de générosité la ou cela est encore nécessaire.
-Une mesure non débattue et trop rapidement mise en uvre
+Une mesure non débattue et trop rapidement mise en œuvre
 Cest tout linverse dun processus démocratique participatif qui fait remonter les besoins des citoyens; la décision sest imposée à tous den
 haut, sans débat, avec limpératif dune mise en uvre rapide pour laquelle seulement les Conseillers à lAFE ont été consultés pour avis au
 début de lété. L AEFE (Agence pour lEnseignement Français a lEtranger), représentant le Ministère des affaires étrangères, a été chargée

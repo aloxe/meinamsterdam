@@ -36,6 +36,7 @@ Malgré tout ça, j'ai pu partager quelques moments sympathiques avec quelques u
 ## Maastricht
 
 Avec tout ça, j'ai peu eu le temps de visiter la ville (en dehors des bars) mais le social du mercredi était au bord de la meuse ce qui m'a quand même permis d'apprécier le paysage... Je vous montrerais des photos plus tard si j'ai le temps.
+
 ---
 [^1]: En fait il s'aggit bien du Limbourg Septentrional, ou Limbourg Néerlandais au nord de la province belge du même nom.
 [^2]: Le terme original est *rough consensus* cela indique qu'il n'est pas toujours possible d'obtenir un consensus clair mais ceux qui président les groupes de travail peuvent prononcer ce consensus si les oppositions au texte sont diffuses, hasardeuses ou clairsemées. Les décisions peuvent être appelées ce qui oblige le président de groupe de travail à être à l'écoute de tous.

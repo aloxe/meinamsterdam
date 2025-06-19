@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Voyage en Zélande: Traverser l'Escaut"
-description: "[|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end d'août Je suis retourné en Zélande pour voir si Drooderfiets, mon nouveau"
 categorie: nederlandjes
 tags: ["Belgique", "géographie", "mots", "vélo"]
 isMarkdown: true
@@ -10,12 +9,15 @@ image_alt: "L'Escault et Anvers"
 permalink: voyage-en-zelande-traverser-l-escaut/
 date: 2010-09-02
 update: 2014-08-20
-TODO: shortened desc
+subfooters:
+ - drooderfiets
 ---
 
-[![Tour de Zélande](carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end d'août Je suis retourné en Zélande pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), apprécieraient le paysage. [La dernière fois que j'y suis allé, en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) dans cette province maritime du sud.
+![Tour de Zélande](carte-tour-zelande_s.jpg){.left} Le week end d'août Je suis retourné en Zélande pour voir si [Drooderfiets](https://pixelfed.social/drooderfiets), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), apprécieraient le paysage. [La dernière fois que j'y suis allé, en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire [une petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) dans cette province maritime du sud.
 
 ## 1ère partie: Traverser l'Escaut
+
+<!--excerpt-->
 
 Il n'y a qu'une voie ferrée en Zélande, Elle va de Rosendaal à Flessingue (*Vlissingen*) en traversant la presqu'île de [Beveland du Sud](http://fr.wikipedia.org/wiki/Zuid-Beveland) et de [Walcheren](http://fr.wikipedia.org/wiki/Walcheren). Pour pouvoir retourner au bord de la Belgique, en Flandre Zélandaise, il faut traverser l'[Escaut Occidental](http://fr.wikipedia.org/wiki/Escaut_occidental). Le large estuaire est le seul accès à la mer du port d'Anvers, il est donc hors de question de construire des ponts d'une rive à l'autre. Il faut laisser la voie libre aux bateaux qui rallient le premier port de Belgique, un des plus grands d'Europe.
 
@@ -27,7 +29,7 @@ Le gain de temps pour les automobilistes est énorme et les liaisons par bateau 
 
 La Zélande est une province très touristique et une seule liaison ne permet pas de satisfaire les nombreux randonneurs qui se promènent sur les polders sous le vent estival[^1]. Certains ont donc eu la bonne idée d'offrir un service de bac aux piétons et aux cyclistes accompagnés de leurs montures en différents points de la province. [Ce service](http://www.rondjepontje.nl/nl/welke.lp) n'est disponible que pendant les 3 mois d'été (juin, juillet et août) et coûte plus cher que le ferry régulier. Il couvre néanmoins de nombreux endroits en Zélande, ce qui offre un large choix de randonnées entre terre et mer.
 
-> Pour en savoir plus sur les ferrys (*Pontjes*) en Zélande voyez le [site de l'office de tourisme qui les liste](http://routes.vvvzeeland.nl/nl/rondje-pontje/pontjes). 
+> Pour en savoir plus sur les ferrys (*Pontjes*) en Zélande voyez le [site de l'office de tourisme qui les liste](http://routes.vvvzeeland.nl/nl/rondje-pontje/pontjes). *
 
 ### Nouveau mot : Pontje
 *Pontje* est le diminutif de *pont*. Contrairement à son homonyme français le *pont* n'est pas un ouvrage d'art. Il désigne à l'origine une **barge** transportant les hommes ou les animaux sur les nombreux canaux du pays. Accouplé avec le mot *veer* qui signifie ferry, il devient pontveer et désigne un bac assurant la liaison entre deux rives d'un cours d'eau. En fait, on peut appeler tout bac ou ferry *pont*, ou *pontje* comme le fait le site de l'office de tourisme précité. On trouve aussi le nom de *veerboot*, traduction littérale du 'ferryboat'' anglais et qui désigne les mêmes bateaux.
@@ -39,6 +41,7 @@ J'ai profité de **mon dernier week-end d'août aux Pays-Bas** pour tester ces t
 ## 2ème partie: Un petit tour à vélo
 
 [Lire la suite de mon voyage en Zélande](/a-nouveau-en-zelande)
+
 ---
 [^1]:  Bien que province méridionale, la Zélande reste aux Pays-Bas, le vent estival n'est pas forcément une agréable brise. En fait, la Zélande, province maritime plate est souvent balayée par des bourrasques
 <!-- post notes:

@@ -63,7 +63,7 @@ Dernière photo, glanée sur facebook, puis ailleurs. Photo qui vous fait penser
 <!-- ![https://c1.staticflickr.com/5/4053/4718142990_89ee582590_z.jpg](bouteilles de lait){.center} 
 TODO: external ressource
 -->
----
+
 <!-- post notes:
 https://endasscicli.wordpress.com/2010/06/30/mondiali2010-le-bionde-hostess-birraie-olandesi/ 
 oranje meiden

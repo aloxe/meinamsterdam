@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Sinterklaas, ou simplement SINT
-description: 
 categorie: nederlandjes
 tags: ["cinéma"]
 isMarkdown: true
@@ -13,11 +12,11 @@ update: 2022-08-08
 TODO: no image, no image alt
 ---
 
-
-
 La Saint Nicolas approche à grand pas et je n'en ai pas encore parlé. Il faut dire que j'ai déjà abordé le sujet à plusieurs reprises. [Saint Nicolas est arrivé](/sinterklaas-est-arrive) avec son compagnon [Zwaarte Piet](/sinterklaas-est-arrive). Il est [passé dans la ville](/saint-nicolas-est-revenu-sinterklaas-is-terug). Les gens achètent des cadeaux pour les enfants et des [lettres en chocolat](/les-lettres-en-chocolat) pour *pakjesavond*, le soir des paquets cadeau, le 5 décembre...
 
 [Une plaque sur Dam, représentant le saint](/sinterklaas-op-de-dam-il-est-toujours-la) nous rappelle que ce personnage a une longue histoire mais ce que les gens savent moins c'est sa vraie histoire qui nous est racontée dans un film. Ce Film sorti en salle il y a un peu plus d'un mois raconte la véritable histoire de *Sinterklaas*. Pour faire encore plus vrai, on l'appelle par son petit nom: **Sint**.
+
+<!--excerpt-->
 
 voici la bande annonce:
 <!-- HTML -->
@@ -33,4 +32,3 @@ voici la bande annonce:
 * [Sinterklaas op de Dam, il est toujours là](/sinterklaas-op-de-dam-il-est-toujours-la)  
 * [Le passage de Sinterklaas](/le-passage-de-sinterklaas)
 * [Où vas-tu Zwarte Piet ?](/ou-va-Zwarte-Piet)
----

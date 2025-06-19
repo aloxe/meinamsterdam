@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "On revient sur la dispense d'interdiction de fumer"
-description: "En 2008, j'annonçais que le France tout comme les Pays-Bas allaient interdire de fumer dans tous les lieux publics sans exception. Un des points communs dans l"
 categorie: nederlandjes
 tags: ["administration", "mots"]
 isMarkdown: true
@@ -37,7 +36,7 @@ Laurent Chambon [nous a expliqué en 2009](http://www.laurentchambon.net/2009/06
 
 En 2010, **Edith Schippers**, ministre de la santé du [gouvernement minoritaire de droite-libérale](/un-gouvernement-minoritaire) a révisé la loi pour autoriser les petits cafés (moins de 70m² et pas de personnel) à ne pas appliquer cette loi, malgré un avis du Conseil dÉtat (*Raad van State*) [très défavorable](http://www.raadvanstate.nl/adviezen/samenvattingen/tekst-samenvatting.html?id=68).
 
-![Un café brun où l'on ne fume plus](cafe-brun.jpg){.center}
+![Un café brun où l'on ne fumme plus](cafe-brun.jpg){.center}
 
 ### Le CAN contre attaque
 

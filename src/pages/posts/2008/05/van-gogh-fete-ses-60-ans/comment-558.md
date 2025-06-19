@@ -14,9 +14,9 @@ permalink: false
 <br/><br/>
 Cette promesse inattendue du candidat à la présidentielle a suscité un vif débat au second semestre 2007. Le système de bourses, efficace et éprouvé, permettait déjà aux familles dobtenir, sous conditions financières, tout ou partie de la prise en charge par lEtat des frais de scolarité de leurs enfants. On aurait donc pu sattendre à voir ce système abondé, apportant plus de générosité là où cela est encore nécessaire.
 <br/><br/>
-Une mesure non débattue et trop rapidement mise en uvre
+Une mesure non débattue et trop rapidement mise en œuvre
 <br/><br/>
-Cest tout linverse dun processus démocratique participatif qui fait remonter les besoins des citoyens; la décision sest imposée à tous den haut, sans débat, avec limpératif dune mise en uvre rapide pour laquelle seulement les Conseillers à lAFE ont été consultés pour avis au début de lété. L AEFE (Agence pour lEnseignement Français à lEtranger), représentant le Ministère des affaires étrangères, a été chargée délaborer dans lurgence les conditions dapplication de la mesure dans un premier temps pour les classes de Terminale dès la rentrée de septembre 2007, puis les années suivantes pour les classes de Première et de Seconde.
+Cest tout linverse dun processus démocratique participatif qui fait remonter les besoins des citoyens; la décision sest imposée à tous den haut, sans débat, avec limpératif dune mise en œuvre rapide pour laquelle seulement les Conseillers à lAFE ont été consultés pour avis au début de lété. L AEFE (Agence pour lEnseignement Français à lEtranger), représentant le Ministère des affaires étrangères, a été chargée délaborer dans lurgence les conditions dapplication de la mesure dans un premier temps pour les classes de Terminale dès la rentrée de septembre 2007, puis les années suivantes pour les classes de Première et de Seconde.
 <br/><br/>
 Des conséquences encore difficiles à évaluer
 <br/><br/>

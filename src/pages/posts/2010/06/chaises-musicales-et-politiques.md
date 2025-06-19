@@ -35,6 +35,7 @@ Même chose dans les partis d'opposition. Cela peut paraitre évident pour **Ger
 Seul parti d'opposition à présenter une nouvelle tête de liste est le SP, tout à gauche du spectre politique néerlandais. Ce parti avait été porté au pinacle par **Jan Marijnissen** leader charismatique à poigne dont le sommet fut l'arrivé en troisième place aux élections générales de 2006, avec 25 sièges. Jan Marijnissen a commencé à avoir de graves problèmes de santé en 2008 et a laissé sa place à **Agnes Kant**. Cette dernière, vu les résultats des élections municipales [montrant la déconfiture du SP](/les-pays-bas-basculent-a-droite), a cédé sa place à son colègue de parti **Emile Roemer** Un homme neuf dans cette arène puisqu'il n'est député que depuis 2006.
 
 Les élections ont lieu le 9 juin prochain. Nous saurons alors lequel de ces noms en gras pourra prétendre devenir **Premier Ministre des Pays-Bas**.
+
 ---
 [^1]: Oui je sais, ça sonne mal mais on va dire que j'ai laissé cette formule exprès.
 [^2]: Femke Helsema a un avantage, elle n'a jamais participé à un gouvernement, elle n'a donc aucune casserole. Mais les électeurs ont la mémoire courte et le charismatique Alexander Pechtold semble placer le D66 en bonne position dans les sondages.

@@ -19,6 +19,8 @@ Voilà longtemps que je n'ai pas parlé des expos de photos en plein air. Cette 
 
 L'exposition s'appelait **les premières photos d'Amsterdam 1845 - 1875** (''de eerste foto's van Amsterdam 1845 - 1875'')[^1]. Vu les dates, il est fort probable que ces photos soient vraiment les premières, elles ont été collectées par le les [archives municipales d'Amsterdam](http://stadsarchief.amsterdam.nl/).
 
+<!--excerpt-->
+
 Cette exposition est sortie des murs des archives pour aller dans la rue. De grands panneaux montraient ces photos noir et blanc à proximité de là ou elles ont été prises. Une vision d'Amsterdam d'hier et d'aujourd'hui d'un seul regard.
 
 ![photo en plein air](photos-plein-air.jpg){.center}

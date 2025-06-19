@@ -1,21 +1,21 @@
 ---
 layout: base
 title: "Les nouvelles bières d'automne"
-description: "Je vous ai déjà parlé de ces produits saisonniers que sont les Herfst bokbieren ou bières d'automne. Je vous ai aussi souligné qu'elles étaient de retour "
 categorie: nederlandjes
 tags: ["bière"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Bock-bieren-van-Nederland-2010.jpg
+image_alt: rangée de bouteiles de bière
 permalink: les-nouvelles-bieres-d-automne/
 date: 2010-10-30
 update: 2014-12-08
-TODO: no image, no image alt, shortened desc
 ---
 
 Je vous ai déjà parlé de ces produits saisonniers que sont les *Herfst bokbieren* ou [bières d'automne](/la-herfst-bokbier-biere-d-automne). Je vous ai aussi souligné qu'elles étaient de retour dans mon article [en vrac d'automne](/en-vrac-et-en-automne). Mais voilà, j'aime bien cette bière au goût sucré et je m'en suis fait une petite provision. J'en ai proffité pour faire une jolie photo de genre que l'on retrouve maintenant [sur Wikipedia](/les-nouvelles-bieres-d-automne)
 
-[![http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/640px-Bock-bieren-van-Nederland-2010.jpg](Les bières d'automne des Pays Bas){.center}](http://commons.wikimedia.org/wiki/File:Bock-bieren-van-Nederland-2010.jpg)
+[![12 bières d'automne des Pays Bas bien allignées](Bock-bieren-van-Nederland-2010.jpg){.center}](http://commons.wikimedia.org/wiki/File:Bock-bieren-van-Nederland-2010.jpg)
+
+<!--excerpt-->
 
 Le titre de la photo *Bock bieren van Nederland 2010* signifie **les bières d'automne des Pays-Bas 2010** Si l'on compare avec [ma photo précédente](http://commons.wikimedia.org/wiki/File:Bock-bieren-van-Nederland.jpg) datant de 2008 on peut voir que l'on y retrouve les bouteilles de **La Trappe** ou d'**Heineken** mais on voit de gros changement d'étiquettes comme sur la bouteille de **Bavaria**.
 
@@ -60,4 +60,3 @@ Troisième grande brasserie industrielle nationale basée en [Gueldre](/les-prov
 Autre grande marque nationale et autre brasserie du Limbourg, c'est la brasserie la plus ancienne des Pays-Bas.
 
 voir aussi [Les brasseries Néerlandaises](/les-brasseries-neerlandaises)
----

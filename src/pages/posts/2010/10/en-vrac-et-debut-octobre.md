@@ -15,6 +15,8 @@ TODO: shortened desc
 
 Ce vendredi l'actualité était chargée avec l'annonce d'un accord de gouvernement et l'entrée en vigueur de la nouvelle loi interdisant les squats. Le week end n'a pas été moins chargé...
 
+<!--excerpt-->
+
 ### Bientôt un nouveau gouvernement bien à droite
 Depuis les élections législatives de juin, le gouvernement n'avait toujours pas été constitué. Ce sera bientôt chose faite, avec [un gouvernement brun et minoritaire](/un-gouvernement-minoritaire)  puisque les trois partis en présence ont annoncé un accord vendredi. Sur cet accord, tout le monde y allait de son petit commentaire, qui de l'interdiction de la burka, qui du retour de la cigarette dans les bars, qui de la taxation des tickets de théâtre... Que des bonnes choses. La **revue de presse francophone** a listé les [points principaux de l?accord de gouvernement](http://www.ambafrance-nl.org/france_paysbas/spip.php?article12273) d'après le *Trouw*.
 
@@ -23,9 +25,9 @@ Mais le gouvernement n'est pas encore formé et il restait au CDA, le parti dém
 Ah, j'y pense, il y a deux députés du CDA qui ont démissionné pour montrer leur désaccord avec ce projet de gouvernement. Il n'en faudrait que deux autre qui au lieu de démissionner, fondent leur groupe, pour que le gouvernement n'ait plus une majorité le soutenant à la chambre basse...
 
 ### La fin des squats
-Pendant ce temps là le gouvernement de transition avait fait passé une loi pour rendre illégal le fait d'occuper un immeuble sans autorisation. La loi est entrée en vigueur le 1er octobre 2010 et s'en est fini de la spécificité néerlandaise pour les squats. La communauté des *krakers* a donc réagit en organisant plusieurs actions au centre ville d'Amsterdam. Le week-end dernier ils campaient sur la place du Dam. Ce vendredi, ils défilaient entre Damrak et Spui, derrière une banderole affirmant «vos lois ne sont pas les notres» (*Julie wetten niet de onze*) ([Voir photos sur nu.nl](http://www.nufoto.nl/fotos/170817/krakers-demonstreren-op-het-damrak-in-amsterdam.html)). La manifestation a dégénéré et les violences ont duré jusque tard dans la nuit. Le journal popu *Telegraph* montrait une photo de guerre civile en première page. 
+Pendant ce temps là le gouvernement de transition avait fait passer une loi pour rendre illégal le fait d'occuper un immeuble sans autorisation. La loi est entrée en vigueur le 1er octobre 2010 et s'en est fini de la spécificité néerlandaise pour les squats. La communauté des *krakers* a donc réagit en organisant plusieurs actions au centre ville d'Amsterdam. Le week-end dernier ils campaient sur la place du Dam. Ce vendredi, ils défilaient entre Damrak et Spui, derrière une banderole affirmant «vos lois ne sont pas les notres» (*Julie wetten niet de onze*) ([Voir photos sur nu.nl](http://www.nufoto.nl/fotos/170817/krakers-demonstreren-op-het-damrak-in-amsterdam.html)). La manifestation a dégénéré et les violences ont duré jusque tard dans la nuit. Le journal popu *Telegraph* montrait une photo de guerre civile en première page. 
 
-Il se trouve que j'étais dans le quartier à boire des coups ce soir là. J'ai vu passé de nombreux cars de police ainsi qu'un hélico qui a tourné pendant des heures.
+Il se trouve que j'étais dans le quartier à boire des coups ce soir là. J'ai vu passer de nombreux cars de police ainsi qu'un hélico qui a tourné pendant des heures.
 
 ![hélico de la police au dessus de la ville](helico-police-s.jpg){.center}
 
@@ -42,4 +44,3 @@ L'un des points de l'accord de gouvernement est le retour de l'autorisation de f
 
 ### Carnet nomade
 Pendant que certains commentaient les résultats du congrès du CDA, d'autres passaient leur dimanche à écouter la radio. Ayant du rangement et du ménage à faire à la maison, j'ai opté pour la deuxième solution. Ce dimanche, à 14h00 sur France Culture c'était «Carnet Nomade». Ce dimanche, Collette Fellous nous emmenait à Amsterdam. [Son carnet de route](http://www.franceculture.com/emission-carnet-nomade-un-jour-a-amsterdam-2010-10-03.html), réalisé avant l'accord de gouvernement, revient sur le feuilleton des négociations et nous fait visiter les quartiers de quelques personnalités francophones de *Mokum A*. Très enrichissant, [à écouter](http://www.franceculture.com/player?p=reecoute-2863441#reecoute-2863441) sans attendre.
----

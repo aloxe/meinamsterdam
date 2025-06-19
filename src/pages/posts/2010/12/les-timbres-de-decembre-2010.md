@@ -10,9 +10,9 @@ image_alt: Timbre de saison
 permalink: les-timbres-de-decembre-2010/
 date: 2010-12-22
 update: 2016-01-15
+subfooters:
+ - timbres
 ---
-
-
 
 En 2010 comme dans et comme tous les ans, [TNT](/la-poste-prends-les-couleurs-d-halloween), la principale compagnie postale Pays-Bas, lance ses [timbres de saison](/timbres-en-promo). Grâce à ces timbres il est possible d'envoyer de jolis cartes de voeux pour un coût moindre que [le tarif habituel](/augmentation-du-prix-du-timbre). Les timbres [s'achètent](http://onlinewinkel2.tntpost.nl/pages/detail/s1/10220000001123-2-21010000000080.aspx) par planche de 20 au prix de 6,80 ? au lieu de 8,80 ? au tarif habituel.
 
@@ -28,12 +28,3 @@ La nouveauté de cette année 2010 tient du fait que les timbres n'ont aucune va
 ## Pas de tarifs avantageux pour l'étranger
 En 2007, j'indiquait que les envois de cartes pour l'étranger bénéficient d'un acheminement rapide au tarif économique. Hélas, avec la nouvelle numérotation des timbres, il semble que le tarif lent n'existe plus. Il n'y a donc plus d'avantage pour ceux aui ont beaucoup de famille à l'étranger. Une ségrégation de plus qui est bien dans l'air du [nouveau gouvernement du pays](/en-vrac-et-debut-octobre).
 
-**voir aussi:**
-
-* [Timbres de décembre en 2006](/augmentation-du-prix-du-timbre)
-* [Timbres de décembre en 2007](/timbres-en-promo)
-* [Timbres de décembre en 2008](/les-timbres-de-saison)
-* désolé, je n'ai pas ceux de  2009
-* désolé, je n'ai pas ceux de 2011
-*  [Timbres de décembre en 2012](/Les-timbres-de-decembre-ont-25-ans)
----

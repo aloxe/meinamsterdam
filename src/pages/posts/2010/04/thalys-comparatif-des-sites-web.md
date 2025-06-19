@@ -43,4 +43,3 @@ Aucun site ne mérite d'être nominé à un concours de site web. Mais depuis le
 
 ## Et le site de la compagnie Thalys ?
 Le site [Thalys.com](http://www.thalys.com/) n'est pas vraiment un site de vente de billet. Les interfaces utilisés sont celle des pays choisit à l'entrée du site pour la réception des billets. Même procédure que Rail-BE pour la Belgique, Hi-Speed pour les Pays-Bas et voyages-SNCF pour la France. Thalys.com offre néanmoins l'avantage de traduire chacune de ces interfaces dans les *quatre langues Thalys*. Pratique pour les français qui veulent acheter via Hi-Speed et ont des problèmes avec le khreukhreu.
----

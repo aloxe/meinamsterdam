@@ -1,7 +1,6 @@
 ---
 layout: base
 title: En vrac et en automne
-description: "Parce que je n'ai pas le forcément le temps de vous parler de tout ce qui change dans ma vie, je reprends cette bonne habitude des «en vrac»..."
 categorie: dagelijks
 tags: ["bière", "transports"]
 isMarkdown: true
@@ -12,16 +11,19 @@ date: 2010-10-14
 update: 2013-10-16
 ---
 
-Parce que je n'ai pas le forcément le temps de vous parler de tout ce qui change dans ma vie, je reprends cette bonne habitude des «[en vrac](/en-vrac-et-debut-octobre)»...
+Parce que je n'ai pas le forcément le temps de vous parler de tout ce qui change dans ma vie, je reprends cette bonne habitude des « [en vrac](/en-vrac-et-debut-octobre) »...
+
+<!--excerpt-->
 
 ### Date marquante 1 : Les trains se préparent à l'hiver
 Le **10/10/10** était [une date marquante](/date-marquante) à plus d'un titre. Les [NS](http://fr.wikipedia.org/wiki/Nederlandse_Spoorwegen) (*Nederlandse Spoorwegen*) ont profité de ce qui a du être la journée la plus chaude d'octobre pour simuler des perturbations dues au froid. Scénario stupide ou des trains sont annulées sans véritable raison et ou des annonces expliquent que c'est à cause de la neige. En guise de compensation, les passagers en T. shirts pouvaient consommer gratuitement, soupes, thés ou cafés dans tous les cafés de toutes les gares. La simulation s'est bien passé puisqu'après avoir emprunté trois trains, je suis arrivé à bon port avec 30 minutes de retard.
+
 <!-- HTML -->
-<div style="padding:3px; text-align:center; margin:auto; font-size:10px;">
-<!-- / HTML -->
+<div class="flex flex-col items-center">
+
 ![Queue pour un café chaud](warm-weerzien.jpg){.center}
 On fait la queue pour les cafés gratuits
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
@@ -35,4 +37,3 @@ Le **10/10/10** était une date marquante à plus d'un titre (bis). Pour la prem
 
 ### Bokbier
 La [Herfst Bokbier (bière d'automne)](/la-herfst-bokbier-biere-d-automne) est arrivée. Je n'ai pas besoin de vous dire ce que c'est, je vous en ai déjà parlé en 2008. La nouveauté c'est ma participation à la fête de la bière d'automne à la fin du mois. Le [33e PINT Bokbierfestival](http://www.pint.nl/pint/bbf.htm) aura lieu à Amsterdam les 28, 29 et 30 octobre prochain. Si je ne fini pas trop bourré, je pourrais vous en parler.
----

@@ -13,7 +13,7 @@ update: 2021-07-28
 TODO: shortened desc
 ---
 
-Je ne pensais pas faire un billet sur **l'achat d'une voiture aux Pays-Bas**, tant j'ai insisté sur la [difficulté de se garer à Amsterdam](/a-amsterdam-se-garer-coute-cher) et l'[usage facile de la bicyclette](http://drooderfiets.tumblr.com/). Mais voilà, les choses changent et me voilà l'heureux propriétaire d'un Picasso d'occasion[^1].
+Je ne pensais pas faire un billet sur **l'achat d'une voiture aux Pays-Bas**, tant j'ai insisté sur la [difficulté de se garer à Amsterdam](/a-amsterdam-se-garer-coute-cher) et l'[usage facile de la bicyclette](https://pixelfed.social/drooderfiets). Mais voilà, les choses changent et me voilà l'heureux propriétaire d'un Picasso d'occasion[^1].
 
 ![Alix et Picasso](alix-picasso.jpg){.center}
 

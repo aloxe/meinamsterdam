@@ -28,4 +28,3 @@ Comme d'habitude, l'[antagonisme entre les catholiques du sud et les protestants
 
 ## La passion selon Saint Mathieu
 Une tradition dans laquelle se retrouve catholique et protestants est la célébration de cette journée de manière artistique. Les salles de concert ainsi que certaines églises jouent la passion selon Saint Mathieu de Bach. À Amsterdam, le concert gratuit se trouve à Westerkerk tandis que le gota des Pays-Bas, l'élite politico-médiatique du pays, tout le gratin batave se retrouve à [Naarden](/naarden-c-etait-dimanche) pour voir un super orchestre jouer la même passion de Bach. Un des rare concert ou il n'est pas bien vu d'aplaudir.
----

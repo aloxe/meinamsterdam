@@ -1,19 +1,21 @@
 ---
 layout: base
 title: La sécurité des sites bancaires
-description: "Gérer son compte sur internet est intéressant parce que c'est pratique pour les usagers et moins coûteux pour les banques qui limitent ainsi les opérations "
 categorie: nederlandjes
-tags: []
+tags: ["sociétés"]
 isMarkdown: true
 thumbnail: random-reader-rabobank.png
 image_alt: Le Rabobank Random Reader
 permalink: la-securite-des-sites-bancaires/
 date: 2010-02-18
 update: 2017-01-10
-TODO: shortened desc
+subfooters:
+ - banques
 ---
 
 **Gérer son compte sur internet** est intéressant parce que c'est pratique pour les usagers et moins coûteux pour les banques qui limitent ainsi les opérations de caisse. Ce peut être aussi juteux pour les escrocs qui utilisent des systèmes toujours plus ingénieux pour récupérer les données des usagers, leur mot de passe et en fin de compte leur argent. Les banques doivent protéger leurs clients et offrir un des services hautement sécurisés. Encore une fois les Pays-Bas font différemment de la France. Voyons donc en quoi le système néerlandais est supérieur.
+
+<!--excerpt-->
 
 ## En France
 
@@ -38,23 +40,7 @@ Le fonctionnement du système est simple : Le site vous demande de vous connecte
 Les anciens clients de Postbank, comme moi, continuent d'utiliser un système personnalisé sans boîtier externe. Les clients ING utilisent un mot de passe comme en France mais ils doivent valider chaque transaction avec un code (le *TAN code*), reçu par SMS sur leur téléphone portable. Ce système évite la lourdeur de devoir disposer d'un nouvel objet mais il est [plus long à mettre en place](/internetbankiren-experience) puisque le mot de passe est envoyé par courrier séparé et qu'un changement de téléphone portable oblige à recommencer la procédure. Toutes les autres banques néerlandaises utilisent le système de boîtier externe.
 **Chez SNS**, les clients utilisent un [Digipass](http://nl.wikipedia.org/wiki/Digipass) qui lui aussi génère un mot de passe unique, mais l'appareil a une forme différente si bien que je ne sais pas vraiment comment ça marche.
 
-### Lire aussi :
- **[France / Pays bas: Comparatif des services bancaires](/france-pays-bas-comparatif-des-services-bancaires)**
 
- **[Le nouveau Rabo Scanner](/nouveau-Rabo-Scanner)**
-
- **[Une banque qui demande moins de sous](/une-banque-qui-demande-moins-de-sous)**
-
- **[La fin du porte monnaie électronique](/Porte-monnaie-electronique-la-fin-du-Chipknip)**
-
- **[Aventures à la carte bancaire](/aventures-carte-bancaire)**
-
- **[Attention, emprunter de l'argent coûte de l'argent](/emprunter-de-l-argent-coute-de-l-argent)**
-
- **[Changement de banque: Rabobank](/changement-de-banque-rabobank)**
-
- **[Choisir une banque](/choisir-une-banque)**
----
 <!-- post notes:
 --- 
 Currently there's an iPhone worm active that is targeting customers of

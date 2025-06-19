@@ -16,6 +16,7 @@ update: 2017-12-12
 
 Si l'on regarde la météo, on comprend que l'automne est terminé depuis longtemps. Il est donc temps de parler des marronniers[^1] de l'hiver même ci ces derniers sont plus jolis [en automne](/les-marronniers-de-l-automne).
 
+<!--excerpt-->
 
 [![Neige sur les canaux](neige-canaux-xs.jpg){.left}](/public/images/photos/2010-12/neige-canaux-s.jpg)
 ## Nouveau mot: Witte Kerst
@@ -27,6 +28,7 @@ Si l'on regarde la météo, on comprend que l'automne est terminé depuis longte
 [![neige sur les vélos](neige-velos-xs.jpg){.right}](/public/images/photos/2010-12/neige-velos.jpg)
 ## Drooderfiets a froid
 Mon vélo aussi a des problèmes de transport. La neige est glissante et donc source de chutes. J'ai essayé de donner un peu plus de mordant à la route en suivant les conseils d'un vendeur de vélos hollandais à Seattle. [Seattle Snowpocalypse](http://www.dutchbikeco.com/_blog/Dutch_Bike_Co_Weblog/post/Seattle_Snowpocalypse/) nous explique que les colliers de serrage rendent à la roue son adhérence. c'est sans compter sur les tronçons sablés de mon trajets. les aléas de la route ont cassé un à un les colliers de serrage, durcis par le froid. La conduite du vélo doit donc s'adapter à la neige de manière classique: **pas d'accélération ou de freinage brusque** et **tourner sans se pencher** de préférence sur une route non accidentée. Finalement, mon plus gros problème avec ce froid n'est pas la route mais le gel. Les vitesses de mon Nexus 7 sont bloquées. Heureusement, la poignée est calée sur une position standard.
+
 ---
 [^1]: [Selon Wikipedia](http://fr.wikipedia.org/wiki/Marronnier_%28journalisme%29), Un marronnier en journalisme est un article d'information de faible importance meublant une période creuse, consacré à un évènement récurrent et prévisible.
 [^2]: Lire [les Noël des Pays-Bas](/noel-des-pays-bas)

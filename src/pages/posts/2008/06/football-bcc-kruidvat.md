@@ -17,8 +17,8 @@ On a vu que les néerlandais preparaient la coupe d'europe des supporters avec b
 
 <!-- HTML -->
 <div style="border:1px solid orange; background-color:#FFF; padding:4px;">
-Les Néerlandais, dans la perspective de l'Euro 2008 de football en Suisse et des Jeux Olympiques en Chine, dépensent énormément d?argent pour acheter des téléviseurs, des produits dérivés de l?équipe de football néerlandaise, des victuailles et des boissons de luxe, selon le Raad Nederlandse Detailhandel (Conseil du commerce de détail néerlandais, RND).<br/>
-Le RND, auquel sont affiliés vingt mille magasins et supermarchés, estime que les commerçants peuvent escompter un chiffre d?affaires de plus de 125 millions d?euros si l?équipe des Pays-Bas joue bien à Berne. Les Jeux Olympiques, à partir du 8 août, influenceront également le comportement d?achat des Néerlandais.<br/>
+Les Néerlandais, dans la perspective de l'Euro 2008 de football en Suisse et des Jeux Olympiques en Chine, dépensent énormément d'argent pour acheter des téléviseurs, des produits dérivés de l?équipe de football néerlandaise, des victuailles et des boissons de luxe, selon le Raad Nederlandse Detailhandel (Conseil du commerce de détail néerlandais, RND).<br/>
+Le RND, auquel sont affiliés vingt mille magasins et supermarchés, estime que les commerçants peuvent escompter un chiffre d'affaires de plus de 125 millions d?euros si l?équipe des Pays-Bas joue bien à Berne. Les Jeux Olympiques, à partir du 8 août, influenceront également le comportement d'achat des Néerlandais.<br/>
 <div align=right><a href="http://www.ambafrance.nl/spip.php?article9704">Presse néerlandaise du mardi 27 mai 2008</a></div>
 </div>
 <!-- / HTML -->

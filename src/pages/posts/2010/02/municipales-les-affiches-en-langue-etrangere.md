@@ -34,6 +34,7 @@ Alors l'affaire fait [un peu de bruit](http://www.eurotopics.net/fr/archiv/resul
 L'ironie de l'histoire (que je garde pour la fin) vient de l'attitude du VVD (parti libéral) dont est originaire le député Wilders cité plus haut a lui aussi vivement critiqué les pratiques des autres partis mais le journal [le Telegraph s'est souvenu](http://www.telegraaf.nl/binnenland/6057004/__VVD_er_doet_het_in_het_Chinees__.html) que ce même parti avait imprimé des tracs  en... chinois pour les élections précédentes.
 
 Tous ces tracts sont maintenant archivés [dans la tractothèque](http://tractotheque.blogspot.com/2010/02/amsterdam-tracts-en-turc-de-candidats.html).
+
 ---
 [^1]: Je devrais me fendre d'un billet sur le sujet, le durcissement des politiciens et de la société ressemble parfois fortement à ce que l'on a vu en France il y a quelques années.
 [^2]: Il faut absolument que vous alliez sur leurs sites, c'est très rigolo.

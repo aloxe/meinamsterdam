@@ -30,7 +30,7 @@ Le bulletin de vote aligne toutes les listes et certaines ont une trentaine de c
 Autre particularité, il n'y a pas besoin d'émarger, [la carte d'électeur](http://meinamsterdam.nl/mars-2mois-des-elections) que je brandissait sur mon article d'hier est conservé par le chef de bureau, comme preuve de ma participation au scrutin.
 
 Enfin, on le voit sur la photo, on dirait que je glisse un papier dans une poubelle. C'est exactement ça, l'urne est une bête poubelle en plastique avec un cadenas en guise de scellé. Les néerlandais qui [n'utilisent pas ce récipient pour leurs ordures](/eugene-poubelle-prefet-amsterdam) ont trouvé une utilisation pratique de ces bacs en plastiques. Mais tout de même, ça fait bizarre.
----
+
 <!-- post notes:
 lien was http://www.laurentchambon.net/2010/03/vote.html
 --->

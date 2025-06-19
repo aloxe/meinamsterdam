@@ -1,9 +1,8 @@
 ---
 layout: base
 title: En ligne et avant la finale
-description: 
 categorie: nederlandjes
-tags: []
+tags: ["sport", "television"]
 isMarkdown: true
 thumbnail: oranje-grachten-places-reservees.png
 image_alt: "carte d'Amsterdam en orange"
@@ -11,8 +10,6 @@ permalink: en-ligne-et-avant-la-finale/
 date: 2010-07-09
 update: 2010-07-10
 ---
-
-
 
 ## Un bien meilleur but 
 
@@ -32,9 +29,9 @@ La finale de la coupe du monde n'est pas encore jouée que déjà on prépare la
 <!-- HTML -->
 <div align="center">le midi
 </div>
-<!-- / HTML -->
+
 ![carte d'Amsterdam en orange](oranje-grachten-amsterdam.png){.center}
-<!-- HTML -->
+
 <div align="center">le soir
 </div>
 <!-- / HTML -->
@@ -46,4 +43,3 @@ Tout ceci n'est qu'une grosse plaisanterie, en fait, la parade aurait lieu [le 1
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/mzGFbELkvgI&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/mzGFbELkvgI&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 </div>
 <!-- / HTML -->
----

@@ -29,6 +29,6 @@ Heureusement, aux Pays-Bas, la plèbe est bien organisée. En plus des deux asso
 
 ![logo entente](logo-entente-petit.png){.center}
 
-Pendant ce temps là, sur le site de l'ambassade, on nous explique l'origine de [la fête du 14 juillet](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11080). *Dès lors, le 14 juillet, Fête nationale doublée d?une fête récréative est l?expression de la commémoration de souvenirs communs et d?espoirs collectifs, l?histoire mythifiée et transcendée est exaltée dans la joyeuseté d?une soirée d?été, où l?éclat des feux d?artifice permet aux citoyens de se retrouver réunis autour de la devise de la République française : « liberté, égalité, fraternité ».* No comment...
+Pendant ce temps là, sur le site de l'ambassade, on nous explique l'origine de [la fête du 14 juillet](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11080). *Dès lors, le 14 juillet, Fête nationale doublée d'une fête récréative est l'expression de la commémoration de souvenirs communs et d?espoirs collectifs, l'histoire mythifiée et transcendée est exaltée dans la joyeuseté d'une soirée d?été, où l'éclat des feux d'artifice permet aux citoyens de se retrouver réunis autour de la devise de la République française : « liberté, égalité, fraternité ».* No comment...
 ---
 [^1]: Voir en commentaire ci dessous, un article sur le sujet.

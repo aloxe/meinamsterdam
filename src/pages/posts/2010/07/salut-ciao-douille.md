@@ -30,4 +30,3 @@ On entend aussi parfois, une variante qui est la combinaison des deux «*doeg!*�
 Ce mot a beaucoup de succès, aucun néerlandais n'oublie de le prononcer une ou deux fois lorsqu'il quite un ami. Le son «*oe*» (**prononcez «ou»**) porte et il incite les gens à aller le chercher dans les aigües. Surtout, quand on l'utilise, il faut le faire comme un essai de prolonger la conversation en le faisant durer. Toutes les combinaisons sont bonnes «*doei doei*», «*doedoei*», «*doehoehoei*», «*doeïoei*», «*hoeïe doei*» etc.
 
 Vous aussi, essayez de vous dire au revoir à la néerlandaise. Vous verrez, vous allez chanter.
----

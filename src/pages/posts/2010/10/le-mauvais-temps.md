@@ -35,4 +35,3 @@ Les passagers pour Amsterdam étaient dans le dernier groupe, j'y suis pour rien
 Je n'ai rien lu de pareil dans le journal le lendemain. Par contre des taxis, nous en avons vu avec notre petit groupe, des *drivers* avaient prévenu les collègues, il y a des jolies courses à se faire à la gare d'Apeldoorn. Certains sont venus mais comme ils n'étaient pas en contrat avec les NS, il sont repartis à vide. Un gâchis de temps et de ressources qui ne semblaient pas émouvoir nos deux employés. C'est très poliment et calmement qu'ils nous ont expliqué ne rien pouvoir faire de plus que d'attendre avec nous le dernier taxi. Ce dernier est finalement venu, vers 2h, nous ramenant chacun à notre domicile...
 
 J'ai finalement fait le trajet **Deventer - Amsterdam avec 7 heures de retard sur l'horaire prévu**. À aucun moment les NS ne m'a prié de l'en excuser.
----

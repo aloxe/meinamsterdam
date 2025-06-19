@@ -28,4 +28,3 @@ Il n'est pas possible de savoir si le tour va avoir du succès ici tant le son d
 <!-- / HTML -->
 
 Voir aussi : [Étape en Pays-Bas](/etape-en-pays-bas) (2006) et [Le tour d'Espagne recolonise les Pays-Bas](/le-tour-d-espagne-recolonise-les-pays-bas) (2009)
----

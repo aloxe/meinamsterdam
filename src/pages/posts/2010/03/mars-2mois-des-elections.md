@@ -43,4 +43,3 @@ Il est fort probable que je ne participe pas à ce scrutin parce que j'ai été 
 
 ## La suite :
 [A voté](/a-vote)
----

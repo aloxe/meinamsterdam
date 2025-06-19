@@ -16,6 +16,8 @@ update: 2015-06-10
 
 Depuis son inauguration en 2006, je voulais vous présenter l'**un des premier parcs éolien offshore d'Europe**, le parc éolien d'Egmond aan Zee (OWEZ). 200 millions d'euros d'investissement, d'énormes travaux spectaculaires pour (ne) produire (que) **108 Megawatt**[^1] grâce à 36 turbines Vestas V90 3MW alignées à 10 km de la côte, au large de la ville d'**Egmond aan Zee**. Voici quelques images de son installation: 
 
+<!--excerpt-->
+
 <!-- HTML -->
 <div class="flex flex-col items-center">
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/JJ3glbhLBYM?fs=1&amp;hl=en_US&amp;color1=0xe1600f&amp;color2=0xfebd01"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JJ3glbhLBYM?fs=1&amp;hl=en_US&amp;color1=0xe1600f&amp;color2=0xfebd01" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
@@ -29,6 +31,7 @@ Et puis voilà le temps passe et c'est n'est plus le seul **parc éolien en mer 
 Je vous en parle aujourd'hui parce qu'il m'est arrivé de survoler la côte un matin d'automne et mon hublot m'offrait la vue de ces deux parcs l'un derrière l'autre au large des dunes de la côte hollandaise.
 
 [![Le parc éolien d'Egmond aan Zee et Amaliawindpark](Egmond-aan-Zee-Windfarm-s.jpg){.center}](http://commons.wikimedia.org/wiki/File:Egmond-aan-Zee-Windfarm.jpg)
+
 ---
 [^1]: 108 Megawatt permettent quand même de fournir de l'électricité pour 100.000 habitations ce qui n'est pas négligeable.
 <!-- post notes:

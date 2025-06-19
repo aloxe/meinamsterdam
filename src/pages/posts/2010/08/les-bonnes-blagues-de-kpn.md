@@ -1,9 +1,8 @@
 ---
 layout: base
 title: Les bonnes blagues de KPN
-description: 
 categorie: dagelijks
-tags: []
+tags: ["sociétés"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -18,6 +17,8 @@ subfooters:
 
 
 Comme beaucoup de personnes aux Pays-Bas, j'ai toujours un abonnement auprès de **l'opérateur historique de télécommunications**: **KPN**. Il y a quelques jours, j'ai reçu ma facture de téléphone et un joli courrier d'accompagnement m'indiquant que c'était ici la dernière facture que je recevrais. Ne nous réjouissons pas trop vite, KPN n'a pas décidé de ne plus facturer ses clients mais juste de ne plus envoyer de facture papier.
+
+<!--excerpt-->
 
 Les factures de KPN sont disponibles depuis plusieurs années sur leur site web mais mon interface client est tellement absconne que j'était content de recevoir leur facture par la poste (ou devrais-je dire par [TNT Post](/la-poste-prends-les-couleurs-d-halloween)). J'espère que cette interface s'est améliorée depuis ma dernière connexion.
 

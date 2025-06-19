@@ -50,6 +50,7 @@ Voici la liste des fusions de communes qui ont eu lieu le **1er janvier 2010**. 
 
 * En 2011, [les Pays-Bas perdent 3% de leurs communes](/les-pays-bas-perdent-de-leurs-communes) Les regroupements les plus impressionnants sont en Frise et en Utrecht.
 * Les [fusions de communes se poursuivent](/fusions-communes-se-poursuivent) ( -3 en 2012, -7 en 2013, -5 en 2014 et -10 en 2015 ! )
+
 ---
 [^1]: Mais les marronniers sont plus jolis [en automne](/les-marronniers-de-l-automne)...
 [^2]: Une revue des bonnes résolutions des années passées [2009](/les-bonnes-resolutions) et [2008](/pour-les-voeux-c-est-fini) m'ont convaincu qu'il vaudrait mieux ne rien promettre

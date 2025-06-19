@@ -19,6 +19,8 @@ subfooters:
 
 Vous connaissez tous les numéros en 0-800-machin... Les anciens numéros verts indigos et autres couleurs se sont multipliés un peu partout sur le même modèle. Aux Pays-Bas les numéros de service commencent par **0-900**. Peu d'entre eux sont gratuits, nombre d'entre eux sont surtaxés. Les néerlandais sont plus fort en commerce qu'en service, alors le coup de fil pour vous aider, ils ne vont pas vous l'offrir...
 
+<!--excerpt-->
+
 Pour le français vivant aux Pays-Bas, les numéros de service peuvent être une difficulté supplémentaire. En effet, comment lorsqu'on essaye de les appeler de l'étranger on n'arrive pas à se connecter au bon service. C'est surement une bonne chose parce que la communication surtaxée plusieurs fois peut s'avérer très dispendieuse...
 
 Il y a heureusement une solution. La journal gratuit *De Pers* (**La presse**) maintient depuis quelques années une liste des numéros ordinaires correspondant aux numéros de services qu'on a dans les brochures et les courriers des grandes sociétés que tout le monde utilise. Les néerlandais trouvent cette liste très pratique parce qu'elle leur permettent de ne pas payer un service surtaxé. Les français et tous les expatriés devraient trouver cette liste encore plus pratique pour rendre leurs services joignables depuis l'étranger.

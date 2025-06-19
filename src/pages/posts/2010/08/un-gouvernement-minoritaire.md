@@ -1,9 +1,8 @@
 ---
 layout: base
 title: Vers un gouvernement minoritaire ?
-description: 
 categorie: nederlandjes
-tags: []
+tags: ["politique"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -13,11 +12,11 @@ update: 2017-03-17
 TODO: no image, no image alt
 ---
 
-
-
 Le pire qui puisse arriver à un leader populiste est d'entrer au gouvernement. Tout victorieux qu'il est **Gert Wilders**, le chef du **PVV**, n'a qu'une minorité de députés au parlement et beaucoup des mesures qu'il propose sont rejetées fermement par une majorité de députés. Le compromis est difficilement possible. C'est l'inconvénient d'être extrémiste. Si Wilders entrait au gouvernement, ses électeurs aurait bien vu qu'il ne peut pas appliquer la politique qu'il prone. Ils se tourneraient vers un autre contestataire.
 
 C'est aussi pour cela que la blondasse d'extrême droite a été rapidement exclue des pourparlers pour la formation du gouvernement. Il est difficile de faire des compromis avec un extrémiste et ce dernier ne veut pas faire d'effort parce qu'il n'a pas intérêt à gouverner. Les premières négociations entre le **CDA** (démocrates chrétiens), le **VVD** (libéraux conservateurs) et le **PVV** (extrème droite) se sont vite heurtées à un refus du **CDA** de pactiser avec le **PVV** dont le programme à l'opposé de la démocratie chrétienne. Les négociations pour la formation du gouvernement un peu plus à gauche.
+
+<!--excerpt-->
 
 ## L'échec de la coalition violette plus 
 
@@ -50,6 +49,7 @@ La presse néerlandaise du [13 août](http://www.ambafrance-nl.org/france_paysba
 <!-- / HTML -->
 
 Au dernières nouvelles, les discutions continuent d'aller bon train pour préparer ce gouvernement VVD-CDA minoritaire avec le soutien du PVV. C'est au sein du CDA que les discussions sont les plus vives. Vont-ils aller jusqu'à convoquer un référendum interne ?
+
 ---
 [^1]: Voir son article dans Minorités sur [Wilders, Rutte, le placard et la Reine](http://www.minorites.org/index.php/2-la-revue/787-wilders-rutte-le-placard-et-la-reine.html).
 <!-- post notes:

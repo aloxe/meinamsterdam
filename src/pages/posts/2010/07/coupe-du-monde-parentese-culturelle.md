@@ -31,4 +31,3 @@ Les chapeaux Heineken avait donc un rapport avec le pays hôte de  la compétiti
 ![le Pletterpet de Heineken](pletterpet-heeineken.JPG){.center}
 
 Je n'avais pas compris que ce *Pletterpet* était en fait un chapeau traditionnel de supporter de foot en Afrique du sud et que le choix du brasseur était de faire adopter aux néerlandais les traditions du pays hôte. Le site [Pletterpet.nl](http://www.pletterpet.nl/pletterpet.html), antérieur à la campagne, nous explique l'histoire récente de ce chapeau aux Pays-Bas et on apprend qu'il s'agit en fait d'un casque de mineur découpé et décoré. En Afrique du Sud on appelle ce chapeau un **[Makarapa](http://fr.wikipedia.org/wiki/Makarapa)**. Les Sudafs [en sont dingues](http://www.makaraba.co.za/) et moi j'espère vous avoir enfin appris quelque chose avec tous ces [délires en orange](/surenchere-de-orange).
----

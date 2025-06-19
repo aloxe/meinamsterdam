@@ -29,4 +29,3 @@ Rappelons que l'[Association Française contre les Myopathies](http://www.afm-te
 ![Logo telethon pays-bas2009](telethon.jpeg){.left} L'édition d'Amsterdam a si bien marché que cette année c'est dans cette ville que le Téléthon aura lieu les 3 et 4 décembre prochain, au [club d'Aviron de Hoop](http://dehooptest.wordpress.com/). Pendant 24 heures, des muscles sains vont se démener pour aider ceux qui n'en on pas. Autour de ce défi, le [programme](http://telethonpays-bas2009.blogs.afm-telethon.fr/programme/) est chargé: concerts, soirée, brunch, spectacles et danse. On vous y attend tous.
 
 Lire aussi : [Une semaine française](/une-semaine-francaise)
----

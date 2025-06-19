@@ -23,5 +23,6 @@ Ceci n'a pas valeur de sondage, même si les Nérlandais ont peu de retenue pour
 Facebook n'est pas le plus gros site web communautaire aux Pays-Bas, Le site local [Hyves](http://www.accuweather.com/en-gb/EUR/IT/IT009/Milano/Forecast2.aspx) a beaucoup plus d'utilisateurs néerlandais que facebook et un trafic quotidien plus important aux Pays-Bas[^1]. Je suis donc allé voir ma page Hyves pour voir si on y parlat des élections. Hyves a aussi une banière spéciale mais plus adaptée au public néerlandais, je vous laisse découvrir ci dessous l'autre gros sujet d'actualité:
 
 ![banner football world cup on Hyves](WK-hyves.png){.center}
+
 ---
 [^1]: De sources internes et [externes](http://www.alexa.com/topsites/countries/NL)

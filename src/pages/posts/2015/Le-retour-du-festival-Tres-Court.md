@@ -6,13 +6,11 @@ categorie: dagelijks
 tags: ["La Haye", "Rotterdam", "cinéma", "sortir"]
 isMarkdown: true
 thumbnail: trescourt-EN.png
-image_alt: trescourt-EN.png
+image_alt: the tr` court festival
 permalink: Le-retour-du-festival-Tres-Court/
 date: 2015-06-02
 update: 2015-07-07
 ---
-
-
 
 **Le festival très court continue aux Pays-Bas** et pas qu'un peu puisqu'il a lieu cette année dans deux villes au sud de la capitale : **Rotterdam** et **la Haye**. Deux sélections sont au programme, la **sélection internationale**, programme phare du festival où vous pourrez élire le meilleur très court de l'année et **Women's words**, une sélection de films très courts par des femmes et sur les femmes. Le programme détaillé est disponible ci-dessous avec liens pour réserver votre billet.
 

@@ -30,4 +30,3 @@ Les sorties prévues du dimanche: [Bockbier Festival](http://pint.nl/) organisé
 Un coup de fil pour une visite de [l'appartement](/des-travaux-finissent-pas) un dimanche. Je dois ranger et être là pour 16h. Ça va remettre en cause les choix ci-dessus mais bon, c'est important
 
 Quand j'aurais fini, je vais pouvoir réparer une armoire pour un copain. Il déménage aujourd'hui mais il veut faire ça ce soir. Une petite [bockbier](/les-nouvelles-bieres-d-automne) pour finir la journée, le mois et tout ça ?
----

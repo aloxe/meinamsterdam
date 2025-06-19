@@ -47,4 +47,3 @@ En fait, au moment de publier cet article, j'apprend que la coalition violette-p
 **mise à jour du 16 août 2010**
 
 La coalition evisagée pour le moment semble être celle d'une coalition minoritaire de droite avec le soutien de l'extrème droite. Lire «[Vers un gouvernement minoritaire ?](/un-gouvernement-minoritaire)» pour en savoir plus.
----

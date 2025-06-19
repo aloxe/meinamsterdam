@@ -1,23 +1,21 @@
 ---
 layout: base
 title: Comment aller bosser à vélo sous la pluie
-description: 
 categorie: dagelijks
-tags: []
+tags: ["vélo", "transport"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: sous-la-pluie.jpg
+image_alt: à vélo sous la pluie
 permalink: bosser-a-velo-sous-la-pluie/
 date: 2010-09-20
 update: 2010-09-21
-TODO: no image, no image alt
 ---
-
-
 
 ## Un vélo d'entreprise
 
-En vous présentant [drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), je vous ai dit que c'était [ma boîte](/mon-nouveau-boulot-3) qui me l'avait (presque entièrement) payé. Je ne vous ai pas parlé des avantages et des inconvénients rattachés à cette offre. coté avantages, ma boîte m'a aussi offert une assurance couvrant le vol, vandalisme ou autre destruction pour une période de trois ans. Coté inconvénients, la boîte ne me rembourse plus ma carte de transport (ce qui semble logique puisqu'elle m'a acheté un vélo pour me rendre au taf) pendant trois ans. Enfin, la formule indique que pendant cette période de trois ans, je n'ai pas le droit de profiter à nouveau de cette offre mais que je peux me faire rembourser 80 euros de frais (cadenas, entretien, équipement) par an pendant ces trois ans.
+En vous présentant [drooderfiets](https://pixelfed.social/drooderfiets), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo), je vous ai dit que c'était [ma boîte](/mon-nouveau-boulot-3) qui me l'avait (presque entièrement) payé. Je ne vous ai pas parlé des avantages et des inconvénients rattachés à cette offre. coté avantages, ma boîte m'a aussi offert une assurance couvrant le vol, vandalisme ou autre destruction pour une période de trois ans. Coté inconvénients, la boîte ne me rembourse plus ma carte de transport (ce qui semble logique puisqu'elle m'a acheté un vélo pour me rendre au taf) pendant trois ans. Enfin, la formule indique que pendant cette période de trois ans, je n'ai pas le droit de profiter à nouveau de cette offre mais que je peux me faire rembourser 80 euros de frais (cadenas, entretien, équipement) par an pendant ces trois ans.
+
+<!--excerpt-->
 
 L'ensemble de ces dispositions ne sont pas obligatoires mais sont rendus possible par l'administration fiscale qui autorise ces avantages sans les taxer à hauteur de 750 euros par bicyclette et 250 euros par assurance pour trois ans ainsi que 80 euros de frais par an sur justificatif.
 
@@ -25,8 +23,7 @@ L'ensemble de ces dispositions ne sont pas obligatoires mais sont rendus possibl
 
 Cette formule implique que chaque déplacement en transport en commun est payé de ma poche. Comme je possède maintenant un vélo, l'utilisation des transports en commun en ville est fortement réduite. Néanmoins, quand je reçois des visites ou qu'il pleut fortement, il est plus agréable d'utiliser le tram ou le métro. Comme la pluie est omniprésente dans le port d'Amsterdam, l'addition peut vite devenir salée, au point de rendre dérisoire la somme que mon entreprise m'alloue pour l'achat de mon vélo.
 
-[![http://farm4.static.flickr.com/3549/3877444290_07e29f03e6.jpg](Drooderfiets et des vélos sous la pluie){.center}](http://drooderfiets.tumblr.com/post/177961957/watercycling)
-
+[![pédaler sous la pluie](sous-la-pluie.jpg)](https://www.flickr.com/photos/drooderfiets/3877444290/in/dateposted-public/){.center}
 
 J'ai donc décidé de faire un petit test:
 
@@ -41,5 +38,6 @@ Ceci conforte le choix que font de plus en plus de *vélotafeurs*[^1] en France 
 2009 a été une année particulièrement chaude et ensoleillée pour les Pays-Bas. On ne peut pas dire la même chose de 2010. Depuis Février 2010, alors que j'ai pris l'habitude de distinguer les averses pour les éviter, j'en suis déjà à cinq jours trempé. Et nous sommes encore en *été*. Le temps hivernal pourri est déjà arrivé à l'approche de l'équinoxe et il promet de durer.
 
 Avec l'augmentation des tarifs du tram à l'occasion du [passage à la carte à puce](/la-ov-chipkaart), je vais surement devoir reconsidérer l'achat de vêtement de pluie
+
 ---
 [^1]: Certain l'expliquent très bien sur [le forum vélotaf](http://www.velotaf.com/)

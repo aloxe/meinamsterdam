@@ -27,7 +27,7 @@ Ce qui est rigolo c'est que j'aurais pu mentir en donnant une fausse adresse, to
 
 ## J'ai payé la contravention
 
-Là ou la con stable n'a pas menti, c'est sur sa promesse de commandement de payer. J'ai reçu la facture quelque temps après et j'ai donc du faire [un virement](/les-virements-et-les-cheques) au service d'encaissement des amendes du ministère de la justice. Ma première aventure avec [drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo): J'ai grillé, j'ai perdu.
+Là ou la con stable n'a pas menti, c'est sur sa promesse de commandement de payer. J'ai reçu la facture quelque temps après et j'ai donc du faire [un virement](/les-virements-et-les-cheques) au service d'encaissement des amendes du ministère de la justice. Ma première aventure avec [drooderfiets](https://pixelfed.social/drooderfiets), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo): J'ai grillé, j'ai perdu.
 
 ![](oeps-amende.jpg){.center}
 ---

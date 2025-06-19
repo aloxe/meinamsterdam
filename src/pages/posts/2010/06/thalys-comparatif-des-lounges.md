@@ -22,4 +22,3 @@ Tout détenteur de billet première classe du jour peut accéder à la [lounge H
 
 ## La Lounge Gare du Nord à Paris
 Pour accéder à la lounge exécutive de la gare du Nord, le billet première classe ne suffit pas. Il faut présenter une carte de membre attestant de son appartenance à l'élite. Les cartes acceptées sont les cartes de fidélité et d'abonnement de la SNCF dont la carte grand voyageurs. d'ailleurs la lounge s'appelle **Salon grand voyageur**. Pour ceux qui voyagent peu en France, l'achat de cette carte n'est pas un bon investissement mais il est possible de demander gratuitement la carte [Thalys TheCard](https://www.thalysthecard.com/) qui  vous permet d'entrer fièrement dans le salon grand voyageurs. Le salon est situé [coté rue de Maubeuge](http://www.gares-en-mouvement.com/infos_pratiques.php?gare=frpno&tab=accueil#attente), sous l'escalier pour prendre l'Eurostar.
----

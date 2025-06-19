@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Voyage en Zélande: L'indépendance de la Belgique"
-description: "Le week end du 8 août Je suis [retourné en Zélande|] pour voir si Drooderfiets, [mon nouveau vélo|], apprécierait le paysage. La dernière fois que j'y sui"
 categorie: toering
 tags: ["Belgique"]
 isMarkdown: true
@@ -10,14 +9,18 @@ image_alt: Borne frontière Belgique - Pays-Bas
 permalink: voyage-en-zelande-l-independance-de-la-belgique/
 date: 2010-09-25
 update: 2018-01-01
-TODO: shortened desc
+subfooters:
+ - drooderfiets
 ---
 
-[![Tour de Zélande](carte-tour-zelande_s.jpg){.left}|/public/images/scans/cartes/carte-tour-zelande.jpg||Tour de Zélande] Le week end du 8 août Je suis [retourné en Zélande|] pour voir si [Drooderfiets](http://drooderfiets.tumblr.com/), [mon nouveau vélo|], apprécierait le paysage. La dernière fois que j'y suis allé, [en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire une [petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) ([voir carte](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs284.snc4/40519_1248303986569_1798535697_501696_1344739_n.jpg)) dans cette province maritime du sud.
+![Tour de Zélande](carte-tour-zelande_s.jpg){.left} Le week end du 8 août Je suis retourné en Zélande pour voir si [Drooderfiets](https://pixelfed.social/drooderfiets), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo/), apprécierait le paysage. La dernière fois que j'y suis allé, [en 2008](/au-bord-de-la-belgique), j'avais effectué le trajet en voiture et m'était promené le long de la frontière avec des amis. Cet été j'ai fait le voyage en train, prévoyant de faire une [petite boucle à vélo](http://www.facebook.com/photo.php?pid=501696&fbid=1248303986569&id=1798535697) dans cette province maritime du sud.
 
-Sa proximité avec la Belgique souligne une frontière singulière et poreuse qui nous oblige à nous souvenir de l'histoire de [l'indépendance de la Belgique](/voyage-en-zelande-l-independance-de-la-belgique).
+Sa proximité avec la Belgique souligne une frontière singulière et poreuse qui nous oblige à nous souvenir de l'histoire de l'indépendance de la Belgique.
+
 
 ## 2ème partie: L'indépendance de la Belgique
+
+<!--excerpt-->
 
 Quand on regarde la frontière qui sépare les Pays-Bas de la Belgique, on se demande ce qui a bien put se passer dans la tête de ceux qu'il l'on tracée. Elle ne suit pas de cours d'eau ou de montagne et pourtant elle est encore plus sinueuse que le trajet de mon pote Fergal quand il rentre à la maison bourré. Il faut dire que les relations entre les deux pays n'ont pas toujours été amicales. Les Belges ont gagné leur indépendance grâce à une guerre civile qu'ils ont gagné. 
 
@@ -43,5 +46,6 @@ La rivalité entre les deux royaumes s'est vite estompée et le coté pragmatiqu
 Les ports de Gand et d'Anvers dépendent de la bonne volonté des Néerlandais pour leur accès à la mer, via l'[estuaire de l'Escaut](/voyage-en-zelande-traverser-l-escaut) pour Anvers et le canal Gent-Terneuzen pour Gent. L'entretien de ces voies de communication sont à la charge des Néerlandais mais réalisées en concertation avec les Belges. 
 
 L'urbanisation croissante de la Flandre a créé des village-frontières ou il est intéressant d'acheter son pain et sa bière coté belge et de se promener coté néerlandais. Mais j'en ai déjà parlé en 2008[^1]...
+
 ---
 [^1]: Lire [Au bord de la Belgique](/au-bord-de-la-belgique).

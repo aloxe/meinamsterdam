@@ -34,6 +34,7 @@ D'autres magasins se teintent de la même couleur pour l'occasion. Blokker se re
 À chaque compétition j'ai l'impression que la surenchère promotionnelle dépasse tout ce qu'on a pu voire avant. Je ne sais pas si c'est une impression ou si c'est vrai mais une chose est claire, il y a plus de boucan.
 
 Voir aussi : [Amsterdam 2013 : le printemps orange](http://meinamsterdam.nl/Amsterdam-2013-printemps-orange)
+
 ---
 [^1]: Jupiler est la pils du groupe InBev qui a racheté un brasseur sud-africain il y a quelques années cela explique surement pourquoi Heineken n'a pas eu ce marché. Voir [Les bières Néerlandaises](/les-brasseries-neerlandaises)
 <!-- post notes:

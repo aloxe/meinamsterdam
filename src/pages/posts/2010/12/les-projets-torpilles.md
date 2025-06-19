@@ -22,4 +22,3 @@ Je n'ai pas participé à la préparation et je ne pensais même pas y passer pu
 Cela me rappelle les conditions d'organisation de la première fête de la musique 2007 dont Laurent Chambon [s'est fait l'écho](http://www.laurentchambon.net/2007/06/une-fte-presqu.html) sur son blog. Une cheffaillonne s'en est vu confier l'organisation et a mis son nez dans les affaires de tous au point de faire disparaitre la spontanéité de cette fête.
 
 Cela n'est pas bien grave, l'année suivante un véritable comité d'organisation a vu le jour et la fête de la musique a commencé à bien prendre aux Pays-Bas. Le Téléthon aussi continuera aux Pays-Bas...
----

@@ -37,5 +37,6 @@ La densité du réseau et la fréquence des trains -Les Pays-Bas ont [le réseau
 N'ayant pas de voiture, je me déplace exclusivement à vélo et en transports en commun. Pour bouger aux Pays-Bas, je prends donc le train. Je suis en général satisfait du service mais il m'arrive d'avoir des déboires, comme le 10 juillet dernier. Cette histoire sera pour un prochain article: [À cause du mauvais temps](/le-mauvais-temps)
 
 Ajout : en fait, on dit [Les Nederlandse Spoorwegen](/les-nederlandse-spoorwegen)
+
 ---
 [^1]: C'est la [directive 91/440](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0440:fr:HTML) qui veut ça.

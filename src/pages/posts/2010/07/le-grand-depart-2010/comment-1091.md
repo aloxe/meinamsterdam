@@ -9,4 +9,3 @@ permalink: false
 
 <!-- http://www.etudinfo.com/diplome/formation-dut-iut-src.html -->
 <p>Vive le tour de France !</p>
----

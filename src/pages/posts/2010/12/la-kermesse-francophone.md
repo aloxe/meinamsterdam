@@ -15,36 +15,38 @@ TODO: no image alt, shortened desc, image without alt
 
 J'en ai parlé récemment, [la kermesse francophone](/solidarite-francophone), à La Haye, est une institution. Depuis 40 ans, c'est le plus gros évènement de charité francophone en pays batave. J'y suis allé la semaine dernière, et comme le montre les photos, c'est un gros truc.
 
+<!--excerpt-->
+
 <!-- HTML -->
-<div class="flex flex-col items-center">
+<div class="text-center w-[500px] m-auto">
 <!-- / HTML -->
 
 
-![](kermesse_8496.JPG)  
+![table couverte d'assiettes déjà servies](kermesse_8496.JPG)  
 Plein de stands avec de bonnes choses à manger, italien, africain, égiptien... ici il y a de bonnes quiches
 
-![](kermesse_8444.JPG)  
+![stand tout rouge avec des drapeaux et des croix blanches](kermesse_8444.JPG)  
 Les suisses sont là avec fromages et chocolats
 
-![](kermesse_8448.JPG)  
+![4 personnes discutent autour d'articles sur un stand](kermesse_8448.JPG)  
 À l'étage, une brocante et des stand expo, ici de l'artisanat africain
 
-![](kermesse_8453.JPG)  
+![grandes tablées remplies de monde vue de haut](kermesse_8453.JPG)  
 Une grande salle de banquet qui ne désemplit pas
 
-![](kermesse_8466.JPG)  
+![un gars trinque avec un verre tulipe](kermesse_8466.JPG)  
 De la bonne bière sur le stand de la Belgique
 
-![](kermesse_8481.JPG)  
-L?écailler vous propose ses huitres fraîches 
+![des plas d'huitres et un vendeur en tablier rayé](kermesse_8481.JPG)  
+L'écailler vous propose ses huitres fraîches 
 
-![](kermesse_8486.JPG)  
+![un enfant a lunettes montre son portrait à l'aquarelle](kermesse_8486.JPG)  
 À l'étage, un grand espace dédié aux enfants. Certains se sont fait tirer le portrait
 
-![](kermesse_8491.JPG)  
+![une fille souris avec des coeurs sur les joues](kermesse_8491.JPG)  
 En sortant de l'atelier maquillage
 
-![](kermesse_8502.JPG)  
+![deux femmes debout avec un panier de vente](kermesse_8502.JPG)  
 Les marchands de marrons de l'ADFE
 
 <!-- HTML -->
@@ -57,4 +59,3 @@ Le samedi suivant c'est au tour d'Amsterdam d'accueillir un évènement francoph
 * [Nouveau mot : Kermesse](/kermesse-kermis)
 * [Solidarité francophone](/solidarite-francophone)
 * [Les rendez-vous francophones de la fin d'année](/rendez-vous-francophones-fin-d-annee)
----

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Cannabis: une loi plus dure pour les drogues douces ?"
-description: 
 categorie: nederlandjes
 tags: ["drogue"]
 isMarkdown: true
@@ -13,9 +12,9 @@ update: 2021-01-18
 TODO: no image, no image alt
 ---
 
-
-
 La dépénalisation de la vente de petite quantités de cannabis est un grand sujet de discution politique aux Pays-Bas. Le précédent gouvernement avait ouvert le débat sur la *porte de derrière*. Le nouveau gouvernement, plus conservateur, est tenté de restreindre cette tolérance. Comme toujours, les villes, qui sont en charge de l'application de la loi ne se privent pas de donner leur avis et d'apporter leur pierre au débat.
+
+<!--excerpt-->
 
 Depuis de nombreuses années certaines communes frontalières se plaignent des nuisances apportées par ceux que l'on appelle *touristes de la drogue*, généralement des français et des belges venant fumer ou s'approvisionner dans les coffeeshops du sud du pays. Les villes de **Maastricht** et de **Rosendaal** étant apparemment les plus touchées, elles ont pris des mesures pour faire ouvrir des coffees à la périphérie des villes. Mais de leurs récriminations est née l'idée de réserver les coffeeshops aux néerlandais. Ces commerces deviendraient des clubs privés ou l'entrée serait réservés aux membres et le consommateur de passage serait exclu.  Aucune loi n'est encore votée mais les discussions continuent sur ce sujet. L'échevin d'**Utrecht**, **M. Victor Everhardt** défend une expérience qui sera menée dans sa ville[^1] Le ministre de la santé, **M. Opstelten**, envisage de faire passer cette mesure introduisant une «carte cannabis » (*wietpas*) en 2012[^2].
 
@@ -25,6 +24,7 @@ D'ici à ce que ces lois soient votées et promulguées et l'eau aura coulé sou
 
 ## Lire aussi : 
 [La drogue et la neige](/La-drogue-et-la-neige)
+
 ---
 [^1]: Dans [une tribune parue dans le Volkskrant](http://ambafrance-nl.org/spip.php?article13413) le 28 septembre 2011.
 [^2]: Selon [la revue de presse du 6 octobre](http://ambafrance-nl.org/spip.php?article13439)

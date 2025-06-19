@@ -1,9 +1,8 @@
 ---
 layout: base
 title: "Nouveau mot: Geslaagd"
-description: 
 categorie: nederlandjes
-tags: []
+tags: ["école", "coutumes"]
 isMarkdown: true
 thumbnail: geslaagd-2011-amsterdam-s.jpg
 image_alt: Geslaagd in Amsterdam
@@ -12,9 +11,7 @@ date: 2011-06-25
 update: 2014-06-17
 ---
 
-
-
-Un [drapeau Néerlandais|] et un sac à dos, exposé à l'avant d'une maison sur les canaux d'Amsterdam.
+**Un [drapeau Néerlandais](/le-prinsenvlag-aux-fenetres/) et un sac à dos, exposé à l'avant d'une maison sur les canaux d'Amsterdam.**
 
 ![Geslaagd in Amsterdam](geslaagd-2011-amsterdam-s.jpg){.left} C'est une charmante tradition néerlandaise que celle d'accrocher son sac d'école sur une hampe avec [un drapeau des Pays-Bas](/le-prinsenvlag-aux-fenetres). C'est un signe ostentatoire de fin d'année scolaire. C'est le signe que dans cette maison un jeune homme, une jeune fille vient de passer ses examens. Le signe d'achèvement d'un cycle scolaire studieux. La famille célèbre le nouveau diplômé en accrochant un drapeau à la fenêtre. Le diplômé, se libère de sa charge scolaire en accrochant son cartable et ses bouquins d'école au drapeau.
 
@@ -25,4 +22,3 @@ Généralement le drapeau accroché est en l'honneur d'un adolescent de 16 à 18
 L'année prochaine ils seront dans une entreprise, peut être en alternance ou à l'université, mais pour l'instant, ils préparent les vacances avec fierté.
 
 ![Geslaagd in IJmuiden](geslaagd-2011-IJmuiden-s.jpg){.center}
----

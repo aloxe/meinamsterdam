@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Les bonshommes de neige de la Vijzelstraat
-description: Nous avons eu beaucoup de neige au mois de décembre 2010 et certain en ont profité pour faire des bonshommes de neige.
 categorie: toering
 tags: []
 isMarkdown: true
@@ -10,11 +9,12 @@ image_alt: Une jeune fille à vélo devant un bonhomme de neige
 permalink: bonshommes-de-neige-vijzelstraat/
 date: 2011-03-03
 update: 2011-03-04
-TODO: shortened desc, image without alt
 ---
 
 [![Une jeune fille à vélo devant un bonhomme de neige](bonohomme-de-neige_0838-fille-a-velo.jpg){.left}](/bonshommes-de-neige-vijzelstraat)
 Nous avons eu [beaucoup de neige au mois de décembre 2010](/les-marronniers-de-l-hiver) et certain en ont profité pour faire des bonshommes de neige. Beaucoup de ces sculptures éphémères ont fondu avec le reste de la neige aussi vite que [les sapins de noël ont brulé](/la-fin-des-sapins). Mais il en est resté quelques uns, **des bonshommes de neige sur la Vijzelstraat**. C'est l'expo en plein air de l'hiver.
+
+<!--excerpt-->
 
 ### Expo en plein air
 
@@ -28,42 +28,40 @@ Le lancement de ce festival de bonhommes de neige a eu lieu le [8 janvier 2011](
 
 ### Galerie:
 <!-- HTML -->
-<div style="text-align:center; font-size:smaller;">
-<!-- / HTML -->
-![](bonhomme_0797s-dutch.jpg)  
-Les touristes posent devant la hollandaise
+<div class="text-center w-[500px] m-auto">
 
-![](bonhomme_0799s-clown.jpg)  
-Un clown
+![bonhomme de neige hollandaise sur un pillier](bonhomme_0797s-dutch.jpg)  
+*Les touristes posent devant la hollandaise*
 
-![](bonhomme_0801s-neige.jpg)  
-Un autre qui se croit encore à noël
+![bonhomme de neige clown sur un pillier](bonhomme_0799s-clown.jpg)  
+*Un clown*
 
-![](bonhomme_0802s-fez.jpg)  
-Le concierge de l'hotel porte un fez
+![bonhomme de neige d'hiver sur un pillier](bonhomme_0801s-neige.jpg)  
+*Un autre qui se croit encore à noël*
 
-![](bonhomme_0803s-pirate.jpg)  
-Un pirate
+![bonhomme de neige portier sur un pillier](bonhomme_0802s-fez.jpg)  
+*Le concierge de l'hotel porte un fez*
 
-![](bonhomme_0805s-ajax.jpg)  
-Un supporter de l'Ajax au t-shirt barré par un autre supporter
+![bonhomme de neige pirate sur un pillier](bonhomme_0803s-pirate.jpg)  
+*Un pirate*
 
-![](bonhomme_0826s-pede.jpg)  
-Le pédé de Regulierdwarstraat
+![bonhomme de neige footeux sur un pillier](bonhomme_0805s-ajax.jpg)  
+*Un supporter de l'Ajax au t-shirt barré par un autre supporter*
 
-![](bonhomme_0870s-galbes.jpg)  
-Au dessus du Prinsengracht
+![bonhomme de neige fêtard sur un pillier](bonhomme_0826s-pede.jpg)  
+*Le pédé de Regulierdwarstraat*
 
-![](bonhomme_0888s-maison-descartes.jpg)  
-En face de la maison Descartes, ce panneau affirme « Amsterdam est plus belle que Paris » Cartes à l'appui.
+![totem de 3 bonshommes de neige](bonhomme_0870s-galbes.jpg)  
+*Au dessus du Prinsengracht*
 
-![](bonhomme_0890s-squelette.jpg)  
-Un squelette surveille le chantier
+![dessin bonhomme de neige sur papier](bonhomme_0888s-maison-descartes.jpg)  
+*En face de la maison Descartes, ce panneau affirme « Amsterdam est plus belle que Paris » Cartes à l'appui*
 
-![](bonhomme_0906s-wetering.jpg)  
-Des bonshommes de neige font les cons
+![dessin bonhomme de neige sur papier](bonhomme_0890s-squelette.jpg)  
+*Un squelette surveille le chantier*
 
-<!-- HTML -->
+![totem de 3 bonshommes de neige](bonhomme_0906s-wetering.jpg)  
+*Des bonshommes de neige font les cons*
+
 </div>
 <!-- / HTML -->
----

@@ -1,21 +1,21 @@
 ---
 layout: base
 title: "C'était RIPE 62 (le meeting)"
-description: "Après presque deux semaines de silence, c'est toujours une satisfaction de revenir vers vous avec le compte-rendu de ce moment intense mais affriolant qu'est l"
 categorie: dagelijks
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: ripe62.png
+image_alt: bandeau RIPE 62
 permalink: ripe-62-meeting/
 date: 2011-05-19
 update: 2012-12-12
-TODO: no image, no image alt, shortened desc
 ---
 
-Après presque deux semaines de silence, c'est toujours une satisfaction de revenir vers vous avec le compte-rendu de ce moment intense mais affriolant qu'est le RIPE Meeting. Du 2 au 6 mai, j'étais de retour au Grand NH Hotel Kasnapolsky, avec mes collègue pour accueillir et accompagner 468 participants.
+Après presque deux semaines de silence, c'est toujours une satisfaction de revenir vers vous avec le compte-rendu de ce moment intense mais affriolant qu'est le RIPE Meeting. Du 2 au 6 mai, j'étais de retour au Grand NH Hotel Kasnapolsky, avec mes collègues pour accueillir et accompagner 468 participants.
 
 Au cours de mes précédents compte-rendus des RIPE Meeting d'Amsterdam ([RIPE 55](/c-etait-ripe-55-meeting) et [RIPE 58](/c-etait-ripe-58-meeting)), j'ai déjà fait part de l'urgence pour tous les acteurs de l'Internet, de ce préparer à être compatible avec IPv6. RIPE 63 est de l'avis de tous, le dernier Meeting pendant lequel le RIPE NCC dispose encore d'adresses IPv4 pour ses membres. L'urgence est avérée. On sait maintenant que beaucoup d'opérateurs ne sont pas prêts et que la transition sera difficile. Cela génère beaucoup de discussions. Une journée entière était consacrée à **IPv6**. 
+
+<!--excerpt-->
 
 ## IPv6
 
@@ -39,6 +39,7 @@ Les autres groupes de travail on aussi eu des agendas chargés. Au peut noter au
 Depuis plusieurs années que j'essaye d'offrir un meilleur service en rendant accessible les enregistrements des sessions disponibles dès le lendemain, je crois que nous avons enfin atteind un niveau satisfaisant. Le fait que le meeting ait lieu à Amsterdam a beaucoup aidé, les collègues qui ne se déplacent pas pour les meetings ont put aider à éditer les sessions pendant leur déroulement. Résultat: ceux qui n'ont pas pu venir, peuvent suivre [toutes les sessions achivées](http://ripe62.ripe.net/archives) depuis le vendredi soir. À se demander pourquoi je fais un compte-rendu...
 
 La mise à jour quotidienne du site web de la conférence[^2] s'est suffisement bien passée pour que je puisse passer du temps pour aller à la rencontre des utilisateurs du RIPE NCC. Après avoir lancé un nouveau site au mois de janvier, je voulais rencontrer les gens et voir ce quíls en pensent. C'est ce que j''ai pu faire pendant une journée sur les stand ou les collègues présentaient aussi leurs nouveautés: [LIR Portal](https://lirportal.ripe.net/home/), [Atlas](http://atlas.ripe.net/) et [RIPE Stat](http://stat.ripe.net/). Les retours que j'ai eu ont été bons dans l'ensemble mais aussi riches en suggestions d'améliorations. Ça va me donner du travail pendant quelque temps encore.
+
 ---
 [^1]: Les entreprises de contenu n'implémentent pas IPv6 parce qu'il n'y a personne pour lire ce contenu, les fournisseurs d'accès n'implémente pas IPv6 parce qu'il n'y a pas de contenu sous ce protocole.
 [^2]: L'un des [deux sites web](/deux-nouveaux-sites-web) qui m'ont pris du temps dernièrement.

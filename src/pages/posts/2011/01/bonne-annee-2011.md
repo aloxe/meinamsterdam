@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Bonne année 2011
-description: "Puisqu'il esy indécent de souhaiter la bonne année après le 6 janvier, jour des rois mages (driekoningen), j'adresse à tous mes lecteurs mes meilleurs vœux"
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -15,9 +14,12 @@ TODO: no image, no image alt, shortened desc
 
 Puisqu'il esy indécent de souhaiter la bonne année [après le 6 janvier](/pour-les-voeux-c-est-fini), [jour des rois mages](/driekoningen) (*driekoningen*), j'adresse à tous mes lecteurs mes **meilleurs vœux pour cette année 2011**. Et je le fais en images:
 
-<!-- HTML -->
+(j'ai perdu les images dans un déménagement)
+
+<!-- HTML Gone
+TODO: external content
 <style type="text/css">
-<!--
+
 #centre p {
 font-family: Helvetica, tahoma, verdana, sans-serif; font-size: 10px;
 color:#111;
@@ -34,8 +36,6 @@ border:3px solid black;
 	text-decoration: none;
 }
 
-
--->
 </style>
 
 <div id="centre">
@@ -230,5 +230,4 @@ already adopted
 
 <!-- / HTML -->
 
-P.S. des liens intéressants sont cachés dans les photos.
----
+<!-- P.S. des liens intéressants sont cachés dans les photos. -->

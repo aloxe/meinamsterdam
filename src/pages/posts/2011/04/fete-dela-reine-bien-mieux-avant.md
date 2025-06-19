@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "La fête de la reine, c'était bien mieux avant"
-description: "Un collègue a partagé ce moment de 40 ans d'age montrant la fête de la reine (koninginnedag) quand c'était bien."
 categorie: nederlandjes
 tags: ["Amsterdam", "coutumes"]
 isMarkdown: true
@@ -15,8 +14,10 @@ TODO: no image, no image alt
 
 Un collègue a partagé ce moment de 40 ans d'age montrant la fête de la reine (*koninginnedag*) quand c'était bien.
 
+<!--excerpt-->
+
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <iframe width="480" height="390" src="http://www.youtube.com/embed/vGZcYpLJbpQ" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
@@ -27,4 +28,3 @@ Un collègue a partagé ce moment de 40 ans d'age montrant la fête de la reine 
 * [La fête de quelle reine ?](/la-fete-de-quelle-reine)
 * [Lettre aux copains qui viennent à la fête de la reine](/lettre-aux-copains-qui-viennent-a-la-fete-de-la-reine)
 * [La fête de la reine sera mobile](/la-fete-de-la-reine-sera-mobile)
----

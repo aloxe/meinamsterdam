@@ -16,7 +16,7 @@ TODO: no image alt, shortened desc, image without alt
 J'en ai parlé récemment, [la kermesse francophone](/solidarite-francophone), à La Haye, est une institution. Depuis 40 ans, c'est le plus gros évènement de charité francophone en pays batave. J'y suis allé la semaine dernière, et comme le montre les photos, c'est un gros truc.
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <!-- / HTML -->
 
 

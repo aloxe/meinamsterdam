@@ -5,8 +5,8 @@ description:
 categorie: toering
 tags: ["Utrecht", "architecture", "sociétés"]
 isMarkdown: true
-thumbnail: .Utrecht-Hoofdtkantoor-voute_s.png
-image_alt: 
+thumbnail: Utrecht-Hoofdtkantoor-voute.png
+image_alt: Salle principale voutée
 permalink: dernier-bureau-de-poste-Utrecht/
 date: 2011-11-03
 update: 2019-11-25
@@ -21,15 +21,16 @@ De nombreux commentaires indiquent que ce n'est pas uniquement le dernier des bu
 
 La construction du Hoofdpostkantoor d'Utrecht a commencé en 1919 pour se finir en 1924. Son architecte **Joseph Crouwel**, est un grand nom de l'école d'Amsterdam, ayant fait ses armes avec **Karel de Bazel** et **Hendrik Petrus Berlage**. C'est peut-être par ce bureau de poste central d'Utrecht que Joseph Crouwel est connu mais il a aussi réalisé d'autres bureaux de poste dans le Pays comme à Haarlem et Bussum. La taille de la façade avant avec ces grandes baies vitrées  le rend impressionnant pour un bâtiment de cette époque mais beaucoup moins aujourd'hui à l'age des tours de cristal. C'est surtout l'intérieur, notamment la grande voûte ovale, marque de fabrique de Joseph Crouwel, qui rend ce bureau de poste si impressionnant. Le tout est souligné par des statues et ornements en pierre bleue par **Hendrik van den Eijnde**, dont une déesse Europe très masculine et taillée à la serpe. L'arrière du bâtiment est plus caractéristique de l'architecte avec ses tours ovales aux minces baies vitrées. Si vous passez par là n’hésitez pas à faire le tour.
 
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Europa_P1080456.JPG/640px-Europa_P1080456.JPG](Statue "EUROPA" du bureau de poste d'Utrecht){.center}](https://commons.wikimedia.org/wiki/File:Europa_P1080456.JPG)
-> Statue `Europa´ du bureau de poste central d'Utrecht, Hendrik van den Eijnde. Photo: Pieter Deurne (GFDL)
+[![Statue "EUROPA" du bureau de poste d'Utrecht](Europa_P1080456.jpg){.center}](https://commons.wikimedia.org/wiki/File:Europa_P1080456.JPG)
+*Statue « Europa » du bureau de poste central d'Utrecht, Hendrik van den Eijnde. Photo: Pieter Deurne (GFDL)*
 
 Beaucoup ont dû regretter la fermeture au public de ce bâtiment classé mais la [TNT Post](/la-poste-prends-les-couleurs-d-halloween) avait [annoncé de longue date](/la-fin-des-bureaux-de-poste) ses bureaux de poste allaient disparaître et que les gens iraient [acheter leurs timbres](/tag/timbres) dans les supermarchés. Voici donc **la fin du dernier bureau de poste**.
 
 Pour contenter ceux qui regrettent de ne pas avoir pu visiter ce bâtiment historique avant, un site danois a mis en ligne **un panorama à 360 degrés de ce hall impressionnant**, Vous pouvez donc faire le tour des comptoirs vides du dernier bureau de poste, directement chez vous, en plein écran.
 
-[![](.Utrecht-Hoofdtkantoor-voute_s.png){.center}](http://www.panoramas.dk/2011/utrecht-post-office.html)
-> Cliquez donc sur l'image pour en voir plus.
+![Voute en briques du bureau de poste d'Utrecht](Utrecht-Hoofdtkantoor-voute.png){.center}
+*Voute de la salle principale du bureau de poste central d'Utrecht*
+
 ---
 [^1]: [École (mouvement) d'architecture](/l-ecole-d-amsterdam) dont j'ai déjà parlé en donnant surtout des exemples d'Amsterdam.
 <!-- post notes:

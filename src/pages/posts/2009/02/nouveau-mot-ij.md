@@ -91,7 +91,7 @@ comme en français. Le mot bijection est très souvent mal prononcé par
 les jeunes élèves tandis que le mot français bijou est parfois écrit
 par erreur *byou*...
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <!-- / HTML -->
 ![Byoux for you](byoux-for-you-img_3860-400.jpg){.center}
 Boutique **Byoux for You** au [marché Albert Cuyp](/albert-cuyp-le-marche)

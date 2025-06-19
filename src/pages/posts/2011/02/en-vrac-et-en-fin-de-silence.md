@@ -1,7 +1,6 @@
 ---
 layout: base
 title: En vrac et en fin de silence
-description: "Petit billet rapide ou j'explique pourquoi je n'ai pas mis à jour ce blog depuis plus de trois semaines."
 categorie: dagelijks
 tags: ["cinéma", "produits", "web"]
 isMarkdown: true
@@ -13,6 +12,8 @@ update: 2013-10-16
 ---
 
 Petit billet rapide ou j'explique pourquoi je n'ai pas mis à jour ce blog depuis plus de trois semaines.
+
+<!--excerpt-->
 
 ## cinéma cinéma
 ((/public/images/logos/french%20film-festival.png|My French Film Festival logo|R))
@@ -38,4 +39,3 @@ En attendant de mettre à jour mon blog, je mettais à jour plusieurs des millie
 
 ## Web web web (en plus petit)
 Le reste? ce sont quelques sites web que je dois terminer, des projets et autres coups de mains pour lesquels il est parfois difficile de trouver du temps libre. J'espère pouvoir vous montrer les résultats d'ici quelques mois.
----

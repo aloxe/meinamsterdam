@@ -20,7 +20,7 @@ Beaucoup de monde achalende ce marché, spécialement les jours de beau temps...
 
 Voici maintenant quelques photos de ce marché prises cet été, quand il faisait beau.
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <!-- / HTML -->
 ![des passants et des chaussettes](A-Cuyp-chausettes-passants.jpg){.center}
 La foule bigarée passe nonchalante devant les dessous sexys

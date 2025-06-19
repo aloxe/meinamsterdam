@@ -1,9 +1,8 @@
 ---
 layout: base
 title: "Les festivals de l'été"
-description: Comme partout en France, Amsterdam est le lieu de nombreux festivals en été en voici une liste non exhaustive pour août 2011.
 categorie: toering
-tags: ["musique", "sortir"]
+tags: ["musique", "sortir", "cinéma"]
 isMarkdown: true
 thumbnail: pluk-de-nacht.jpg
 image_alt: Pluk de Nacht
@@ -15,6 +14,8 @@ update: 2012-12-12
 Comme partout en France, Amsterdam est le lieu de nombreux festivals en été en voici une liste non exhaustive pour août 2011.
 
 Amsterdam, première ville touristique des Pays-Bas n'est pas en reste de festivals. Je ne pourrais vous les citer tous mais en voici une petite sélection pour ce mois d'août.
+
+<!--excerpt-->
 
 ### Du cinéma plein les yeux
 Il y a plusieurs propositions à l'agenda, à commencé par [Pluk de Narch](http://www.plukdenacht.nl/) sur ma plage secrète préférée. Pluk de nacht est un cinéma en plein air qui projette souvent des films qu'on ne voit pas en salle, toujours accompagné d'un court métrage et suivit d'une teuf. L'entrée est gratuite mais les chaises longue sont payantes.
@@ -40,4 +41,3 @@ Moins couru mais apprécié des amateurs, l'[Internationaal Orgel Festival](http
 
 ### Le festival des bonnes affaires
 Les festivals, qui souvent sont en plein air, ne font pas toujours le plein à cause du mauvais temps. mais il y a d'autres lieux qui font le plein en ces temps humides, ce sont les parc couverts de jeux pour enfants. Ils n'ont pas désempli du mois de juillet rapportait un journal.
----

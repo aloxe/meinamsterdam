@@ -22,7 +22,7 @@ Le [Telegaaf parle de 11 milions](http://www.telegraaf.nl/binnenland/2929749/_Sc
 Il y surement des arnaques aux assurances, du brigandisme d'occasion plus ou moins organisé mais rien qui ne justifie les hyperboles de la presse. Il reste que cette fête du jour de l'an et cette autorisation temporaire de l'utilisation des pétards génère beaucoup de vandalisme. Quelques images dans mon quartier me l'on rappelé à mon retour. En voici quelques photos :
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <!-- / HTML -->
 ![](degats-panneau-interdit.jpg)  
 Beaucoup de panneaux sont le support de pétard trop puissants. Celui-ci a été changé en deux jours

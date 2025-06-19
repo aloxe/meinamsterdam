@@ -23,6 +23,7 @@ MC Escher ne se réclamait pas particulièrement de mathématiciens ou de musici
 [![MC Escher in het paleis](mc-echer-img_8430carre200.jpg){.left}](http://www.flickr.com/photos/13274211@N00/423080182/)
 
 <!--excerpt-->
+
 MC Escher est né en **Frise**[^1], il a séjourné en **Italie** et en **Suisse** puis à Uccle en **Belgique** et enfin à Baan dans la province d'**Utrecht**[^2]. C'est pourtant à La Haye qu'on peut le retrouver le mieux aujourd'hui. On peut d'abbord admirer sa plus grande œuvre à la poste principale de la ville. [Metamorphosis III](http://en.wikipedia.org/wiki/Metamorphosis_III), toujours présente au bureau de poste de Kerkplein depuis 1968. Enfin c'est aussi à **La Haye** qu'un **musée Escher** ([Escher in het paleis](http://www.escherinhetpaleis.nl/)) ouvre ses portes au public en y montrant des gravures de l'artistes et des photos de ses lieux de vie. Le dernier étage propose aussi des activités en rapport avec les réalités improbables chères à l'artiste. C'est en allant là bas que J'ai pris en photo la sculpture ci-contre, inspirée de [cette gravure](http://www.mcescher.com/Gallery/recogn-bmp/LW401.jpg)
 
 --- 

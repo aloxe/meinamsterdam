@@ -1,7 +1,6 @@
 ---
 layout: base
 title: La marche silencieuse
-description: 
 categorie: toering
 tags: []
 isMarkdown: true
@@ -12,11 +11,11 @@ date: 2011-03-21
 update: 2011-03-21
 ---
 
-
-
 La semaine dernière c'était **la semaine du miracle d'Amsterdam**, une histoire miraculeuse comme on en entend parler ça et là dans le monde. Ce miracle a eu lieu en 1345 dans la maison d'un riche homme habitant Kalverstraat. Peu de temps après, une chapelle a été implantée sur le lieu de ce miracle. Cette dernière attirait les pèlerins de tous pays.
 
 En 1578, alors qu'Amsterdam devient protestante, le culte catholique devient interdit. Dans les faits le culte catholique continue mais de manière cachée, les églises sont secrètes, les cloches ne sonnent plus et les pèlerinages se font sans chants sur la route[^1]. On dit que la procession du miracle a du se transformer en marche silencieuse pour ne pas transgresser la règle.
+
+<!--excerpt-->
 
 ### De stille Omgang
 
@@ -29,5 +28,6 @@ L'église de kalverstraat ayant disparue, c'est la paroisse catholique du beguin
 ![église Luthérienne évangélique avec StilleInloop Japan](stilleloop-japan.jpg){.center}
 
 La marche silencieuse est si connue parmi les chrétiens de la ville que les protestants aussi organisent la leur. L'[église Luthérienne évangélique](http://www.luthersamsterdam.nl/oudeluthersekerk/index.html) du Spui, à deux pas du béguinage, était aussi ouverte pour la nuit. devant ses grilles une inscription: **StilleInloop Japan**, ce qui veut dire *entrée silencieuse*, en référence à **stille loop** qui sigifie *marche silencieuse*. Le protestants profitent de cette célébration catholique pour consacrer une nuit à la solidarité avec ceux qui ont souffert du dernier tremblement de terre.
+
 ---
 [^1]: Lire [les catholiques et les protestants](/catholiques-et-protestants)

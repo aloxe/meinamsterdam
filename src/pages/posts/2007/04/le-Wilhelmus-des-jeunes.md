@@ -22,7 +22,7 @@ Cette création est un double hommage aux Pays-Bas : Le **Wilhelmus** est l'hymn
 Voici donc le **Wilhelmus jumpstyle Remix** par DJ Patrick.
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <iframe width="480" height="360" src="http://www.youtube.com/embed/1RjZv8Vaujw" frameborder="0" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->

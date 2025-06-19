@@ -25,22 +25,20 @@ Le gouvernement actuel, composé de libéraux et de chrétiens démocrates est s
 
 Trois petits films on circulé dernièrement sur la toile batave et je vous les présente aujourd'hui, jour d'élection.
 
-<!-- HTML -->
-<div style="text-align:center; font-size:smaller; width:600px; margin:auto;">
 
-<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/5DBbpNkVaUk" frameborder="0" allowfullscreen></iframe><br/>
-imaginez un peu une société ou le PVV est au pouvoir...
-<br/><br/>
+<div class="block text-center md:w-[600px] m-auto text-lg text-amber-600">
+
+<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/5DBbpNkVaUk" frameborder="0" allowfullscreen></iframe>
+
+*imaginez un peu une société ou le PVV est au pouvoir...*
+
+<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/FeuOeh_FvWk" frameborder="0" allowfullscreen></iframe>
+
+*Les enfants de ce petit film ont démontent un peu facilement les thèses de bases du PVV. C'est le film qui a le plus de succès et Geert Wilders, <i>himself</i>, s'est offusqué de l'utilisation abusives de gamins qui ne savent pas ce qu'il disent.*
 
 
+<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/E7aEaUihqsQ" frameborder="0" allowfullscreen></iframe>
 
-<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/FeuOeh_FvWk" frameborder="0" allowfullscreen></iframe><br/>
-Les enfants de ce petit film ont démontent un peu facilement les thèses de bases du PVV. C'est le film qui a le plus de succès et Geert Wilders, <i>himself</i>, s'est offusqué de l'utilisation abusives de gamins qui ne savent pas ce qu'il disent.
-<br/><br/>
+*Ce dernier film montre l'électeur traditionnel du CDA, un agriculteur du fin fond de l'Overijsel, en train de voter pour son parti préféré dans la joie et la bonne humeur.*
 
-<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/E7aEaUihqsQ" frameborder="0" allowfullscreen></iframe><br/>
-
-Ce dernier film montre l'électeur traditionnel du CDA, un agriculteur du fin fond de l'Overijsel, en train de voter pour son parti préféré dans la joie et la bonne humeur.
 </div>
-<!-- / HTML -->
----

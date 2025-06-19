@@ -1,23 +1,24 @@
 ---
 layout: base
 title: "L'horrible moment Albert Hein"
-description: "Une petit vidéo a pas mal circulé ces derniers temps, racontant l'expérience d'un expatrié (anglais) avec les supermarchés néerlandais Albert Hein. C'est "
 categorie: nederlandjes
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: terrible-time.png
+image_alt: AH youtube screenshot
 permalink: l-horrible-moment-albert-hein/
 date: 2011-03-17
 update: 2011-03-19
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
-Une petit vidéo a pas mal circulé ces derniers temps, racontant l'expérience d'un expatrié (anglais) avec les supermarchés néerlandais **Albert Hein**. C'est criant de vérité. Il serait temps que le public français connaissent Albert Hein. Voici donc [le film et la traduction](/l-horrible-moment-albert-hein).
+Une petit vidéo a pas mal circulé ces derniers temps, racontant l'expérience d'un expatrié (anglais) avec les supermarchés néerlandais **Albert Hein**. C'est criant de vérité. Il serait temps que le public français connaissent Albert Hein. Voici donc le film et la traduction.
+
+<!--excerpt-->
 
 <!-- HTML -->
-<div style="text-align:center;">
-<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/xlZ9d-g1fA8" frameborder="0" allowfullscreen></iframe>
+<div class="flex flex-col items-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFuizX3SiyE?si=TMTwZf3XgT2A9BxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 
@@ -73,7 +74,8 @@ Mais comme il y en a un dans chaque rue
 On doit bien se rendre à l'évidence  
 Qu'on est tous la morue de Monsieur Albert Hein.
 
-----
+--- 
+
 **Quelques liens avec Albert Hein**  
 [Qu'allons nous faire de nos wuppies ?](/qu-allons-nous-faire-de-nos-wuppies)  
 [Albert Hein et compagnie](/albert-hein-et-compagnie)  
@@ -81,4 +83,3 @@ Qu'on est tous la morue de Monsieur Albert Hein.
 [On schtroumphe bien les smurfs](/schtroumphs-smurf)  
 [Qu'allons nous faire de nos welpies ?](/qu-allons-nous-faire-de-nos-welpies)  
 [Encore de petits vols en public](/petits-vols-en-public-2)  
----

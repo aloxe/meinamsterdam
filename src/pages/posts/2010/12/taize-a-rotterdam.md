@@ -18,7 +18,7 @@ La Communauté de Taizé organise pour le Nouvel An des rencontres de cinq jours
 La communauté [cuménique](http://fr.wikipedia.org/wiki/%C5%92cum%C3%A9nisme) se rend dans une terre qui a vécu lourdement l'opposition entre [catholiques et protestants|] à un moment ou les chrétiens ne sont plus une référence de société. Le scandale des prêtres pédophiles dans l'église Catholique et la cuisante défaite d'un gouvernement Balkenende IV qui voulait ramener une certaine morale protestante dans la société. Les rencontres s'adressent aux jeunes que tout cela dépasse mais les communautés locales qui assurent laccueil vont enfin partager des moments plus réjouissants. 
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <iframe src="http://player.vimeo.com/video/15457767?byline=0&amp;portrait=0&amp;color=f07400" width="400" height="225" frameborder="0"></iframe><br/><a href="http://vimeo.com/15457767">Taize - On the way to Rotterdam</a> from <a href="http://vimeo.com/taize">Taizé</a> on <a href="http://vimeo.com">Vimeo</a>.</div>
 <!-- / HTML -->
 

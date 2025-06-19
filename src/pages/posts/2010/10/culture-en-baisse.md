@@ -24,7 +24,7 @@ On apprend que **de nombreuses subventions seront supprimées** ce qui fait grin
 Dans cette même revue de presse, on apprend aussi la fermeture du **Centre musical de la radiotélédiffusion publique** (*Muziekcentrum van de Omroep*). Ce centre était la structure d'accueil de trois des plus grands ensembles du pays. Les premiers concernés sont évidement outrés mais au delà, c'est toute la profession qui proteste. Exemple hier dans la plus grande gare de la Haye où les voyageurs on put assister à la flash mob d'un orchestre symphonique. Voyez plutôt:
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/uo2664RUw8w?fs=1&amp;hl=nl_NL&amp;color1=0xe1600f&amp;color2=0xfebd01"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uo2664RUw8w?fs=1&amp;hl=nl_NL&amp;color1=0xe1600f&amp;color2=0xfebd01" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 </div>
 <!-- / HTML -->

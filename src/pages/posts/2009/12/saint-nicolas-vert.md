@@ -25,7 +25,7 @@ C'est justement à base de chocolat que sera mon article de la Saint Nicolas cet
 J'avais déjà parlé d'un Saint Nicolas vert qui passait à la télé pour faire une pub pour une ?uvre de charité. La France connait [les pères Noël verts](http://www.secourspopulaire.fr/action+M538bed7e65c.0.html?&id=action) qui aident les plus pauvres du pays à passer un joyeux noël décent avec des cadeaux et un bon repas. Rien de tout cela ici Le Saint Nicolas est vert parce qu'il s'habille comme le logo de l'?uvre de charité qu'il promeut. Cette ?uvre, c'est **Oxfam Novib**. Novib est une organisation néerlandaise d'aide au développement et elle s'est affiliée au réseau international [Oxfam](http://www.oxfam.org/), connue dans le monde entier pour son combat contre la pauvreté et pour le développement équitable. 
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/R2XDX9p3n2g&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/R2XDX9p3n2g&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="320" height="265"></embed></object></div>
 <!-- / HTML -->
 
@@ -38,14 +38,14 @@ La culture du cacao est particulièrement surjète à la surexploitation des ouv
 Avec la *Sinterklaas*, des millions de lettres en chocolat seront vendues dans tout le pays, encore trop peu sont équitables. Le [Saint vert](http://www.groenesint.nl/) estime que 19 millions d'entre elles sont faites avec du cacao qui est acheté sans respecter les producteurs. Plutôt que de faire des pubs gentilles à la télé (voir ci dessus). Il a lancé une grande opération en envoyant les jeunes dans les magasins, vérifier si les lettres en chocolat sont bien équitables (*eerlijke chocoladeletters*). En fait, cette année il n'y a que les lettres Verkades qui le sont.
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/K_AA7-2_bSc&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K_AA7-2_bSc&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object></div>
 <!-- / HTML -->
 
 La campagne porte ses fruits, le *Groene Sint* a été reçu à la chambre basse et par de nombreux magasins. [HEMA](/le-design-c-est-hema) et V&D, deux enseignes qui proposent des lettres en chocolat sous leur marques de distributeur, ont promis d'apposer le label qui va bien pour l'année prochaine. Lidl a aussi promis de se fournir en chocolat équitable l'année prochaine. Les supporters de *Groene Sint* et de Oxfam Novib continuent d'inspecter les magasins et de rencontrer les managers pour leur demander de ne vendre que du chocolat durable (*duurzaam chocolade*). Le tout est consigné dans un *Groene Sint Journal* dans la plus pure tradition des émissions pour enfant de cette période de l'année.
 
 <!-- HTML -->
-<div style="text-align:center;">
+<div class="flex flex-col items-center">
 <object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/6isD7denrN4&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6isD7denrN4&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
 </div>
 <!-- / HTML -->

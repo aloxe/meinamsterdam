@@ -5,7 +5,7 @@ description: "O   Au cours de la campagne présidentielle, Le candidat François
 categorie: ik-ben-frans
 tags: ["politique"]
 isMarkdown: true
-thumbnail: 32_maart.jpg
+thumbnail: ../04/32_maart.jpg
 image_alt: affiche sucette 32 Maart bestaat niet
 permalink: impot-sur-le-revenu-effet-de-seuil/
 date: 2012-03-30

@@ -18,7 +18,53 @@ Voilà deux ans que je vais à la sortie printanière dans les tulipes, [organis
 C'était sans compter sur la batavitude du moment. Samedi a été la seule journée couverte ces derniers jours. Le lendemain, dimanche des rameaux, il faisait à nouveau beau. Voilà pourquoi il n'y a pas de ciel bleu sur les photos ci-dessous mais C'était quand même une belle journée avec de jolies couleurs dans les champs et sur nos visages.
 
 <!-- HTML -->
-<div style="text-align:center; font-size:smaller; margin: auto;">
+<div class="flex flex-col">
+
+
+![alt text](IMG_0536.JPG) 
+*Avant les tulipes: pic nic dans les dunes, c'est l'heure du clacos.*
+
+![alt text](IMG_0549.JPG) 
+*Un renard dans les dunes*
+
+![alt text](IMG_0556.JPG) 
+*Traditionnelle pause café au Nederzandt*
+
+![alt text](IMG_0569.JPG) 
+*Tulipes pas mures et canard colvert*
+
+![alt text](IMG_0573.JPG) 
+*L'année dernière, j'étais le dernier à ce virage*
+
+![alt text](IMG_0574.JPG) 
+*En tête de peloton*
+
+![alt text](IMG_0583.JPG) 
+*En queue de peloton*
+
+![alt text](IMG_0589.JPG) 
+*Il y avait du monde à Lisse pour [le bloemencorso](/bloemen-corso). Keukeunhof était plein à craquer, le jardin a vécu sa journée record en terme de visites.*
+
+![alt text](shot_1302964575277.jpg) 
+*Le bloemencorso vous offre des fleurs*
+
+![alt text](IMG_0621.JPG) 
+*Tous les ans les mêmes photographes*
+
+![alt text](IMG_0602.JPG) 
+*Tous les ans les mêmes photos*
+
+![alt text](IMG_0617.JPG) 
+*Carte postale de Hollande*
+
+![alt text](shot_1302966583681.jpg) 
+*Les photographes avec des gros zooms*
+
+![alt text](DSC00050.jpg)
+*Un dernier verre à Haarlem, après 45,5 km*
+
+
+
 <!-- / HTML 
 TODO: external content 
 [![https://lh4.googleusercontent.com/_AGzEnHNMy74/Ta00fWl1FiI/AAAAAAAAAc4/xp8Wo1yQy_E/s288/IMG_0536.JPG]() TODO: Add image alt |https://picasaweb.google.com/116245480960689634895/BaladeDansLesTulipes?authkey=Gv1sRgCJnuhoes7bmQmQE#5597187625136231970]  
@@ -55,5 +101,7 @@ Un dernier verre à Haarlem, après 45,5 km
 </div>
 <!-- / HTML -->
 
-<!-- Il y a aussi les [photos de Jérôme](https://picasaweb.google.com/jerome.gonthier2/BaladeVeloTulipes2011?authkey=Gv1sRgCKa4l9i1j5jZ9wE&feat=directlink), elles sont encore plus jolies et plus nombreuses. Son zoom est plus gros que le mien. -->
----
+<!-- Il y a aussi les [photos de Jérôme](https://picasaweb.google.com/jerome.gonthier2/BaladeVeloTulipes2011?authkey=Gv1sRgCKa4l9i1j5jZ9wE&feat=directlink), elles sont encore plus jolies et plus nombreuses. Son zoom est plus gros que le mien. 
+
+Gone
+-->

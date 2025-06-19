@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Mon nouveau «chez moi»
-description: 
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -11,8 +10,6 @@ permalink: mon-nouveau-chez-moi/
 date: 2011-03-09
 update: 2011-03-19
 ---
-
-
 
 Si vous suiviez mes aventures sur ce blog, vous sauriez sans doute que j'ai [acheté un appartement](/signatures-week) à deux en 2008, juste avant la crise des *subprimes*. Tout serait pour le mieux si la deuxième propriétaire ne s'en était allée. Puisque je ne pouvait assumer seul le [crédit immobilier](/credits-pays-bas), nous avons mis l'appartement en vente. Ce, en vain pendant un an. Il y a maintenant sur le marché de nombreux biens plus intéressants et les acheteurs sont rares. La crise est passée par là.
 
@@ -28,5 +25,6 @@ J'ai finalement utilisé l'hospitalité d'habitants d'Amsterdam entre **Herengra
 
 Dernièrement, le copain d'un copain m'a fait l'offre d'occuper son appartement dans un quartier au nord-ouest du centre historique. Un bon plan. C'est donc dans ce quartier de **Spaarndamerbuurt** que je vis depuis dimanche.
 
-C'est donc un grand changement pour moi, je redeviens locataire, je vis dans un immeuble de logements sociaux et je suis dans un secteur de la ville que je ne connais pas bien, loin du marché [Albert Cuyp](/albert-cuyp-le-marche). Grâce à ce nouvel emplacement, je compte donc vous faire découvrir de nouvelles facettes de moi à Amsterdam.
----
+C'est donc un grand changement pour moi, je redeviens locataire, je vis dans un immeuble de logements sociaux et je suis dans un secteur de la ville que je ne connais pas bien, loin du marché [Albert Cuyp](/albert-cuyp-le-marche). 
+
+Grâce à ce nouvel emplacement, je compte donc vous faire découvrir de nouvelles facettes de moi à Amsterdam.

@@ -1,0 +1,1 @@
+document.write('<div id=\"1x1systemdefault_247x30_1713776\" name=\"1x1systemdefault_247x30_1713776\" style=\"position:absolute;left:0px;top:0px;height:1px;width:1px;visibility:hidden;\"><img src=\"http://s0.2mdn.net/787775/systemdefault_247x30.gif\" width=\"1\" height=\"1\" border=\"0\"></div>');

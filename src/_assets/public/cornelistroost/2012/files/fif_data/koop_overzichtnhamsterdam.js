@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="http://ad.nl.doubleclick.net/click;h=v8/3aac/0/0/%2a/u;234317888;1-0;1;53259704;28567-300/81;39685114/39702901/1;;~aopt=2/1/55/2;~sscs=%3fhttp://www.ing.nl/particulier/hypotheken/slimme-hypotheekberekeningen.aspx?furl=0000_EXTN_Hypotheken_funda_A2A"><img src="http://s0.2mdn.net/viewad/791837/ING_A2A.gif" border=0 alt="Klik Hier!"></a>');

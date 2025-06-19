@@ -62,7 +62,7 @@ Une jeune française est aussi morte en 1945 dans le camp de Bergen Belsen aprè
 
 Téléchargez et lisez :
 
-* Version text brut: [Het_Achterhuis_-_Anne_Frank.txt](/public/files/2016/Het_Achterhuis_-_Anne_Frank.txt)
+* Version text brut: [Het_Achterhuis_-_Anne_Frank.txt](/files/2016/Het_Achterhuis_-_Anne_Frank.txt)
 * En html sur Wikisource: [nl.wikisource.org/wiki/Het_Achterhuis_(Anne_Frank)](https://nl.wikisource.org/wiki/Het_Achterhuis_(Anne_Frank))
 
 ---

@@ -51,7 +51,7 @@ Pour les curieux voici le document que j'ai envoyé :
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-    <iframe src="/files/2022-Test-Vote-Internet.pdf" width="100%" height="800px" title = "document Test-Vote-Internet">
+    <iframe src="/files/2022/Test-Vote-Internet.pdf" width="100%" height="800px" title = "document Test-Vote-Internet">
     </iframe>
 </div>
 <!-- / HTML -->

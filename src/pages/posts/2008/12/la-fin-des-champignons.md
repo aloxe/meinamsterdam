@@ -1,7 +1,6 @@
 ---
 layout: base
 title: La fin des champignons
-description: "Les champignons hallucinogènes sont interdits à la vente depuis aujourd'hui aux Pays-Bas. La vente était sérieusement réglementée depuis 1971 et l'année "
 categorie: nederlandjes
 tags: ["drogue", "mots"]
 isMarkdown: true
@@ -10,10 +9,12 @@ image_alt:
 permalink: la-fin-des-champignons/
 date: 2008-12-01
 update: 2012-09-11
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 Les champignons hallucinogènes sont interdits à la vente depuis aujourd'hui aux Pays-Bas. La vente était sérieusement réglementée depuis 1971 et l'année dernière la vente des champignons séchés est devenue interdite. Cette année c'est au tour des produits frais d'être interdit à la vente. Ce n'est pas la fin des haricots, mais pour certains commerces, ça y ressemble. explications :
+
+<!--excerpt-->
 
 ## Nouveau mot : paddo
 
@@ -30,6 +31,7 @@ En 2007, la loi a déjà interdit la vente de champignons psychotropes (comme il
 
 ## La cas Amsterdam
 Amsterdam compte encore aujourd'hui une vingtaine de smartshops. La municipalité a annoncé aujourd'hui qu'elle était incapable d'appliquer la nouvelle loi et demande au ministère de la justice de lui donner plus d'information sur la méthode à employer[^1]. [Le maire de la ville indique](http://www.aol.nl/nieuws/story/Amsterdam-handhaaft-paddoverbod-nog-niet/7010414/index.html) qu'il a reçu la circulaire du ministère il y a seulement dix jours et que la police n'avait donc pas le temps de mettre en place un dispositif de contrôle. La mafia cité plus haut est peut-être la principale inquiétude du maire . Cette dernière lui donne suffisamment de travail avec le cannabis, la prostitution et l'immobilier pour introduire une nouvelle occasion d'activité avec les paddos. Les smatshops d'Amsterdam ont semble-t-il quelques jours de répit mais il me faut attendre encore un peu pour que je puisse vous dire ce qu'ils vont devenir.
+
 ---
 [^1]: Ce n'est généralement jamais bon de légiférer sur le coup de l'émotion et on semble s'apercevoir maintenant qu'on n'a pas considéré toutes les conséquences de cette loi
 <!-- post notes:

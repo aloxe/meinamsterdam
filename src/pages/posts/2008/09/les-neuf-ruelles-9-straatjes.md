@@ -1,19 +1,18 @@
 ---
 layout: base
 title: Les neuf ruelles (9 straatjes)
-description: "[|http://www.flickr.com/photos/13274211@N00/1816503628/]  Parmis les quartiers du centre-ville, il en est un qui, bien que peu connu est apprécié aussi bien p"
 categorie: toering
 tags: ["Amsterdam", "shopping"]
 isMarkdown: true
-thumbnail: 9-straatjes-03.png
-image_alt: 
+thumbnail: 9-straatjes-rood-04.png
+image_alt: parapluie dans la rue
 permalink: les-neuf-ruelles-9-straatjes/
 date: 2008-09-08
 update: 2015-06-03
-TODO: no image alt, shortened desc, image without alt
+TODO: shortened desc, external image
 ---
 
-[![http://farm3.static.flickr.com/2289/1816503628_8b048b75a9_m.jpg](Galbe sur Reestraat, architecture typique des 9 straatjes){.left}](http://www.flickr.com/photos/13274211@N00/1816503628/)
+<!-- [![http://farm3.static.flickr.com/2289/1816503628_8b048b75a9_m.jpg](Galbe sur Reestraat, architecture typique des 9 straatjes){.left}](http://www.flickr.com/photos/13274211@N00/1816503628/) -->
 Parmis les quartiers du centre-ville, il en est un qui, bien que peu connu est apprécié aussi bien par les touristes que par les locaux. C'est le quartier des **9 ruelles** ou ''Negen straatjes** situé à l'ouest de la ceinture de canaux du centre ville d'Amsterdam.
 
 Les *[9 stratjes](http://www.de9straatjes.nl/)* est donc un quartier formé de 3 axes perpendiculaires aux tois principaux canaux d'Amsterdam : **Prinzengracht**, **Herengracht**, **Keizergracht** et le **Singel**. Les ruelles formant ces axes perpendiculaires changent de nom à chaque franchissement de canal ce qui donne bien 9 ruelles. Les maisons bordant les canaux ont été construites au 17ème siècle ce qui rend le **quartier typique d'Amsterdam**. 
@@ -22,10 +21,17 @@ Les rues ne sont pas piétonnes à proprement parler mais leur étroitesse et le
 
 Pour ceux qui voudrait retrouver ces *negen straatjes* sur un plan voici la liste des rues dans l'ordre en partant du nord-ouest. Wikimapia vous aide à les [voir de haut](http://wikimapia.org/#lat=52.3706604&lon=4.8852468&z=17&l=0&m=a&v=2).
 
-**| | Reestraat    | | Hartenstraat  | | Gasthuismolensteeg | |**  
-**| | Berenstraat | | Wolvenstraat | | Oude Spiegelstraat | |**  
-**| | Runstraat    | | Huidenstraat  | |  Wijde Heisteeg | |__
-
+```
+|ꕀꕀ|==============|ꕀꕀ|===============|ꕀꕀ|====================|ꕀꕀ|
+===== Reestraat    ===== Hartenstraat  ===== Gasthuismolensteeg =====
+|ꕀꕀ|--------------|ꕀꕀ|---------------|ꕀꕀ|--------------------|ꕀꕀ|
+|ꕀꕀ|______________|ꕀꕀ|_______________|ꕀꕀ|____________________|ꕀꕀ|
+===== Berenstraat  ===== Wolvenstraat  ===== Oude Spiegelstraat =====
+|ꕀꕀ|--------------|ꕀꕀ|---------------|ꕀꕀ|--------------------|ꕀꕀ|
+|ꕀꕀ|______________|ꕀꕀ|_______________|ꕀꕀ|____________________|ꕀꕀ|
+===== Runstraat    ===== Huidenstraat  =====  Wijde Heisteeg    =====
+|ꕀꕀ|==============|ꕀꕀ|===============|ꕀꕀ|====================|ꕀꕀ|
+```
 
 Les canaux allant d'une rue à l'autre sont considérés comme faisant partie du quartier, il y a peut être plus de voiture mais les trottoirs sont larges et se promener le long des canaux est aussi un must de balade à Amsterdam. Les bâtiment bordant les canaux sont plus prestigieux. On y trouve des hôtels, quelques bureaux et le musée de la Bible, le fameux *[Bijbels Museum](http://www.bijbelsmuseum.nl/default.aspx)* aux jolies façades de pierre[^1].
 
@@ -33,33 +39,34 @@ Une association des commerçants des *negen straatjes* existe, qui essaye de pro
 
 Neuf artistes ont habillé de rouge, chacun à leur manière, chacune des neuf ruelles. C'est à voir du 1er au 10 septembre 2008, pendant neuf jour donc. pour ceux qui sont loin, en voici quelques vues, piquées sur le site du sponsor, Vodafone. Et oui, depuis que [Orange n'existe plus aux Pays-Bas](/orange-magenta), le rouge est le nouveau orange...
 
-<!-- HTML -->
+
 <table cellpadding="10" align="center"><tr><td>
-<!-- / HTML -->
-![](9-straatjes-03.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 3](9-straatjes-03.png)
+
 </td><td>
-<!-- / HTML -->
-![](9-straatjes-rood-02.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 2](9-straatjes-rood-02.png)
+
 </td></tr><tr><td>
-<!-- / HTML -->
-![](9-straatjes-rood-01.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 1](9-straatjes-rood-01.png)
+
 </td><td>
-<!-- / HTML -->
-![](9-straatjes-rood-04.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 4](9-straatjes-rood-04.png)
+
 </td></tr><tr><td>
-<!-- / HTML -->
-![](9-straatjes-rood-05.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 5](9-straatjes-rood-05.png)
+
 </td><td>
-<!-- / HTML -->
-![](9-straatjes-rood-06.png)
-<!-- HTML -->
+
+![les 9 ruelles, vue 6](9-straatjes-rood-06.png)
+
 </td></tr></table>
-<!-- / HTML -->
+
+
 ---
 [^1]: Les maisons de canaux en pierre sont rare à Amsterdam
 <!-- post notes:

@@ -11,6 +11,8 @@ permalink: les-timbres-de-saison/
 date: 2008-12-04
 update: 2016-01-15
 TODO: shortened desc
+subfooters:
+ - timbres
 ---
 
 Cette année encore, la poste néerlandaise propose des timbres de saison pour envoyer ses voeux à toute la famille. Comme chaque année, ces timbres sont vendus moins cher que les timbres d'usage courant, ils sont plus jolis mais utilisables uniquement pendant une période très limitée. J'ai déjà parlé de l'[envoi des voeux](/augmentation-du-prix-du-timbre) et des [timbres de fin d'année](/timbres-en-promo) sur ce blog et je ne pensais pas en parler cette année. Mais voilà, j'ai découvert leur design[^1], et je me suis dit que ça vallait le coup de vous les montrer. [Voyez plutôt](/les-timbres-de-saison).
@@ -23,13 +25,6 @@ Quelque soit la fête, je voulais vous présenter ce paysage hivernal hollandais
 
 [![Decemberzegels 2008 perspective isometrique](december-zegels-detail.png){.center}](http://blog.re/me-in-amsterdam/files/data/2008-december-zegels.png)
 
-## Voir aussi
-* [Timbres de décembre en 2006](/augmentation-du-prix-du-timbre)
-* [Timbres de décembre en 2007](/timbres-en-promo)
-* désolé, je n'ai pas ceux de  2009
-*  [Timbres de décembre en 2010](/les-timbres-de-decembre-2010)
-* désolé, je n'ai pas ceux de 2011
-*  [Timbres de décembre en 2012](/Les-timbres-de-decembre-ont-25-ans)
 ---
 [^1]: Merci à Romain pour m'avoir signalé que les timbres néerlandais étaient [plus jolis](/des-timbres-ecolos-en-france-et-aux-pays-bas#co) que les français
 <!-- post notes:

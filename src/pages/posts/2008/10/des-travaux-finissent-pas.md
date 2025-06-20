@@ -18,10 +18,10 @@ Une fois l'appartement acheté, nous avons décidé de ne pas l'investir tout de
 
 <!-- HTML -->
 <div style="text-align:center; font-size:small;">
-<!-- / HTML -->
+
 ![dans un lit entouré de cartons](travaux-IMG_9535-amsterdam.jpg){.center}  
 voici à peut près où on vit tous les jours
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
@@ -31,14 +31,13 @@ Le plombier qui est venu réparer les fuites que j'avais créées, ne répond pl
 
 <!-- HTML -->
 <table align="center"><tr><td>
-<!-- / HTML -->
+
 ![travaux dans la petite chambre](travaux-IMG_0357-amsterdam.jpg){.center}  
 Ces deux photos montrent le même endroit  
 à un mois d'intervale.  
 Beaucoup de changements,  
 mais toujours pas terminé...
 
-<!-- HTML -->
 </td><td>
 <!-- / HTML -->
 
@@ -49,13 +48,12 @@ mais toujours pas terminé...
 
 <!-- HTML -->
 <div style="text-align:center; font-size:small;">
-<!-- / HTML -->
+
 ![Je fais mes courses chez Praxis](travaux-IMG_0659-amsterdam.jpg){.center}  
 les courses du samedi après-midi
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 ## Voir aussi
 [Comment je pose un va et vient en hollandais](/va-et-vient-wisselschrakeling).
----

@@ -23,17 +23,20 @@ Un collègue polonais m'a donné le numéro d'un plombier, polonais lui aussi. I
 Il a cru bon a un moment de parler de sa résidence secondaire en France et de sa difficulté supposée de trouver un bon plombier. Grâce à cette directive, ajouta-t-il, il serait très content de trouver un bon plombier polonais. Cela lui a valu de se faire couper le gaz par des cégétistes du nord et a permis au [plombier polonais](http://fr.wikipedia.org/wiki/Plombier_polonais) de se hisser au rang de symbole du dumping social. L'affaire a eu des répercutions en Pologne ou les frères Lech et Jarosław Kaczyński en on profiter pour défendre les plombiers de leur pays dans le bel élan populiste qu'on leur connait. 
 
 L'office du tourisme de Pologne a aussi repris avec humour l'image du plombier polonais pour promouvoir le pays[^1]...
-<!-- HTML -->
-<table align="center" border="0"><tr><td>
-<!-- / HTML -->
+
+
+<div class="flex justify-center">
+  <div class="m-1 text-center">
+
 ![Piotr Adamski à la campagne](plombier_pologne_campagne.jpg){.center}
-<!-- HTML -->
-</td><td>
-<!-- / HTML -->
+
+  </div>
+  <div class="m-1 text-center">
+
 ![Piotr Adamski à la ville](plombier_polonais-ville.jpg){.center}
-<!-- HTML -->
-</td></tr></table>
-<!-- / HTML -->
+
+  </div>
+</div>
 
 ## Le plombier polonais de 2008
 
@@ -42,5 +45,6 @@ L'office du tourisme de Pologne a aussi repris avec humour l'image du plombier p
 En fait de disponibilité, ce plombier était comme les autres, qualifiant ma fuite de non urgente, il ne pouvait venir que la semaine suivante. Il a heureusement tenu sa promesse et fait du bon travail. Et moi, j'ai ravalé ma fierté.
 
 ![les travaux de plomberie](travaux-plomberie.jpg){.center}
+
 ---
 [^1]: Bon sur les affiches c'est un mannequin habillé en plombier mais vous avez compris le message.

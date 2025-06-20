@@ -25,6 +25,7 @@ Quand la construction de la ligne du nord au sud a été annoncée, les habitant
 ![Plan de coupe de la Noord Zuidlijn](noord-zuidlijn-coupe.png){.right}
 
 Cette semaine l'incident a été spectaculaire. Tous près de la maison consolidée, quatre bâtiments se sont affaissés, parmi eux, la Maison Descartes[^1], institut culturel français. trois autres bâtiment sont des maisons de particuliers dont **une s'est affaissée de 23 cm**. L'évènement est tellement impressionnant qu'elle fait la une des journaux, les familles sinistrées passent à la télé[^2] et les politiques font de grandes déclarations à propos de ce chantier. Certains journalistes demandent si le projet ne sera pas tout bonnement arrêté. Comme toujours il est trop tôt pour savoir ce qu'il va se passer mais en tout cas, on n'a pas fini d'entendre parler de la *Noord-Zuidlijn*.
+
 ---
 [^1]: [Maison Descartes blijft open ](http://www.parool.nl/parool/nl/124/VERKEER/article/detail/32175/2008/09/13/Maison-Descartes-blijft-open.dhtml)
 [^2]: [Drama metrolijn zet zich voort](http://www.ad.nl/amsterdam/2605164/Drama_metrolijn_zet_zich_voort.html) - [11 september 2008: Extra nieuwsuitzending verzakking Vijzelgracht](http://web.at5.nl/wp-content/plugins/embedthevideo/popup.php?url=mms://media.at5.nl/achtergrond/080911_NieuwsExtra.wmv&height=225&width=400)

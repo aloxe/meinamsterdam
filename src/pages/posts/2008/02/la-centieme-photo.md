@@ -1,21 +1,22 @@
 ---
 layout: base
 title: La centième photo
-description: "Certain d'entre vous l'ont remarqué mais il y a une photo dans la marge à droite de ce blog. Une photo prise au hasard parmi celles que j'ai mises dans ma col"
 categorie: dagelijks
 tags: ["photos"]
 isMarkdown: true
 thumbnail: 100e-photo-sur-la-carte-s.png
-image_alt: 
+image_alt: la carte des 100 photos
 permalink: la-centieme-photo/
 date: 2008-02-17
 update: 2012-09-11
-TODO: no image alt, shortened desc, image without alt
+TODO: external
 ---
 
 Certain d'entre vous l'ont remarqué mais il y a une photo dans la marge à droite de ce blog. Une photo prise au hasard parmi celles que j'ai mises dans ma collection flickr. La particularité de cette collection: les photos sont carrées. Autre particularité: **Les Pays-Bas**. aucune photo n'a été prise en dehors de ce petit territoire. Dimanche dernier, je suis allé prendre quelques photos sous le soleil et je suis rentré à la maison pour en ajouter une dans la collection : **La centième**. Peut-être que c'est là l'occasion de parler de cette galerie de photo et de vous inviter à la visiter.
 
-![](100e-photo-sur-la-carte-s.png)
+![100 photros sur une carte des Pays-Bas](100e-photo-sur-la-carte-s.png){.center}
+
+<!--excerpt-->
 
 Vous pouvez visiter la page directement [sur le site flickr](http://www.flickr.com/photos/13274211@N00/) mais vous pouvez aussi les découvrir sur la carte du pays [grace à loc.alize.us](http://loc.alize.us/#/user:aloxe/geo:52.477762,4.693909,9,k/). Et si vous touvez les options de ces pages web un petit peu trop limités, je vous propose d'installer le un plugin pour firefox que j'ai découvert il y a peu: **[Piclens](http://www.piclens.com/site/firefox/win/)**. Installez-le et visualisez mes photos comme dans le hall d'une grande chaîne de télé. 
 
@@ -125,4 +126,3 @@ J'ai 100 photos dans ma collèc'. Je ne sais pas si ces images sont très caract
 <p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/297395694/" title="Teddy bear mass suicide"><img src="http://farm1.static.flickr.com/110/297395694_2df6608324_s.jpg" width="75" height="75" alt="Teddy bear mass suicide" /></a></p>
 <div style="clear:both;"></div>			
 <!-- / HTML -->
----

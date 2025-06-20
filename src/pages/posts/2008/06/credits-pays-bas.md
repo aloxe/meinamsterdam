@@ -37,6 +37,7 @@ Cette formule de crédit ne m'est pas familière, en gros le crédit est cette f
 
 ## En conclusion
 Si tous ces mots paraîssent barbares (et c'est bien normal) mais ces formules de prêts le sont beaucoup moins. Elles existent aussi en France même si le prêt caussionné est la formule qui a le plus de succès. Comme toujours il n'y a pas de formule idéale mais une formule adapté à vos besoins. Faites-vous accompagner d'un conseiller *Hypotheekadviseur* qui saura vous trouver l'offre la plus adaptée. Enfin portez une attention particulière aux conditions du prêt, aux frais de changements de formule ou de remboursements anticipés. C'est en étant attentif à ce genre de détails que l'on évite de se mordre les doigts par la suite.
+
 ---
 [^1]: voir cette vieille [étude de la Banque de France](http://blog.re/me-in-amsterdam/files/data/etu144_Banque-de-France.pdf).
 <!-- post notes:

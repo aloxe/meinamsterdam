@@ -25,4 +25,3 @@ Comme en Belgique aussi, les variantes de croustillons existent avec des pépite
 
 ![Oliebollen ou croustillons vendus à la dizaine](oliebollen.jpg){.center}
 La [page Wikipedia des croustillons](http://fr.wikipedia.org/wiki/Croustillon), il est signalé que les croustillons sont aussi appelés *smoutebollen* en Flandre et *püpperchen* en Alsace. Je ne sais pas Si l'invention de cette pâtisserie est à mettre au crédit des alsaciens, des belges ou des hollandais mais on peut affirmer aujourd'hui que c'est une spécialité de ces trois régions. Si donc vous voulez passer un [Noël à la mode Pays-Bas](/noel-des-pays-bas), vous pouvez essayer cette [recette simple du croustillon](http://www.marmiton.org/recettes/recette.cfm?num_recette=13215).
----

@@ -10,16 +10,16 @@ image_alt:
 permalink: 1637-krach-de-la-tulipe/
 date: 2008-10-10
 update: 2012-09-14
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt, shortened desc, external images
 ---
 
 Une petite nouvelle découverte dans le Monde au sujet des krachs boursiers. [Le Monde rappelle](http://www.lemonde.fr/la-crise-financiere/article/2008/10/10/les-krachs-boursiers-une-vieille-histoire_1105364_1101386.html) que l'''une des caractéristiques principales du krach est l'effet de panique qui voit les investisseurs vendre tous en même temps, créant ainsi une spirale baissière que rien ne peut arrêter. Le terme de "krach" apparaît lors de la chute des Bourses de Vienne et de Berlin en été et en automne 1873. C'est donc un phénomène ancien, et l'Histoire a été ponctuée de krachs plus ou moins spectaculaires.'' Avant de finir l'article sur une lithanie des krachs boursiers, depuis le temps que ça existe on devrait être habitués...
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
-<!-- / HTML -->
+
 La "tulipomanie" fut, en Hollande, **la première bulle spéculative économique et financière de l'histoire moderne**. La spéculation était fondée sur le commerce des bulbes de tulipe, dont les prix atteignirent des sommets. Ainsi, en 1623, le bulbe d'une variété rare affiche 1 000 florins, en 1625, 2 000 et en 1637, 5 500 (le revenu annuel moyen de l'époque est de 150 florins). Mais en février 1637, les cours s'effondrent, déclenchant une véritable panique. En 1642, après le krach, le prix de la tulipe n'était plus qu'au dixième de sa valeur et cent ans plus tard à deux centièmes.
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
@@ -42,4 +42,3 @@ Voir aussi
 * [Les derniers jours de Keukenhof](/les-derniers-jours-de-keukenhof), le temple en plein air de la tulipe.
 * [Au pays des vélos des moulins et des tulipes](/pays-des-velos-moulins-tulipes).
 * [Bloemencorso, le défilé de fleurs](/bloemen-corso).
----

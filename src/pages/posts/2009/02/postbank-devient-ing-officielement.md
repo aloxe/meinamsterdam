@@ -20,7 +20,7 @@ Contrairement à ce que j'affirmais en décembre dernier, les problèmes d'ING d
 Voici les changements qui sont intervenus depuis le remplacement des distributeurs de billets en décembre 2008. Le plus visible se trouve dans les bureaux de poste. Ces derniers sont maintenant repérables dans la rue grâce à aux enseignes de deux compagnies privées à trois lettres: **TNT** et **ING**. À l'intérieur de ces bureaux de poste, les comptoirs, affiches et brochures sont toutes désormais aux couleurs d'ING. Une nouvelle publicité montre le lion Postbank très fièr de sa couleur orange rappelant à son collège ING qu'il a toujours le sang bleu...
 
 
-<div class="flex justify-center ...">  
+<div class="flex justify-center">
   <div class="m-1 text-center">
 
 [![Postbank ING en Décembre](postbank-ing-s.jpg){.center}](/postbank-devient-ing-officielement/postbank-ing-750w.jpeg)  

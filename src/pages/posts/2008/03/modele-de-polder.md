@@ -46,12 +46,9 @@ trouver le meilleur compromis, quitte à indemniser les personnes lésées.
 
 Comme indiqué en introduction, on peut faire remonter ce modèle au moyen-âge ou la gestion des eaux devait se faire de manière collective. La construction des bâtiments dans les villes devait aussi se faire dans la concertation puisque beaucoup de ,aisons tiennent les unes sur les autres à cause de la faiblesse des fondations sur sur humide.
 
-Plus récemment, au sortir de la seconde guerre mondiale, les Pays-Bas ont comme en
-France, composé des gouvernement incluant toutes les forces politiques dans un effort de reconstruction. Aux Pays-Bas, aussi on met en place
-un **état providence** en s'appuyant sur les travaux de l'économiste __[Jan Tinbergen](http://fr.wikipedia.org/wiki/Jan_Tinbergen)**. Cet homme est le premier économiste à avoir créé un modèle macro-économique pour aider à la gestion d'un pays. Les Pays-Bas s'appuyent encore aujourd'hui sur les chiffres du **Bureau Central des Statistiques** ([Centraal Bureau voor de Statistiek](http://www.cbs.nl/nl-NL/default.htm), l'équivalent de notre INSEE) et les modèles élaborés dans le **Bureau Central de Planification__ ([le Centraal Planbureau](http://www.cpb.nl/nl/)) que
+Plus récemment, au sortir de la seconde guerre mondiale, les Pays-Bas ont comme en France, composé des gouvernement incluant toutes les forces politiques dans un effort de reconstruction. Aux Pays-Bas, aussi on met en place un **état providence** en s'appuyant sur les travaux de l'économiste **[Jan Tinbergen](http://fr.wikipedia.org/wiki/Jan_Tinbergen)**. Cet homme est le premier économiste à avoir créé un modèle macro-économique pour aider à la gestion d'un pays. Les Pays-Bas s'appuyent encore aujourd'hui sur les chiffres du **Bureau Central des Statistiques** ([Centraal Bureau voor de Statistiek](http://www.cbs.nl/nl-NL/default.htm), l'équivalent de notre INSEE) et les modèles élaborés dans le **Bureau Central de Planification** ([le Centraal Planbureau](http://www.cpb.nl/nl/)) que
 Jan Tinbergen présidera de 1945 à 1955. Le CPB a joué un grand rôle dans les accords de Wassenaar.
 
 ### Le modèle de polder aujourd'hui
 
 Il semble que la lenteur des processus de négociation et le besoin de consensus soit souvent une raison de faire durer les choses voir de ne rien faire. Même si ce n'est pas toujours le cas, les mécontents dénoncent ces pratiques en invoquant le besoin d'action et en attaquant le modèle lui même. Inspirés par Pim Fortuyn, les politiciens populistes utilisent le mot *poldermodel* de manière péjorative.
----

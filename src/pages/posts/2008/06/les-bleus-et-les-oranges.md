@@ -20,16 +20,19 @@ La *Postbank*, banque postale des Pays-Bas existe sous sa forme actuelle depuis 
 (voir [I PostBank Amsterdam](/postbank-amsterdam) pour voir le logo actuel)
 
 <!-- HTML -->
+<div class="flex flex-col items-center">
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/EgMaueKOROU&hl=en"></param><embed src="http://www.youtube.com/v/EgMaueKOROU&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+</div>
 <!-- / HTML -->
 
 Il semble que la coupe d'Europe soit l'occasion pour ING d'annoncer que son logo va devenir orange. En effet la femme déguisée en lion bleu qui faisait la pub Postbank porte maintenant un costume de lion orange pour supporter l'équipe de foot des Pays-Bas...
 
 <!-- HTML -->
+<div class="flex flex-col items-center">
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yfbIWME0LtI&hl=nl"></param><embed src="http://www.youtube.com/v/yfbIWME0LtI&hl=nl" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+</div>
 <!-- / HTML -->
 
 ... et aussi parler de la banque ING.
 
 En Avril déjà [les deux lions faisaient les cons](/les-lions-cons)
----

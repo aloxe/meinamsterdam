@@ -24,4 +24,3 @@ Aux Pays-Bas, **Saint Martin de Tours** s'appelle *Sint-Maarten* (ou *Maarten va
 Selon la légende, Saint Martin, ne voulait pas devenir évèque de Tours et s'était donc réfugié dans une grange avec des oies. Les oies, en faisant beaucoup de bruit, on révélé la présence de Martin. Les habitants de Tours y sont venus le chercher pour en faire leur évêque. C'est peut être pour rappeller cet épisode de la vie du saint que les enfants sonnent à la porte des gens. De nos jours, les bambins frappent plus volontiers à la porte des magasins qu'aux portes des particuliers qui sont souvent absent les soirs de fête...
 
 Saint Martin a aussi donné son nom a [une île des caraïbes](/15km-de-frontiere-commune) que France et Pays-Bas se partagent paisiblement. Rien de tel pour rendre ce saint sympathique pour un blog franco-néerlandais.
----

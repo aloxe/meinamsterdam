@@ -26,4 +26,3 @@ Samedi soir Sandra faisait sa première porte ouverte avec pots offerts aux visi
 ![Sandra tout sourire dans sa boutique](la-marchande.jpg){.center} 
 
 Maintenant il y a trois boutiques françaises sur Albert Cuyp, trois bonnes raisons de [venir régulièrement](/un-samedi-presque-en-france) sur ce marché.
----

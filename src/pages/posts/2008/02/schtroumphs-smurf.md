@@ -22,8 +22,10 @@ Depuis la mi-février, chaque passage en caisse avec un panier de plus de 15 eur
 Albert Hein relance donc la mode des figurines bleues jusqu'au 25 mars. Ils ont pour cela fait fabriquer 29 milliards de figurines et comme toujours ils en font la publicité à la télévision.  Publicité ou le directeur du magasin habituel  (un grand chauve que j'ai du mal a trouver sympa) est dessiné et mis en scène dans un nouveau numéro du dessin animé des schtroumpf (version très bon marché).
 
 <!-- HTML -->
+<div class="flex flex-col items-center">
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/3sWBaxhnhoU"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/3sWBaxhnhoU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
-<!-- / HTML -->
+</div>
+
 
 Les **29 milliards de figurines schtroumpf** que les clients se battent pour avoir aux caisses ne sont pas de bonne qualité, c'est le moins qu'on puisse dire. Elles n'ont rien à voir avec les figurines Schleich de notre enfance. Plus petites, elles sont aussi pointues et cassantes. Nombre de mes collègues ont cassé leur smurf et déjà les clients reviennent au magasin pour se plaindre. Les figurines sont données dans des emballages indiquant qu'elles ne conviennent pas aux enfants de moins de 3 ans , je trouve que c'est du foutage de gueule de distribuer des jouets avec lesquels on ne peut pas jouer. [De Pers parle de ce problème](http://www.depers.nl/binnenland/176447/29-miljoen-blauwe-brekebeentjes.html) mais la chaîne de magasin continue l'opération.
 
@@ -33,23 +35,22 @@ Le petit dessin (ou infographie) humoristique à la une du Volkskrant est signé
 
 <!-- HTML -->
 <table><tr><td>
-<!-- / HTML -->
-[![](smurf1203630008.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=522)
+
+[![Schtroumpf Balkenende](smurf1203630008.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=522)
 <!-- HTML -->
 </td><td>
-<!-- / HTML -->
-[![](smurf1203710809.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=523)
+
+[![Schtroumpf Wilders](smurf1203710809.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=523)
 <!-- HTML -->
 </td><td>
-<!-- / HTML -->
-[![](smurf1203889412.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=524)
+
+[![Schtroumpf chauve](smurf1203889412.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=524)
 <!-- HTML -->
 </td><td>
-<!-- / HTML -->
-[![](smurf1203976761.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=525)
+
+[![Schtroumpf tête bêche](smurf1203976761.gif)](http://extra.volkskrant.nl/gorilla/index.php?id=525)
 <!-- HTML -->
 </td></tr></table>
-<!-- / HTML -->
+
 
 Pour ceux qui, comme moi, ont des problèmes avec le néerlandais, il faut un dictionnaire pour savoir qui est *Wintersmurf* ou *Lachende smurf* je vous conseille [cette page](http://miniatuurfiguren.be/smurfstabel.html) qui semble exhaustive...
----

@@ -17,8 +17,7 @@ Aujourd'hui, j'ai envie de vous présenter un petit film fait aux Pays-Bas et di
 
 <!-- HTML -->
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/gSVowp9KgTU&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/gSVowp9KgTU&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
-<a href="http://www.wikio.fr/vote" target="_tab"><img src="http://www.wikio.fr/shared/img/vote/wikio3.gif" style="border:none;vertical-align:middle;"/></a>
+<!-- Gone <a href="http://www.wikio.fr/vote" target="_tab"><img src="http://www.wikio.fr/shared/img/vote/wikio3.gif" style="border:none;vertical-align:middle;"/></a> -->
 <!-- / HTML -->
 
 J'ai bien aimé l'idée du clip. Filmer les copains des artistes en train de danser dans différents coins d'Amsterdam. Il y a [des endroits](http://flickr.com/photos/13274211@N00/509936621/) que je reconnais et d'autres qui me sont plus mystérieux... Je vous laisse découvrir. Laurent et Lewis, on attend les prochains...
----

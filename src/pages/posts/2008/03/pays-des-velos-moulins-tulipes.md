@@ -10,7 +10,7 @@ image_alt:
 permalink: pays-des-velos-moulins-tulipes/
 date: 2008-03-05
 update: 2019-02-17
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt, shortened desc, external
 subfooters:
  - drooderfiets
  - expo

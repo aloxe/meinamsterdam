@@ -27,14 +27,14 @@ Hij/zij leve lang hoera hoera
 ## Explication de texte
 
 *Il y a un anniversaire ici hourra hourra*   
-''On voit bien aue c'est le sien/la sienne*   
-*Et on le/la trouve bien joli(e) oui oui''  
+*On voit bien aue c'est le sien/la sienne*   
+*Et on le/la trouve bien joli(e) oui oui*
 
 Bon ça veut dire qu'en général la personne dont c'est l'anniversaire est affublé d'un chapeau ridicule mais comme tout le monde chante en son honneur, il est très content de son chapeau. Je ne vous montrerais pas la chapeau ridicule que j'ai du porter hier alors que personne ne chantait...
 
-''Qu'il/elle vive longtemps hourra hourra*   
-*Qu'il/elle vive longtenhemps hourra hourra*   
-*Qu'il/elle vive longtemps hourra hourra''   
+*Qu'il/elle vive longtemps hourra hourra*
+*Qu'il/elle vive longtemps hourra hourra*
+*Qu'il/elle vive longtemps hourra hourra* 
 
 Vivre longtemps, c'est une constante des chansons d'anniversaire ici, ponctué de hourras enconrageants. Souvenez-vous des parloles de cette autre chanson  que [je vous ai appris il y a un moment](/un-anniversaire-a-amsterdam). Plus les gens vivent longtemps plus on a de chances de chanter c'est chansons. C'est génial non ?
 
@@ -53,7 +53,7 @@ J'en profite pour remercier tout le monde, Sophie, Fred, Anne et Ben, Solange, C
 <!-- HTML -->
 </div>
 <!-- / HTML -->
----
+
 <!-- post notes:
 http://nl.wikipedia.org/wiki/Er_is_er_een_jarig
 --->

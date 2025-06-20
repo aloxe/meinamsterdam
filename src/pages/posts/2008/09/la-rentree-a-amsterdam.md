@@ -21,4 +21,3 @@ Dimanche le soleil était au rendez-vous et beaucoup de ces jeunes ont loué des
 ![Jeunes filles dans un bateau](jeunes-filles-dans-un-bateau.jpg){.center}
 
 Dimanche aussi, la ville était pleine de camions de location pour assurer des déménagements. Nous étions le 31 du mois et beaucoup de gens déménagent le dernier/premier jour du mois pour profiter au maximum de leur dernier loyer mensuel. Beaucoup utilisaient le [crochet traditionnel](/de-haak-crochet) en haut des maisons. Ce n'est que lundi que j'ai vu des déménageurs professionnels emménager en centre-ville avec des [plate-formes élévatrices](/les-demenageurs-futes). Le rapport avec la rentrée ? Il me semble qu'il y avait plus de déménagement qu'à l'accoutumé. Sûrement les nouveaux étudiants.
----

@@ -27,4 +27,3 @@ C'est l'objet d'un des chantier dans ma rue. la maison est littéralement vidée
 
 * voir d'autres travaux dans mon quartier : [L'immobilier en hausse (encore)](/immobilier-hausse)
 * et aussi [la maison rose](/cest-une-maison-rose) dans la même rue...
----

@@ -28,7 +28,7 @@ Les bureaux de poste (*postkantoor*)  étaient aussi un lieu pour effectuer des 
 
 Depuis la fermeture du bureau, je n'ai pas eu à retirer un coli en instance. Je ne sais donc pas ou le facteur va m'envoyer. Selon la carte sur les affiches, le nouveau bureau de poste le plus proche de cez moi est maintenant la supérette [Albert Hein](/albert-hein-et-compagnie). Cette supérette prend son nouveau rôle très au sérieux puisqu'à l'entrée du magasin, il y a maintenant deux grosses boîtes oranges pour déposer son courrier. Pour affranchir le courrier, les agents assermentés sont remplacés par des étudiants sous payés et tout le service devrait être le même; enfin, je n'ai pas envie de vérifier...
 
-<div class="flex justify-center ...">  
+<div class="flex justify-center">
   <div class="m-1 text-center">
 
   ![TNT chez AH comptoir](tnt-a-albert-hein.jpg)  

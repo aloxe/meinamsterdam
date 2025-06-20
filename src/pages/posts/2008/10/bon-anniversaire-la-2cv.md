@@ -30,6 +30,7 @@ Les deux promesses sont des promesses d'articles que je suis pas obligées de te
 La seconde promesse ? c'est un autre article dont je préfère ne pas évoquer le sujet maintenant. Patience donc...
 
 Voir aussi [Citroën : La marque française la plus néerlandaise](/Citroen-marque-francaise-neerlandaise), riche d'enseignements sur la marque aux chevrons et les bataves
+
 ---
 [^1]: Avec [le grand retour de la charleston](http://www.caradisiac.com/Citroen-C3-Charleston-serie-speciale-en-habits-d-anniversaire-53556.htm).
 [^2]: Je n'ai plus de voiture du tout à Amsterdam, comme ça c'est plus simple. Alors si je vous rappelle [la révision du B'twin](/revision-du-btwin), je suis pas hors sujet non ?

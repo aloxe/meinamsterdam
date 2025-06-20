@@ -22,13 +22,11 @@ Notre représentant à l'assemblée des Français de l'Etranger [a bien écrit a
 > Des raisons de sécurité nous obligent en effet à respecter des normes strictes quant au nombre de personnes présentes.
 > Merci pour votre compréhension.
 
-![Nous au 14 juillet 2008](14juillet_33-Den_Haag.jpg){.left}
-
-Fin de non recevoir. Ceci étant d'autant plus difficile à croire que [l'année dernière](/juillet-batave), il était possible de se présenter sans invitation à l'entrée de la résidence et ce, malgré l'affluence. Nous ne pouvons plus fêter le 14 juillet cette année pour des raison budgetaire. On a beau arguer que *Moins de champagne et de petits fours ne nuirait nullement à la convivialité de ces réceptions*, les organisateurs ne peuvent pas prendre le risque de manquer de champagne et de petits fours pour les invités de marque comme beaucoup d'officiels ministres, PDG et militaires Néerlandais. Cette fameuse élite politico-médiatique qui est déjà invitée à d'autres réceptions de travail...
+![Nous au 14 juillet 2007](14juillet-Den_Haag.jpg){.left} Fin de non recevoir. Ceci étant d'autant plus difficile à croire que [l'année dernière](/juillet-batave), il était possible de se présenter sans invitation à l'entrée de la résidence et ce, malgré l'affluence. Nous ne pouvons plus fêter le 14 juillet cette année pour des raison budgetaire. On a beau arguer que *Moins de champagne et de petits fours ne nuirait nullement à la convivialité de ces réceptions*, les organisateurs ne peuvent pas prendre le risque de manquer de champagne et de petits fours pour les invités de marque comme beaucoup d'officiels ministres, PDG et militaires Néerlandais. Cette fameuse élite politico-médiatique qui est déjà invitée à d'autres réceptions de travail...
 
 
 Bref, les réjouissances de la République seront de plus en plus réservées à une élite. On nous explique que c'est pour des raisons budgétaires mais dans le même temps on apprend que le budget de l'Elysée est de plus en plus élevé. On nous explique que l'Elysée s'occupe directement de plus en plus de choses mais évidement pas vraiment en drection des simples citoyens sont invités. La République est tout simplement en train de perdre son esprit républicain. Mais en fait on le savait déjà...
----
+
 <!-- post notes:
 http://www.mfe.org/default.aspx?sid=17183
 --->

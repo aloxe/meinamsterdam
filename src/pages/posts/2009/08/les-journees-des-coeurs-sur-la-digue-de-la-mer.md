@@ -38,4 +38,3 @@ C'est en 1997 qu'une association de quartier a décidé de redonner vie à ces *
 ![La fille en rose](Hartjesdagen-filleenrose.jpg){.center}
 
 ![Arc en ciel](Hartjesdagen-arcenciel.jpg){.center}
----

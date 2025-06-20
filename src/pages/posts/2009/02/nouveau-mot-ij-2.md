@@ -29,13 +29,13 @@ aménagée. Son niveau est maintenu à -40cm en hiver et -20cm en été
 tout comme le *Markenmeer*, ou lac de Marken.
 <!-- HTML -->
 <div style="text-align:center; font-size:10px;">
-<!-- / HTML -->
+
 ![Vue satellite du bassin de l'IJ et Amsterdam](amsterdam-ij.png){.center} 
 **Vue satellite d'Amsterdam et du bassin de l'IJ**.   À l'ouest on voit le canal de la mer du Nord (*Noordzeekanaal*) avec le nouveau port industriel  
 et à l'est, le lac de Marken (*Markenmeer*) près duquel on devine la construction de nouvelles îles artificielles dont **IJburg** (en blanc)
-<!-- HTML -->
+
 </div>
-<!-- / HTML -->
+
 Étant la principale coupure de la ville en même temps que sa
 principale voie de communication, l'IJ est importante dans la vie
 d'Amsterdam. de milliers de bateaux et de voitures la traversent
@@ -44,13 +44,13 @@ sûrement l'occasion de vous en parler.
 
 <!-- HTML -->
 <div style="text-align:center; font-size:10px;">
-<!-- / HTML -->
+
 [![Écluse amont sur l'IJ à l'est d'Amsterdam](ecluse-sur-ij-amsterdam.jpg){.center}](http://maps.live.com/default.aspx?v=2&FORM=LMLTCP&cp=sqx67nhdd1tp&style=o&lvl=1&tilt=-90&dir=0&alt=-1000&scene=42241901&phx=0&phy=0&phscl=1&encType=1)
 Écluse amont sur l'IJ à l'est d'Amsterdam
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
----
+
 <!-- post notes:
 http://www.zeeburgnieuws.nl/plannen/ijburg/ijm_regiokaart.html
 --->

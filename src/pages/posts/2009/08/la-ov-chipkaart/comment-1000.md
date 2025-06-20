@@ -14,4 +14,3 @@ Mais j'aurai jamais pensé ça, c'est juste incroyable en fait. Un peu comme si 
 <br />
 Sinon, rien à voir, merci encore pour le restau, il était juste formidable. ^^ On en parle encore! <br />
 Si ça t'intéresse, on a trouvé un coffeeshop hyper sympa qui fait du bon café (il fait aussi de la beuh, mais il fait pas que ça, et c'est cool, je commençais à désespérer d'en trouver un qui fasse raccord à son nom...)</p>
----

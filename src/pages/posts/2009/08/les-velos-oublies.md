@@ -27,7 +27,6 @@ Se vélo pourrait avoir sa propre page tellement il est spécial. Conçu pour pe
 ![vélo pour maman](moederfiets.png){.left}
 Ce vélo est une combinaison de omafiets et de transportfiets dont les paniers aurait été remplacés par des sièges pour enfants. Du transportfiets. il reprend la solidité (pour porter les mioches) et la stabilité (pour les attacher à leur siège sans renverser le vélo). Du omafiets, il reprend la forme ergonomique permettant de monter en selle sans lever les jambes. Mieux encore que le omafiets, le cadre du moederfiets est très bas, permettant à la maman de monter et descendre très rapidement pour stabiliser la machine et protéger ses enfants. Les vélos **Er-Go** illustrent bien cette histoire de cadre rabaissé tandis que les **Fietsfarbriek** repoussent les limites du nombre d'enfants transportables à vélo.
 
-
 ## Le Tandem
 ![vélo tandem](tandem.png){.left}
 Le tandem est une forme de vélo très connue. Deux vélocipédistes peuvent monter sur la même machine et conjuguer leur forces pour avancer. Le modèle que je vous présente est une variante de ce principe puisque l'une des selle est plus basse pour pouvoir accueillir un enfant. Ce dernier pédale d'ailleurs souvent dans le vide laissant au parent le soin de porter tout le monde, comme dans un bakfiets. D'ailleurs certains de ces tandems sont des bakfiets dont on peut remplacer la benne par une selle. **Onderwater** est un bel exemple du genre tandis que les marques comme **Gazelle**, **Sparta** et **Batavus** proposent aussi des tandem à leur catalogue.
@@ -46,7 +45,7 @@ Parmi les nombreux transportfiets différent, le *filibus* en un un que l'on ret
 ## Le cross fiets (bicross)
 ![bicross ](bicross.png){.left}
 Alors qu'il était à la mode partout dans les années 80, le bicross a presque disparu d'Amsterdam. Il faut dire que son absence de grade boue, sa chaine apparente et son cadre bas n'en fait pas vraiment un vélo taillé pour la ville. On croise encore ces vélos, enfourchés par des jeunes peu friqués loin du centre ville. Ces derniers ont trouvé une bonne occasion qui leur permettent de s'amuser à bon prix et sans suivre les modes. Certains s'attaquent avec brio au mobilier urbain avec leur BMX mais ce n'est pas le sport le plus couru ici.
----
+
 <!-- post notes:
 http://www.fietsen-kopen.nl/fiets-soorten
 --->

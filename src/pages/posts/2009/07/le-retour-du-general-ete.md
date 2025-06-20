@@ -33,4 +33,3 @@ Ils ont raisons les citadins de partir vers des cieux plus ensoleillés. Les jou
 J'ai continué cette belle matinée du 6 juillet en relevant mon courrier. Les services en ligne ne ratent pas une occasion pour bourrer votre boite de messages importants mais inutiles. J'ai là aussi eu confirmation que c'était l'été. On me l'annonçait (*de zomer is begonnen...*) en me souhaitant bonnes vacances sous le soleil. Ceci pour vous rappeler qu'il ne faut pas croire les publicités. Comparez donc la photo ci-dessous ? ou l'on essaye de vous faire croire que votre vie est belle alors qu'elle ressemble plutôt à la photo ci-dessus ?.
 
 ![mailling Airmiles](airmiles-email.png){.center}
----

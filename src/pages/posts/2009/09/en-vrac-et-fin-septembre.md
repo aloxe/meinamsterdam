@@ -1,7 +1,6 @@
 ---
 layout: base
 title: En vrac et fin septembre
-description: 
 categorie: dagelijks
 tags: ["météo"]
 isMarkdown: true
@@ -25,5 +24,6 @@ Ce mois ci encore, sur eurobilltracker, je viens de battre un [record de hits](h
 Bon l'automne est arrivé mais j'ai déjà écrit sur [les marronniers de l'automne](/en-vrac-et-en-fin-d-ete) alors on va en rester là. Ah si, j'ai oublié un marronnier d'automne. C'est la saison de la *herfst bokbier* dont [j'ai déjà parlé](/la-herfst-bokbier-biere-d-automne)
 
 Avec tout ça vous allez me dire que je passe trop de temps devant mon ordinateur, vous avez peut être raison... Je vais donc arrêter ce billet pour mettre à jour une photo de [Drooderfiets](https://pixelfed.social/drooderfiets).
+
 ---
-[^1]: Voir les [Provinces des Pays-Bas||/les-provinces-des-pays-bas] pour mieux vous repérer.
+[^1]: Voir les [Provinces des Pays-Bas](/les-provinces-des-pays-bas) pour mieux vous repérer.

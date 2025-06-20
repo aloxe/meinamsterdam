@@ -10,7 +10,7 @@ image_alt: Riekermolen
 permalink: les-moulins-d-amsterdam/
 date: 2009-02-12
 update: 2014-06-17
-TODO: shortened desc
+TODO: shortened desc, images externes
 ---
 
 Il reste **huit moulins visibles dans la ville d'Amsterdam**, auxquels j'ai rendu visite depuis que je suis ici. J'ai ensuite créé la notice Wikipedia de chacun de ces moulins et essayé autant que possible d'y ajouter une jolie photo. Quatre à l'intérieur du ring, quatre à l'extérieur, un au nord, 7 au sud, un visitable et trois habités, **voici donc la liste exhaustive des huit [moulins d'Amsterdam](/les-moulins-d-amsterdam)**.
@@ -38,7 +38,7 @@ Le moulin a été remonté en 1961 à quelques 8 kilomètres de là au bord de l
 ----
 <!-- HTML -->
 <a name="1100roe"></a>
-<!-- / HTML -->
+
 ### De 1100 Roe
 <!-- [![http://farm3.static.flickr.com/2173/2275226657_6084d390a7_m.jpg](De 1100 Roe){.right}](http://www.flickr.com/photos/13274211@N00/2275226657/) -->
 De 1100 Roe est un moulin à vent de poler situé à Amsterdam dans le quartier d'Osdorp. Autrefois, ce moulin se trouvait sur le Haarlemmerweg, la route qui mène à Haarlem. Il tient son nom (1100 'batons') de la distance qui le séparait de la Haarlemmerpoort, soit environ quatre kilomètres.
@@ -47,7 +47,7 @@ Ce moulin a été construit en 1674 après la construction du Haarlemmertrekvaar
 
 <!-- HTML -->
 <a name="1200roe"></a>
-<!-- / HTML -->
+
 ----
 ### De 1200 Roe
 <!-- [![http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1200-roe.jpg/120px-1200-roe.jpg](De 1200 Roe){.right}](http://fr.wikipedia.org/wiki/Fichier:1200-roe.jpg) -->
@@ -93,4 +93,3 @@ Tous ces moulins sont répertoriés dans la catégorie [moulins à vent des Pays
 Voyez aussi la [carte des moulins d'Amsterdam](/la-carte-des-moulins-d-amsterdam)
 
 [![Carte avec les huits Moulins d'Amsterdam](carte-des-moulins-amsterdam.png){.center}](/la-carte-des-moulins-d-amsterdam)
----

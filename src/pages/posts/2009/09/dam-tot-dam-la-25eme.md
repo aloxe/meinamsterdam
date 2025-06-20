@@ -36,6 +36,7 @@ D'après les nombreux témoignages que j'ai reçu, la course de nuit était un m
 ![Dam tot Dam à Oostzaan](dam-tot-dam-oostzaan.jpg){.center}
 
 Pour l'année prochaine, si vous voulez participer à la couse **Dam tot Dam**, n'attendez pas que je vous en parle, les inscription commencent en août et sont closes trois semaines avant le jour du départ.
+
 ---
 [^1]: Surveillez [cette page de wikipedia](http://fr.wikipedia.org/wiki/Zaandam) pour voir si j'y écrit un jour l'histoire de Zaandam.
 <!-- post notes:

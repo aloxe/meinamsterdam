@@ -32,9 +32,9 @@ On peut aussi trouver dans *la réforme permanente'' du protestantisme cette pro
 <div style="float:right; border:1px solid black; padding:5px; margin-left: 8px;">
 <b>carte du Benelux</b><br/><br/>
 
-<!-- / HTML -->
+
 ![Carte du Benelux catholique et protestant](carte-religions-benelux.png){.left}
-<!-- HTML -->
+
 <table><tr><td>
 <div style="width:10px; height:10px; border:1px solid black; background-color:#33CCFF; float:left;"></div>
 </td><td>
@@ -61,6 +61,7 @@ Au XXe siècle, comme ailleurs, les Pays-Bas se déchristianisent. La religion p
 Le système des piliers est officiellement abandonné comme modèle après la seconde guerre mondiale ou l'on table sur **la société multiculturelle**. Mais ce système reste quand même ancré et les immigrants de la décolonisation, venant principalement de Surinam ou d'Indonésie, s'organisent aussi en communautés. Les *allochtones* arrivés plus récemment comme les turcs et les marocains ont plus de mal à créer leur communautés sur le modèle des piliers. Ils sont donc plus impliqués dans la société, plus visibles et créent donc plus de tentions auprès de gens qui pensent que leur communauté est menacée. Les allochtones turcs et marocains étant souvent musulmans, ils focalisent l'attention politique des libéraux[^4] pour qui cette rigueur religieuse n'est pas compatible avec la société Néerlandaise telle qu'ils l'entendent.
 
 Le pays est aujourd'hui séculier avec une majorité de la population hors église selon [un article d'eurotopics](http://www.eurotopics.net/fr/magazin/gesellschaft-verteilerseite/religion/religion-niederlande/)[^5]. Les personnes hors église représenteraient 61% de la population en 2006, les catholiques 16% de la population et les protestants 14% de la population. Bien que peu représentées aujourd'hui l'histoire et la pensée de ces deux familles chrétiennes continuent de constituer la base de la culture et des relations sociales du pays. Je n'ai d'ailleurs pas attendu le carême 2009 pour [en parler](/?q=protestants).
+
 ---
 [^1]: Max Weber explique ça beaucoup mieux dans ''L'Éthique protestante et l'esprit du capitalisme*.
 [^2]: En fait, cet épisode des guerres de religions en Europe pourrait prendre des pages à raconter. de part et d'autre de cette [frontière reconnue par le traité de Westphalie](http://upload.wikimedia.org/wikipedia/commons/d/d5/Netherlands_1559-1608.jpg), les familles restées fidèles à la religion adverse furent vite assimilées de gré ou de force. Amsterdam et Midleburg devinrent protestantes. Anvers, Bruges et Breda devinrent catholiques. 

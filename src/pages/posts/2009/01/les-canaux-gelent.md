@@ -30,7 +30,5 @@ En fait ce week-end était le moment le mieux choisit pour aller sur la glace, c
 
 ![Les mouettes sur la glace de Boerengracht](boerengracht-gele.jpg){.center}
 
-----
 
-[Voir toutes les photos qu'on m'a envoyé](/les-canaux-gelent#co) en commentaire
----
+<!-- [Voir toutes les photos qu'on m'a envoyé](/les-canaux-gelent#co) en commentaire -->

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "En vrac et en fin d'été"
-description: "La météo nous le prouve tous les jours depuis une semaine, l'été est fini. Les chaudières se remettent à brûler leur gaz, c'est vraiment la fin...  Ou le"
 categorie: dagelijks
 tags: ["Amsterdam"]
 isMarkdown: true
@@ -10,11 +9,13 @@ image_alt:
 permalink: en-vrac-et-en-fin-d-ete/
 date: 2009-09-07
 update: 2013-10-16
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 La météo nous le prouve tous les jours depuis une semaine, l'été est fini. Les chaudières se remettent à brûler leur gaz, c'est vraiment la fin...
 Ou le début puisque la fin de l'été marque aussi la rentrée avec son lot de choses nouvelles et habituelles que je vais lister ci dessous. Mais avant cela, un petit en vrac des choses de cet été que je n'ai pas partagé sur ce blog...
+
+<!--excerpt-->
 
 ## Les vacances
 *Tu es allé où en vacances ?* À cette question, je réponds que je ne suis pas parti. Cet été, j'ai bossé, profitant du beau temps entre huit et neuf et après dix-huit. Quelques week-end dans le nord du pays: une ville de Groningue (*Groningen*) qui s'appelle Groningue (*Groningen*) et un coin de Frise (*Frisland*)  qui s'appelle Tietjerksteradeel (*Tietjerksteradeel*) [^1], Cela aurait peut-être mérité un billet sur ce blog, mais hélas, quand j'avais du temps libre, je préférais profiter du beau temps. Je suis allé voir à vélo les coins autour d'Amsterdam comme Amstelveen, Duivendrecht, Alsmeer, Ouderkerk aan de Amstel ou Diemen... Du tourisme très local quoi. 
@@ -29,6 +30,7 @@ C'est aussi la rentrée culturelle. La semaine dernière, le centre-ville d'Amst
 ## Et les français ?
 Les français ne sont pas en reste, eux aussi suivent les modes et font leur rentrée. Dans les cercles saisonniers, de nouvelles têtes apparaissent alors qu'on en avait vu partir au mois de juin dernier. C'est le chassé-croisé des expatriés. La saison culturelle s'est ouverte ce samedi avec la [journée portes ouvertes de la maison Descartes](http://www.maisondescartes.com/site/institut/journee-portes-ouvertes.html). Les cours de français vont reprendre et il y aura aussi des cours de néerlandais. À [la paroisse catholique francophone](http://www.messecatholiqueamsterdam.org/index.html), les enfants sont de retour et la garderie ne devrait pas tarder à se remettre en place.
 
-L'événement français de cette rentrée est l'ouverture de l'école française d'Amsterdam dans ses [nouveaux locaux de Rustenburgerstraat](http://www.lyceevangogh.nl/lycee/amsterdamnew.html). La branche amstelodamoise du [Lycée Van Gogh](/van-gogh-fete-ses-60-ans) de La Haye assure désormais les classes du primaire dans un vrai bâtiment au c?ur du Pijp. La rentrée a eu lieu le 3 septembre pour les 8 classes de la petite section au CM2.
+L'événement français de cette rentrée est l'ouverture de l'école française d'Amsterdam dans ses [nouveaux locaux de Rustenburgerstraat](http://www.lyceevangogh.nl/lycee/amsterdamnew.html). La branche amstelodamoise du [Lycée Van Gogh](/van-gogh-fete-ses-60-ans) de La Haye assure désormais les classes du primaire dans un vrai bâtiment au cœur du Pijp. La rentrée a eu lieu le 3 septembre pour les 8 classes de la petite section au CM2.
+
 ---
 [^1]: Voir [les provinces des Pays-Bas](/les-provinces-des-pays-bas).

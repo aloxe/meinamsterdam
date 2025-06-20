@@ -45,6 +45,7 @@ Pour ceux qui aiment encore les chiffres, depuis trois ans, ce blog utilise
 Un compteur installé en mai 2006 m'indique que j'ai reçu la visite de ***Totaal bezoekers*: 889421** (visiteurs) et de ***Totaal unieke bezoekers*: 352439** (visiteurs uniques). Beaucoup de robots spammeurs et de moteurs de recherche mais aussi vous et ça, ça me fait plaisir.
 
 Comme toujours j'ai **plein d'idées** en tête concernant ce blog, des choses à écrire, un nouveau thème et des fonctionnalités pratiques.  Toujours **trop peu de temps** pour les tout concrétiser.
+
 ---
 [^1]: [[un vélo](/un-b-twin-a-amsterdam)], [[deux vélos](/mon-nouveau-velo)], bientôt un troisième...
 [^2]: [[premier compte](/internetbankiren-experience)], [[deuxième compte](/j-appartiens-a-la-societe-fortis-anonyme)], bientôt un troisième...

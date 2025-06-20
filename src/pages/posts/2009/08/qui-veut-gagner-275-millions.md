@@ -24,4 +24,3 @@ Le numéro jackpot n'est pas encore tombé cette année ce qui fait que le jackp
 ![logo de la loterie d'état des Pays-Bas](staatsloterij.jpg){.center}
 
 Il y a d'autre sociétés de jeux de hasard très populaires aux Pays-Bas. J'écris tellement peu sur ce blog que je ne vais pas promettre de vous en parler. Un jour peut-être...
----

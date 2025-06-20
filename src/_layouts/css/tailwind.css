@@ -122,7 +122,7 @@
     @apply text-justify text-note bg-note-bg border p-4 border-note border-l-8 before:content-['ⓘ_Note:_'] before:font-bold;
   }
   & img.center {
-    @apply my-0 mx-auto block;
+    @apply mx-auto block;
   }
   & img.left {
     @apply float-left mr-4;

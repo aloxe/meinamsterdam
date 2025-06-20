@@ -10,7 +10,7 @@ image_alt: PV
 permalink: contravention/
 date: 2009-12-09
 update: 2016-03-23
-TODO: shortened desc, image without alt
+TODO: shortened desc
 ---
 
 Parmi les [marronniers de la saison](/c-est-la-fin-de-l-ete) il y a les lumières pour vélos. Je vous ai parlé de cette [obligation d'avoir des lumières sur son vélo](/lumieres-hiver) puis des différentes manières, plus ou moins pratiques de [fixer ses lumières](/les-nouvelles-lampes-de-la-nuit), et mêmes des [lampes spéciales](/les-lampes-velo-hema). Je n'ai pas assez insisté sur le volet répression.
@@ -29,5 +29,4 @@ Ce qui est rigolo c'est que j'aurais pu mentir en donnant une fausse adresse, to
 
 Là ou la con stable n'a pas menti, c'est sur sa promesse de commandement de payer. J'ai reçu la facture quelque temps après et j'ai donc du faire [un virement](/les-virements-et-les-cheques) au service d'encaissement des amendes du ministère de la justice. Ma première aventure avec [drooderfiets](https://pixelfed.social/drooderfiets), [mon nouveau vélo](/drooderfiets-mon-nouveau-velo): J'ai grillé, j'ai perdu.
 
-![](oeps-amende.jpg){.center}
----
+![entête de l'amende](oeps-amende.jpg){.center}

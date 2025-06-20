@@ -12,4 +12,3 @@ Selon la <a href="http://www.rnw.nl/english/article/press-review-9-november-2009
 <br /><br />
 On n'a toujours pas inventé le vaccin contre la connerie...
 </p>
----

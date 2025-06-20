@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Aventures à la carte bancaire
-description: "Pour poursuivre les histoires sur ma petite vie, aujourd'hui je vais vous parler de ma nouvelle carte bancaire. Elle ne fonctionne plus depuis hier soir et c'es"
 categorie: dagelijks
 tags: ["sociétés", "web"]
 isMarkdown: true
@@ -10,10 +9,13 @@ image_alt: Inloggen probeer opnieuw
 permalink: aventures-carte-bancaire/
 date: 2009-07-22
 update: 2017-01-10
-TODO: shortened desc
+subfooters:
+ - banques
 ---
 
 Pour poursuivre les histoires sur ma petite vie, aujourd'hui je vais vous parler de ma nouvelle carte bancaire. Elle ne fonctionne plus depuis hier soir et c'est parce que ma banque l'a bloquée. Cela faisait longtemps que ça ne m'était pas arrivé. Cette fois ci ça me fait plutôt plaisir.
+
+<!--excerpt-->
 
 ## Changement de banque (2)
 
@@ -31,25 +33,6 @@ Aujourd'hui, j'ai reçu un appel d'une employée au siège de ma banque. Cette d
 
 Ceux qui n'ont jamais été victime d'escroquerie bancaire peuvent trouver cette précaution disproportionnée mais je trouve trouve au contraire qu'il est sage de prévenir de gros problèmes quand la menace est avérée. Je ne suis pas mécontent d'avoir changé de banque.
 
-
-### Lire aussi :
- **[France / Pays bas: Comparatif des services bancaires](/france-pays-bas-comparatif-des-services-bancaires)**
-
- **[Le nouveau Rabo Scanner](/nouveau-Rabo-Scanner)**
-
- **[Une banque qui demande moins de sous](/une-banque-qui-demande-moins-de-sous)**
-
- **[La fin du porte monnaie électronique](/Porte-monnaie-electronique-la-fin-du-Chipknip)**
-
- **[Les sécurité des sites bancaires](/la-securite-des-sites-bancaires)**
-
- **[Attention, emprunter de l'argent coûte de l'argent](/emprunter-de-l-argent-coute-de-l-argent)**
-
- **[Changement de banque: Rabobank](/changement-de-banque-rabobank)**
-
- **[Postbank devient ING](/postbank-devient-ing-officielement)**
-
- **[Choisir une banque](/choisir-une-banque)**
 ---
 [^1]: écoutant [les conseils de...](/changement-de-banque)
 <!-- post notes:

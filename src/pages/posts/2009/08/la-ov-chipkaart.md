@@ -47,20 +47,38 @@ Pour faire court, je ne vais pas dévolopper la liste des griefs dont j'ai eu ve
 
 J'ai oublié de vous montrer le premier site de protestation contre la ov-chikaart construit par le partit des *verts de gauche* (*groenelinks*), il s'appelle [ov-chipklacht](http://www.ov-chipklacht.nl/). Klacht signifie plainte. C'est une vieille capture d'écran qui date de 2008 et que j'avais oublié dans [les cartons](/demenagement-en-photos).
 
-<!-- HTML -->
-<table align="center"><tr><td>
-<!-- / HTML -->
+<div class="flex justify-center ...">  
+  <div class="m-1 text-center">
+
 original:  
-[![](ov-schipkaart-s.png)](/public/images/scans/screenshots/ov-schipkaart.png)
-<!-- HTML -->
-</td><td>
-<!-- / HTML -->
+[![capture d'écran ov-chipkaart](ov-schipkaart-s.png)](ov-chipklacht-847w.png)
+
+  </div>
+
+  <div class="m-1 text-center">
+
 parodie:  
-[![](ov-chipklacht-s.png)](/public/images/scans/screenshots/ov-chipklacht.png)
+[![capture d'écran ov-chipklacht](ov-chipklacht-s.png)](ov-chipklacht-847w.png)
+
+  </div>
+</div>
+
 <!-- HTML -->
+<!-- <div class="flex flex-col items-center">
+<table><tr><td>
+
+original:  
+[![](ov-schipkaart-s.png)](ov-schipkaart.png)
+
+</td><td>
+
+parodie:  
+[![](ov-chipklacht-s.png)](ov-chipklacht.png)
+
 </td></tr></table>
+<div> -->
 <!-- / HTML -->
----
+
 <!-- post notes:
 http://nieuws.uilenstede.nl/2008/04/24/ov-chipkaart-veel-duurder-dan-strippenkaart/
 --->

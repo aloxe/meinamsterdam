@@ -40,6 +40,7 @@ d'autant que le caractère religieux de la fête n'est plus toujours évident.
 Il reste quelques endroits du Brabant ou la fête locale est précédée de
 processions religieuses, comme à Tilburg, où l'origine religieuse et traditionnelle de la
 fête est utilisée pour défendre les intérêts des forains[^2].
+
 ---
 [^1]: voir [Catholiques et protestants](/catholiques-et-protestants).
 [^2]: De mémoire, les forains s'y sont vu refuser l’installation d'une grande roue pour non conformité avec les règles d'urbanisme !

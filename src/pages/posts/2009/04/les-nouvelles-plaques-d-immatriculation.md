@@ -31,7 +31,8 @@ Le système fonctionnait bien. Il a donc été décidé de le faire évoluer en 
 
 ![Citroën C1 de la voisine](citroen-c1.jpg){.center}
 
-C'est une jolie Citroën don la plaque d'immatriculation, récente ressemble beaucoup aux nouvelles plaques d'immatriculation françaises avec des tirets et trois *digits* au milieu.
+C'est une jolie Citroën dont la plaque d'immatriculation, récente ressemble beaucoup aux nouvelles plaques d'immatriculation françaises avec des tirets et trois *digits* au milieu.
+
 ---
 [^1]: Sur ce sujet on a d'ailleurs constaté que **pas mal de voitures françaises brulées durant les émeutes de Novembre 2005 en France on servit a ré-immatriculer des voitures volées aux Pays-Bas**. Un trafic de cartes grises a été mis à jour.
 [^2]: Sur le point de simplification administrative, on ne peut que se réjouir. Tant qu'on y est, quand est-ce qu'on supprime le timbre fiscal, la déclaration de revenu et autres archaïsmes ?

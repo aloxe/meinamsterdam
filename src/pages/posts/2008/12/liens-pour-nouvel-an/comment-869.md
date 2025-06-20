@@ -12,6 +12,5 @@ permalink: false
 <p>J'avais fait <a href="/nouveau-mot-vuurwerk">un article montrant les boîtes-aux-lettres bouchées</a> il y a quelques années.</p>
 
 <p>Tu n'as pas eu le temps d'aller à Amsterdam ? Allez pour te consoler, voici une photo de mon voisin, qui lui aussi est monté sur le toit pour voir les explosions du nouvel an.<br />
-<br />
-<img src="/public/images/photos/2008-11/voisin-feux-d_artifice.jpg" /></p>
----
+
+![vue de la terrasse du voisin la nuit](voisin-feux-d_artifice.jpg)

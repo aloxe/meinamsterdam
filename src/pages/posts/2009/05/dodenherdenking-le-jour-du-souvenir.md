@@ -26,4 +26,3 @@ La cérémonie officielle d'hommage se passe à Amsterdam. La famille royale ass
 Il y a de nombreuses autres cérémonies officielles organisées partout aux Pays-Bas à cette occasion. Chaque municipalité organisant la sienne. Dans mon arrondissement, c'est pas moins de 4 manifestations qui ont lieu ce jour là avec notamment un dépot de gerbe devant un monument au mort avec des militaires au garde à vous et une marche silencieuse avec des civils au visage grave.
 
 Demain c'est le jour de commémoration de la victoire.
----

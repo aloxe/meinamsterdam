@@ -27,5 +27,6 @@ Pendant ce temps là, le parlement européen actuel tente de communiquer sur ses
 Cette campagne dit vrai, le Parlement Européen est (aussi) le siège de beaucoup de décisions qui jouent sur notre vie. Pouvoir choisir qui le fera est important. Le Parlement Européen s'est même montré par le passé, seul organe européen à défendre les citoyens face a des directives rédigés par la commission et trop visiblement à la solde de lobbyistes. Il est donc crucial d'y porter des élus qui soit compétents et à l'écoute des problèmes des gens. Il ne s'agit donc pas d'être pour ou contre l'Europe mais de faire des choix concrets pour la vie de tous les jours. 
 
 Hélas, cette timide campagne est loin de toucher les millions d'électeurs européens, par ailleurs arrosés par les messages simplistes et souvent populistes de leur presse nationale. C'est en tout cas le cas aux Pays-Bas.
+
 ---
 [^1]: Je pense que choisir un endroit ou la multiplication des contrôles a fait preuve de son inefficacité est un pur hasard. Mais c'est quand même rigolo. 

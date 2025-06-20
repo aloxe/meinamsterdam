@@ -34,5 +34,6 @@ Je n'ai pas parlé de bite en 2008 non plus mais bon je veux rester un blog resp
 Les mites et les mythes, rimes capilotractées pour vous promettre de parler de mode et de littérature sont restées sans suite. Faute de temps, je n'ai même pas évoqué le fait qu'Amsterdam était la capitale mondiale du livre cet été. La mort d'[Hugo Claus](http://fr.wikipedia.org/wiki/Hugo_Claus) au mois de mars ou les 75 ans de [Cees Nooteboom](http://fr.wikipedia.org/wiki/Cees_Nooteboom) en décembre sont d'autres occasions que j'ai manquées. Peut-être en parlerais-je en 2009 ?
 
 Après ce petit bilan des ratages et succès de 2008, est ce que ça vaut la peine que je vous liste les bonnes résolutions pour ce blog ?
+
 ---
 [^1]: Je pense que c'est pour cela que [les timbres moins chers pour envoyer les voeux](/timbres-en-promo) ne sont plus utilisables après le 15 janvier.

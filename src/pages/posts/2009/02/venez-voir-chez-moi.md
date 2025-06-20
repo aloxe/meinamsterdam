@@ -37,5 +37,6 @@ Transition toute trouvée pour répondre à la question qui vous taraude tous. E
 Petite consolation pour ceux que ça intéresse, la nouvelle piscine de [Zuidas](/un-buurt-nomme-zuidas) reste ouverte tard le soir et ne possède pas, elle non plus de rideaux aux fenêtres.
 
 ![La piscine de Zuidas](piscine-zuidas.jpg){.center}
+
 ---
 [^1]: On an vu que [sortir dès que le soleil se montrait](/revisions-sous-le-soleil) était une tradition.

@@ -51,4 +51,3 @@ La campagne porte ses fruits, le *Groene Sint* a été reçu à la chambre basse
 <!-- / HTML -->
 
 Et pour Noël, vous allez acheter du chocolat?
----

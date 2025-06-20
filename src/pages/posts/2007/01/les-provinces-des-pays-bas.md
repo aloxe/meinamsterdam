@@ -68,7 +68,7 @@ C'est la province qui m'héberge au sein de la capitale du pays. Pourtant, la ca
 <a name="Hollande--meridionale"></a>
 <!-- / HTML -->
 ## Hollande méridionale (Zuid-Holland)
-Deuxième province de Hollande, c'est la soeur et la rivale de sa provinde du nord. La Haye disputant à Amsterdam sa position de capitale administrative et Rotterdam lui disputant avec succès sa position de plus grand port d'Europe. On y retrouve aussi tulipes et moulins mais cette province est la plus peuplée des deux avec des villes comme Rotterdam, la Haye, Gouda, Delft et Leyde. Ces deux provinces des Pays-Bas sont le c?ur économique et politique du pays ce qui fait qu'on parle souvent de **Hollande** pour désigner l'ensemble des **Pays-Bas**...
+Deuxième province de Hollande, c'est la soeur et la rivale de sa provinde du nord. La Haye disputant à Amsterdam sa position de capitale administrative et Rotterdam lui disputant avec succès sa position de plus grand port d'Europe. On y retrouve aussi tulipes et moulins mais cette province est la plus peuplée des deux avec des villes comme Rotterdam, la Haye, Gouda, Delft et Leyde. Ces deux provinces des Pays-Bas sont le cœur économique et politique du pays ce qui fait qu'on parle souvent de **Hollande** pour désigner l'ensemble des **Pays-Bas**...
   [plus...](http://fr.wikipedia.org/wiki/Hollande_m%C3%A9ridionale)
 
 <!-- HTML -->

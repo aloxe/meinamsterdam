@@ -22,9 +22,6 @@ The name and shame campaign singles out which companies have and which have not 
 </p><p>
 
 They also complain that Oxfam Novib is creating the impression that all other chocolate is produced using child labour or environmentally unfriendly methods, which they dispute. At the same time they argue that not enough fair trade cacao is being produced. Part of the problem is that the companies are dealing with small farmers and it takes time to train them on environmentally friendly methods and social working conditions.
-</p><p>
+</p>
 
- 
-
-A spokesperson for Oxfam Novib says Its a vicious circle, companies have been telling us for years that are working on the problem. But we want to see real commitment. Anyway its up to the consumers now to vote with their feet. </p>
----
+A spokesperson for Oxfam Novib says Its a vicious circle, companies have been telling us for years that are working on the problem. But we want to see real commitment. Anyway its up to the consumers now to vote with their feet.

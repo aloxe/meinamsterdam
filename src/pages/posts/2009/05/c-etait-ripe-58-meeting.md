@@ -39,6 +39,7 @@ Ce RIPE meeting peut d'ailleurs être qualifié de premier meeting à s'inscrire
 L'autre fait marquant de ce meeting était l'anniversaire du RIPE. Le premier meeting du nom a eu lieu dans cette même ville d'Amsterdam en 1989. Il y a vingt ans. Cela peut paraître récent mais pour l'histoire de l'Internet, cela fait beaucoup. Quand les pionniers européens  du protocole TCP/IP de l'époque se sont réunis dans les locaux prêté des années 80, ils ne se doutaient pas que plein de petit jeunes allaient les applaudir 20 ans après dans un cinq étoiles du centre ville. Daniel Karenberg en a profité pour nous expliquer pourquoi cette organisation s'est retrouvé avec un nom français ([ici en PDF](http://www.ripe.net/ripe/meetings/ripe-58/content/presentations/the-origins-of-ripe.pdf)). Cet anniversaire a été l'occasion d'une [belle soirée](http://www.ripe.net/ripe/meetings/ripe-58/social-events.php?day=thursday) à l'ancienne bourse d'Amsterdam (Beurs van Berlage[^2]). Il n'y a pas eu de chanson tube comme avec RIPE 55 mais un bon repas avec plein de monde et un joli gâteau que je n'ai pas put goûter.
 
 Comme pour le gâteau, il y a beaucoup d'autres choses auxquelles je n'ai pas pris part et c'est pour cela que je ne vous en dis pas plus.
+
 ---
 [^1]: oui oui, il y avait des agents secrets dans notre hôtel...
 [^2]: Présentée récement sur ce blog...

@@ -31,6 +31,7 @@ Je n'arrive pas à savoir d'où leur est venue cette idée. Il existe bien une t
 Après quelques recherches, j'ai découvert que cet oiseau est **un petit coq** *haantje* et que le le pain s'appelle *broodhaantje* (coquelet en pain). ce dernier est posé en haut d'une croix qu'on appelle *palmpaasstok*. On pourrait traduire cela par **bâton des rameaux**. En effet, le dimanche des rameaux se dit *palmzondag* mais aussi *palmpasen*. *Pasen* signifiant pâques, le néerlandais montre bien que les deux fêtes sont liées. Les rameaux introduisent [la Semaine Sainte](http://fr.wikipedia.org/wiki/Semaine_sainte) et pâques la termine. Tous les ornements de ce *palmpaasstok* sont des symboles religieux s'accordant avec la semaine sainte[^1].
 
 [Une page](http://www.ah.nl/allerhande/kookschrift/recept.jsp?id=8062) de chez [Albert Hein](/albert-hein-et-compagnie) nous propose une recette de *broodhaantje* ainsi qu'un chant pour les enfants où il est question de rameaux, de pâques et d'œufs. Les coqs ne pondent pas d'œufs mais ce *palmpaasstok* est une tradition idéale pour faire patienter les enfants jusqu'à pâques. Ils peuvent ainsi grignoter avant de chercher les chocolats.
+
 ---
 [^1]: Voir ma [traduction approximative sur Wikipédia](http://fr.wikipedia.org/wiki/Croix_des_rameaux)
 <!-- post notes:

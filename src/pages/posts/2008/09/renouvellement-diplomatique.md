@@ -5,8 +5,8 @@ description: "Avec la rentrée, beaucoup de changements. Les élèves de l'écol
 categorie: ik-ben-frans
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Korte-Voorhout-17424.jpg
+image_alt: Ambassade à Korte Voorhout
 permalink: renouvellement-diplomatique/
 date: 2008-09-03
 update: 2018-08-28
@@ -17,15 +17,12 @@ Avec la rentrée, beaucoup de changements. Les élèves de l'école française �
 
 Depuis hier, M. [Jean-François BLAREL](http://www.ambafrance-nl.org/spip.php?article224) est officiellement nouvel **Ambassadeur Plénipotentiaire de la République Française aux Pays-Bas**. Il remplace  M. Jean-Michel GAUSSOT que j'ai eu le plaisir de rencontrer [en 2007](/juillet-sans). Le nouvel ambassadeur a remis ses lettres de créances à la Reine Beatrix le 3 Septembre comme l'ont fait tous les ambassadeurs avec les monarques en poste depuis 1583. M. Jean-François BLAREL a sa biographie en ligne sur le site de l'Ambassade depuis quelques jours. Mais il n'est pas le seul a poser ses valises dans le building de smidsplein. Le premier conseiller de l'ambassade, numéro deux de la diplomatie française en pays batave est aussi une nouvelle tête.
 
-<!-- HTML -->
-<div style="text-align:center; padding:10px; font-size:small;">
-<!-- / HTML -->
-![http://web.inter.nl.net/users/interniek/hagazine/archief/blumnanajaune.JPG]()<!-- TODO: Add image alt -->  
-<!-- HTML -->
-le building gris de l'Ambassade de France à la Haye
-</div>
-<!-- / HTML -->
 
+![vue aérienne du bâtiment de l'ambassade de France](Korte-Voorhout-17424.jpg)
+*le building gris de l'Ambassade de France à la Haye*
+
+<!-- source https://www.haagsefotos.nl/ngg_tag/korte-voorhout/nggallery/page/2 -->
+<!-- Gone ![http://web.inter.nl.net/users/interniek/hagazine/archief/blumnanajaune.JPG]() -->
 
 
 A Amsterdam aussi il y a du changement. L'**Institut Français**, plus connue sous le nom de **maison Descartes** va recevoir une nouvelle directrice, Madame Isabelle MALLEZ qui devrait prendre ses fonctions juste après la [journée portes ouvertes organisée le 6 septembre](http://www.maisondescartes.com/site/institut/open-dag-6-septembre-2008.html). Le consulat est situé la porte a coté de l'institut et là aussi il y a du changement. Le nouveau **Consul Général**, M. [Olivier Nicolas](http://www.consulfrance-moncton.org/article.php3?id_article=1) prendra ses fonctions le 15 septembre prochain en compagnie d'un Consul Général adjoint nouveau lui aussi.
@@ -40,7 +37,7 @@ Lire aussi:
 * [La presse d'ici en français](/je-lis-deja-les-journaux)
 * [La nouvelle ambassade de France](/Une-nouvelle-Ambassade-de-France)
 * [Un ambassadeur qui tombe à pic](/Un-ambassadeur-qui-tombe-a-point-nomme)
----
+
 <!-- post notes:
 http://www.lemonde.fr/actualite-medias/article/2008/09/03/le-monde-et-le-ministere-des-affaires-etrangeres_1090925_3236.html 
 

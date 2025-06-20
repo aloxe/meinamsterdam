@@ -30,16 +30,17 @@ En 1980, Juliana abdique en faveur de sa fille Beatrix, qui reigne encore aujoud
 Le Telegraaf d'hier a publié un sondage traduit et relayé par la revue de presse de l'ambassade de France. Je crois qu'il parle de lui même.
 <!-- HTML -->
 <div style="border:2px solid #6e6e6e; padding:7px;">
-<!-- / HTML -->
+
 "**L'Anniversaire de la Reine** *Koninginnedag* **est loin d'être fêté aussi massivement que nous le pensons**", remarque le Telegraaf (p.6). "C'est du moins ce qui ressort de notre « thèse du jour » sur la fête qui aura lieu demain. **Notre connaissance historique de la Maison Royale est extrêmement maigre, pour ne pas dire affligeante**. 42 % des répondants à notre thèse « Je suis partisan de la monarchie » déclarent ne pas fêter Koninginnedag du tout, alors que 55 % le font. 10 % de ce dernier groupe le font hors de leur propre commune."
 
 "56 % se déclarent partisans de la monarchie et 40 % sont contre. La Reine Beatrix est cependant bien notée : 51 % lui accordent la mention « bien » ou « excellent » et 21 % seulement la mention « insuffisant ». « Bien que je sois républicain, je considère que Sa Majesté est une femme de métier et donc une excellente Reine », écrit un répondant."
 
 "**Pour nous exprimer avec prudence : notre pays ne brille pas par sa conscience historique. Ainsi, 57 % des répondants pensent que notre Maison Royale remonte à Guillaume d'Orange.** En réalité, cette branche s'est éteinte en 1702, avec Guillaume III (1650-1702)." "**Notre pays n'est devenu un royaume qu'en 1815 avec le roi Guillaume Ier.** Seule la moitié des participants a su répondre correctement à cette question. L'autre moitié n'en sait rien, ce qui est tout de même frappant. Encore plus décevante est votre réponse à la question de savoir quand le *Wilhelmus* est devenu notre hymne national. Ce n'était qu'en 1932. Avant, c'était *Wien Neêrlands Bloed*. Seuls 30 % ont bien répondu."
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 Ceci conforme ce que tout le monde savait déjà, la reine est un prétexte pour ne pas travailler, faire de l'argent et boire des coups.
+
 ---
 [^1]: Guillaumette ?

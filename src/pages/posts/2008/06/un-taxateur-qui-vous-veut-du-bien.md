@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Un taxateur qui vous veut du bien
-description: Je vous ai déjà parlé des [crédits immobiliers|] que les banques locales  sont capables de nous vendre. Des prêts à terme sur trente ans. Chers  et risqu�
+description: Je vous ai déjà parlé des [crédits immobiliers|] que les banques locales  sont capables de nous vendre. Des prêts à terme sur trente ans. Chers  et risqu�
 categorie: nederlandjes
 tags: []
 isMarkdown: true
@@ -10,10 +10,10 @@ image_alt:
 permalink: un-taxateur-qui-vous-veut-du-bien/
 date: 2008-06-30
 update: 2008-06-30
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt, shortened desc, relire et mise en forme
 ---
 
-Je vous ai déjà parlé des [crédits immobiliers|] que les banques locales
+Je vous ai déjà parlé des crédits immobiliers que les banques locales
 sont capables de nous vendre. Des prêts à terme sur trente ans. Chers
 et risqués. Pas si risqué que ça pour la banque puisque le bien est
 hypotéqué jusqu'au bon remboursement du prêt.
@@ -58,4 +58,3 @@ comme n'importe quel client. Il remet ensuite un rapport d'expertise
 (et une facture) donnant son estimation de la valeur du bien. La
 banque n'accorde son prêt que si cette estimation dépasse le prix
 d'achat. Ce qui fût notre cas...
----

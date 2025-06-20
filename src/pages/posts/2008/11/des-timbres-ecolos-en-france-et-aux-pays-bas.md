@@ -28,4 +28,3 @@ Le 1er janvier dernier, la Poste Néerlandaise (répondant au doux nom de [TNT](
 Je suis sûr que cette idée donnera des idées aux pays voisins...
 
 Rappellons à nos lecteurs assidus que comme tous les ans, la poste Néerlandaise propose des timbres saisonniers pour envoyer ses voeux de fin d'année à tarif préférentiel (34 cents au lieu de 44 cette année). Tout est [expliqué ici](/les-timbres-de-saison).
----

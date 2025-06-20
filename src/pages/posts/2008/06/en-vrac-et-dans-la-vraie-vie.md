@@ -28,5 +28,6 @@ Dans deux semaines nous allons déménager pour un appartement. Nous avons achet
 ![À vélo dans la rue](sophie-a-velo.jpg){.right}
 **Nouveau vélo et Nouvelle selle**  
 Ces derniers temps il y a beaucoup de jours de beau temps (pour Amsterdam, c'est à dire qu'il pleut au moins une fois par semaine) alors [les gens en profitent](/revisions-sous-le-soleil). S. profite aussi du soleil et utilise son nouveau vélo hollandais[^1] de temps à autre. De mon coté, j'ai du [encore réviser le mien](/revision-du-btwin), (toujours le [b'twin](/un-b-twin-a-amsterdam)) et remplacer la selle. La selle d'origine était ouverte et laissait échapper le gel qui la constituait... beurk!
+
 ---
 [^1]: J'ai fait une [jolie photo de son vélo ici](/plein-de-velos-hollandais) (Plein de vélos hollandais)

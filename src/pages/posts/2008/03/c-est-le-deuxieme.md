@@ -23,4 +23,3 @@ Et puisque ces deux deuxièmes nous rammenent aux vacances d'hiver, nous avons d
 
 * Photo d'[Amsterdam sous la neige](/la-temperature-ressentie)
 * La [fausse neige du printemps](/il-neige-au-printemps)
----

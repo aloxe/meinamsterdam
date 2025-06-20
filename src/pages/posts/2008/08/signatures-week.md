@@ -34,4 +34,3 @@ Ce contrat là n'est pas une nécécité quand on prend un crédit ni même un b
 Voila un an aujourd'hui que je suis dans [mon nouveau boulot](/nouveau-mois-nouvelle-boite), avec un contrat à durée déterminée de un an. Comme ça se passe bien, mon employeur m'a proposé un CDI. Me voilà donc à bosser pour RIPE NCC pour une durée indéterminée. J'ai signé ce nouveau contrat début juillet sans avoir besoin des explications d'un notaire pour comprendre.
 
 ![contrat chez mon employeur](contrat-ripe-ncc.jpg){.center}
----

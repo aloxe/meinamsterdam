@@ -21,15 +21,13 @@ Je vous avais dit que [j'étais dans l'annuaire](/je-suis-dans-l-annuaire) mais 
 ![gouden-gids-front-2004.jpg](gouden-gids-front-2004_m.jpg){.center}
 
 ![Couverture des telefoon gids 2004 avec Katja Shuurmann](telefoon-gids-back_m.jpg){.center}
-
 *Les couvertures des pages jaunes et des pages blanches en 2004, année du lancement du nouveau visuel. Katja Shuurmann, pose en costume pour les pros et en robe pour les particuliers.*
 
 ![Couverture des gouden Gids 2005](katja-shuurmann-gouden-gids-2005.jpg){.center}
-
-> L'année suivant l'actrice fait toujours la une des pages jaunes. Cette fois Katja Shuurmann ne pose plus comme sur un magazine de mode mais indique ce qu'il y a de bien à l'intérieur de ces pages.
+*L'année suivante l'actrice fait toujours la une des pages jaunes. Cette fois Katja Shuurmann ne pose plus comme sur un magazine de mode mais indique ce qu'il y a de bien à l'intérieur de ces pages.*
 
 ![Couverture des gouden Gids 2006](Gouden_Gids-Katja-shuurmann-2006.jpg){.center}
-> Nouvelle reprise d'un visuel de campagne pour la couverture de 2006. Katja Shuurmann en plan plus resserré
+*Nouvelle reprise d'un visuel de campagne pour la couverture de 2006. Katja Shuurmann en plan plus resserré*
 
 
 En 2004 les pages jaunes ont lancé cette nouvelle couverture, leur nouvelle icône Katja Shuurmann devait promouvoir le support dans [une campagne globale](http://www.sanaccent.nl/case/2005/katja). Son portrait en pied et habillée de pages jaunes se retrouvait sur les abribus et en 4x3 sur le bord des routes. On a vu l'actrice se matérialiser aussi dans plusieurs spots télé où, en bonne fée, elle aide les gens à trouver le bon numéro...

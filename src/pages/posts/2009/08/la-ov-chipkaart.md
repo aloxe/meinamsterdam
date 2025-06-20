@@ -47,7 +47,7 @@ Pour faire court, je ne vais pas dévolopper la liste des griefs dont j'ai eu ve
 
 J'ai oublié de vous montrer le premier site de protestation contre la ov-chikaart construit par le partit des *verts de gauche* (*groenelinks*), il s'appelle [ov-chipklacht](http://www.ov-chipklacht.nl/). Klacht signifie plainte. C'est une vieille capture d'écran qui date de 2008 et que j'avais oublié dans [les cartons](/demenagement-en-photos).
 
-<div class="flex justify-center ...">  
+<div class="flex justify-center">
   <div class="m-1 text-center">
 
 original:  

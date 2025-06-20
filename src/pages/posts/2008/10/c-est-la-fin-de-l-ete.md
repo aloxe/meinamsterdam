@@ -33,4 +33,3 @@ N'oubliez pas, ce dimanche 26 octobre, à une heure, nous repassons à l'heure (
 
 ## et aussi
 [La bière d'automne](/la-herfst-bokbier-biere-d-automne)
----

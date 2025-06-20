@@ -15,8 +15,7 @@ TODO: shortened desc
 
 Non je ne vais pas encore parler d'[immobilier](/des-nouvelles-de-l-immobilier) et de domaines fonciers à vendre, il y en a surement plus que ça dans tous les Pays-Bas... Je vais vous parler des **noms de domaine Internet** pour l'extention nationale des Pays-Bas, le **.nl** ; autrement dit les *.nl-domeinnaam*. SIDN est une association en charge des .nl basée à Arnhem en [Gueldre](/les-provinces-des-pays-bas). Cette oragnisation a récement a annoncé avoir enregistré son troismillionième .nl. Seuls 4 pays au monde avait déjà dépassé ce chiffre.
 
-![http://www.sidn.nl/pub_sidn/infeez/logo.gif](SIDN Logo){.left}
-Dans le petit club des gestionnaires de domaines Internet, les Pays-Bas sont bien placés, actuellement en 8ème position selon [domainesinfo.fr](http://www.domainesinfo.fr/actualite/441/statistiques-mondiales-des-noms-de-domaine.php), derrière le .com, le .de allemand ou le .cn chinois. Cette position est d'autant plus méritoire que l'accès au .nl est limité aux habitants de ce petit pays de presque 17 millions d'habitants. A ma connaissance, le **.nl** est l'extention nationnale avec la meilleure pénétration avec quelques 18 noms de domaine pour 100 habitants. Depuis longtemps les .nl étaient accessibles aux entreprises comme aux particuliers sans qu'un *droit au nom* soit demandé. Ceci explique cette forte adhésion au .nl alors que le .com semble réèlement avoir moins de succès ici qu'en France par exemple. Une autre explication est le fait que les Pays-Bas sont un des pays [les mieux connectés d'Europe](/public/images/scans/acces-fixes-par-pays.png), ceci motivant la demande et la création de contenus auquels il est aisé de donner une adresse se terminant par .nl.
+![SIDN Logo](sidn-logo.png){.left} Dans le petit club des gestionnaires de domaines Internet, les Pays-Bas sont bien placés, actuellement en 8ème position selon [domainesinfo.fr](http://www.domainesinfo.fr/actualite/441/statistiques-mondiales-des-noms-de-domaine.php), derrière le .com, le .de allemand ou le .cn chinois. Cette position est d'autant plus méritoire que l'accès au .nl est limité aux habitants de ce petit pays de presque 17 millions d'habitants. A ma connaissance, le **.nl** est l'extention nationnale avec la meilleure pénétration avec quelques 18 noms de domaine pour 100 habitants. Depuis longtemps les .nl étaient accessibles aux entreprises comme aux particuliers sans qu'un *droit au nom* soit demandé. Ceci explique cette forte adhésion au .nl alors que le .com semble réèlement avoir moins de succès ici qu'en France par exemple. Une autre explication est le fait que les Pays-Bas sont un des pays [les mieux connectés d'Europe](/public/images/scans/acces-fixes-par-pays.png), ceci motivant la demande et la création de contenus auquels il est aisé de donner une adresse se terminant par .nl.
 
 Les autres extentions populaires aux Pays-Bas (en plus du **.com** qui est populaire dans le monde entier) sont le **.nu** et le **.eu**. **nu** est le code pour les noms de domaines de l'état insulaire de [Niué](http://fr.wikipedia.org/wiki/Niue) et comme ce mot *nu* a diverses significations intéressantes dans le monde, les autorités de ce petit état ont donc décidé de commercialiser leurs noms de domaine dans le monde entier par l'intermédière d'une fondation basée aux Etats-Unis qui aide au développement de l'Internet à Niué. Dans la langue de Willem Godschalk van Foquenbroch, *nu* signifie **maintenant**, les néerandais surfent donc souvent sur des sites qui se veulent actuels et l'[affichent dans leur domaine](http://nic.nu/tour/tour_images.cfm?ID=EN&site=1942&page=1). Le .eu, quand à lui, ouvert à tous les européens a séduit beaucoup d'entreprises hollandaises dès son lancement. Les Néerlandais sont les [deuxièmes plus gros détenteurs de .eu](http://www.eurid.eu/en/about/facts-figures/statistics), juste derrière le pays le plus peuplé d'Europe.
 
@@ -27,7 +26,7 @@ Mais revenons au .nl qui nous intéresse aujourd'hui. SIDN a largement communiqu
 * Le tout premier nom de domaine fut cwi.nl, enregistré le 1er mai 1986. Ce nom est encore untilisé aujourd'hui
 * Il y a environ 1700 noms de domaine enregistré quotidiennement
 * Le nom de domaine en .nl le plus cher est *voetbal.nl* (football) vendu en l'an 2000 pour un million de florins
-* Le prix moyen des noms de domaine en .nl vendus aux enchères a augmenté de 50% depuis l'année dernière de ? 1.000 et ? 1.500
+* Le prix moyen des noms de domaine en .nl vendus aux enchères a augmenté de 50% depuis l'année dernière de ± 1.000 et ± 1.500
 * Le marché des noms de domaine aux Pays-Bas est répartit comme suit: .nl 70%, .com 14% en .eu 9%
 * La proportion de particuliers titulaires de .nl est passée de 29% le 1er janvier 2007 à 33% le 1er janvier 2008.
 
@@ -41,8 +40,8 @@ L'année 2008 est mouvementée pour SIDN mais malgré toutes ces histoires, on e
 
 ![pub SIDN](sidn.png){.center}
 
-Le nombre de noms de domaine en .nl devraient donc continuer à augmenter. J'y apporte d'ailleurs ma contribution puisque je suis maintenant titulaire de [meinamsterdam.nl](http://www.meinamsterdam.nl) que je compte utiliser un jour pour ce blog.
----
+Le nombre de noms de domaine en .nl devraient donc continuer à augmenter. J'y apporte d'ailleurs ma contribution puisque je suis maintenant titulaire de `meinamsterdam.nl` que je compte utiliser un jour pour ce blog.
+
 <!-- post notes:
 http://www.sidn.nl/ace.php/c,728,5655,,,,Service_interruption_update_12_20_hrs_CET_.html 
 http://www.sidn.nl/ace.php/c,727,5601,,,,Heruitgifte_numerieke_domeinnamen.html 

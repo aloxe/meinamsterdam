@@ -11,6 +11,8 @@ permalink: pour-les-voeux-c-est-fini/
 date: 2008-01-09
 update: 2021-01-03
 TODO: no image, no image alt, shortened desc
+subfooters:
+ - nouvelan
 ---
 
 Décidément, on apprend plein de choses aux [rendez-vous du Jaren](/la-reprise-du-jaren). Ce mardi était le premier rendez-vous de l'année. Nous avons échangé nos [bon voeux](/meilleurs-voeux-nouvelle-annee) avant d'apprendre que c'était trop tard. Apparemment, il n'est pas correct de souhaiter la bonne année après le 6 janvier 2008. Mais pourquoi ?
@@ -38,17 +40,5 @@ Séquence culture : Coté arts plastiques, les Pays-Bas ont de bonnes référenc
 ### 2008 année des visites
 Qui va venir nous voir cette année ?
 
-<!-- HTML -->
-<div class="footnotes">
-<h4>Quelques liens du nouvel an :</h4></div>
-<!-- / HTML -->
-[Gueule de bois ?](/gueule-de-bois)  
-[Préparatifs pétaradant](/preparatifs-petaradants)  
-[Nouveau mot : Gelukkig](/liens-pour-nouvel-an)  
-[Nouveau mot : Vuurwerk](/nouveau-mot-vuurwerk)  
-[Il y a eu des dégats](/il-y-a-eu-des-degats)  
-[Un plongeon pour le nouvel an](/un-plongeon-le-nouvel-an)  
-[Ceux nouvelles années](/deux-nouvelles-annees)  
-[Pour les vœux, c'est fini](/pour-les-voeux-c-est-fini)  
 ---
 [^1]: [Saint-Nicolas](/saint-nicolas-est-revenu-sinterklaas-is-terug), [Noël](/noel-des-pays-bas), le [Jour de l'an](/deux-nouvelles-annees).

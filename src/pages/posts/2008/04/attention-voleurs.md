@@ -35,4 +35,3 @@ Le police met aussi à disposition dans ses commissariats des petits panneaux à
 [![](let-op-geen-waardevolle-220.jpg){.center}](/public/images/photos/2008-04/let-op-geen-waardevolle-500.jpg)
 
 * voir aussi [Petits vols en public](/petits-vols-en-public) (1) et [Petits vols en public](/petits-vols-en-public-2) (2). Que fait la police?
----

@@ -32,11 +32,11 @@ Un dernier détail qui a son importance, **la chaîne est toujours protégée** 
 
 <!-- HTML -->
 <div style="border:1px solid grey; text-align:center; font-size:small; padding:10px;">
-<!-- / HTML -->
+
 ![Vélo multicolore, multikeukijk fiets](velo-azor-et-moulin-rieker.jpg){.center}  
 Le vélo multicolore de Sophie  
 C'est forcément un vélo hollandais puisqu'il est devant un moulin 
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 

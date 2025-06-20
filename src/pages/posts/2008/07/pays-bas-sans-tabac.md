@@ -5,19 +5,22 @@ description: "L'ensemble des médias néerlandais relève que l'interdiction
 categorie: dagelijks
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: th-255_benjeffery.jpg
+image_alt: no smoking triste
 permalink: pays-bas-sans-tabac/
 date: 2008-07-16
 update: 2008-07-16
 TODO: no image, no image alt, shortened desc
 ---
+<!-- source http://www.eatock.com/files/gimgs/th-255_benjeffery.jpg -->
 
-![http://www.eatock.com/files/gimgs/th-255_benjeffery.jpg](no smoking){.right}
-> L'ensemble des médias néerlandais relève que l'interdiction de fumer dans lhôtellerie-restauration, qui est en vigueur depuis le 1er juillet, est bien respectée. L'Autorité de surveillance des denrées et marchandises (VWA) a contrôlé un millier détablissements les deux dernières semaines et constaté que 96 pour cent des hôtels, cafés et restaurants visités respectent les règles.
-> Maintenant que les Néerlandais nont plus le droit de fumer dans lhôtellerie-restauration, il semble que beaucoup en profitent pour essayer de sarrêter définitivement. Cest ce que la *Stichting Volksgezondheid en Roken* (Fondation Santé publique et Tabac, Stivoro) a fait savoir hier.
 
-Cette citation de [la revue de presse Néerlandaise](http://www.ambafrance.nl/spip.php?article9871) de l'ambassade de France, montre qu'ici aussi la presse fait oeuvre de complaisance en ne s'attardant pas sur les oppositions à cette loi. Je ne suis personnelement pas opposé à cette loi, depuis quinze jours j'ai pu apprécier le fait de rentrer du pub sans que mes vettements sentent autre chose que ma sueur. Mais les journalistes si promps à chercher là petites bêtes sont ici bien peu critiques aux Pays-Bas comme en France.
+
+
+> L'ensemble des médias néerlandais relève que l'interdiction de fumer dans l'hôtellerie-restauration, qui est en vigueur depuis le 1er juillet, est bien respectée. L'Autorité de surveillance des denrées et marchandises (VWA) a contrôlé un millier détablissements les deux dernières semaines et constaté que 96 pour cent des hôtels, cafés et restaurants visités respectent les règles.
+> Maintenant que les Néerlandais nont plus le droit de fumer dans l'hôtellerie-restauration, il semble que beaucoup en profitent pour essayer de sarrêter définitivement. Cest ce que la *Stichting Volksgezondheid en Roken* (Fondation Santé publique et Tabac, Stivoro) a fait savoir hier.
+
+![no smoking triste](th-255_benjeffery.jpg){.right} Cette citation de [la revue de presse Néerlandaise](http://www.ambafrance.nl/spip.php?article9871) de l'ambassade de France, montre qu'ici aussi la presse fait oeuvre de complaisance en ne s'attardant pas sur les oppositions à cette loi. Je ne suis personnelement pas opposé à cette loi, depuis quinze jours j'ai pu apprécier le fait de rentrer du pub sans que mes vettements sentent autre chose que ma sueur. Mais les journalistes si promps à chercher là petites bêtes sont ici bien peu critiques aux Pays-Bas comme en France.
 
 On peut souligner ici l'intelligence de la loi néerlandaise obligeant les fumeurs à changer leurs habitudes à la saison chaude, où ils sont moins réticents à aller dehors. Il fait beau et les fumeurs ont plaisir à se mettre en terrasse. Il sera bien temps en hiver de tenter d'arrêter de fumer, seul alternative à la froidure extérieure...
 
@@ -29,8 +32,8 @@ Dans les fait je pense que les coffee-shops ne seront que peu contrôler. Le com
 
 ## Créatifs
 
-![http://www.eatock.com/files/gimgs/th-255_damiensafie.jpg](interdiction de fumer){.left} Au jour de l'application de cette nouvelle loi anti-tabac dans les lieux publics, beaucoup de café et de restaurant ont commencé à mettre des affiches originales d'interdiction de fumer pour permettre à leur clients de prendre l'interdiction avec humour. Alors pour conclure cet article je vous propose un petit détour sur ce [projet de design](http://www.eatock.com/project/no-smoking-sign-request) d'une signalétique "no smoking".
----
+![NON smoking](th-255_damiensafie.jpg){.left} Au jour de l'application de cette nouvelle loi anti-tabac dans les lieux publics, beaucoup de café et de restaurant ont commencé à mettre des affiches originales d'interdiction de fumer pour permettre à leur clients de prendre l'interdiction avec humour. Alors pour conclure cet article je vous propose un petit détour sur ce [projet de design](http://www.eatock.com/project/no-smoking-sign-request) d'une signalétique "no smoking".
+
 <!-- post notes:
 http://www.ambafrance.nl/spip.php?article8332
 --->

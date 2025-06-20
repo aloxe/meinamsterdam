@@ -26,4 +26,3 @@ Le [site web de la paroisse](http://www.messecatholiqueamsterdam.org) a ouvert j
 Ma dernière messe de Noël à Amsterdam était organisée conjointement avec les autochtones occupant la même église. Cette année la paroisse a organisé un temps de noël tout entier francophone. Les dates sont affichées sur le site de la paroisse. La messe *de minuit* a lieu à 19h et elle est suivit d'un petit réveillon ou ceux qui veulent peuvent apporter à manger à partager. Le jour de noël aussi il y a une messe le matin à l'horaire habituel du dimanche, à 11h15.
 
 Voilà, vous savez tout, il ne vous reste plus qu'à ne pas vous perdre en chemin.
----

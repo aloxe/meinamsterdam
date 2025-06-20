@@ -38,7 +38,7 @@ Les bourgmestres des villes devant gérer des coffee-shops ont été invités ce
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
-<!-- / HTML -->
+
 ## LE DOSSIER DU JOUR : Drogues douces
 
 "**Il faut autoriser la culture sous contrôle du cannabis**", a écrit le **NRC Handelsblad** (pp.1 et 3) de samedi. "**Eindhoven a proposé de commencer une expérience. C'est ce qui ressort du «sommet du cannabis» à Almere vendredi, auquel ont participé 33 maires.**"
@@ -59,15 +59,15 @@ Les bourgmestres des villes devant gérer des coffee-shops ont été invités ce
 "**Les partis gouvernementaux CDA, PvdA et ChristenUnie sont divisés sur la question**", rappelle le journal de centre gauche. "Le CDA et la ChristenUnie s'en tiennent au passage de l'accord de gouvernement qui dit qu'on n'appliquera pas de changement fondamental de la politique des drogues douces durant la législature actuelle. Durant la formation du gouvernement Balkenende IV on est convenu explicitement de ne pas faire de nouvelles expériences. «Il ne saurait en être question», déclare le député Ed Anker, de la ChristenUnie. «Il n'appartient pas aux autorités de produire des drogues». Selon la ChristenUnie, il faut au contraire aller dans l'autre sens. «S'il ne tient qu'à la ChristenUnie, on réduira progressivement la politique de tolérance»."
 
 "La députée PvdA Lea Bouwmeester, elle, estime qu'on ne peut pas ignorer le signal donné par 33 maires aussi bien du CDA que d'autres partis. Elle veut un débat à la Deuxième Chambre." "La députée CDA Cisca Joldersma est déçue par le sommet du cannabis. Elle s'attendait à plus de solutions pratiques de la part des communes pour réduire la nuisance du tourisme de la drogue dans les régions frontalières."
+
 ## Commentaires
 Pour l'éditorialiste du Volkskrant, "**le plaidoyer en faveur de la culture régulée du cannabis est logique pour ceux qui veulent en décriminaliser la vente**". "**La fermeture de tous les coffee-shops freinerait le tourisme de la drogue, certes, mais ferait rentrer de nouveau les consommateurs néerlandais dans le circuit illégal.**" "Il faudra beaucoup d'adresse diplomatique pour convaincre l'étranger que régulation ne veut pas dire légalisation, mais le maire de Maastricht, Leers (CDA), qui, en tant qu'initiateur du sommet du cannabis, ne cesse de condamner la politique de l'autruche appliquée par ses collègues de parti à La Haye, affirme à juste titre que le gouvernement ne peut plus fermer les yeux sur la réalité."
 
 "**L'interdiction absolue des drogues douces n'est pas une solution au problème**", fait valoir le commentateur du Trouw. "Il va de soi qu'il n'y a pas de lien direct entre l'existence des coffee-shops et l'émergence d'un narco-Etat. Mais ce sont bel et bien des points de vente qui facilitent la criminalité. Nous l'acceptons parce que l'alternative de l'illégalité est encore moins attrayante. Nous nous retrouvons néanmoins dans une situation dans laquelle les avantages de la tolérance ne font pratiquement plus bonne mesure contre une interdiction générale. Dans ces conditions on est en droit d'attendre des maires qu'ils s'arrangent pour avoir le contrôle de la «porte de devant» (avec ou sans système de cartes) en raison des nuisances et mieux surveiller la «porte de derrière». S'ils n'y arrivent pas, une interdiction à terme de la vente de drogues douces sera inévitable."
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 La suite nous dira ce que donne l'expérience d'Eindhoven et comment se passera le débat à la deuxième chambre. On peut noter qu'un débat sur la question de la dépénalisation de la culture avait déjà eu lieu en juin 2006. A l'époque le commissaire Européen Frattini (Justice) [avait confirmé](http://www.ambafrance-nl.org/spip.php?article7406) la légalité au niveau européen de cette option.
 
 C'est finalement en 2011 qu'[une loi plus contraignante sur le canabis est sortie](/cannabis-une-loi-plus-dure-pour-les-drogues-douces).
----

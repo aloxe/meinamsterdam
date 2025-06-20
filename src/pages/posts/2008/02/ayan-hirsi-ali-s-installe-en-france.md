@@ -27,7 +27,6 @@ Il a invité pas mal de ses amis à ce faire de la pub à l'occasion ce qui a pe
 
 En gros il commence à en avoir marre de voir BHL apostropher le président en public à tout bout de chant. Serait-ce uniquement pour faire parler de lui ? Si c'est le cas, ça marche plutôt bien puique voilà quelques jours plus tard le philosophe en couverture du journal *Metro* à Amsterdam... 
 
-((/public/images/scans/bhl-et-aha-sur metro.jpg))
+![BHL et AHA dans le Metro](bhl-et-aha-sur-metro.jpg){.center}
 
 L'article ne parle pas de BHL mais d'Ayan Hirsi Ali. Après sa visite en France, Hirsi Ali a poursuivit sa tournée Européenne en recherche de fonds. Elle a été reçue à Bruxelles au Parlement Européen et elle profite de sa venue en Europe pour s'adresser à qui veut l'entendre aux Pays-Bas : *Je vous aime*.
----

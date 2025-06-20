@@ -6,11 +6,11 @@ categorie: nederlandjes
 tags: ["transports", "vélo", "économie"]
 isMarkdown: true
 thumbnail: vieux-velo-rabobank_s.jpg
-image_alt: 
+image_alt: vieux vélo Rabobank
 permalink: les-velos-gratuits/
 date: 2008-12-08
 update: 2014-04-25
-TODO: no image alt, shortened desc, image without alt
+TODO: shortened desc
 subfooters:
  - drooderfiets
  - velos
@@ -21,21 +21,21 @@ Depuis que je me suis fait voler mon vélo, je suis à la recherche d'un autre. 
 ## Les vélos de banque pour étudiants
 On a embarqué mon b'twin au mois d'octobre alors que les nouveaux étudiants étaient déjà arrivés dans la ville. Je vous ai parlé de leurs [activités de la rentrée](/la-rentree-a-amsterdam) et de leurs [fêtes d'intégration](http://www.intreeweek.nl/). Mais je ne vous ai pas parlé des vélos gratuits auxquels certains privilégiés avaient droit.
 
-<!-- HTML -->
-<table align=center><tr><td style="text-align:center; vertical-align:top;">
-<!-- / HTML -->
-[![](vieux-velo-rabobank_s.jpg)](/public/images/photos/2008-07/vieux-velo-rabobank.jpg)  
+<div class="flex justify-center">
+  <div class="m-1 text-center">
+
+![vieux vélo rabo](vieux-velo-rabobank_s.jpg)
 Ancien vélo Rabobank
-<!-- HTML -->
-</td><td style="text-align:center; vertical-align:top;">
-<!-- / HTML -->
-[![](nouveau-velo-ing_s.jpg)](/public/images/photos/2008-07/nouveau-velo-ing.jpg)  
+
+  </div>
+  <div class="m-1 text-center">
+
+![nouveau vélo ING](nouveau-velo-ing_s.jpg)
 Un nouveau vélo ING  
 (encore avec sa plaque publicitaire)
-<!-- HTML -->
-</td></tr></table>
-<!-- / HTML -->
 
+  </div>
+</div>
 
 [![rabobank fietsplan in Breda](Rabobank-Breda-fiets-studenten.png){.left}](http://blog.re/me-in-amsterdam/files/data/2008-Rabobank-Breda-fiets-studenten.png)
 Les banques aiment bien les étudiants. Généralement les étudiants poursuivent leurs études et trouvent ensuite plus facilement un boulot qui leur assure des revenus confortables. Comme les gens changent rarement de banque, il est bon de capter les clients intéressants dès qu'ils sont étudiants. La Rabobank l'a bien compris et propose depuis plusieurs années déjà, d'offrir un vélo neuf à tout étudiant ouvrant un nouveau compte dans l'une de ses agences. L'étudiant qui vient d'ouvrir son compte peut aller chercher son vélo dans un dépôt en banlieue à une unique date précise. **Le vélo Rabobank** est aux couleurs de la banque. Jadis, c'était un [omafiets](/plein-de-velos#omafiets) orange avec le logo de la banque mais depuis deux ans, les étudiants ont droit à un joli [beach-cruiser](/plein-de-velos#beach-cruiser) orange et bleu toujours avec le logo de la banque. Des vélos de bonne qualité.

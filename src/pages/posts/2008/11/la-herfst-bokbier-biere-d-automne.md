@@ -31,4 +31,3 @@ La grande période de la bockbier est tout au long du mois d'octobre. Si je ne v
 ## Encore plus
 
 Les [nouvelles bockbier de l'automne](/les-nouvelles-bieres-d-automne), deux ans plus tard, elles sont encore plus nombreuses...
----

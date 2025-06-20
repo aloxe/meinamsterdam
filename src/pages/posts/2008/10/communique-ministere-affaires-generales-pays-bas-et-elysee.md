@@ -54,17 +54,16 @@ Aux *Ministerie van Algemene Zaken* (Ministère des Affaires Générales) aussi,
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
-<!-- / HTML -->
+
 # Publié le 01-10-08 à 18:55
 [Communiqué rectificatif de la rencontre entre M. le Président de la République et M. Jan Peter BALKENENDE, Premier ministre du Royaume des Pays-Bas](http://www.elysee.fr/documents/index.php?lang=fr&mode=view&cat_id=8&press_id=1867)
 	
 
-M. Jan Peter BALKENENDE Premier ministre du Royaume des Pays-Bas, n?a pu se rendre à son entretien de ce jour à 17h30 au Palais de l?Elysée avec M. le Président de la République.
+M. Jan Peter BALKENENDE Premier ministre du Royaume des Pays-Bas, n'a pu se rendre à son entretien de ce jour à 17h30 au Palais de l'Elysée avec M. le Président de la République.
 
-Le chef de l?Etat le recevra donc, jeudi 2 octobre 2008 à 13h00 pour un déjeuner de travail qui portera sur la préparation du Conseil européen des 15 et 16 octobre prochains, et notamment sur la réponse européenne à la crise financière.
-<!-- HTML -->
+Le chef de l'Etat le recevra donc, jeudi 2 octobre 2008 à 13h00 pour un déjeuner de travail qui portera sur la préparation du Conseil européen des 15 et 16 octobre prochains, et notamment sur la réponse européenne à la crise financière.
+
 </div>
 <!-- / HTML -->
 
 Voilà le rendez-vous décalé parce que Jan Peter a eu un empèchement (d'après ce que je comprends). C'est pas très bien organisé tout ça. Je me demande pourquoi ça caffouille comme ça dans les cabinets ? On est en crise ou quoi ?
----

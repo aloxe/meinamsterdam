@@ -22,7 +22,7 @@ Le musée nous annonce aujourd'hui [son nouveau conservateur](http://stedelijkin
 
 Mais l'inspiration étrangère ne s'arrête pas là, le musée est certe connu pour ses collections de peintres Néerlandais des mouvements [de Stijl](/voctorie-boogie-woogie-decortique) ou [CoBrA](/dimanche-musee-cobra) mais il est aussi connu pour ses toiles de peintres français comme Henri Matisse ou russes comme Casimir Malevitch. L'art moderne ne connait pas de frontières.
 
-<div class="flex justify-center ...">  
+<div class="flex justify-center">
   <div class="m-1 text-center">
 
 **avant**

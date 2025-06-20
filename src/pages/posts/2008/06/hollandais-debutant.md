@@ -24,4 +24,3 @@ Pour débutant que nous étions je trouve qu'on nous a bien bourré le --mou-- c
 [![reçu à l'examen](toets-uva.png){.left}](http://blog.re/me-in-amsterdam/files/data/toets-uva.pdf)
 
 Les deux dernières semaines de mai, j'ai laché l'affaire. Avec tout le boulot que j'avais, je n'avais pas le temps de réviser ni de faire mes exercices. J'ai donc décidé de ne plus bosser, de profiter un peu du peu de soleil et de n'aller à l'examen que pour m'entrainer pour la session de ratrapage. En fait l'examen était facile. Bon, pour ce qui est du vocabulaire j'ai quand même mis la moitié des mots au hazard dans les cases mais il faut savoir compter sur la chance des fois. Résultat, **je suis reçu** avec un niveau satisfaisant (au moins 70% de réponses correctes) et j'ai maintenant le niveau officiel de débutant. Ce qui veut dire que des fois je comprends ce qu'il se passe mais pas toujours et de toutes façons je ne peux toujours pas m'exprimer.
----

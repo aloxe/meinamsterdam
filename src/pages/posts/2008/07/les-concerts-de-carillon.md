@@ -17,4 +17,3 @@ TODO: no image, no image alt
 
 
 Tous les mardis entre midi et une heure à Westerkerk
----

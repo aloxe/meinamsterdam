@@ -30,4 +30,3 @@ La toile **Victory Boogie Woogie** a été achetée en 1998 par le **musée muni
 C'est très interessant a voir mais hélas je n'arrive pas a trouver de reproduction de cette pré-toile alors pour ne pas rester quoi devant cette toile de 35 millions d'euros, je vous propose [un sujet de la NOS](http://www.nos.nl/nosjournaal/artikelen/2008/8/28/280808_boogie_woogie.html) qui vous explique tout ça.
 
 Voir aussi [la page Mondrian](http://www.gemeentemuseum.nl/index.php?id=031845) sur le site du musée municipal de La Haye (Gemeente museum Den Haag) avec quelques vu rapprochées de ce tableau.
----

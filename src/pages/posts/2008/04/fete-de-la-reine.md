@@ -10,7 +10,7 @@ image_alt: Amsterdam en Konninginnedag
 permalink: fete-de-la-reine/
 date: 2008-04-25
 update: 2012-09-11
-TODO: shortened desc, image without alt
+TODO: shortened desc,
 ---
 
 ![Amsterdam en Konninginnedag](amsterdam-kd.gif){.left}
@@ -28,8 +28,7 @@ Avec le monde qui converge vers le centre-ville, les transports sont quelque peu
 
 La circulation fluviale aussi est chamboulée, l'année dernière, un bouchon sur les canaux a gâché la fête à certains et cette année on se dit que ça ne se renouvellera pas. Le canal des brasseur est fermé et un sens de circulation est instauré sur le canal des princes. [Les explications sont ici](http://www.bba.amsterdam.nl/alle_nieuwsberichten/nieuws_pleziervaart/aangepaste) dans la langue des navigateurs.
 
-[![](kdag08_kaartzijdje.jpg){.right}](http://blog.re/me-in-amsterdam/files/data/koninginedag2008_kaartzijde.jpg) Enfin le gros de la circulation étant piétonne, les transports publics distribuent une carte avec les itinéraires piétons recommandés et surtout les lignes de tram qui restent en service. Cette carte est en ligne et vous permettra de choisir votre programme et de vous trouver dans le bon quartier.
-
+[![plan d'sterdam pour la fête de la reine](kdag08_kaartzijdje.jpg){.right}](/files/2008/koninginedag2008_kaartzijde.jpg) Enfin le gros de la circulation étant piétonne, les transports publics distribuent une carte avec les itinéraires piétons recommandés et surtout les lignes de tram qui restent en service. Cette carte est en ligne et vous permettra de choisir votre programme et de vous trouver dans le bon quartier.
 
 ## Le programme
 
@@ -43,17 +42,14 @@ L'heure de pointe est assurément dans l'après-midi. Les défilés oranges sont
 
 Le quartier extérieurs d'Amsterdam organisent aussi des fêtes, des concerts et des brocantes sur les places et dans les parcs. On peut noter [un tournoi d'echecs dans le Barsjes](http://www.hetprobleem.nl/joomla/index.php?option=com_content&task=view&id=137&Itemid=1), un festival avec de la musique latino à Oosdorp.
 
-
-
 ## Quel temps fera-t-il ?
 
 Cette question est importante pour savoir si on soit mettre un anorack orange ou un débardeur orange... A l'heure ou j'écris ces lignes, il n'en ai aucune idée mais si, comme moi vous surveillez le *koninginnedagradar* [radar de la fête de la reine](http://www.koninginnedagradar.nl/?id=18), vous en aurez une idée précise le moment venu.
 
 [![Oranje Feestartikelen](feestartikelen_7638-orange400.jpg){.center}](http://www.flickr.com/photos/13274211@N00/2454265946/)
-<!-- HTML -->
-<div align=center><i>À votre avis, c'est pour bientôt la fête de la reine ?</i></div>
-<!-- / HTML -->
----
+*À votre avis, c'est pour bientôt la fête de la reine ?*
+
+
 <!-- post notes:
 http://kunst-en-cultuur.infonu.nl/feestdagen/4099-koninginnedag-programma-amsterdam-2008.html 
 http://www.amsterdam.nl/?ActItmIdt=122749 

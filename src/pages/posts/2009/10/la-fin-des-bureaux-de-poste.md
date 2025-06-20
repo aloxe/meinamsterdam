@@ -10,7 +10,8 @@ image_alt: Fermeture du bureau de poste de Ceintuurbaan
 permalink: la-fin-des-bureaux-de-poste/
 date: 2009-10-31
 update: 2019-11-09
-TODO: image without alt
+subfooters:
+ - timbres
 ---
 
 
@@ -27,26 +28,27 @@ Les bureaux de poste (*postkantoor*)  étaient aussi un lieu pour effectuer des 
 
 Depuis la fermeture du bureau, je n'ai pas eu à retirer un coli en instance. Je ne sais donc pas ou le facteur va m'envoyer. Selon la carte sur les affiches, le nouveau bureau de poste le plus proche de cez moi est maintenant la supérette [Albert Hein](/albert-hein-et-compagnie). Cette supérette prend son nouveau rôle très au sérieux puisqu'à l'entrée du magasin, il y a maintenant deux grosses boîtes oranges pour déposer son courrier. Pour affranchir le courrier, les agents assermentés sont remplacés par des étudiants sous payés et tout le service devrait être le même; enfin, je n'ai pas envie de vérifier...
 
-<!-- HTML -->
-<table style="text-align:center; padding:5px; font-size:smaller;" align="center"><tr><td>
-<!-- / HTML -->
-![](tnt-a-albert-hein.jpg)  
-TNT Post chez Albert Hein
-<!-- HTML -->
-</td><td>
-<!-- / HTML -->
-![](tnt-chez-ako.jpg)  
-TNT Post dans une maison de la presse
-<!-- HTML -->
-</td></tr></table>
-<!-- / HTML -->
+<div class="flex justify-center ...">  
+  <div class="m-1 text-center">
+
+  ![TNT chez AH comptoir](tnt-a-albert-hein.jpg)  
+  <span class="text-xs">TNT Post<br>chez Albert Hein</span>
+  </div>
+
+  <div class="m-1 text-center">
+
+  ![TNT chez AKO devanture](tnt-chez-ako.jpg)
+  <span class="text-xs">TNT Post dans une<br>maison de la presse</span>
+  </div>
+</div>
 
 
-### Et où sont passés les emplois?
+## Et où sont passés les emplois ?
 
-Lorsque l'annonce de fermeture des milliers de bureaux poste à travers le pays, la banque ING et la société TNT ont annoncés qu'il n'y aurait pas de suppression d'emploi. Je suppose qu'il était prévu de recaser les employés déplacés dans les agences bancaires ING et les bureaux de poste restant, comptant sur les départs à la retraite pour faire de la place. C'était en 2007 et à l'époque ces entreprises étaient optimistes et tout le monde les croyaient. Depuis, [il y a eu la crise](/les-deboires-de-la-royal-bank-of-scotland). ING a des problèmes et a reçu des aides de l'état. La banque a commencé à réduire ses effectifs en commençant par les consultants. Le gouvernement vient aussi d'annoncer le relèvement de l'age de la retraite dans quelques années. Tout ceci rend de plus en plus incertaine cette promesse de 2007.
+Lorsque l'annonce de fermeture des milliers de bureaux poste à travers le pays, la banque ING et la société TNT ont annoncés qu'il n'y aurait pas de suppression d'emploi. Je suppose qu'il était prévu de recaser les employés déplacés dans les agences bancaires ING et les bureaux de poste restant, comptant sur les départs à la retraite pour faire de la place. C'était en 2007 et à l'époque ces entreprises étaient optimistes et tout le monde les croyaient. 
+
+Depuis, [il y a eu la crise](/les-deboires-de-la-royal-bank-of-scotland). ING a des problèmes et a reçu des aides de l'état. La banque a commencé à réduire ses effectifs en commençant par les consultants. Le gouvernement vient aussi d'annoncer le relèvement de l'age de la retraite dans quelques années. Tout ceci rend de plus en plus incertaine cette promesse de 2007.
 
 Si quelqu'un en sait plus sur l'avenir et les emplois de ces postiers, anciens employés des bureaux de poste qui ont fermé, il peut laisser un commentaire ci-dessous.
 
 Voir aussi : [Le nouveau nom de la poste aux Pays-Bas](/le-nouveau-nom-de-la-poste-aux-pays-bas)
----

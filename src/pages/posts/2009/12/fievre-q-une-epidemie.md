@@ -24,4 +24,3 @@ Les Pays-Bas étant le seul pays au monde avec des défenseurs des animaux au pa
 Les journaux ne vont pas aussi loin mais accusent le gouvernement d'avoir réagit trop tard. Les éditorialistes ne font biensur pas leur propre critique, si on n'a jamais entendu parler de la fièvre Q avant ça, ce n'est vraiment pas de leur faute. Certains comme le *Telegraph* en profitent pour fustiger Marianne Thieme, qui comme souvent lorsqu'un lobby essaye de se lancer en politique, n'a pas de discours politique bien au point. Le journal populiste dit carrément qu'elle a pété un plomb sur cette histoire de chèvres.
 
 L'AD par contre publie une entrevue avec la leadeuse du parti pour les animaux. Elle parle de cette histoire qui fait l'actualité mais aussi de la grippe A H1N1. Aux Pays-Bas on l'appelle grippe mexicaine (*Mexicaanse griep*) alors que le monde entier parle de grippe porcine. Mais qu'ont-ils fait les pauvres cochons?
----

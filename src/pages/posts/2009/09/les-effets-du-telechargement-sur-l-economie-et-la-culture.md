@@ -28,6 +28,7 @@ Sur la [page de présentation presse](http://tno.nl/content.cfm?context=overtno&
 L'étude porte sur le téléchargement non payant de musique, films et
 jeux. Ces industries étant différentes, il y a des comparaisons et des
 idées qui semblent intéressantes. J'aime bien par exemple le paragraphe sur la réglementation pas claire (*Regelgeving onduidelijk*). Aux Pays-Bas downloader de la musique ou des films est autorisé, partant du principe que l'internaute n'est pas à même de savoir si l'offre de téléchargement qui lui est proposée est légale ou non[^3]. Ce n'est pas le cas pour les jeux, pourquoi ce traitement différent? parce que l'industrie des jeux électronique est différente? Uploader des fichiers sans y être autorisé par les détenteurs de droits est par contre toujours interdit mais de nombreux utilisateurs de P2P ne savent pas qu'ils uploadent, ceci permettant un download plus efficace.
+
 ---
 [^1]: Loi dite «Hadopi». Très peu de création un peu d'internet et surtout beaucoup de contôle et d'interdictions.
 [^2]: Les 142 pages du rapport TNO sont [disponibles ici](http://blog.vrijschrift.org/serendipity/exit.php?url_id=156&entry_id=37).

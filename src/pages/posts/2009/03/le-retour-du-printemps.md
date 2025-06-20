@@ -31,6 +31,7 @@ Cette année, c'est sûr, au lieu d'observer les gens prendre le soleil, je vais
 * [Printemps en vrac et en retard](/printemps-en-vrac-et-en-retard)
 * [Les fleurs du printemps](/les-fleurs-du-printemps)
 * [Nettoyage de printemps](/nettoyage-de-printemps)
+
 ---
 [^1]: Véridique.
 [^2]: Il est toujours préférable d'avoir des lumières [dans la poche](/les-nouvelles-lampes-de-la-nuit) si on croise un copain dans la rue et qu'on traîne à boire des coups...

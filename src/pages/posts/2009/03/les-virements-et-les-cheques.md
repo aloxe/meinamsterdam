@@ -30,7 +30,8 @@ On note que ce service a été lancé en mars 2008, un mois avant que les banque
 
 ## Les chèques et l'Europe
 
-Et bien j'ai beau regarder [cet accord européen](http://ec.europa.eu/internal_market/payments/crossborder/index_fr.htm) sur les paiement transfrontalier en zone euro et je n'arrive pas à voir de contrainte s'agissant des chèques. Les banques françaises peuvent continuer à ne proposer leur chéquiers pour la France uniquement et les pays qui ne connaissent pas les chèques ne se sont pas vu contrains d'accepter leur encaissement sans frais. Il est trop tard pour s'en plaindre, l'accord a été signé en 2001 et les banques françaises n'ont pas su défendre leurs tradition, mais le voulaient-elles vraiment ? C'est toujours plus facile d'accuser *Bruxelles* après coup.
+Et bien j'ai beau regarder [cet accord européen](http://ec.europa.eu/internal_market/payments/crossborder/index_fr.htm) sur les paiement transfrontaliers en zone euro et je n'arrive pas à voir de contrainte s'agissant des chèques. Les banques françaises peuvent continuer à ne proposer leur chéquiers pour la France uniquement et les pays qui ne connaissent pas les chèques ne se sont pas vu contrains d'accepter leur encaissement sans frais. Il est trop tard pour s'en plaindre, l'accord a été signé en 2001 et les banques françaises n'ont pas su défendre leurs tradition, mais le voulaient-elles vraiment ? C'est toujours plus facile d'accuser *Bruxelles* après coup.
+
 ---
 [^1]: Je me souviens avoir libellé un chèque en Deutsche Mark en 1996 et ce dernier a été encaissé, dans un pays ou il fallait expliquer la valeur de ce petit bout de papier.
 <!-- post notes:

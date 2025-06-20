@@ -29,7 +29,8 @@ Pendant ce temps, le musée sans toit ballade son **bungalow en ville**. C'est l
 
 Bien que son nom se traduise par **musée communal** le *Stedelijk Museum* d'Amsterdam est bien **le musée d'art moderne des Pays bas**. Il a acquit ce statut en 1938. Ce musée a ouvert en 1895 dans un bâtiment néorenaissance construit par la ville à proximité du Rijksmuseum, le musée d'État. Sa politique d'acquisitions et sa renommée l'a vite rendu célèbre dans le monde entier. Devenu musée d'art moderne d'État en 1938, il continue de se développer. Le musée Van Gogh construit à coté du Stedelijk est créé en 1973 à partir des collections du musée. Tous les mouvements du XXe siècle sont présents dans les collections du musée, fauvisme, imprésionnisme, cubisme, expressionisme, constructivisme...  Le musée possède 29 Malevich et une collection impressionnante de production des mouvements locaux comme **De Stijl**[^2] et **[CoBrA](/dimanche-musee-cobra)** avec une salle entière peinte par Karel Appel.
 
-Le bâtiment du Stedelijk Museum a été construit de 1891 à 1895 par Adriaan Willem Weissman sur Paulus Potterstraat. Il est en train d'être rénové et agrandit. Un pavillon moderne dessiné par *Benthem Crouwel Architects* devrait voir le jour (en --2009-- --2010--) à l'arrière du bâtiment d'origine.
+Le bâtiment du Stedelijk Museum a été construit de 1891 à 1895 par Adriaan Willem Weissman sur Paulus Potterstraat. Il est en train d'être rénové et agrandit. Un pavillon moderne dessiné par *Benthem Crouwel Architects* devrait voir le jour (en ~~2009~~ ~~2010~~) à l'arrière du bâtiment d'origine.
+
 ---
 [^1]: L'[expo El HEMA](/le-design-el-hema), c'était là bas.
 [^2]: J'ai déjà parlé de [Mondriaan](/voctorie-boogie-woogie-decortique) ici.

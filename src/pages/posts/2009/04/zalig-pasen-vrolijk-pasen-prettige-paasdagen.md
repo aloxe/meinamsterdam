@@ -3,14 +3,14 @@ layout: base
 title: Zalig Pasen, Vrolijk Pasen, Prettige Paasdagen
 description: "Voilà le week-end de pâques, il fait beau entre deux averses alors j'en profite pour prendre le soleil (comme le font les autochtones). C'est ma seule excuse"
 categorie: dagelijks
-tags: []
+tags: ["coutumes", "mots"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: 48729_jc1.jpg
+image_alt: Jesus dit Vrolijk Pasen
 permalink: zalig-pasen-vrolijk-pasen-prettige-paasdagen/
 date: 2009-04-12
 update: 2017-04-15
-TODO: no image, no image alt, shortened desc
+TODO: shortened desc
 ---
 
 Voilà le week-end de pâques, il fait beau entre deux averses alors j'en profite pour prendre le soleil ([comme le font les autochtones](/revisions-sous-le-soleil)). C'est ma seule excuse pour justifier les faibles mises à jour de ce blog. Mais aujourd'hui c'est pâques un jour spécial et j'en profite donc pour vous souhaiter de joyeuses pâques de plusieurs manières.
@@ -21,20 +21,16 @@ Choisissez le votre et vous aussi souhaitez de joyeuses pâques autour de vous. 
 ## Jolies cartes
 Si vous voulez envoyer des v?ux par courrier pour pâques, sachez que c'est possible. Ce n'est pas une tradition alors vous ne trouverez pas de cartes spéciales dans les postes et les carteries mais vous pourrez en trouver dans les cafés. En effet, comme partout dans les monde, des cartes postales publicitaires sont disponibles dans les cafés Néerlandais. Pour l'ensemble du pays, c'est la société Boomerang qui occupe ce créneau. Ce, depuis 1993 à Amsterdam. Cette société diffuse aussi des cartes créatives et ces dernières sont aussi disponible en ligne sur le site [boomerang](http://www.boomerang.nl). Je vous laisse choisir votre préféré dans [la section pasen'](http://www.boomerang.nl/?collection=pasen) (**pâques**) de la galerie. Quelques exemples :
 
-![1426579983paaseiblauw.jpg](1426579983paaseiblauw.jpg){.left}
-![30462_lost.jpg](30462_lost.jpg){.left}
-<!-- HTML -->
-<div style="clear:both"></div>
-<!-- / HTML -->
-![48729_jc1.jpg](48729_jc1.jpg){.left}
-![36017_depaasballen.jpg](36017_depaasballen.jpg){.left}
+![1426579983paaseiblauw.jpg](1426579983paaseiblauw.jpg){.center}
 
-<!-- HTML -->
-<div style="clear:both"></div>
-<!-- / HTML -->
+![30462_lost.jpg](30462_lost.jpg){.center}
+
+![48729_jc1.jpg](48729_jc1.jpg){.center}
+
+![36017_depaasballen.jpg](36017_depaasballen.jpg){.center}
 
 Et vous, laquelle préférez-vous ?
----
+
 <!-- post notes:
 [((http://data.boomerang.nl/e/ell/image/keigoed-pasen/s100/keigoed-pasen-kaart.jpg))|http://www.boomerang.nl/werk/ell/keigoed-pasen/] 
 http://www.boomerang.nl/kaarten/sjowie/vrolijk-pasen3/

@@ -32,4 +32,3 @@ J'ai déjà parlé à deux reprises de l'[autovrijdag](/le-pijp-en-fete) (la jou
 
 ## Les lumières de la nuit
 à L'occasion de la journée sans voiture, la mairie a sorti une campagne d'affichage montrant comment elle était accueillante avec les vélos. Les affiches sont placardées sur la plupart des grands axes routiers de la ville. L'autre matin, dans le cadre de cette campagne, des jeunes distribuaient des cadeaux de la mairie pour cyclistes : des lumières pour les vélos. Voilà le grand sujet récurent de la fin de l'été. Avec les jours qui raccourcissent, [il ne faut pas oublier ses lumières](/lumieres-hiver). Celles offertes par la mairie sont [très pratiques](/les-lampes-velo-hema).
----

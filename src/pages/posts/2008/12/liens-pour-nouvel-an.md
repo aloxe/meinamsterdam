@@ -11,6 +11,8 @@ permalink: liens-pour-nouvel-an/
 date: 2008-12-29
 update: 2015-12-31
 TODO: no image, no image alt
+subfooters:
+ - nouvelan
 ---
 
 
@@ -24,19 +26,3 @@ Enfin, le soir du [réveillon de la saint Sylvestre, c'est l'explosion](/les-bru
 ## Nouveau mot: Gelukkig
 
 Avec tout ça, vous allez pouvoir préparer votre réveillon de la saint Sylvestre. Ici, la saint Sylvestre se dit *oudejaardag* (**jour de l'ancienne année**) et le jour de l'an se dit logiquement *nieuwjaardag* (**jour de la nouvelle année**). La fête du réveillon s'appelle donc *oude en nieuw* que jeunes et vieux traduiront aisément en **Vieux et Nouveau**. Quand les douze coups de minuit résoneront, si le bruit des pétards vous le permet, vous pourrez souhaiter *Gelukkig Nieuw Jaar* à votre entourage. Vous l'aurez compris, *Gelukkig* signifie **Heureux**. **Heureuse nouvelle année** donc.
-
-<!-- HTML -->
-<div class="footnotes">
-et donc pour résumer et être complet :
-<h4>Quelques liens du nouvel an :</h4></div>
-<!-- / HTML -->
-[Gueule de bois ?](/gueule-de-bois)  
-[Préparatifs pétaradant](/preparatifs-petaradants)  
-[Nouveau mot : Gelukkig](/liens-pour-nouvel-an)  
-[Nouveau mot : Vuurwerk](/nouveau-mot-vuurwerk)  
-[Il y a eu des dégats](/il-y-a-eu-des-degats)  
-[La fin des sapins](/la-fin-des-sapins)  
-[Un plongeon pour le nouvel an](/un-plongeon-le-nouvel-an)  
-[Ceux nouvelles années](/deux-nouvelles-annees)  
-[Pour les vœux, c'est fini](/pour-les-voeux-c-est-fini)  
----

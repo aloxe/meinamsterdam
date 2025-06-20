@@ -17,33 +17,33 @@ TODO: no image alt, shortened desc, image without alt
 
 L'école d'Amsterdam s'inspire des grands courants architecturaux de l'époque comme l'art nouveau, la nouvelle architecture du Bauhaus et l'expressionisme. Mais les architectes néerlandais vont développer un styple propre ou les courbes épousent plus les lignes. L'utilisation de la brique (matériau de construction de base aux Pays-Bas) et de la pierre en font aussi une spécificité Néerlandaise de cette nouvealle forme moderne d'architecture.
 
-On pense souvent que** Hendrik Petrus Berlage** est le père de ce mouvement avec son fameux bâtiment de la bourse d'Amsterdam (Beurs van Barlage), construit entre 1898 et 1903. Il est vrai que ce bâtiment est moderne et révolutionnaire pour l'époque mais reprenant la forme d'une église il pourrait tout aussi bien préfigurer le traditionalisme et l'école de Delft, autre courant architectural néerlandais du XXe siècle. Berlage est malgré tout associé à l'école d'Amsterdam parce qu'il a été l'architecte de bâtiment typiques de ce mouvement (comme la Jachthuis Sint-Hubertus du [Hooge Veluwe](/paasdagen-in-amsterdam)) et qu'il a été l'architecte urbaniste du sud d'Amsterdam, quartier ou je vis et ou la plupart des bâtiments sont de cette école.
+On pense souvent que **Hendrik Petrus Berlage** est le père de ce mouvement avec son fameux bâtiment de la bourse d'Amsterdam (Beurs van Barlage), construit entre 1898 et 1903. Il est vrai que ce bâtiment est moderne et révolutionnaire pour l'époque mais reprenant la forme d'une église il pourrait tout aussi bien préfigurer le traditionalisme et l'école de Delft, autre courant architectural néerlandais du XXe siècle. Berlage est malgré tout associé à l'école d'Amsterdam parce qu'il a été l'architecte de bâtiment typiques de ce mouvement (comme la Jachthuis Sint-Hubertus du [Hooge Veluwe](/paasdagen-in-amsterdam)) et qu'il a été l'architecte urbaniste du sud d'Amsterdam, quartier ou je vis et ou la plupart des bâtiments sont de cette école.
 
 Mon quartier est un bon point de départ pour découvrir des bâtiments typiques de l'école d'Amsterdam. Le Berlage Lyceum (encore Berlage) est juste à coté d'un chouette complexe d'habitations sociales De Dageraad, Burg.
 
 
 <!-- HTML -->
 <table align=center cellpadding=3><tr><td align=center style="padding:0; margin:0;">
-<!-- / HTML -->
-[![](amsterdamse-school-pijp-.jpg)](http://www.flickr.com/photos/13274211@N00/2926982681/)  
+
+[![immeuble d'angle tout en courbes](amsterdamse-school-pijp-.jpg)](http://www.flickr.com/photos/13274211@N00/2926982681/)  
 De Dageraad (Michel de Klerk et Piet Kramer)
-<!-- HTML -->
+
 </td><td align=center>
-<!-- / HTML -->
-[![](amsterdamse-school-pijp-brug-.jpg)](http://www.flickr.com/photos/13274211@N00/470975732/)  
+
+[![Pile de pont sculptée](amsterdamse-school-pijp-brug-.jpg)](http://www.flickr.com/photos/13274211@N00/470975732/)  
 Pile de pont dans le Pijp (Hildo Krop)
-<!-- HTML -->
+
 </td></tr>
 <tr><td align=center>
-<!-- / HTML -->
-[![](amsterdamse-school-pijp-brug.jpg)](http://www.flickr.com/photos/13274211@N00/470975726/)  
+
+[![Pile de pont sculptée](amsterdamse-school-pijp-brug.jpg)](http://www.flickr.com/photos/13274211@N00/470975726/)  
 Pile de pont dans le Pijp (Hildo Krop)
-<!-- HTML -->
+
 </td><td align=center>
-<!-- / HTML -->
-[![](amsterdamse-school-pijp.jpg)](http://www.flickr.com/photos/13274211@N00/2916456214/)  
+
+[![fenêtre sculptée](amsterdamse-school-pijp.jpg)](http://www.flickr.com/photos/13274211@N00/2916456214/)  
 Fenêtre du Dageraad (Michel de Klerk et Piet Kramer)
-<!-- HTML -->
+
 </td></tr>
 </table>
 <!-- / HTML -->
@@ -60,7 +60,7 @@ En dehors du Pijp, les quartiers les plus marqués par l'école d'Amsterdam sont
 ## Pour aller plus loin:
 
 - [Margaret Staal-Kropholler, l'architecte que j'avais oublié dans cet article](/Margaret-Kropholler-Holendrechtstraat)
----
+
 <!-- post notes:
 http://www.flickr.com/groups/amsterdamseschool/pool/
 --->

@@ -38,7 +38,7 @@ Lire aussi [Le Thalys à moins grande vitesse](/le-thalys-a-moins-grande-vitesse
 
 ## Je suis sur AT5
 Moi aussi je suis célèbre, [je suis sur le site de la chaine de télé locale AT5](http://www.at5.nl/artikelen/8097/ook-keerzijde-aan-groeiend-toerisme). Apparemment c'est un accident, je suis crédité d'une photo qui n'est pas affichée sur la page. [Mes photos sur flickr](http://www.flickr.com/photos/13274211@N00/) sont en [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/deed.fr). Tout le monde peut les utiliser à condition de me créditer, il n'y a donc rien de surprenant à ce que [certaines](/les-velos-en-couleur-2) soit reprises avec mon nom. Ce qui est plus surprenant c'est quand aucune photo n'est reprise et qu'il y a quand même mon nom. Bref, je suis maintenant une star locale non ?
----
+
 <!-- post notes:
 http://www.flickr.com/photos/pietschreuders/3256979673/sizes/l/
 http://www.hilton.com/en/hi/hotels/specials_detail_popup.jhtml?ctyhocn=AMSHITW&promoId=134750001&cid=OM,HI,HIgivepeaceachance,BannerHHP 

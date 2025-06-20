@@ -23,12 +23,13 @@ Seulement en partant de la maison, je suis tombé sur un défilé peu ordinaire 
 
 ((/public/images/photos/2009-03/are krishna-char.jpg|Le char Hare Krishna|C))
 
-Voici le char dont les hauts parleurs chantaient le mantra de Haré Krishna, repris en c?ur par les manifestants qui défilaient à l'avant. Il y avait des indiens et des européens. Je ne sais pas du tout comment les religions indiennes sont représentés à Amsterdam mais je sais qu'il y avait quelques salles de réunion Haré Krishna dans mon quartier[^1]. C'est au moins ça.
+Voici le char dont les hauts parleurs chantaient le mantra de Haré Krishna, repris en cœur par les manifestants qui défilaient à l'avant. Il y avait des indiens et des européens. Je ne sais pas du tout comment les religions indiennes sont représentés à Amsterdam mais je sais qu'il y avait quelques salles de réunion Haré Krishna dans mon quartier[^1]. C'est au moins ça.
 
 ![un tricycle qui n'est pas un vélo hollandais](are-krishna-velo.jpg){.center}
 
 ![des danseuses](are-krishna-danse.jpg){.center}
 
 ![les enfants maquillés](are-krishna-enfants.jpg){.center}
+
 ---
-[^1]: avec des ?, sweet ? dessinés sur la porte.
+[^1]: avec des ॐ, sweet ॐ dessinés sur la porte.

@@ -12,4 +12,3 @@ La campagne de vaccination contre la grippe A (H1N1) ou <em>mexicanse griep</em>
 <br /><br />
 C'est quand meme une campagne bien orchestrée avec beaucoup de services publics impliqués; Pompiers, police, services médicaux et transports publics sont les plus impliqués dans le dispositif.
 </p>
----

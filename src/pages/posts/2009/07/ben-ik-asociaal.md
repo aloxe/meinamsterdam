@@ -30,4 +30,3 @@ http://1.bp.blogspot.com/_Z5ycN9KCiEs/SmCAERblhVI/AAAAAAAAAVc/LOoVQEWHqeI/s1600-
 http://www.blommestijn.com/
 
 http://www.parool.nl/parool/nl/4/AMSTERDAM/article/detail/257275/2009/08/06/Cohen-eist-ander-logo-actiegroep.dhtml
----

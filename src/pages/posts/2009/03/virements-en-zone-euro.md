@@ -26,6 +26,7 @@ Les banques utilisent toutes sortes d'excuses comme des problèmes de sécurité
 À la suite  du règlement de 2003 que les banques françaises ne respectent pas, un nouveau règlement vient de voir le jour, applicable depuis janvier 2008. Ce règlement prévoit la mise en place du **virement SEPA** (*Single Euro Payments Area* - espace unique de paiements en euros)[^4]. Les virements en zone euro doivent être aussi simples à l'intérieur des frontières d'un pays que dans le reste de la zone euro et ne doivent pas coûter plus de 4 euros. 
 
 Toutes les grandes banques des Pays-Bas proposent les virements illimités (sous réserve de provision) et gratuits. Les virements intérieurs nécessitent d'indiquer le numéro de compte du destinataire alors que pour les virements transfrontaliers c'est un numéro IBAN et un BIC qui sont demandés. En zone euro, c'est la seule différence, les virement sont eux aussi gratuits. Les banques françaises ont des progrès à faire pour s'aligner sur ces tarifs.
+
 ---
 [^1]: voir aussi [Un Règlement européen aligne le coût des virements transfrontaliers en euro sur le prix des virements nationaux](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/03/901&format=HTML&aged=1&language=FR&guiLanguage=en).
 [^2]: Si vous connaissez les autres pratiques de banques françaises, juste laissez un commentaire.

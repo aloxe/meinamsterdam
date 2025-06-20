@@ -24,7 +24,7 @@ La ville de New York se souvient de ce passé. Cette année elle fête ses 400 a
 Plusieurs sites web se sont montés pour l'occasion, [ny400.org](http://www.ny400.org/) est le site officiel, en anglais avec tout le détail des festivités. Le site [ny400.nl](http://www.ny400.nl/) reprend le même thème mais explique tout ça aux néerlandophones en mettant en avant la tripotée de sponsors néerlandais, partenaires affichés de l'évènement. Il y a aussi le site [Henry Hudson 400](http://www.henryhudson400.com/home.php) qui apporte la justification de cet anniversaire alors que les premiers colons sont arrivés à Manathan des années plus tard. Enfin, Le site [5 Dutch Days 5 Boroughs](http://www.5dutchdaysnyc.org/home.html) présente les journées annuelles de la culture Néerlandaise dans la grosse pomme.
 
 Je ne peux pas m'empêcher de présenter aussi le site sur [les origines de New York](http://users.skynet.be/newyorkfoundation/FR.html) qui raconte que **de nombreux francophones sont aussi impliqué dans la fondation et l'histoire de la plus peuplée des villes anglophones**.
----
+
 <!-- post notes:
 http://www.exploreny400.com/Home.aspx
 --->

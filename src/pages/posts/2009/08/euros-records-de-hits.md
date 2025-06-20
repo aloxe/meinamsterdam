@@ -22,4 +22,3 @@ En juillet, j'ai totalisé 3 hits. dont [un en Allemagne](http://fr.eurobilltrac
 C'est dingue hein?
 
 P.S. si vous pensez qu'enregistrer des billets c'est bizarre, que penser de ceux qui [collectionnent les pièces](/2006-nouveau-millesime) ?
----

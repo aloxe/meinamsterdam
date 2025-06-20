@@ -29,6 +29,7 @@ De mon coté, je suis parti 10 jours en vacances ce qui explique le silence sur 
 
 ## Départs à répétition
 Dans cette ville internationale d'Amsterdam, les expats vont et viennent et juin est la saison des départs. La majorité de mes connaissances étant expatriée comme moi[^1], il se passe des semaines ou toutes les soirées ou l'on est convié, sont des pots de départ. Ce fut le cas la semaine dernière. C'est un peu triste mais on sait qu'en septembre ce sera la période des pots de bienvenue. Encore des apéros (*borel*) en perspective.
+
 ---
 [^1]: Je devrais vous faire un billet vous expliquant pourquoi les expatriés et les néerlandais se mélangent guère.
 <!-- post notes:

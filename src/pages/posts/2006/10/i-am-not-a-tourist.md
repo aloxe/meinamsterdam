@@ -1,7 +1,7 @@
 ---
 layout: base
 title: I am not a tourist
-description: "Après Linux-World, voici un salon d'un tout autre genre dont le nom reprend le cri du c?ur de la majorité des visiteurs. Je suis dans un pays étranger, j'ess"
+description: "Après Linux-World, voici un salon d'un tout autre genre dont le nom reprend le cri du cœur de la majorité des visiteurs. Je suis dans un pays étranger, j'ess"
 categorie: dagelijks
 tags: ["Amsterdam", "salon"]
 isMarkdown: true
@@ -13,7 +13,7 @@ update: 2016-02-26
 TODO: shortened desc
 ---
 
-Après [Linux-World](/linux-world-utrecht), voici un salon d'un tout autre genre dont le nom reprend le cri du c?ur de la majorité des visiteurs. Je suis dans un pays étranger, j'essaye de comprendre la langue et les coutumes mais [je ne suis pas un touriste](http://www.expatica.com/notatourist/)!
+Après [Linux-World](/linux-world-utrecht), voici un salon d'un tout autre genre dont le nom reprend le cri du cœur de la majorité des visiteurs. Je suis dans un pays étranger, j'essaye de comprendre la langue et les coutumes mais [je ne suis pas un touriste](http://www.expatica.com/notatourist/)!
 
 ![Beurs van Berlage](beurs-van-berlage.jpg){.right}
 ## Un lieu unique

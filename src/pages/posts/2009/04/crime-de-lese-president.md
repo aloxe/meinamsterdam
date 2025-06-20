@@ -27,7 +27,7 @@ En France, il n'y a pas de crime de lèse majesté depuis qu'il n'y a plus de *m
 
 ## Ajout du 21 avril 2009 : 
 Une nouvelle recueillie [sur le site de orange.fr](http://actu.orange.fr/articles/insolite/Sarkozy-et-Berlusconi-en-boa-de-plumes-sur-des-affiches-pour-la-Fete-de-la-reine-a-Amsterdam.html) indique que selon lAFP: ''«Nous n'avons pas de réaction», a indiqué l'ambassade de France aux Pays-Bas, interrogée par l'AFP. L'ambassade des Etats-Unis n'était pas joignable.'' Je ne sais plus qui croire. Est ce que la presse Néerlandaise a envie de se foutre de la gueule des français ou bien est ce que les services de l'Ambassade de France sont capable de lancer deux messages différents à deux jours d'intervalle ?
----
+
 <!-- post notes:
 [[http://gespot.at5.nl/2009/04/20/zin-in-een-feestje/]]
 --->

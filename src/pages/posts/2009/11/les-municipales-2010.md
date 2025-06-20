@@ -33,6 +33,7 @@ Si le PVV n'aura pas de candidat à Venlo, le nouveau parti musulman des Pays-Ba
 
 ## Les autres?
 Les partis traditionnels sont biensur présent à Venlo. Aux dernières élections municipales de 2006, le parti travailliste (PvdA) avait fait un carton dans tout le pays et fortement réduit le score du parti démocrate chrétien (CDA) qui dirige la ville depuis des décennies. Les PvdA est aujourd'hui au plus bas dans les sondages et son électorat se tourne maintenant vers les verts de gauche (Groenelinks), les démocrates du D66, les socialistes du SP et même le PVV. À part le PVV qui ne présente pas de candidats pour les municipales, les autres partis ne sont pas très forts à Venlo. Le scrutin est donc plus que jamais ouvert. Résultats dans quelques jours...
+
 ---
 [^1]: Tegelen et Belfeld. Venlo n'est pas la seule ville à ne pas tenir ses élections municipales le 3 mars prochain.
 [^2]: Il reprend un champ laissé libre par Ayan Hirsi Ali depuis sont départ.

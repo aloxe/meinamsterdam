@@ -5,12 +5,12 @@ description: "Comme promis dans mon précédent article sur les moulins d'Amster
 categorie: toering
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: carte-des-moulins-amsterdam.png
+image_alt: carte des moulins d'Amsterdam
 permalink: la-carte-des-moulins-d-amsterdam/
 date: 2009-02-26
 update: 2014-08-13
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt, shortened desc, refaire carte
 ---
 
 Comme promis dans [mon précédent article sur les moulins d'Amsterdam](/les-moulins-d-amsterdam), voici la **carte des moulins d'Amsterdam**, cliquez sur les petites images de moulins pour avoir le détail.
@@ -24,4 +24,3 @@ Comme promis dans [mon précédent article sur les moulins d'Amsterdam](/les-mou
 Et comme toujours, je vous invite à corriger et enrichir les [notices Wikipedia](https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Moulin_%C3%A0_vent_aux_Pays-Bas).
 
 Pour vous donner une idée de l'échelle, je vous invite à relire mon article comparant [le Ring d'Amsterdam et le Périphérique de Paris](/peripherique-amsterdam).
----

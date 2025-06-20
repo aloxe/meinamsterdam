@@ -53,4 +53,3 @@ Comme pour les documents *infalsifiables* ce *stempas* reprend quelques élémen
 Il est aussi possible de voter par procuration (*volmachtbewijs*). La section *volmachtbewijs* au dos de la carte permet à l'électeur de donner tous les renseignements pour pouvoir donner procuration à un autre électeur. Il suffit pour cela de renseigner les nom et adresse du tiers votant, de le faire signer et de signer soi même. La carte doit ensuite être apportée par le tiers votant au bureau de vote qui effectuera les vérifications.
 
 Pour ceux qui veulent en savoir plus, une petite phrase en bas de la carte propose de visiter [uheefthetvoorhetzeggen.nl](http://uheefthetvoorhetzeggen.nl/), qu'on pourrait traduire par ''ça sert à s'exprimer''.
----

@@ -33,7 +33,7 @@ Ou payer pour faire l'amour
 
 Mais quand le jour se termine  
 Et que c'est l'heure de manger  
-Mon c?ur se soulève comme un vélo dans le canal  
+Mon cœur se soulève comme un vélo dans le canal  
 Je dois retourner au supermarché  
 qui me donne envie de me suicider  
 

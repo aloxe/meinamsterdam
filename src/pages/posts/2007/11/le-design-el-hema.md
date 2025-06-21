@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Le design, c'est El HEMA"
-description: Je vous ai déjà parlé des magasins HEMA. Pratique, design et bon marché, les magasins HEMA sont les fournisseurs officiels de mes lampes à vélo. Tous les 
 categorie: toering
 tags: ["art", "sociétés"]
 isMarkdown: true
@@ -10,10 +9,11 @@ image_alt: vitrine de El Hema
 permalink: le-design-el-hema/
 date: 2007-11-02
 update: 2012-09-11
-TODO: shortened desc
 ---
 
 Je vous ai [déjà parlé des magasins HEMA](/le-design-c-est-hema). Pratique, design et bon marché, les magasins HEMA sont les fournisseurs officiels de mes lampes à vélo. Tous les ans HEMA regroupe des designers pour un concours mais cette année, la marque a été doublée par un autre concours de design.
+
+<!--excerpt-->
 
 ### Mediamatic
 [Mediamatic](http://www.mediamatic.net/) est un lieu de création très interessant situé au pied de l'emplacement provisoire du musée d'art moderne de la ville **[Stedelijk Museum Post CS](http://www.stedelijk.nl/)**. De nombreuses installations et conférences sur le design et les nouveaux médias y prennent place.
@@ -30,10 +30,10 @@ HEMA et le design sont très liés on le sait. Les designers de Mediamatic ont d
 
 <!-- HTML -->
 <div style="text-align:right; padding-right:30px;">signé : <span style="font-size:14px;">
-<a href="http://xn--igb6a8bd4a.guillard.fr/">?????</a>
+<a href="http://xn--igb6a8bd4a.guillard.fr/">أليكس</a>
 </span></div>
 <!-- / HTML -->
----
+
 <!-- post notes:
 http://theplacedesign.wordpress.com/2007/08/19/el-hema/ 
 http://www.ad.nl/cultuurenshow/article1606723.ece 

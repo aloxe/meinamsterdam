@@ -29,4 +29,3 @@ TODO: no image, no image alt
 * un toit
 * le ciel d'Amsterdam
 * l'univers
----

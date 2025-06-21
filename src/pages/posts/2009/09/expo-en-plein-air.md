@@ -11,6 +11,7 @@ date: 2009-09-29
 update: 2009-10-27
 subfooters:
  - expo
+ - cliches
 ---
 
 Cela faisait longtemps que je n'avais pas parlé d'expos en plein air, vous invitant à flâner dans Amsterdam si le temps le permet et à faire attention à des jolis trucs qu'on expose rien que pour vous dans la rue. C'est gratuit. Cette fois ci, point de photos mais deux expositions de sculptures de genres différents. Lisez plutôt:

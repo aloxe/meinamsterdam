@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Les prises électriques aux Pays-Bas
-description: "Pour les prises électriques, pas de problème ai-je dit en présentant celui des prises de téléphone. C'était sans compter sur les petits détails, petits d"
 categorie: nederlandjes
 tags: ["pratique", "énergie"]
 isMarkdown: true
@@ -10,12 +9,13 @@ image_alt: prise électrique femelle
 permalink: prises-electriques-hollande/
 date: 2007-10-16
 update: 2014-11-28
-TODO: shortened desc
 subfooters:
  - telephone
 ---
 
 Pour les prises électriques, pas de problème ai-je dit en présentant celui des [prises de téléphone](/les-prises-telephoniques). C'était sans compter sur les petits détails, petits détails peuvent devenir des gros problèmes si l'on a besoin de brancher un appareil électrique français sur une prise électrique aux Pays-Bas. Voici ce qu'il faut savoir :
+
+<!--excerpt-->
 
 ## Le courant électrique
 **Pas de problème**, le courant délivré est du 220 volts. C'est le même qu'en France.
@@ -26,6 +26,10 @@ Pour les prises plates, **pas de problème**, le voyageur occasionnel pourra bra
 ## Les prises de terre différentes
 
 Un petit dessin valant mieux qu'un grand discours, je vais vous montrer la différence entre les prises électriques des deux pays:
+
+<!--excerpt-->
+
+<div class="block md:w-[600px] m-auto">
 
 <!-- HTML -->
 <table border="0" width="410" align="center" cellpadding="3"><tr><td width="50%" valign="top" style="padding-right:50px; font-size:10px;">
@@ -56,7 +60,10 @@ Une fiche électrique compatible doit présenter un trou pour la terre français
 
 <!-- HTML -->
 </td></tr></table>
+</div>
 <!-- / HTML -->
+
+
 Certaines prises mâles françaises sont rondes et les échancrures sur les coté des prises hollandaises empêchent de les brancher. à l'inverse, les prises mâles hollandaises (et allemandes) n'ont pas toujours de trou pour la terre française et ne peuvent donc pas se brancher en France.
 
 ## Les adaptateurs

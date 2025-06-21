@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Da Internetbankieren experience selon Postbank
-description: "Je vous ai déjà dit qu'ici, ma banque, c'est la Postbank (Le seul établissement qui m'a accepté en tant que chômeur). Jusqu'à présent, le peu d'argent qu"
 categorie: nederlandjes
 tags: ["sociétés", "web"]
 isMarkdown: true
@@ -10,12 +9,13 @@ image_alt: mijn Alix Guillard Postbank page
 permalink: internetbankiren-experience/
 date: 2007-02-01
 update: 2007-12-14
-TODO: shortened desc
 ---
 
 Je vous ai déjà dit qu'ici, ma banque, [c'est la Postbank](/postbank-amsterdam) (Le seul établissement qui m'a accepté en tant que chômeur). Jusqu'à présent, le peu d'argent que j'y déposait me permettais de faire mes petites courses quotidennes mais depuis novembre dernier, mon salaire est viré sur ce compte et la gestion de ce dernier par internet serait sûrement plus pratique. J'avais même reçu une pub me signalant que l'inscription au service *Internetbankiren* était gratuite.
 
-## protection de mes données confidentielles
+<!--excerpt-->
+
+## protection de mes données personnelles
 
 J'ai donc [fait la demande](https://mijn.postbank.nl/svc/aanvragen/aanvraagframe.html) pour recevoir mes données de connexion le 20 décembre dernier. Normalement une réponse devait m'être envoyée dans les 5 jours mais comme c'était les vacances, il m'a fallut attendre l'année d'après. En fait j'ai cru que cette demande était passée à la trappe et j'ai a nouveau rempli le formulaire le 5 janvier. C'est le lendemain que j'ai reçu par courrier mes données de connexion. Quand je dis données, il n'y a que l'identifiant, le mot de passe lui, est remis en main propre en présentant un formulaire et sa carte de paiement au guichet. Ce double circuit est très sécurisant.
 
@@ -30,4 +30,3 @@ Cette fois ci, c'est la bonne, le 24 janvier, je reçois un troisième courrier 
 ![mijn Alix Guillard Postbank page](postbank-welkom-arj-guillard.png){.center}
 
 Je peux maintenant enfin faire des virement en ligne et savoir où j'en suis au jour le jour avec mes sous. Le site à l'air bien foutu avec quelques bonnes idées et une langue imbitable mais je vous parlerais de ça une autre fois.
----

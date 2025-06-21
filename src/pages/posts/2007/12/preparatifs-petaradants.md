@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Préparatifs pétaradants
-description: "[|/public/images/photos/2007-11/petards-in-witbaard-feestartikelen500.jpg]  Cette année, le jour de l'an tombe un premier janvier comme tous les ans.    Le nou"
 categorie: nederlandjes
 tags: ["coutumes"]
 isMarkdown: true
@@ -10,13 +9,15 @@ image_alt: "vitrine avec feux d'artifice"
 permalink: preparatifs-petaradants/
 date: 2007-12-28
 update: 2016-12-30
-TODO: shortened desc
+subfooters: 
+ - nouvelan
 ---
 
-[![vitrine avec feux d'artifice](petards-in-witbaard-feestartikelen240.jpg){.left}](/public/images/photos/2007-11/petards-in-witbaard-feestartikelen500.jpg)
-Cette année, **le jour de l'an** tombe un premier janvier comme tous les ans.
+[![vitrine avec feux d'artifice](petards-in-witbaard-feestartikelen240.jpg){.left}](/public/images/photos/2007-11/petards-in-witbaard-feestartikelen500.jpg) Cette année, **le jour de l'an** tombe un premier janvier comme tous les ans.
 
 Le nouvel an hollandais ressemble beaucoup au nouvel an chinois niveau bruit, Je vous en ai [déjà parlé](/les-bruits-du-nouvel-an). La principale préparation de ce qu'ils appellent **Ancien et Nouveau (*Oud & Nieuw*)**[^1] semble être l'achat de pétards, de bombes et de fusées pour en mettre plein la vue et les oreilles à l'instant même ou l'ancien laisse place au nouveau. La boutique qui vend parfois [des trucs oranges](/preparatifs-oranges) a donc transformé sa deventure pour cet évènement qui n'arrive qu'une fois l'an.
+
+<!--excerpt-->
 
 Mais attention, les feux d'artifices sont dangereux; il faut le rappeller.
 
@@ -25,20 +26,11 @@ Je vous ai exposé l'année dernière les préparatifs à base de [bouchage de b
 Pour rappeller les dangers de des pétards, une campagne virale a été lancée sur Youtube, là même ou les ados postent des [explosions de poubelles](http://www.youtube.com/watch?v=BUTCsXt8YrM) filmées avec leur mobiles.
 
 <!-- HTML -->
-<p  align="center"><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/UeOlJv6wYkw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/UeOlJv6wYkw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object><br/>
-<b>Les feux d'artifices aussi sont dangereux</b></p>
+<div class="flex flex-col items-center">
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/UeOlJv6wYkw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/UeOlJv6wYkw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object><br/>
+<b>Les feux d'artifices aussi sont dangereux</b>
+</div>
 <!-- / HTML -->
 
-
-**Quelques liens du nouvel an :**  
-[Gueule de bois ?](/gueule-de-bois)  
-[Nouveau mot : Gelukkig](/liens-pour-nouvel-an)  
-[Nouveau mot : Vuurwerk](/nouveau-mot-vuurwerk)  
-[Il y a eu des dégats](/il-y-a-eu-des-degats)  
-[Un plongeon pour le nouvel an](/un-plongeon-le-nouvel-an)  
-[Les bruits du nouvel an](/les-bruits-du-nouvel-an)  
-[Deux nouvelles années](/deux-nouvelles-annees)  
-[Pour les vœux, c'est fini](/pour-les-voeux-c-est-fini)  
-[1er jan 2011, les Pays bas perdent 3% de leurs communes](/les-pays-bas-perdent-de-leurs-communes)  
 ---
 [^1]: L'année dernière j'ai expliqué que l'on disait *Oudejaarsavond* mais j'ai découvert récemment cette nouvelle appellation qui n'a peut-êre de nouveau que le nom

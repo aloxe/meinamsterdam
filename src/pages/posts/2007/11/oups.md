@@ -28,7 +28,7 @@ Voilà, maintenant vous savez que le son **ou** (qu'on écrit aussi **oo** en an
 **OE** (comme dans *Hoegarden*).
 
 Maintenant, vous allez pouvoir mieux lire ma [page des chapeaux (hoeden)](/hoeden) et peut-être même m'aider à traduire [les panneaux dans la rue](/panneaux-besoin-de-traduction).
----
+
 <!-- post notes:
 Poles say ups, for what it's worth :)
 --->

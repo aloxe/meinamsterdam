@@ -5,8 +5,8 @@ description:
 categorie: toering
 tags: ["Amsterdam", "architecture", "géographie", "sociétés"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: buurt_zuidas-1.jpg
+image_alt: Zuidas la nuit
 permalink: un-buurt-nomme-zuidas/
 date: 2007-02-10
 update: 2012-12-12
@@ -15,8 +15,9 @@ TODO: no image, no image alt
 
 
 
-<h2>Amsterdam's International Business Hub</h2>
-<p><a href="http://flickr.com/photos/13274211@N00/360514331/"><img src="/public/images/photos/2007-02/wtc-toren-zuidas-200.jpg" alt="Tour WTC la nuit" style="float:left; margin: 0 1em 1em 0;" /></a>
+## Amsterdam's International Business Hub
+[![Zuidas buildings la nuit](buurt_zuidas-1.jpg){.left}](http://flickr.com/photos/13274211@N00/360514331/)
+
 <strong>Zuidas</strong> est présenté comme <em>Amsterdam's International Business Hub</em> et c'est là que je travaille. Un quartier qui épouse la tangeante sud du <a href="">périphérique Amstelodamois</a> et qu'il est facile de reconnaitre par la hauteur inhabituelle des tours. <em>Zuid-as</em> signifie d'ailleurs axe-sud, il est situé dans l'arondissement du <em>Zuideramstel</em> qui signifie l'Amstel du sud. Ce nouveau quartier est un grand projet urbain de quartier d'affaires comme le peut l'être La Défense à Puteaux et Courbevoie (<em>à l'ouest de Paris</em>). Il est bien désservit par l'axe rail-autoroute qui le traverse en son centre. La station <strong>Amsterdam Zuid</strong> (<a href="/station-zuid-wtc-devient-amsterdam-zuid">Anciennement Zuid WTC</a>) nottemment est le futur terminus de <a href="">la ligne Noord-Zuid</a> ainsi que le point de passage de nombreux trains, trams et métros en direction de partout. C'est par exemple ma gare la plus proche pour aller à l'aéroport de Schiphol.</p>
 <h2>Les secteurs</h2>
 <p>Le Zuidas est découpé en plusieurs zones qui, comme à Marne-la-Vallée ont leur caractéristiques propres et leur développement indépendant des autres. En voici les plus importants&nbsp;:</p>
@@ -47,7 +48,7 @@ TODO: no image, no image alt
 <h2>Pour poursuivre la visite</h2>
 <p>La mairie a mis en place <a href="http://www.zuidas.nl/">un site d'information</a> proposant même une version anglaise. Le secteur Maher4 a aussi <a href="http://www.mahler4.nl/">son site web</a> dont le principal but est d'aider à la ventes des bureaux en construction. Il offre néamoins de nombreuses informations sur les phases de construction et l'aspect futur du quartier. Le secteur de la tête Zuidas aussi a <a href="http://www.kopzuidas.nl">son site web</a> informatif qui montre que le quartier aura ici une autre typologie. Le projet de quartier Vivaldi est visible sur <a href="http://www.ciiid.nl/project.asp?cat=3&amp;prj=778-VIVALDI">le site de ses architectes</a>. Quelques autres projections de l'avenir sont disponibles sur <a href="http://deltametropolis.nl.tripod.com/nl/id18.html">cette page perso</a> en néerlandais. Enfin, <a href="http://zuidas.webcam.nl/">une webcam</a> vous permettra peut être de me voir passer dans le quartier tous les matins si l'autofocus est avec vous.
 </p>
----
+
 <!-- post notes:
 http://www.emporis.com/en/wm/zo/?id=100221
 http://nl.wikipedia.org/wiki/Zuidas

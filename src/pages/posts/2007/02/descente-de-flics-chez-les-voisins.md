@@ -28,7 +28,7 @@ Mardi matin, la police gardait l'entrée de notre immeuble. Elle surveillait les
 [DutchNews](http://www.dutchnews.nl/news/archives/print/002447.php) conclut son article sur le sujet en rappelant qu'il y a aux Pays-Bas quelques 130 *trustkantoor* comme mes voisins du dessus. qui hébergent environ 20.000 sociétés-boîte-aux-lettres établies aux Pays-Bas pour bénéficier de la générosité fiscale de ce pays.
 
 Lire aussi [Evasion fiscale aux Pays-Bas](/Evasion-fiscale-aux-Pays-Bas) où je fais le point cinq ans après.
----
+
 <!-- post notes:
 http://www.volkskrant.nl/economie/article394804.ece/Politie_doet_inval_in_trustkantoor_FAT
 http://www.volkskrant.nl/template/ver2-0/components/thumbnail.jsp?id=77962

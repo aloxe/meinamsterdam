@@ -23,19 +23,18 @@ Pour que cette verrue architecturale prenne un peu plus de couleurs, les copropr
 
 <!-- HTML -->
 <table align=center cellpadding=3><tr><td align=center>
-<!-- / HTML -->
+
 [![Fabrice peignant sa fresque](fresque-fabrice-200.jpg){.center}](http://flickr.com/photos/13274211@N00/425364778/)
 **Fabrice devant sa mosaïque**  
 [agrandir](http://flickr.com/photos/13274211@N00/425364778/)
 <!-- HTML -->
 </td><td align=center>
-<!-- / HTML -->
+
 [![Fresque de fabrice](fresque-fabrice-img_6314carre200.jpg){.center}](http://flickr.com/photos/13274211@N00/425364784/)
 **La fresque de Fabrice**  
 [agrandir](http://flickr.com/photos/13274211@N00/425364784/)
 <!-- HTML -->
 </td></tr></table>
-<!-- / HTML -->
+
 
 Fabrice dessine toujours des personages de toutes les couleurs qui étirent leurs membres dans toutes les directions. Quand on le voit ?uvrer avec son manteau, on comprend très vite que c'est lui qui l'a peint. Il semble se fondre dans la fresque devant lui. Même s'il s'aggit ici d'une mosaïque, on reconnait son coup de pinceau...
----

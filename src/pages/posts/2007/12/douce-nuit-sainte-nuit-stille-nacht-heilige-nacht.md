@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Douce nuit, Sainte nuit / Stille nacht, Heilige nacht
-description: Ici il y a deux version de la meme chanson de Noël. La première, colone de droite, est la version protestante. La seconde, plus ancienne est la version dite c
 categorie: nederlandjes
 tags: ["musique", "religion"]
 isMarkdown: true
@@ -10,14 +9,17 @@ image_alt:
 permalink: douce-nuit-sainte-nuit-stille-nacht-heilige-nacht/
 date: 2007-12-25
 update: 2012-09-11
-TODO: no image, no image alt, shortened desc
+subfooters:
+ - noel
 ---
 
 Ici il y a deux version de la meme chanson de Noël. La première, colone de droite, est la version protestante. La seconde, plus ancienne est la version dite catholique. C'est la première traduction en hollandais de ce tube autrichien *Stille Nacht, heilige Nacht* appellé *Douce nuit* dans les pays francophones.
 
+<!--excerpt-->
+
 <!-- HTML -->
 <table cellpadding="10"><tr><td>
-<!-- / HTML -->
+
 ### Stille nacht, Heilige nacht
 
 Stille nacht, Heilige nacht,  
@@ -43,7 +45,7 @@ Amen, Gode zij d'eer.
 
 <!-- HTML -->
 </td><td>
-<!-- / HTML -->
+
 ### Stille nacht, Heilige nacht
 
 Stille nacht, heilige nacht,  
@@ -95,12 +97,6 @@ C'est à nous que Dieu l'a donné.
 Célébrons ses louanges,  
 Gloire au Verbe incarné.
 
-## et aussi
-* [La chanson de Noël de 2006](/chanson-de-noel)
-* [Mes voeux pour 2007](/meilleurs-voeux-pour-noel)
-* [Les Noël des Pays-Bas](/noel-des-pays-bas)
-* [Nouveau mot : verzuiling](/nouveau-mot-verzuiling)
----
 <!-- post notes:
 http://silentnight.web.za/translate/dutch.htm
 --->

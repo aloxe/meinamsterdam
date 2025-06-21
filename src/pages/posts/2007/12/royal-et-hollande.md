@@ -24,6 +24,7 @@ Autre indice que je peux partager avec vous est la présence de cette blonde à 
 ![Article de De Pers sur les Élections: Wat moet ik zeggen? Merde!](de-pers_070507-elections.png){.center}
 
 Le dernier indice vient d'un autre article de journal, [le Volkskrant, parlant de Women inc.](http://www.volkskrant.nl/binnenland/article483361.ece/Zusters,_ga_in_de_tegenaanval), une conférence sur le féminisme qui a eu lieu ce week-end à *Beurs van Berlage* [^2]. La princesse Máxima et Ségolène Royal étaient les invitées les plus attendues, le seconde devant intervenir le samedi. Mirjam, la hollandaise blonde des photos, a servit d'interprète. Apparement sa prestation de traduction a été très bonne parce que, d'après ce qu'on m'a dit, Ségolène Royale a été très applaudie.
+
 ---
 [^1]: voir article sur le sujet: [Encore un dimanche d'élection](/encore-un-dimanche-d-elections)
 [^2]: voir [photo de Beurs van Berlage](/i-am-not-a-tourist)

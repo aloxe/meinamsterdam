@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Paasdagen in Nederland (2)
-description: 
 categorie: nederlandjes
 tags: ["coutumes", "religion"]
 isMarkdown: true
@@ -20,9 +19,10 @@ Samedi soir je suis allé à [la vigile pascale](/bonne-fete-pascales) et j'ai a
 
 ![Paasstol](passetol-300.jpg){.left}
 
+<!--excerpt-->
+
 ## Les cloches
 En parlant de codes et de traditions, voici les traditions néerlandaises à pâques, comme en Allemagne et au Royaume-Uni, ce ne sont pas les cloches qui cachent les oeufs dans la nature mais de sont [des lapins](http://www.nieuwnieuws.nl/archives/2007/04/kinderen_kunnen_konijnen_lease.html). En fait, les cloches avaient prévu de passer mais en rentrant de Rome, elles sont passées par la France; elles ont trouvé ça si bien qu'elles se sont arrêtées là. Les autres pays, plus au nord ont donc eu recourt à des intérimaires, des lapins pour livrer les oeufs.
 
 ## La bouffe
 Autre tradition interessante pour les babines: **le Paasstol** C'est une sorte de pain (voir photo ci-contre) de pâques et comme c'est un pain de fête; il y a plein de bonnes choses dedans, des raisons secs; de la pâte d'amande, des fruits confits, des bouts d'amande... bref; c'est un véritable gâteau qu'on peut apprécier en dessert.
----

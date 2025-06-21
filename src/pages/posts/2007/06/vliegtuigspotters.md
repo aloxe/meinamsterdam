@@ -27,19 +27,19 @@ La terrasse de l'aéroport est un beau lieu de rencontre pour ces *vliegtuigspot
 
 <!-- HTML -->
 <div style="text-align:center; margin: auto; width:510px; vertical-align:top; text-align-center; font-size:small;">
-<!-- / HTML -->
+
 [![Dwee vliegtuigspotters](Vliegtuigspotters-2.jpg){.center}](http://www.flickr.com/photos/13274211@N00/561290914/)  
 Ceux là ont des jumelles des longue-vues, des appareils photos et tous les horaires des avions de la journée qu'ils annotent consciencieusement.
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 <!-- HTML -->
 <div style="text-align:center; margin: auto; width:510px; vertical-align:top; text-align-center; font-size:small;">
-<!-- / HTML -->
+
 [![Een vliegtuigspotter](vliegtuigspotter-1.jpg){.center}](http://www.flickr.com/photos/13274211@N00/561299904/)  
 Celui-ci a un poste de radio branché sur la fréquence de la tour de contrôle et un sac décoré avec des porte-clés **Remove before flight**_, le signe de reconnaissance des mordus d'aéronotique.
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 

@@ -3,7 +3,7 @@ layout: base
 title: Demain, on faites de la musique
 description: 
 categorie: dagelijks
-tags: []
+tags: ["musique"]
 isMarkdown: true
 thumbnail: feestdermuziek.jpg
 image_alt: Feest der Muziek
@@ -22,5 +22,4 @@ Pour le logo de la fête, Laurent a quand même réussi a dégoter une super gra
 
 ![Feest der Muziek](feestdermuziek.jpg){.center}
 
-**[Les photos sont visibles ici](/feest-der-muziek-photos)**
----
+### **[Les photos sont visibles ici](/feest-der-muziek-photos)**

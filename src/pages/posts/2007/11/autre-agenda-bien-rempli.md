@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Des (autres) agendas bien remplis
-description: "Dans un agenda bien rempli, je vous présentais ze agenda français des Pays-Bas mais cet agenda devient  limité quand il s'aggit de sorties non françaises. P"
 categorie: ik-ben-frans
 tags: []
 isMarkdown: true
@@ -10,10 +9,11 @@ image_alt: forum beaujolais nouveau à Amsterdam
 permalink: autre-agenda-bien-rempli/
 date: 2007-11-07
 update: 2007-11-07
-TODO: shortened desc
 ---
 
 Dans [un agenda bien rempli](/agenda-bien-rempli), je vous présentais *ze agenda français des Pays-Bas* mais cet agenda devient  limité quand il s'aggit de sorties non françaises. Pourtant, les français des Pays-Bas ne sortent pas que pour voir leurs compatriotes. Alors comment trouver des idées de sorties quand on ne parle pas la langue de Willem Godschalk van Foquenbroch ?
+
+<!--excerpt-->
 
 Il y a biensûr **le forum** et sa section **bons plans**, dont [je vous parlais l'année dernière](/le-forum-des-hollandais) à l'occasion du [beaujolais nouveau](http://www.leforum.nl/phpBB/viewtopic.php?t=11923). Les propositions sont nombreuses mais on n'y trouve pas toujours des programmes détaillés.
 
@@ -24,7 +24,7 @@ Puisque j'évoque **les blogs français d'Amsterdam**, j'en profite pour parler 
 Peut être que tous les deux se retrouveront au prochain rendez-vous du forum, la soirée du beaujolais nouveau...
 
 [![forum beaujolais nouveau à Amsterdam](Beaujolais_2007b3.gif){.center}](http://www.leforum.nl/phpBB/viewtopic.php?t=11923&postdays=0&postorder=asc&start=0)
----
+
 <!-- post notes:
 Registrant Contact:
 particulier

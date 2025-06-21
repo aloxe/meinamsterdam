@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Spring break
-description: "pause d'une semaine sur ce blog"
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -18,4 +17,3 @@ pause d'une semaine sur ce blog
 Depuis quelques temps vous devez constater un ralentissement dans l'activité de ce blog. Parfois le travail est intense et les week ends sont remplis ce qui m'empèche de poster. C'était le cas de ce mois de mai et un peu de repose me ferais le plus grand bien. Hop# vacances, à partir de ce soir je suis absent pour une semaine. Je ne reviendrais sur ce blog que bronzé et dispo. Les commentaires seront impossibles durant toute cette prériode.
 
 ***note:** les commentaires sont à nouveau autorisés.*
----

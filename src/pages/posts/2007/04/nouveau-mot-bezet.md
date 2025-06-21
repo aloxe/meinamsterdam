@@ -12,8 +12,6 @@ date: 2007-04-28
 update: 2013-01-28
 ---
 
-
-
 Dit trottoir is **BEZET** door *Alix* op Koninginnedag.
 
 ![trottoir réservé](trottoir-img_9484-450.jpg){.center}
@@ -24,4 +22,3 @@ Durant *Koninginedag* (la fête de la reine), le commerce est autorisé pour tou
 
 * voir aussi [Le guide de la fête de la reine](http://www.iamsterdam.com/visiting_exploring/culture/annual_cultural_0/queen's_day)
 * [préparatifs en orange](/preparatifs-oranges)
----

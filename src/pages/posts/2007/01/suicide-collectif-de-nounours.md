@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Suicide collectif de nounours
-description: 
 categorie: toering
 tags: ["Amsterdam", "art", "humour", "photos"]
 isMarkdown: true
@@ -13,7 +12,6 @@ update: 2007-11-12
 ---
 
 
-
 ![Suicide collectif de nounours](suicide-collectif-de-nounours-3095a200.jpg){.left}
 **Ceci n'est pas un conte de Noël**
 
@@ -23,5 +21,4 @@ C'est par une belle matinée de l'hiver 2005, je découvrais encore Amsterdam et
 
 Aujourd'hui ce suicide reste pour moi un mystère. Je pense souvent à ces peluches qui ont eu une vie si brève. J'ignore tout de leur conditions de vie, j'ignore si une enquète a été déclanchée, tout ce que je sais c'est que dans cette sinistre nuit du 25 au 26 février, elles ont toutes décidées de mettre fin à leur jours sur le même arbre, sous les mêmes fenêtres.
 
-[((/public/images/photos/2006-11/suicide-collectif de nounours-3093-carre200.jpg|Suicide collectif de nounours|C))|http://www.flickr.com/photos/13274211@N00/297395694/]
----
+[![Suicide collectif de nounours sous le ciel bleu](suicide-bleu-ciel.jpg){.center}](https://www.flickr.com/photos/13274211@N00/297395694/)

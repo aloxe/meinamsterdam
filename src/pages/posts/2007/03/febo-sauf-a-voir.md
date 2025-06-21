@@ -16,6 +16,8 @@ update: 2012-09-11
 
 Le mois écoulé, je vous ai parlé bouffe, de la [super bonne](/fin-de-la-semaine-du-gout) et de la [moins chouette](/le-lunch-du-midi). Pour compléter la série, il me faut absolument vous parler de cette chaine de fast food néerlandaise dont la nourtiture sort de machines qui me rappellent les tirettes à cent balles. Il y a donc ici des distributeurs automatiques de junk food.
 
+<!--excerpt-->
+
 ## La chaîne FEBO
 FEBO est une chaine Néerlandaise de fast-food (en Néerlandais *Snackbar*) dont la singularité est de servir ses aliments dans des distributeurs automatiques. Un comptoir reste à disposition des clients pour la vente de boissons et de frites.
 
@@ -33,4 +35,3 @@ La plupart des produits vendus sont des snacks néerlandais connus, des **croque
 **de lekkerste!** signifie **le meilleur**. Je ne peux pas vous dire si ce slogan est de la publicité mensongère ou non, je n'ai pas essayé un seul produit de chez Febo, j'ai passé l'âge des tirettes à cent balles. Ce n'est pas le cas de tout le monde, ces fast-food ne désemplissent pas.
 
 ![Le Febo à coté du Tuschinsky](febo-de-lekkerste-400.jpg){.center}
----

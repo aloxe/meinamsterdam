@@ -19,6 +19,8 @@ Je ne sais pas si vous êtes au courant mais ce dimanche c'est le premier tour d
 
 Aux Pays-Bas, [5 bureaux de votes sont ouverts](http://www.consulfrance-amsterdam.org/article.php3?id_article=491). Deux à l'ambassade à La Haye et 3 à Amsterdam répartis entre le consulat et à la maison Descartes juste à coté. La répartition est inégale et on peut dire que tous les français aux Pays-Bas voteront à Amsterdam à l'exception de ceux dont les codes postaux suivent :
 
+<!--excerpt-->
+
  2159-2164 2166-3399 
  3465-3466 3651-3653 
  4126-4128 4140-4145 4163 
@@ -30,7 +32,7 @@ Ceux qui habitent à Nimègue, Groningue où Maastricht auront quelques kilomèt
 
 ## Après le scrutin
 Certains se donnent déjà rendez-vous après le scrutin pour pour un coup et peut-être parler politique, c'est sur le forum que ça se passe: [Amsterdam](http://www.leforum.nl/phpBB/viewtopic.php?t=9029) - [La Haye](http://www.leforum.nl/phpBB/viewtopic.php?t=9006). Il y a aussi possibilité de participer au dépouillement après 18 heures. Dans les bureaux de vote à l'étranger aussi ce sont les citoyens qui sont scrutateurs et aident au dépouillement. C'est toujours un moment interessant où on ne parle pas politique (on n'ose pas) mais où on en a plein les doigts.
----
+
 <!-- post notes:
 http://www.consulfrance-amsterdam.org/IMG/pdf/public_droitdevote.pdf 
 http://www.consulfrance-amsterdam.org/IMG/pdf/public_fusion.pdf

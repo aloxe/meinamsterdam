@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Un autre néerlandais sur le tour
-description: Après vous avoir présenté la seule équipe Néerlandaise du tour, je vais vous présenter un Néerlandais, fan de vélo qui fait le tour à sa manière.
 categorie: ik-ben-frans
 tags: ["sport", "vélo"]
 isMarkdown: true
@@ -10,8 +9,8 @@ image_alt: vélo transportfiets hollandais
 permalink: un-autre-neerlandais-sur-le-tour/
 date: 2007-07-19
 update: 2014-04-25
-TODO: subfooters
-subfooter: velos
+subfooters: 
+ - velos
 ---
 
 Après vous avoir présenté la seule équipe Néerlandaise du tour, je vais vous présenter un Néerlandais, fan de vélo qui fait le tour à sa manière.
@@ -23,5 +22,3 @@ Ceux qui lisent les commentaires de mes posts ont du voir celui de Thover sur mo
 Ce mois de juiller le blog habituel de Thomas n'est pas très vivant mais ce dernier nous donne rendez-vous sur un autre blog, le [blog Orange dans le Tour](http://www.orangedansletour.com/). Orange, dernier opérateur mobile néerlandais mais premier opérateur mobile français, participe à la caravane publicitaire du tour et propose aux joueurs de téléphoner avec des téléphones orange. Orange vit ainsi le tour de l'intérieur et prends assez facilement connaissance des potins et des petites histoires qu'on ne voit pas dans les journaux télé.
 
 Thomas a bien de la chance, il bosse et il voit du (mon) pays en même temps.
-
----

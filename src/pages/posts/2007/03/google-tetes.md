@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Googleplex sur nos têtes
-description: 
 categorie: dagelijks
 tags: ["internet", "sociétés"]
 isMarkdown: true
@@ -20,6 +19,8 @@ Dans la tour où je bosse, nous avons depuis quelques temps de nouveaux voisins,
 
 Aux Pays-Bas, Google a essentiellement une activité commerciale autour de la publicité en ligne et les fameux *Adwords*. Aucun poste technique n'est à pourvoir à ce 15ème étage. Par contre il semblerait qu'ils cherchent encore des commerciaux.
 
-[![http://farm1.static.flickr.com/172/433605792_77203c1041_s.jpg](Anciens bureaux de Google)](http://flickr.com/photos/13274211@N00/433605792/)
-Voir une [photo des anciens bureaux Google à Amsterdam](http://flickr.com/photos/13274211@N00/433605792/).
----
+### Les anciens bureaux:
+
+[![Anciens bureaux de Google](433605792_googleplex.jpg){.center}](http://flickr.com/photos/13274211@N00/433605792/)
+
+

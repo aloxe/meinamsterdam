@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Notre Microsoft ne marche plus
-description: Le mois de septembre a été marqué par un nouveau rebondissement dans ce qui oppose La Commission Européenne et Microsoft. La cour de justice Européenne a l
 categorie: dagelijks
 tags: ["sociétés"]
 isMarkdown: true
@@ -10,12 +9,14 @@ image_alt:
 permalink: microsoft-ne-marche-plus/
 date: 2007-10-02
 update: 2013-10-16
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 Le mois de septembre a été marqué par un nouveau rebondissement dans ce qui oppose **La Commission Européenne** et **Microsoft**. La cour de justice Européenne a logiquement confirmé la condamnation de Microsoft pour abus de position dominante. La société imposait un logiciel de lecture video avec son système d'exploitation ce qui empéchait les utilisateurs d'installer des logiciels concurent. Réduire la concurence est une pratique illégale mais que pense-t-on de tout cela aux Pays-Bas ?
 
 On parle d'une amende record (497 millions d'euros) mais pour une société aussi grosse que Microsoft (16,47 milliards de dollars de bénéfices nets en 2006[^1]), cette somme n'est pas si énorme, pourtant il n'est pas sûr que cette dernière soit payée tellement cette société semble faire ce qu'elle veut en dépit des lois.
+
+<!--excerpt-->
 
 Sur cette affaire on a beaucoup écrit, des [choses interessantes](http://www.monde-diplomatique.fr/carnet/2007-09-17-Microsoft-condamnee) et d'autres [un peu plus brouillons](http://www.lemonde.fr/web/article/0,1-0%402-3232,36-957557%4051-628862,0.html). Mais c'est pendant que [cette affaire amuse la galerie](http://www.20minutes.fr/article/182121/High-Tech-La-condamnation-de-Microsoft-ne-sert-qu-a-amuser-la-galerie.php) que les Pays-Bas décident des choses autrement plus importantes. 
 
@@ -30,8 +31,8 @@ Plutôt que d'attaquer Microsoft parce que cette société vérouille le marché
 
 On peut noter que le gouvernement [ne ferme pas la porte à Microsoft](http://www.zdnet.nl/news.cfm?id=73078). Si le format OOXML qu'il a créé est reconnu standard ouvert, il n'est pas exclut que le gouvernement appelle à son utilisation. En tout état de cause, réduire la dépendance envers un fournisseur ne signifie pas exclure ce fournisseur, à condition que ce dernier se conforme aux regles[^3].
 
-
 [http://standblog.org/blog/post/2007/12/18/En-vrac](http://standblog.org/blog/post/2007/12/18/En-vrac)
+
 ---
 [^1]: [voir ici](http://www.clubic.com/actualite-36758-resultats-microsoft-benefice-en-baisse-de-24.html)
 [^2]: Ça y est, [Frank Heemskerk a sa notice Wikipedia en Français](http://fr.wikipedia.org/wiki/Frank_Heemskerk)

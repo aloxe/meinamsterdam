@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "C'était RIPE 55 (le meeting)"
-description: "Comme je l'avais indiqué la semaine qui vient de s'écouler fut fort chargée pour cause de RIPE meeting. Pour ceux qui ne connaissent pas la communauté RIPE "
 categorie: dagelijks
 tags: ["internet"]
 isMarkdown: true
@@ -10,12 +9,12 @@ image_alt:
 permalink: c-etait-ripe-55-meeting/
 date: 2007-10-26
 update: 2012-12-12
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
-Comme je l'avais indiqué la semaine qui vient de s'écouler fut fort chargée pour cause de RIPE meeting. Pour ceux qui ne connaissent pas la communauté RIPE regroupe tous ceux qui, en Europe, s'interessent à la gestion des [adresses IP](http://fr.wikipedia.org/wiki/Adresses_IP) et sujets techniques connexes. Cette communauté se réunit deux fois par an pour une semaine d'ateliers de conférences et de rencontres informelles. Une fois sur deux le rendez-vous est à Amsterdam et c'est traditionnelement [le Krasnapolsky](http://www.flickr.com/photos/13274211@N00/420216118/) qui héberge. Tout le reste, c'est [ma boîte](/mon-nouveau-boulot-3), assurant le secrétariat du RIPE, qui organise. Je dois dire que ça donne pas mal de boulot mais une fois que c'est fini, on est content du résultat. Ce [RIPE meeting 55](http://www.ripe.net/ripe/meetings/ripe-55/) a été le plus important de tous avec en tout 505 participants.
+Comme je l'avais indiqué la semaine qui vient de s'écouler fut fort chargée pour cause de RIPE meeting. Pour ceux qui ne connaissent pas la communauté RIPE regroupe tous ceux qui, en Europe, s'interessent à la gestion des [adresses IP](http://fr.wikipedia.org/wiki/Adresses_IP) et sujets techniques connexes. Cette communauté se réunit deux fois par an pour une semaine d'ateliers de conférences et de rencontres informelles. Une fois sur deux le rendez-vous est à Amsterdam et c'est traditionnelement [le Krasnapolsky](http://www.flickr.com/photos/13274211@N00/420216118/) qui héberge. Tout le reste, c'est [ma boîte](/mon-nouveau-boulot-3), assurant le secrétariat du RIPE, qui organise. Je dois dire que ça donne pas mal de boulot mais une fois que c'est fini, on est content du résultat. Ce [RIPE meeting 55](http://www.ripe.net/ripe/meetings/ripe-55/) a été le plus important de tous avec en tout 505 participants[^1].
 
-[^1]
+<!--excerpt-->
 
 ## Les moments forts
 Pour [les anciens collègues](http://www.afnic.re/afnic/contact/equipe) qui n'ont pas pu venir, voici un petit compte rendu des moments les plus marquants. 
@@ -30,14 +29,14 @@ On n'invite pas des ingénieurs du monde entier sans faire en sorte qu'ils quitt
 ## Le groupe de travail caché
 <!-- HTML -->
 <a href="http://bert.secret-wg.org/ReadBy.html" title="READ By Certification"> <img src="http://bert.secret-wg.org/ReadBy-small.jpg" border="0" alt="READ BY Certification" style="float:right;"></a>
-<!-- / HTML -->
+
 C'est paraît-il une tradition, [à chaque meeting](http://bert.secret-wg.org/), un groupe de travail non prévu au programme présente à la plénière de cloture le résultat de ses travaux. Les sujets sont généralement les sujets chauds du moment mais ces derniers sont abordés sous un angle plus relaché après quoi, tout le monde de repartir avec le sourire. Je me permet de vous faire partager ce moment ou l'épuisement des adresses IPv4 est abordé en chanson par le groupe de travail secret[^4] Ca s'appelle **The Day The Routers Died...** (ai-je dit que le chanteur bossait chez Cisco?).
 
 <!-- HTML -->
-<div style="align:center;">
+<div class="flex flex-col items-center">
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/_y36fG2Oba0&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_y36fG2Oba0&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 </div>
-<!-- / HTML -->
+
 Cette présentation n'est-il pas plus efficace que le *Statement on IPv4 Depletion* exposé un peu plus haut ?
 
 

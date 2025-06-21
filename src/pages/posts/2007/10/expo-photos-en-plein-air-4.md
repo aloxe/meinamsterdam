@@ -1,12 +1,11 @@
 ---
 layout: base
 title: Expo photos en plein air (4)
-description: La construction de la ligne de métro Nord-Sud (Noordzuidlijn) dure depuis des années. Les gens attendent leurs nouvelles stations et les rues sont toujours en
 categorie: toering
 tags: []
 isMarkdown: true
-thumbnail: SL800-img_3124.jpg
-image_alt: 
+thumbnail: vijzelstraat/L800-img_3139.jpg
+image_alt: carte postale de la Bourgogne
 permalink: expo-photos-en-plein-air-4/
 date: 2007-10-29
 update: 2015-04-16
@@ -22,139 +21,83 @@ Les palissades du chantier sont maintenant le support de **cartes postales géan
 
 Cette exposition en plein air a commencé au début de l'été mais comme c'était les vacances, je n'en parle qu'aux premiers frimas ce qui ne vous empêche pas d'aller la voir puisqu'elle n'a toujours pas été décrochée. Pour ceux qui habitent loin, je ne pense pas que ce soit une raison suffisante pour venir à Amsterdam. Je vous en diffuse donc quelques unes pour que vous non plus vous ne ratiez pas cette expo en plein air.
 
+<!--excerpt-->
 
-<!-- HTML -->
-<style>
-div.cartepostales {
-text-align:center;
-font-weight:bold;
-padding: 0 1em;
-margin: 0;
-float:left;
-}
-</style>
-<div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3124.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3124.jpg)  
+<div class="text-center w-[500px] m-auto">
+
+![carte postale de Callantsoog](vijzelstraat/L800-img_3124.jpg)
 Callantsoog
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3125.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3125.jpg)  
+
+![carte postale d Aalsmeer](vijzelstraat/L800-img_3125.jpg)
 **Aalsmeer**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3128.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3128.jpg)  
-**Amersfoort**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3131.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3131.jpg)  
+
+![carte postale d'Amersfoort](vijzelstraat/L800-img_3128.jpg)
+**Amersfoort**
+
+![carte postale de Viedder](vijzelstraat/L800-img_3131.jpg)
 **Viedder**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3133.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3133.jpg)  
+
+![carte postale de Vlieland](vijzelstraat/L800-img_3133.jpg)
 **Vlieland**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3139.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3139.jpg)  
+
+![carte postale de Bourgogne](vijzelstraat/L800-img_3139.jpg)
 **La Bourgogne**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3140.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3140.jpg)  
+
+![carte postale de Bar-sur-Aube](vijzelstraat/L800-img_3140.jpg)
 **Bar-sur-Aube**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3147.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3147.jpg)  
-**Ootmarsum**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3148.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3148.jpg)  
+
+![carte postale d'Ootmarsum](vijzelstraat/L800-img_3147.jpg)
+**Ootmarsum** 
+
+![carte postale de Makkum](vijzelstraat/L800-img_3148.jpg)
 **Makkum**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3149.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3149.jpg)  
-**Alkmaar**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3151.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3151.jpg)  
+
+![carte postale d'Alkmaar](vijzelstraat/L800-img_3149.jpg)
+**Alkmaar**
+
+![carte postale de Woerden](vijzelstraat/L800-img_3151.jpg)
 **Woerden**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3152.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3152.jpg)  
-**Harlingen**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3153.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3153.jpg)  
+
+![carte postale de Harlingen](vijzelstraat/L800-img_3152.jpg)
+**Harlingen** 
+
+![carte postale de Valkenburg](vijzelstraat/L800-img_3156.jpg)
 **Valkenburg**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3156.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3156.jpg)  
-**Rolde**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3157.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3157.jpg)  
-**Kerkrade**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3159.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3159.jpg)  
-**Frislân (Friesland)**  
+
+![carte postale de Rolde](vijzelstraat/L800-img_3124.jpg)
+**Rolde** 
+
+![carte postale de Kerkrade](vijzelstraat/L800-img_3157.jpg)
+**Kerkrade** 
+
+![carte postale de Frise](vijzelstraat/L800-img_3159.jpg)
+**Frislân (Friesland)** 
 (La Frise)
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3173.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3173.jpg)  
+
+![carte postale de Bois le Duc](vijzelstraat/L800-img_3173.jpg)
 **s' Hechtogebosch (Den Bosch)**  
 (Bois le Duc)
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3163.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3163.jpg)  
+
+![carte postale de Groningue](vijzelstraat/L800-img_3163.jpg)
 **Groningen**   
 (Groningue)
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3170.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3170.jpg)  
-**Sneek**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](SL800-img_3160.jpg)](/public/images/photos/2007-08/vijzelstraat/L800-img_3160.jpg)  
+
+![carte postale de Sneek](vijzelstraat/L800-img_3170.jpg)
+**Sneek** 
+
+![carte postale d'Elburg](vijzelstraat/L800-img_3160.jpg)
 **Elburg**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](Little-Holland-43.jpg)](/public/images/photos/2007-08/vijzelstraat/Holland-43.jpg)  
-**Dans nos campagnes...**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](Little-Holland-44.jpg)](/public/images/photos/2007-08/vijzelstraat/Holland-44.jpg)  
-**Veendam**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](Little-Holland-45.jpg)](/public/images/photos/2007-08/vijzelstraat/Holland-45.jpg)  
-**Ermelo**  
-<!-- HTML -->
-</div><div class="cartepostales">
-<!-- / HTML -->
-[![](Little-Holland-54.jpg)](/public/images/photos/2007-08/vijzelstraat/Holland-54.jpg)  
-**Zeist**  
-<!-- HTML -->
-</div><div style="clear:both; width:100%;"></div>
-<!-- / HTML -->
+
+![carte postale de nos campagnes](vijzelstraat/Holland-43.jpg)
+***Dans nos campagnes...*** 
+
+![carte postale de Veendam](vijzelstraat/Holland-44.jpg)
+**Veendam** 
+
+![carte postale de Ermelo](vijzelstraat/Holland-45.jpg)
+**Ermelo** 
+
+![carte postale de Zeist](vijzelstraat/Holland-54.jpg)
+**Zeist** 
+
+</div>

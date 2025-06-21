@@ -1,7 +1,7 @@
 ---
 date: 2007-04-12
 author: fr.transnationale.org
-email: 
+email: fr@transnationale.org
 site: http://fr.transnationale.org/entreprises/abn_amro.php
 tags: comment
 permalink: false
@@ -25,5 +25,6 @@ Délinquance: <b>3</b> acte(s) de délinquance financière ou commerciale
 Influence: <b>4</b> acte(s) de corruption directe ou lobbying
 </p>
 
-<a href"http://fr.transnationale.org/entreprises/abn_amro.php">voir ici</a>
----
+<p>
+<a href="http://fr.transnationale.org/entreprises/abn_amro.php">voir ici</a>
+</p>

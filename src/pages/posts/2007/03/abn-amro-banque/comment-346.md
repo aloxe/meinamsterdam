@@ -2,7 +2,7 @@
 date: 2007-08-06
 author: Alix
 email: meinamsterdam@blog.re
-site: http://blog.re/me-in-amsterdam/
+site: https://meinamsterdam.nl
 tags: comment
 permalink: false
 ---
@@ -10,4 +10,3 @@ permalink: false
 <p>
 Finalement c'est Fortis qui rachete ABN AMRO.
 </p>
----

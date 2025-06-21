@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Le dimanche autovrij zondag est sans voiture
-description: 
 categorie: dagelijks
 tags: ["Amsterdam", "sortir", "voiture"]
 isMarkdown: true
@@ -11,8 +10,6 @@ permalink: le-pijp-en-fete/
 date: 2007-09-24
 update: 2014-08-08
 ---
-
-
 
 ## Nouveau mot: autovrij zondag
 
@@ -31,4 +28,3 @@ Il y avait aussi des artistes du coin qui proposaient leurs productions et rappe
 
 ## Le festival off
 Juste à coté de la rue Albert Cuyp, la rue Gerard Doustraat était elle aussi interdite aux voitures. Ces dernières étaient remplacées par un embouteillage de tables bien garnies sur plusieurs centaines de metres. Le [restaurant turc Saray](http://www.sarayrestaurant.nl/) fêtait ses 30 ans  (*30-jarig jubileum*) dans une ambiance de quartier sans égale. La fête a continué très tard et je regrette vrai,ent de ne pas vous en montrer une seule photo. Ce sera peut-être pour les 40 ans...
----

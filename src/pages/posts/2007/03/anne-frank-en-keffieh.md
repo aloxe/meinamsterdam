@@ -19,7 +19,7 @@ update: 2017-12-15
 Je pourrais laisser cette photo sans légende...
 
 Ces portraits d'Anne Frank portant un keffieh rouge a fleuri il y a déjà quelque temps en différents lieux d'Amsterdam. [Un article](http://www.spunk.nl/article/article.php?id=1169114223981) avance que ce serait l'œuvre de [Banksy](http://www.banksy.co.uk/), un artiste de rue anglais. En fait elle est signée «**t.**» et ce street artiste mystérieux a le désavantage d'avoir un nom difficile à rechercher sur Internet…
----
+
 <!-- post notes:
 http://absoluutniet.livejournal.com/3277.html 
 http://merelroze.com/archive/2007/01/04/mooie_straatkunst_op_de_vijzel 

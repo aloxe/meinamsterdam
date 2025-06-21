@@ -1,7 +1,6 @@
 ---
 layout: base
 title: La température ressentie
-description: "Il fait froid. mais encore plus ici. Avant je ne comprennais pas pourquoi j'avais si froid alors que la météo indiquait des températures assez ordinaires. Ma"
 categorie: dagelijks
 tags: ["météo", "neige"]
 isMarkdown: true
@@ -10,7 +9,6 @@ image_alt: la météo pour Amsterdam sur TV5
 permalink: la-temperature-ressentie/
 date: 2007-12-21
 update: 2017-02-12
-TODO: shortened desc
 ---
 
 Il fait froid. mais encore plus ici. Avant je ne comprennais pas pourquoi j'avais si froid alors que la météo indiquait des températures assez ordinaires. Maintenant je sais pourquoi. Explications.
@@ -18,6 +16,8 @@ Il fait froid. mais encore plus ici. Avant je ne comprennais pas pourquoi j'avai
 Quand on regarde la météo internationnale sur le site web de TV5, l'explication est là: température **-1°c**, température ressentie **-7°c**. Ces chiffres dates d'hier, aujourd'hui on a plutôt ceci :
 
 [![la météo pour Amsterdam sur TV5](meteo-internationale-amsterdam.png){.center}](http://tv5.org/TV5Site/meteo/detail_ville.php?&id_ville=297&langue=fr)
+
+<!--excerpt-->
 
 TV5 explique ensuite ce qu'est la température ressentie. Les températures annoncées étant toujours prises sous abri, il y a parfois une grande différence entre la température relevé et celle que l'on subit réèlement.
 
@@ -36,4 +36,3 @@ A Amsterdam, ville plate, humide et éloignée de toute montagne, inutile de vou
 <!-- / HTML -->
 
 * voir aussi [La météo européenne](/meteo-europeenne).
----

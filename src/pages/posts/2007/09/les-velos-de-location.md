@@ -23,25 +23,25 @@ En plus de leur comportement, les touristes à vélo sont reconnaissables à leu
 
 <!-- HTML -->
 <table align=center cellpadding=3><tr><td align=center>
-<!-- / HTML -->
+
 ![](orange-bikes-img_8650s.jpg)  
 **Orangebike.nl**  
-<!-- HTML -->
+
 </td><td align=center>
 <!-- / HTML -->
 
 ![](dutchbikeamsterdam-img_8748s.jpg)  
 **DutchBikeAmsterdam.nl**  
-<!-- HTML -->
+
 </td></tr>
 <tr><td align=center>
-<!-- / HTML -->
+
 [![](Mac-bike-meet-Rembreandt.jpg)](http://flickr.com/photos/13274211@N00/892268153/)  
 **Mac bike**  
 [agrandir](http://flickr.com/photos/13274211@N00/892268153/)
-<!-- HTML -->
+
 </td><td align=center>
-<!-- / HTML -->
+
 [![](Yellow-bikes.jpg)](http://flickr.com/photos/13274211@N00/466333769/)  
 **Yellow bikes**  
 [agrandir](http://flickr.com/photos/13274211@N00/466333769/)

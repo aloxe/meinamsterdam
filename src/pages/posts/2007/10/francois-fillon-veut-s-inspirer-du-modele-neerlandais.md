@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "François Fillon veut s'inspirer du 'modèle' néerlandais"
-description: "C'est chouette, mon premier ministre s'intéresse au pays dans lequel je vis. Il y a eu quelques minutes consacrées à François Fillon dans le NOS journal que"
+title: "François Fillon veut s'inspirer du « modèle » néerlandais"
 categorie: ik-ben-frans
 tags: ["politique"]
 isMarkdown: true
@@ -10,15 +9,18 @@ image_alt:
 permalink: francois-fillon-veut-s-inspirer-du-modele-neerlandais/
 date: 2007-10-17
 update: 2012-09-11
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 C'est chouette, mon premier ministre s'intéresse au pays dans lequel je vis. Il y a eu quelques minutes consacrées à François Fillon dans le NOS journal que je n'ai pas vu. Heureusement, Le Monde a aussi publié la dépèche de Reuters sur le sujet.
 
 [François Fillon veut s'inspirer du "modèle" néerlandais](http://www.lemonde.fr/web/depeches/0,14-0,39-32824214@7-37,0.html) Par Sophie Louet
+
+<!--excerpt-->
+
 <!-- HTML -->
 <div style="border:1px solid black; padding:10px; margin:10px; font-size:10px; background-color:#EEEEEE;">
-<!-- / HTML -->
+
 LA HAYE (Reuters 15.10.07 18h42) - François Fillon a enrichi lundi sa feuille de route réformatrice de l'exemple des Pays-Bas, un pays qui, s'il a en commun avec la France d'avoir dit "non" au Traité constitutionnel européen, lui oppose aujourd'hui une cinglante réussite économique.
 
 Le Premier ministre s'est rendu à La Haye dans le cadre de la tournée européenne lancée en septembre par Nicolas Sarkozy - avocat de "l'interchangeabilité" - pour présenter les priorités de la future présidence française de l'UE, qui débutera en juillet 2008.
@@ -46,7 +48,7 @@ Le Premier ministre a également voulu s'inspirer de la politique de réinsertio
 Accompagné de Dominique Bussereau, secrétaire d'Etat aux Transports, il avait entamé lundi matin son voyage d'étude par une halte à Rotterdam, premier port d'Europe, afin de glaner des idées en vue d'une future réforme des ports français.
 
 Confondant dans un même élan Rotterdam et Amsterdam, François Fillon a vanté l'exemple de "Romsterdam".
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
@@ -55,15 +57,14 @@ C'est une bonne idée de faire des voyages d'étude et de regarder comme fait un
 [Voyage d'étude](http://www.lemonde.fr/web/article/0,1-0@2-3232,36-967546,0.html), par Robert Solé
 <!-- HTML -->
 <div style="border:1px solid black; padding:10px; margin:10px; font-size:10px; background-color:#EEEEEE;">
-<!-- / HTML -->
+
 François Fillon était mardi "en voyage d'étude" aux Pays-Bas. Le redressement spectaculaire de l'économie néerlandaise mérite, selon lui, qu'on y regarde de plus près. C'est vrai en particulier des ports hollandais : dans son enthousiasme, le premier ministre de la France a vanté l'exemple de "Romsterdam". Mais il n'a pas fini d'étudier.
 
 Ses hôtes, eux, connaissent trop bien le pays de Rabelais et de Voltaire. A l'occasion de cette visite, les badges officiels indiquaient "François Villon". Comment faut-il interpréter cette allusion littéraire ?
 
 Le poète français le plus célèbre du Moyen Age était un potache bagarreur, et même un sacré voyou. Plusieurs de ses poèmes paillards, pleins de sous-entendus, s'adressaient à ses compagnons de débauche. Auteur de larcins en tout genre, condamné finalement au gibet, François Villon a sauvé sa tête de justesse après avoir écrit au cachot la fameuse Ballade des pendus. Même un partisan de l'ouverture aussi résolu que Nicolas Sarkozy n'en aurait pas fait un premier ministre, fût-il un simple "collaborateur".
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
 Ici, les journaux Néerlandais ont fait part de cette visite et parlé des convergences de vues entre les deux pays. Après cela chacun est repartit dans son coin faire sa cuisine. Le gouvernement des Pays-Bas étudie la possibilité de taxer les billets d'avion. Contrairement à la France, l'argent n'irait pas à des projet de développement mais servirait à renflouer les caisses.
----

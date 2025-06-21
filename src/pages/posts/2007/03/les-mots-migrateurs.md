@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Les mots migrateurs
-description: 
 categorie: ik-ben-frans
 tags: ["mots"]
 isMarkdown: true
@@ -15,6 +14,8 @@ update: 2012-12-12
 
 
 ![Les mots migrateurs](les-mots-migrateurs.jpg){.left} Hier, en regardant la télé, j'ai remarqué un petit programme expliquant commant le mot abricot avait voyagé de l'arabe **al barquq** au français **abricot** pour être ensuite diffusé dans les pays germains où il a donné par exemple **abrikoos** en Néerlandais. 
+
+<!--excerpt-->
 
 Ce court programme faisait partie d'une série de 10 diffusés le soir sur TV5 à l'occasion de **[la semaine de la langue française](http://www.semainelf.culture.fr)**. J'ai un peu loupé cette semaine du **10 au 20 mars** mais il faut dire que je ne passe pas mon temps à regarder TV5 et que les Pays-Bas ne faisant pas partie de la francophonie, il est possible de passer au travers. C'est dommage parce que j'adore regarder voyager les abricots...
 
@@ -51,12 +52,12 @@ Ce court programme faisait partie d'une série de 10 diffusés le soir sur TV5 �
 **lingerie**,
 **maîtresse**,
 **mise-en-scène**,
-**negligé **,
-**papier-maché **,
-**paraplu **,
+**negligé**,
+**papier-maché**,
+**paraplu**,
 **pied-à-terre**,
 **pince-nez**,
-**portemonnee **,
+**portemonnee**,
 **portmanteau**,
 **première**,
 **prêt-à-porter**,
@@ -73,7 +74,8 @@ Voilà une phrase qui d'un seul coup, vient de faire progresser en Néerlandais.
 La liste ci-dessus est peut-être incomplète ; peut-être connaissez-vous d'autres mots Néerlandais qui viennent du français. Dans ce cas; je vous incite à les rajouter [sur cette liste](http://nl.wikipedia.org/wiki/Lijst_van_Franse_woorden_en_uitdrukkingen_in_de_Nederlandse_taal).
 
 Voir aussi [La semaine de la francophonie 2008](/semaine-de-la-francophonie)
----
+
+
 <!-- post notes:
 http://www.ambafrance.nl/article.php?id_article=8282 
 http://www.semainelf.culture.fr 

@@ -28,4 +28,3 @@ Voici donc le **Wilhelmus jumpstyle Remix** par DJ Patrick.
 <!-- / HTML -->
 
 Bonne fête de la Reine.
----

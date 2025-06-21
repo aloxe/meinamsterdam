@@ -28,4 +28,3 @@ Voir aussi :
 * [Entre Pays-Bas et Creuse](/entre-pays-bas-et-creuse)
 * [Kreukreuscopie](/kreukreuscopie)
 * [Quelques erreurs de transladuction](/erreurs-de-transladuction) (Dunglish)
----

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Eugène Poubelle n'était pas préfet d'Amsterdam"
-description: 
 categorie: dagelijks
 tags: ["Amsterdam", "coutumes"]
 isMarkdown: true
@@ -12,8 +11,6 @@ date: 2007-01-15
 update: 2007-12-28
 ---
 
-
-
 On attribue à [Eugène Poubelle](http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Poubelle) l'invention qui porte son nom. Cette invention très salubre s'est démocratisée dans de nombreuses villes en dehors de Paris. À Amsterdam, le ramassage des ordures se fait bien avec des camion-poubelle mais sans poubelle.
 
 ![ordures à Amsterdam](ordures-jettage-img_7724.jpg){.center}
@@ -23,4 +20,3 @@ On attribue à [Eugène Poubelle](http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Poube
 ![ramassage des ordures à Amsterdam](ordures-ramassage-img_7734.jpg){.center}
 
 Les tas d'ordures dans des sacs divers au petit matin donnent une vision un peu anarchique de la gestion des déchets mais ils faut connaitre les quelques regles de base concernant les ordures ménagères si on ne veut pas, là aussi, être verbalisé : Les ordures doivent êtres enfermées dans un sac. Elles peuvent être déposées tous les jours dans des containers enterrés ou à date fixe dans les endroits indiqués sur le sol (chez nous, le mercredi et le dimanche soir). **Le dépot d'ordures n'est pas autorisé avant le coucher du soleil**.
----

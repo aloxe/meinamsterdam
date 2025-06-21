@@ -17,6 +17,8 @@ TODO: no image, no image alt
 
 La tradition hollandaise qu'on pourrait appeler hareng primeur remonte au moyen age. La folie du *Hollandse Nieuze* suit donc une tradition lointaine et stricte que je vais essayer de décrire ici.
 
+<!--excerpt-->
+
 ## La spécialité
 
 Depuis le moyen âge, les pêcheurs Hollandais allaient loin pour rapporter du hareng de la mer du Nord. La meilleur période pour pêcher le Hareng est fin mai, début juin. A cette période, juste avant la période de reproduction, le hareng est meilleur, il est plus gras et ne contient pas d'oeufs. Le *Hollandse Nieuze* doit contenir légalement au moins 16% de matière grasse mais les amateurs exigent 25% à 26%. La méthode de conservation, inventée au 14e siècle n'a pas changée depuis. Le hareng est d'abord vidé partiellement. Les ouïes et les intestins sont retirés mais le pancréas est obligatoirement conservé. C'est lui qui va donner du goût au poisson. Ainsi préparé, le poisson va mariner dans la saumure[^1] pendant environ 5 jours. Cette marinade se fait traditionnellement dans un fût de chêne.
@@ -32,5 +34,6 @@ C'est aussi sûrement en souvenir de ces fanions que les marchands qui vendent l
 
 * [De Hollandse Nieuwe Haring (intro)](/de-hollandse-nieuwe-haring)
 * [De Hollandse Nieuwe Haring (photos)](/hollandse-nieuwe-haring-photos)
+
 ---
 [^1]: C'est le nom de la préparation salée dans laquelle on plonge les aliments que l'on veut conserver (olives, viandes, harengs...)

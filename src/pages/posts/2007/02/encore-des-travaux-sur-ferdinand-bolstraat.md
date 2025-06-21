@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Encore des travaux sur Ferdinand Bolstraat
-description: 
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -21,4 +20,3 @@ Aujourd'hui, c'est au croisement de la rue Ferdinand Bol et de la rue Albert Cuy
 ![Travaux sur Ferdinand Bolstraat avec tram 16](travaux-tram-ferdinand-bolstraat.jpg){.center}
 
 Heureusement; les travaux vont bientôt être terminés, jeudi dernier, je suis passé devant et les travailleurs avaient l'air de reboucher le trou, exactement au même endroit où d'autres travailleurs [réparait une caténaire au printemps](/le-tram-en-panne).
----

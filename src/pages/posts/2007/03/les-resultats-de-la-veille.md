@@ -10,6 +10,7 @@ image_alt: STEMBUREAU 7 maart 2007
 permalink: les-resultats-de-la-veille/
 date: 2007-03-08
 update: 2012-09-11
+TODO: external
 ---
 
 
@@ -21,6 +22,7 @@ Hier, il y avait des élections. Je n'en ai pas parlé jusqu'à présent parce q
 
 Comme toujours il est surprenant pour un français de voir une élection se dérouler en semaine. Dans ma boite peu de gens on manqué pour assurer leur devoir civique. Il faut dire que j'ai pas mal de collègues étranger et rappeller que ces élections n'interesse pas les foules. Le seul résultat que je peux vous donner pour le moment est la participation qui s'élève à 46,3 % des inscrits. Pour les résultats plus détaillés, je vous propose de surveiller [la page ad hoc de Wikipedia](http://fr.wikipedia.org/wiki/%C3%89lections_provinciales_n%C3%A9erlandaises_de_2007) qui saura évoluer avec les véritables chiffres. 
 
+<!--excerpt-->
 
 ### Résultats du football
 
@@ -169,4 +171,3 @@ alt="" width="18" height="24" longdesc="/wiki/Image:Liverpoolfc.gif"
 </tr>
 </table>
 <!-- / HTML -->
----

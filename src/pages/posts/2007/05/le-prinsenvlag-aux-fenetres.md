@@ -10,13 +10,15 @@ image_alt: drapeaux aux fenêtres
 permalink: le-prinsenvlag-aux-fenetres/
 date: 2007-05-05
 update: 2012-09-11
+TODO: center images
 ---
-
 
 
 Depuis quelques jours, le drapeau Néerlandais (*Prinsenvlag*) est fièrement arboré aux fenêtres des maisons, une tradition qu'on ne voit peu en France. 
 
 À Amsterdam, beaucoup de maisons ont des porte-drapeaux vissés au mur, ces derniers ne sont pas fixé pour rien parce que les habitants y plantent de temps en temps le drapeau national. Par ces beaux jours de printemps les couleurs du pays flottent ainsi à de nombreuses fenêtres. À la campagne, certaines maison ont même un mât dans le jardin pour hisser ces mêmes couleurs. On pourrait croire que les Néerlandais sont de grands vexillologues, que nenni, ils ne hissent que leur drapeau nationnal.
+
+<!--excerpt-->
 
 ## Histoire du drapeau
 
@@ -30,15 +32,13 @@ Je ne vais pas m'attarder là dessus, [Ninamsterdam](http://ninamsterdam.canalbl
 
 **La libération** (*Bevrijdingsdag*) arrive le lendemain **5 mai**. Les drapeaux en berne sont relevés et l'hommage aux morts laissent la place aux réjouissances d'avoir gagné la guerre. Il parrait même que c'est un jour ferié mais je ne peut pas le constater un samedi...
 
-<!-- HTML -->
+
 <table align=center><tr><td>
-<!-- / HTML -->
+
 ![drapeaux aux fenêtres](drapeaux-fenetres-3carre200.jpg){.center}
-<!-- HTML -->
+
 </td><td>
-<!-- / HTML -->
+
 ![drapeaux aux balcons](drapeau-balcon-7carre200.jpg){.center}
-<!-- HTML -->
+
 </td></tr></table>
-<!-- / HTML -->
----

@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Amsterdam, premier point d'échange du monde"
-description: 
 categorie: nederlandjes
 tags: ["internet", "sociétés"]
 isMarkdown: true
@@ -32,4 +31,3 @@ Selon [leur site](http://www.ams-ix.net/about/history.html) c'est en 2003 qu'ils
 Quelques points d'échange sont directement administrés par des opérateurs mais la plupart des points d'échanges Européens sont administrés comme AMS-IX. L'envie de partager les expériences de chaque point d'échange pour mieux gérer chaque structure est née et AMS-IX est le principal fondateur d'[Euro-IX](http://www.euro-ix.net/), un groupement européen de points d'échange Internet. Le siège d'Euro-IX est à Amstrerdam, dans les mêmes bureaux que AMS-IX.
 
 * Voir aussi le compte rendu du [RIPE Meeting 55](/c-etait-ripe-55-meeting) où AMS-IX et Euro-IX étaient présents.
----

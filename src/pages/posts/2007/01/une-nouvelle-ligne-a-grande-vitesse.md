@@ -36,13 +36,14 @@ Quand ces lignes seront ouvertes, vraisemblablement en 2008, le Thalys ne désse
 ## Le Thalys encore moins vite
 Après avoir cité tous ces slogans publicitaire, on peut faire le point sur l'avancée des travaux... Selon [la revue de presse Néerlandaise d'aujourd'hui](http://www.ambafrance.nl/article.php?id_article=8135), la ministre des Transports et Voies d?Eau, Karla Peijs, a écrit à la Deuxième Chambre hier pour signaler qu'il devrait y avoir un an et demi de retard. 
 
-> C?est surtout le système de sécurité ERTMS[^1] qui pose de nouveaux problèmes. Maintenant que le logiciel a été adapté, le système doit être testé avec un train spécial. Tant de parties sont impliquées dans ces essais (le fournisseur Siemens, le transporteur HSA, le gestionnaire du rail ProRail, l?Inspection des Transports et Voies d?Eau) que Peijs craint qu?on ne dépasse de nouveau les dates-buttoirs.
-> Par ailleurs, on ne sait toujours pas si La Haye et Breda seront desservies. Et la ministre a toujours un contentieux avec HSA sur la commande tardive des locomotives (surcoût occasionné : 50 millions d?euros).
+> C'est surtout le système de sécurité ERTMS[^1] qui pose de nouveaux problèmes. Maintenant que le logiciel a été adapté, le système doit être testé avec un train spécial. Tant de parties sont impliquées dans ces essais (le fournisseur Siemens, le transporteur HSA, le gestionnaire du rail ProRail, l'Inspection des Transports et Voies d?Eau) que Peijs craint qu?on ne dépasse de nouveau les dates-buttoirs.
+> Par ailleurs, on ne sait toujours pas si La Haye et Breda seront desservies. Et la ministre a toujours un contentieux avec HSA sur la commande tardive des locomotives (surcoût occasionné : 50 millions d'euros).
 
 Une député à commenté cette lettre en disant «*On dirait la loi de Murphy : tout va de travers*». Pas génial pour un train.
 
 * Voir aussi [Tintin conduit le Thalys](/tintin-conduit-le-thalys)
 * voir aussi aussi : [Un Thalys peut en cacher un autre](/un-thalys-peut-en-cacher-un-autre).
+
 ---
 [^1]: European Rail Traffic Management System, le système européen de surveillance du trafic ferroviaire visant à harmoniser la signalisation ferroviaire en Europe.
 <!-- post notes:

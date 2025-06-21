@@ -1,7 +1,6 @@
 ---
 layout: base
 title: La reprise du Jaren
-description: 
 categorie: dagelijks
 tags: []
 isMarkdown: true
@@ -25,4 +24,3 @@ De Jaren pourrait se traduire par **les années**. Une année se dit *jaar* et p
 Devant votre empressement, je vais vous expliquer ce que j'appelle Jaren. Un mardi sur deux, des français d'Amsterdam et des Amstelodamois francophiles se réunissent dans un café pour converser **dans la langue de l'autre** autour d'un article de journal. Un échange sympatique qui nous permet de progresser si on a suffisement de bases. Pour ma part mes bases sont limitées, je ne sais pas si je progresse beaucoup mais c'est toujours une bonne occasion pour boire une bière. Le café dans lequel nous nous réunissons, c'est justement *de jaren*, il a donné son nom à nos réunions.
 
 ![De Jaren meeting](de-jaren.jpg){.center}
----

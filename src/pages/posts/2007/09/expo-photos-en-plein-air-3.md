@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Expo photos en plein air (3)
-description: "Durant l'été, en plus des festivals, il y a aussi des expositions de photos en plein air.    [|http://www.flickr.com/photos/13274211@N00/1362290062/]"
 categorie: toering
 tags: ["art", "musée", "photos"]
 isMarkdown: true
@@ -10,7 +9,7 @@ image_alt:
 permalink: expo-photos-en-plein-air-3/
 date: 2007-09-16
 update: 2018-08-03
-TODO: no image, no image alt
+TODO: no image, no image alt, external
 subfooters:
  - expo
  - cliches
@@ -18,10 +17,10 @@ subfooters:
 
 Durant l'été, en plus des festivals, il y a aussi des expositions de photos en plein air.
 
-[![http://farm2.static.flickr.com/1303/1362290062_5059040ee0_m.jpg](Who needs art ?){.center}](http://www.flickr.com/photos/13274211@N00/1362290062/)
+<!-- [![http://farm2.static.flickr.com/1303/1362290062_5059040ee0_m.jpg](Who needs art ?){.center}](http://www.flickr.com/photos/13274211@N00/1362290062/) -->
 
 Au mois de juillet, j'ai croisé cette affiche sur **la place des musées** (*museumplein*). Cette photo marquait l'entrée d'une exposition **Who needs art ?** proposant un parcours autour du musée Van Gogh, du Rijksmuseum ey du musée Stedelijk, fermé pour travaux. Je n'ai en fait, pas eu l'occasion de voir cette expo à part cette photo, comme une provocation à l'entrée du parking de museumplein. Je ne suis d'ailleurs pas le seul à l'avoir remarquée.
-<!-- HTML -->
+
 <table align=center cellpadding=0 cellspacing=0><tr><td align=center>
 <!-- / HTML -->
 

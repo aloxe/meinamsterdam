@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Dweede kerstmis is boxing day ?
-description: "Une fois n'est pas coutume, je vais comparer les traditions hollandaises aux traditions anglaises. Je vous ai parlé l'année dernière des trois jours de Noël"
 categorie: dagelijks
 tags: ["religion"]
 isMarkdown: true
@@ -10,10 +9,13 @@ image_alt: Mon cadeau de Noël
 permalink: dweede-kerstmis-is-boxing-day/
 date: 2007-12-27
 update: 2012-09-11
-TODO: shortened desc
+subfooters:
+ - noel
 ---
 
 Une fois n'est pas coutume, je vais comparer les traditions hollandaises aux traditions anglaises. Je vous ai parlé l'année dernière des [trois jours de Noël](/noel-des-pays-bas). Contrairement à ce qu'il se passe en France, Le lendemain de Noël est ferié dans ces deux pays. Je me suis dit qu'il avait peut-être un rapport entre le *dweede kerstmis* hollandais et le *boxing day*, ferié au Royaume-Uni et dans d'autres pays anglo-saxons. Il faut d'abbord savoir ce que signifie ce boxing day que l'on célèbre outre-Manche.
+
+<!--excerpt-->
 
 ## Boxing day in the UK
 
@@ -31,7 +33,7 @@ Maintenant que ce jour est légalement férié, l'usage du cadeau aux employés 
 ![Mon cadeau de Noël](kerstpaket.jpg){.center}
 
 Chaque année à Noël il y a des échanges de cadeaux. J'ai déjà parlé des [cadeaux d'entreprise](/les-cadeaux-d-entreprise) dont la distribution est généreusement faite à la mode néerlandaise mais il y a aussi des cadeaux que les patrons offrent à leurs salariés. Je ne vous en ai pas parlé l'année dernière parce que [mon employeur d'alors](/de-mon-boulot) ne pratiquait pas ce genre de tradition. [Mon nouveau patron](/mon-nouveau-boulot-3) est plus généreux et nous a proposé de choisir notre cadeau dans un catalogue avec un budget-points donné. Comme quand j'étais enfant, je n'ai pas eu trop d'idée alors j'ai un peu pris n'importe quoi pour éviter d'avoir le colis surprise... Quelques jours avant Noël, J'étais très content de recevoir mon petit paquet à l'occasion d'un pot organisé dans l'entreprise. Apparement cette tradition plait beaucoup puisque sur [le forum des hollandais](/le-forum-des-hollandais), les gens racontent [ce qu'ils y avait dans leur kerstpakket](http://www.leforum.nl/phpBB/viewtopic.php?t=13115), quand il y en avait un...
----
+
 <!-- post notes:
 [Boxing Day in the UK|http://www.dti.gov.uk/employment/bank-public-holidays/index.html]
 --->

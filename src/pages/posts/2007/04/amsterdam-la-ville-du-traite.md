@@ -24,6 +24,7 @@ Sur le [portail de l'Union Européene](http://europa.eu/abc/treaties/index_fr.ht
 Je ne crois pas que l'Europe ait beaucoup avancé avec le traité d'Amsterdam mais comme c'est la ville thème de ce blog ça me permet de parler des traités Européens et de ce [traité de Rome](http://www.traitederome.fr/) que [tout le monde fête aujourd'hui](http://europa.eu/50/index_fr.htm). De là à passer un week end dans cette ville il n'y a qu'un pas...
 
 Pour en savoir plus, [lisez les traités](http://www.ladocumentationfrancaise.fr/catalogue/9782110051165/)
+
 ---
 [^1]: Sûrement pour y passer un week end
 [^2]: Le fameux droit de vote des étrangers dont on parlait beaucoup et qui me permetrait de m'exprimer aux prochaines élections municipales à Amsterdam.

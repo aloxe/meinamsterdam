@@ -21,9 +21,11 @@ Le programme est aussi [annoncé sur le forum des Hollandais](http://www.leforum
 
 Que vous présenter d'autre pour remplir votre agenda de français aux Pays-Bas ?
 
+<!--excerpt-->
+
 ### L'agenda du Lion Bleu
 Vous connaissez surement déjà le Lion Bleu, **Tanguy Le Breton** que je vous ai présenté le jour ou ce dernier a [gagné les élections](/resultat-des-elections) de L?Assemblée des Français de l?étranger pour la circonscription d'Amsterdam. Tanguy est avant tout connu comme le lion bleu, celui de l'agenda français aux Pays-Bas. Tous les mois la [newsletter du lion bleu](http://www.lelionbleu.nl/index.htm) nous informe sur les activités sociales et culturelles *françaises* aux Pays-Bas. On retrouve [cet agenda en ligne](http://www.lelionbleu.nl/agenda.asp) sur son site. Tanguy avait aussi envie de parler de la culture néerlandaise sur son site mais surrement par manque de temps ce projet ne s'est pas concrétisé. Il propose néamoins une mosaïque de quelques [liens utiles](http://www.lelionbleu.nl/utile.htm) pour les francophones perdus aux Pays-Bas. Je suis d'ailleurs très content de me retrouver dans la liste. Merci Tanguy.
----
+
 <!-- post notes:
 http://www.hollanddance.plant.nl/hdf744.php
 --->

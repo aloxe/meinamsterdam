@@ -30,4 +30,3 @@ Pour Tintin comme pour Thalys, Bruxelles est l'attache centrale, le point ou l'o
 * voir aussi aussi : [Un Thalys peut en cacher un autre](/un-thalys-peut-en-cacher-un-autre).
 
 * voir encore  aussi : [Des travaux qui n'en finissent encore pas](/des-travaux-qui-n-en-finissent-pas-encore).
----

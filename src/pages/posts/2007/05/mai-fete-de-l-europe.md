@@ -1,21 +1,24 @@
 ---
 layout: base
 title: "9 mai: fête de l'Europe (Europadag)"
-description: "C'est aujourd'hui la fête de l'Europe. L'Europe, c'est grâce à elle que je peux bosser et vivre à l'étranger sans avoir à faire un parcours du combattant "
 categorie: dagelijks
 tags: ["Europe"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: RTEmagicC_banniere180_150.png
+image_alt: fête de l'Europe
 permalink: mai-fete-de-l-europe/
 date: 2007-05-09
 update: 2007-05-09
-TODO: no image, no image alt, shortened desc
 ---
 
 C'est aujourd'hui la fête de l'Europe. L'Europe, c'est grâce à elle que je peux bosser et vivre à l'étranger sans avoir à faire un parcours du combattant pour avoir des papiers. Il y a peut être une raison de se réjouir et voilà qu'on me propose de le faire aujourd'hui...
 
-[![http://www.touteleurope.fr/uploads/RTEmagicC_banniere180_150_01.gif.gif](le 9 mai 2007){.left}](http://www.touteleurope.fr/index.php?id=63&cmd=FICHE&uid=1561&no_cache=1)
+![le 9 mai 2007](RTEmagicC_banniere180_150.png){.center}
+
+<!--gif don't animate ![le 9 mai 2007](RTEmagicC_banniere180_150_01.gif) -->
+<!-- Gone [![http://www.touteleurope.fr/uploads/RTEmagicC_banniere180_150_01.gif.gif](le 9 mai 2007){.left}](http://www.touteleurope.fr/index.php?id=63&cmd=FICHE&uid=1561&no_cache=1) -->
+
+<!--excerpt-->
 
 En regardant sur [le portail toute l'Europe](http://www.touteleurope.fr/fr/actualite-europeenne.html), je vois que la fête de l'Europe fait [la une de l'actualité](http://www.touteleurope.fr/index.php?&id=63&cmd=FICHE&uid=1561&cHash=d00ff42be5). Cette date du **9 mai** n'est pas anodine, c'est le jour de la présentation de la proposition de **Robert Schuman** en **1950**. Cette [déclaration de Schuman](http://www.diplomatie.gouv.fr/archives/dossiers/schuman/index.html) créant la CECA est considéré comme l'acte fondateur de l'**Union Européenne** que nous connaissons aujourd'hui. 
 
@@ -39,4 +42,3 @@ Ah# enfin, je trouve une activité liée à la fête, [un concours annuel](http:
 ## La fête est ailleurs
 
 La vrai fête de l'Europe ici n'a pas eu lieu aujourd'hui mais le 1er mai. en cette date anniversaire marquait l'entrée de 10 nouveaux pays au sein de l'Union. Après de longues discussions à la première chambre le gouvernement a accepté de laisser circuler librement les travailleurs des pays d'Europe Centrale et de l'Est. La nouvelle loi, compatible avec les directives européennes de libre circulation, est entrée en vigueur le 1er mai. Depuis ce jour, les travailleurs de Pologne, Lituanie, Estonie, Lettonie, République Tchèque, Slovaquie et Hongrie n'ont plus besoin d'un permis de travail pour venir s'établir dans ce beau pays plat. J'en connais pour qui c'est vraiment la fête.
----

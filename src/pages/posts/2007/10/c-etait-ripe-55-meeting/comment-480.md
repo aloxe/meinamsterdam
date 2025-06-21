@@ -7,11 +7,11 @@ tags: comment
 permalink: false
 ---
 
-<p>&gt; Il faut donc aller sur le site de l'AFNIC pour avoir une <br />
-&gt; description de RIPE en Français.<br />
-<br />
-Il y a aussi Wikipédia :-)<br />
-<br />
+> Il faut donc aller sur le site de l'AFNIC pour avoir une 
+> description de RIPE en Français.
+
+Il y a aussi Wikipédia :-)
+
 <a href="http://fr.wikipedia.org/wiki/RIPE-NCC" title="http://fr.wikipedia.org/wiki/RIPE-NCC" rel="nofollow">fr.wikipedia.org/wiki/RIP...</a><br />
 </p>
 ---

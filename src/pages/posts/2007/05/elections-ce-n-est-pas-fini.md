@@ -1,7 +1,6 @@
 ---
 layout: base
 title: "Élections, ce n'est pas fini"
-description: "Après l'élection de l'Assemblée des Français de létranger, les élections générales aux Pays-Bas et l'élection présidentielle en France on pourrait p"
 categorie: ik-ben-frans
 tags: ["politique"]
 isMarkdown: true
@@ -10,10 +9,12 @@ image_alt:
 permalink: elections-ce-n-est-pas-fini/
 date: 2007-05-22
 update: 2012-09-11
-TODO: no image, no image alt, shortened desc
+TODO: no image, no image alt
 ---
 
 Après l'élection de l'Assemblée des Français de létranger, les élections générales aux Pays-Bas et l'élection présidentielle en France on pourrait penser que je n'ai plus besoin de parler des élections. Pourtant les législatives approchent et je vais y participer. Il n'y a pas de député élu par les français de l'étranger mais je vais quand même participer au vote.
+
+<!--excerpt-->
 
 Je l'ai appris pendant les présidentielles mais il est possible pour un français de l'étranger de rester inscrit en France pour les scrutins locaux (**législatives**, **cantonales**, **municipales**, **européennes**) tout en étant inscrit sur les listes consulaires pour les scrutins nationaux (**présidentielle**, **référendum**). Depuis Novembre 2006, le site du Ministère des Affaires étrangères explique tout ça sur [une page qui semble compliqué](http://www.diplomatie.gouv.fr/fr/les-francais-etranger_1296/vos-droits-demarches_1395/election-du-president-republique-2007_2490/exercice-du-droit-vote_43196.html) mais qui peut ce résumer en ce que j'ai écrit ci dessus.
 
@@ -30,4 +31,3 @@ voir aussi :
 * [Kandidatenlijsten](/kandidatenlijsten) (élections générales aux Pays-Bas)
 * [Après les élections](/apres-les-elections) (élections générales aux Pays-Bas)
 * [Résultat des élections](/resultat-des-elections) (élections des français de l'étranger)
----

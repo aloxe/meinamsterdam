@@ -22,4 +22,3 @@ Hélas, je suis à Paris pour une obligation civique, je ne pourrais pas profite
 * [Hollandse Nieuwe](http://www.tijdvoorvis.nl/haring/hollandse_nieuwe.asp) sur *Tijdvoorvis.nl* (Le temps du poisson)
 * [De Hollandse Nieuwe Haring (photos)](/hollandse-nieuwe-haring-photos)
 * [De Hollandse Nieuwe (histoire)](/de-hollandse-nieuwe-histoire)
----

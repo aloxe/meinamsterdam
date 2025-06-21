@@ -26,4 +26,3 @@ ABN Amro a des activités dans de nombreux pays. Elle est surtout présente au B
 Actuellement le siège social mondial d'ABN Amro est à deux pas de [mon boulot](/de-mon-boulot). La tour des **ABN AMRO World HQ** domine [le quartier Zuidas](/un-buurt-nomme-zuidas) depuis 1999 et c'est ce siège social qui a vraiment lancé le développement du nouveau quartier d'affaires.
 
 Ce siège social est maintenant le [siège néerlandais de Royal Bank of Scotland](/les-deboires-de-la-royal-bank-of-scotland) qui a [racheté la banque à l'été 2007](/les-petites-courses-de-l-ete).
----

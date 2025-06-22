@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Le tram en panne
-description: 
 categorie: dagelijks
 tags: ["transports", "tag", "transports"]
 isMarkdown: true
@@ -18,5 +17,4 @@ Parfois les trams tombent en panne. Ils s'arrêtent parce qu'ils n'ont plus de c
 
 ![réparation catenaire](reparation-catenaire-ferdinan-bolstraat.jpg){.center}
 
-C'est rare de voir la rue bloquée pour ce genre de problème et c'est ce qui est arrivé dimanche dernier. Je vous laisse donc avec cette photo ensoleillée, quoi que j'ai bien aussi [celle là](/public/images/photos/2006-06/travaux-catenaire-tram-ferdinand-bol.jpg).
----
+C'est rare de voir la rue bloquée pour ce genre de problème et c'est ce qui est arrivé dimanche dernier. Je vous laisse donc avec cette photo ensoleillée, quoi que j'ai bien aussi [celle là](/le-tram-en-panne/travaux-catenaire-tram-ferdinand-bol-426w.jpeg).

@@ -17,6 +17,4 @@ Week end de pâques à Paris. j'en profite pour finir plein de travaux et faire 
 
 ![](appart-paris-paques-2006.jpg)
 
-
 promis, je déménage bientôt !
----

@@ -21,6 +21,7 @@ Puisque vous avez aimé les photos des enfants d'[Amsterdam](/marie-heineken-est
 [![enfant à Sloten](pecheuse-a-sloten.jpg)](http://www.flickr.com/photos/13274211@N00/278973676/) Jeune pêcheuse
 
 Ces photos peuvent compléter celles prises le même jour. Jour de [voile en Frise](/zeilen-in-friesland).
+
 ---
 [^1]: Je dis «aussi» parce que Sloten est le nom d'[un quartier d'Amsterdam](http://fr.wikipedia.org/wiki/Sloten).
 [^2]: Ce village est situé sur la commune de [Gaasterland-Sloten](http://fr.wikipedia.org/wiki/Gaasterland-Sloten)

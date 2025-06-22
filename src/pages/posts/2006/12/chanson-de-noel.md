@@ -3,16 +3,16 @@ layout: base
 title: Chanson de Noël
 description: 
 categorie: dagelijks
-tags: ["coutumes", "musique"]
+tags: ["coutumes", "musique", "mots"]
 isMarkdown: true
 thumbnail: KUS-kerst-200.jpg
 image_alt: Kus en Rene Froger - Kon het elke dag maar Kerstmis zijn
 permalink: chanson-de-noel/
 date: 2006-12-22
 update: 2012-09-11
+subfooters:
+ - noel
 ---
-
-
 
 ## Nouveau mot : Kus
 
@@ -38,11 +38,6 @@ Téléchargez [la Chanson de Kus en sonnerie de téléphone](http://www.celldora
 <!-- / HTML -->
 
 
-## et aussi
-* [Douce nuit, Sainte nuit / Stille nacht, Heilige nacht](/douce-nuit-sainte-nuit-stille-nacht-heilige-nacht)
-* [Les Noël des Pays-Bas](/noel-des-pays-bas)
-* [Mes voeux pour 2007](/meilleurs-voeux-pour-noel)
----
 <!-- post notes:
 - [la même en sonnerie de téléphone|http://100real.nl/realtones/kus-en-rene-froger/kon-het-elke-dag-maar-kerstmis-zijn/index.php]
 --->

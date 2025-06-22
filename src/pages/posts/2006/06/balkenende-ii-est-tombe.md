@@ -22,6 +22,7 @@ Avant-hier, tard dans la nuit, une motion de censure avait été déposé à l'e
 Donc voilà, suite à ce vote, *Kabinet-Balkenende II gevallen* et c'est le Ministre-président lui même, qui ira remettre sa démission aujourd'hui à la reine Beatrix. On parle déjà d'un gouvernement provisoire sans le D66 (et donc minoritaire) qui sera chargé de faire voter le budget en septembre.
 
 voir aussi : [Het nieuw Kabinet-Balkenende IV](/nieuw-kabinet-balkenende-iv)
+
 ---
 [^1]: Finalement, la déchéance de nationnalité de l'ancienne député a été suspendue puis fermement décidée. Mais devant le Tollé que cette annonce a provoquée, Verdonk a décidé de rendre à son ancienne collègue sa citoyenneté néerlandaise. J'en profite pour donner des nouvelles de Taïda Pasi? qui a été expulsée alors qu'elle voulait juste rester pour finir de passer son bac. Elle a pris l'avion le 28 avril pour Sarajevo où vivent ses parents. De là, elle a pu continuer ses études par Internet grâce au soutien de ses profs et [elle a pu passer son bac](http://www.nu.nl/news/755504/10/rss/Ta%EFda_Pasic_geslaagd_voor_eindexamen.html). 
 [^2]: Si j'ai bien compris

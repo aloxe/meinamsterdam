@@ -29,4 +29,3 @@ Un jour, en regardant par la fenêtre, j'ai vu Bert. Il se prélassait doucettem
 ***Bert est perdu***   
 ''Bert est espiègle et peureux, spécialement dans le monde de dehors qu'il ne connait pas*  
 *Merci d'appeller si vous avez vu Bert''
----

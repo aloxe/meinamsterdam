@@ -24,4 +24,3 @@ Photo prises samedi au [Bloemencorso](/bloemen-corso)
 ![](bloemencorso-velo-4.jpg)
 
 ![](bloemencorso-velo-2.jpg)
----

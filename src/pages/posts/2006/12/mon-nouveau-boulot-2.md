@@ -22,5 +22,6 @@ Durant les 2, 3 jours précédents, les machines à café étaient en panne, il 
 J'ai répondu que oui j'étais content de ma boîte. Le souvenir de mes recherches et le fait d'avoir une rémunération pour un métier que j'ai choisi sont évidement des critères plus important qu'une bosse sur la crâne. Cette fin de semaine a été particulièrement dure, je suis limite malade et je dors mal depuis trois jours. C'est évidemment ces jours là que les collègues m'apprennent qu'il peut aussi y avoir de la pression avec ce boulot. 
 
 J'arrive lessivé pour le week end, dernier du nom pour effectuer les courses de Noël...
+
 ---
 [^1]: Ne me demandez pas comment, j'ai reçu le désodorisant sur le crâne aux toilettes.

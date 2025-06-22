@@ -27,4 +27,3 @@ Dans cette réimplantation généralisée en plein air, les étudiants en profit
 voir aussi : 
 * [Prendre le soleil (autre solution)](/prendre-le-soleil-autre-solution)
 * [Travailler au soleil](/travailler-au-soleil)
----

@@ -18,4 +18,3 @@ A force d'aller [à mon consulat](/carte-inutile), de faire des [sorties bateau]
 Pour preuve, ce groupe d'italiennes croisées dimanche dernier à [Rembrandtplein](http://www.amsterdam.info/fr/visite/rembrandtplein/). Elles avaient l'air d'être joyeuses.
 
 ![italiennes à Rembrandtplein](italiennes-500.jpg){.center}
----

@@ -25,4 +25,3 @@ Les trois candidats ont été interviouvés il y a peu par [le forum des holland
 Cette année, il y a 10727 inscrit sur les listes électorales pour la circonscription d'Amsterdam. Bien sûr Je vous --donnerais-- donne [les résultats](/resultat-des-elections).
 
 Et inutile de me demander pour qui je vais voter, je suis encore inscrit à Paris.
----

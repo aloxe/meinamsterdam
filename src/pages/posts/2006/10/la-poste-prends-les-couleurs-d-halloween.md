@@ -35,7 +35,8 @@ Avant l'annonce officielle, il n'était pas rare de voir des camions oranges TNT
 
 ----
 
-[![http://upload.wikimedia.org/wikipedia/nl/timeline/34e369cc7c4b0381ead9d14a8859d8a6.png](PTT Nederland timeline){.center}](http://nl.wikipedia.org/wiki/PTT_%28Nederland%29)
+[![PTT Nederland timeline](PTT-timeline.png)](http://nl.wikipedia.org/wiki/PTT_%28Nederland%29){.center}
+
 ---
 [^1]: La séparation des services financiers et des services postaux en 2006 présagent une privatisation prochaine
 [^2]: [La Postbank](/postbank-amsterdam) avait été privatisée en 1986, elle fait partie du groupe ING depuis 1991.

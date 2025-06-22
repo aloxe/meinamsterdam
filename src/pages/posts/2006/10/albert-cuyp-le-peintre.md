@@ -23,4 +23,3 @@ Albert Cuyp aurait tout appris de Jacob Gerritsz mais il se serait démarqué en
 ![Chateau de Loevestein par Albert Cuyp](albert-cuyp-loevenstein.jpg){.center}
 
 Vous pouvez admirer quelques ?uvres qu'on lui a attribué [sur le site de exit to art](http://www.exittoart.nl/framesetmain.htm?http://www.exittoart.nl/gallery1.htm?http://www.exittoart.nl/cuyp/schilderijindex.htm).
----

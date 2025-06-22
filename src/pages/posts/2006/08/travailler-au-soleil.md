@@ -25,5 +25,6 @@ voir aussi :
 * [Révisions sous le soleil](/revisions-sous-le-soleil)
 
 voir aussi [mon nouveau boulot](/de-mon-boulot).
+
 ---
 [^1]: Oui, à Amsterdam en mai, il peut faire très froid.

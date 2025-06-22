@@ -26,4 +26,3 @@ Il y a en fait plusieurs bloemencorso dans ce pays mais celui que j'ai vu a [son
 
 * [Les autres photos sont en ligne](http://meinamsterdam.nl/jonge-bloemencorso)
 * [Les trois visites «fleurs» du printemps](/les-fleurs-du-printemps)
----

@@ -29,6 +29,7 @@ Tanguy LE BRETON (Lion Bleu) : **659**
 
 > Candidat élu : [Tanguy LE BRETON](http://www.deblauweleeuw.nl/candidats.htm)  
 > (Suppléante : Hélène Degryse)
+
 ----
 
 Les élections de cette année étaient marquées par la possibilité pour la première fois de voter par internet. Je ne connais pas le nombre de suffrages présentés par internet aux Pays-Bas mais il semblerait que ce soit très très peu. Comme le dit 01net, ce premier [scrutin par internet fait un flop](http://www.01net.com/editorial/318514/suffrage-universel/le-vote-par-internet-des-francais-a-l-etranger-fait-un-flop/). D'après le journal informatique, c'est la complexité des procédures qui a rebuté les électeurs.
@@ -47,4 +48,3 @@ Le site du Sénat publie [la liste des nouveaux conseillers](http://www.expatrie
 * [Test du vote par internet en 2012](/voter-par-internet)
 * [Rencontre autour du vote électronique en 2012](/Rencontre-vote-electronique)
 * [Les nouveaux conseillers consulaires de 2014](/Les-nouveaux-conseillers-consulaires)
----

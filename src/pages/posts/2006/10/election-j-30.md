@@ -30,4 +30,3 @@ Mes problèmes de langue m'empèchent de suivre vraiment la politique locale mai
 Voilà tout ce que je peut dire mais au moins quand vous entendrez le mois prochain sur France 2 que les Néerlandais votent, au moins vous saurez pourquoi.
 
 > Je n'avais pas vu que [Anne-Vicky parlait aussi de ces élections](http://annevickycarlier.blogspot.com/2006/10/les-lections-verkiezingen.html). Allez lire son article bilingue. [Et ici aussi](http://annevickycarlier.blogspot.com/2006/10/in-metro-dans-metro.html) au sujet du site [StemWijzer](http://www.stemwijzer.nl/).
----

@@ -26,4 +26,3 @@ Aujourd'hui, les français tentent de nettoyer les salletés laissées par les N
 Vraisemblablement la société **Trafigura Beheer BV** avait des déchets chimiques à traiter mais le produit était tellement toxique que ça aurait coûté très cher. L'idée est donc de sous-traiter ce travail dans un pays du sud où la main d'uvre est bon marché même si le retraitement est mal fait puisque les concéquences apparaîtront loin de notre Europe. Il est facile de raisonner de la même manière en décidant de ne pas payer cette sous-traitance et de jetter les produits discrètement loin de l'Europe. Le problème avec le produit en question c'est l'odeur. L'odeur  était si insoutenable que [les ouvriers qui ont chargé le bateau à Amsterdam](http://www.trouw.nl/hetnieuws/nederland/article474747.ece/Gifschip_Ivoorkust_was_ook_in_Amsterdam) se sont mis en grêve (si j'ai bien compris). 
 
 Bref, tout cela pue et devrait continuer à faire du bruit.
----

@@ -16,5 +16,14 @@ Aline collectionne les briquets de football (*voetbal*). C'est original de parle
 
 Lors d'une promenade sur [Albert Cuyp markt](/albert-cuyp-le-marche), j'ai découvert ces briquets de supporters de l'équipe nationale Néerlandaise. Je pense que tous lui plairont beaucoup. *Helaas*, il n'en restait que deux, elle ne pourra pas tous les avoir.
 
-![briquets)) ((/public/images/photos/2006-05/briquets-detail.jpg](briquets-300.jpg)
----
+
+<div class="flex justify-center">
+  <div class="m-1 text-center">
+
+ ![lots de briquets sur une étale](briquets-300.jpg)
+  </div>
+  <div class="m-1 text-center">
+
+![briquets oranges avec des fesses et des seins](briquets-detail.jpg)
+  </div>
+</div>

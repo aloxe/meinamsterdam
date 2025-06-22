@@ -29,4 +29,3 @@ petite pause entre deux voyages heureusement que c'est meublé avec la vaiselle
 
 ![](arrivee-cartons.jpg)  
 samedi soir : Il n'y a plus qu'à déballer
----

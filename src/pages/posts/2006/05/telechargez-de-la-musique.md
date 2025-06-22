@@ -20,4 +20,3 @@ Penant que [Paris manifestait](http://stopdrm.info/index.php?2006/05/08/70-les-p
 Ce qui veut dire « Surfer et télécharger musique et films sera encore plus rapide ».
 
 Ça ne rêgle toujours pas [les problèmes techniques que j'ai avec eux](/chello-installatiepakket-8).
----

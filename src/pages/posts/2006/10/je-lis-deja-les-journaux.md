@@ -26,4 +26,3 @@ Lire aussi:
 * [Renouvellement diplomatique](/renouvellement-diplomatique)
 * [La nouvelle ambassade de France](/Une-nouvelle-Ambassade-de-France)
 * [Un ambassadeur qui tombe à pic](/Un-ambassadeur-qui-tombe-a-point-nomme)
----

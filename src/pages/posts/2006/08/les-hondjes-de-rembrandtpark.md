@@ -19,7 +19,7 @@ Vous avez adoré *le chien qui remue la tête*, en paysage sur la lunette arriè
 ![Chien sur Rembrandtpark](chien-Rembrandtpark-450.jpg){.center}
 
 En cherchant un peu, on apprend que ces deux *hondjes* sont de [Marjolijn Mandersloot](http://www.marjolijnmandersloot.nl) et qu'ils sont là depuis 2002. Même que le maire en personne les a inaugurés le 4 décembre.
----
+
 <!-- post notes:
 http://www.artkitchen.nl/_private/more_mandersloot.htm
 --->

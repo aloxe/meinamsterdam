@@ -15,8 +15,6 @@ subfooters:
  - cliches
 ---
 
-
-
 ### Yann Arthus Bertrand à Waterloo
 
 <!-- HTML -->

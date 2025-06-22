@@ -23,4 +23,3 @@ Personne ? En fait, quelqu'un s'est élevé contre ce fait. Avant les élections
 
 
 voir aussi : [Het nieuw Kabinet-Balkenende IV](/nieuw-kabinet-balkenende-iv) (Le nouveau conseil des Ministre Balkenende 4)
----

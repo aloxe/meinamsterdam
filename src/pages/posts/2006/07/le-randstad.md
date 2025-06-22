@@ -28,5 +28,6 @@ Le centre de la Randstad, -et c'est là sa spécificité- est vert, peu peuplé 
 Pendant le siècle d'or, la Hollande était la province la plus riche des provinces unies. Le commerce maritime a favorisé le dévoloppement des ports comme Amsterdam sur la Zuidersee et Rotterdam le long de la Meuse. Les autres villes de la province étaient florissantes aussi (La Haye, Haarlem, Utrecht...) grâce à l'essort du commerce ( certaines villes ont encore aujourd'hui des spécialitées connues  comme Delft et Gouda ). au XXe siècle, le développement urbain autour de pôles économiques comme Schiphol où administratif comme La Haye a achevé la conurbation. 
 
 Aujourd'hui, **le Randstad compte plus de 7 millions d'habitants** (dont moi), ce qui fait **presque la moitié de la population des Pays-Bas**. C'est dire son importance.
+
 ---
 [^1]: Voir la [liste des communes de France par population](https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es) sur Wikipedia

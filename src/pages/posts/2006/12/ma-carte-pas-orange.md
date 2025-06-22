@@ -23,4 +23,3 @@ Pour vous en expliquer plus, je peux vous commenter la photo de ma carte. Le **5
 
 ### Les lieux de vente
 Ces cartes et ces titres de transports ne sont pas vendus aux arrêts de tram ni même dans les rames. Il faut, tout comme les *strippenkaarts*, se rendre dans l'un des lieux de vente *OV* pour *openbare vervoer*. Quelques magasins [Albert Hein](/albert-hein-et-compagnie) proposent ce service ainsi que les bureaux de [poste](/la-poste-prends-les-couleurs-d-halloween) *postkantoor*. Aujourd'hui; j'ai acheté le coupon qui remplacera celui que vous voyez sur la photo, dans un bureau de tabac près de chez moi où il y avait une pancarte spéciale signalant la disponibilité d'*abonementen voor tram en bus*.
----

@@ -12,4 +12,3 @@ permalink: false
 <p>Koninklijk, le prédicat royal
 
 C'est aujourd'hui Prinsjesdag, une journée spéciale ou la reine fait un discours à la deuxième chambre. Tout ceci se passe à La Haye et je suis à Amsterdam. Alors, pour rester dans la thématique monarchique, je</p>
----

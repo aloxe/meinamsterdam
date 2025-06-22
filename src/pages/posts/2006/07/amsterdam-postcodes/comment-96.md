@@ -8,4 +8,3 @@ permalink: false
 ---
 
 geschikt kaart
----

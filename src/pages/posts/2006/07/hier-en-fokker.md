@@ -10,6 +10,8 @@ image_alt: mon F70 KLM-cityhopper
 permalink: hier-en-fokker/
 date: 2006-07-10
 update: 2017-11-20
+subfooters:
+ - schiphol
 ---
 
 
@@ -24,10 +26,3 @@ Pour revenir à Amsterdam, KLM m'a fait voyager dans un de ses cityhopper, ces a
 
 ![Fokker F50 vu depuis le hublot de mon Fokker F70](fokker-50.jpg){.left}
 Alors que l'entreprise a déposé son bilan en 1996, on trouve encore de nombreux exemplaires encore en service aujourd'hui sur l'aéroport de **Schiphol** et ailleurs. Nous allons encore pouvoir apprécier les hublots parfaitement ovales de ces avions pendant longtemps.
-
-### Lire aussi   
-* [Pas hier, pas en Fokker](/pas-hier-pas-en-fokker)
-* [Un voyage avec Transavia](/un-voyage-avec-transavia)
-* [Les avions de la KLM ont tous des petits noms](/voyage-klm-retour)
-* [Les Vliegtuigspotters de Schiphol](/vliegtuigspotters)
----

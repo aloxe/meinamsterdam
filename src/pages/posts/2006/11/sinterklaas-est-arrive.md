@@ -33,5 +33,6 @@ En suivant **le journal de Sinterklaas**, j'ai découvert comment la distributio
 * [Sinterklaas, ou simplement SINT](/sinterklaas-sint)  
 * [Le passage de Sinterklaas](/le-passage-de-sinterklaas)
 * [Où vas-tu Zwarte Piet ?](/ou-va-Zwarte-Piet)
+
 ---
 [^1]: Le véritable nom de ce bateau est **Pakjesboot 12**. Sinterklaas a utilisé d'autres bateaux en 1993 pour débarquer à Ravenstein avec le *Succes* dit *pakjesboot 13* et en 2001 à Maastricht avec le *Marie C* dit *pakjesboot 13*. Les voies d'eaux pour accéder à ces villes étant trop étroites pour le bateau habituel de Sinterklaas.

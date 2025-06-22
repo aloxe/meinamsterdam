@@ -10,6 +10,8 @@ image_alt: I Postbank Amsterdam sur un tram
 permalink: postbank-amsterdam/
 date: 2006-09-14
 update: 2009-10-21
+subfooters:
+ - timbres
 ---
 
 
@@ -19,10 +21,3 @@ Ce petit billet pour vous dire que ce n'est plus la pein de de me donner votre a
 ![I Postbank Amsterdam sur un tram](tram-postbank-400.jpg){.center}
 
 En fait, je dis que j'ai choisi une banque, je suis plutôt allé dans la seule banque qui accepte les gens qui n'ont pas encore de revenu. :-(
-
-**voir aussi**
-
-* [Da Internetbankieren experience selon Postbank](/internetbankiren-experience)
-* [J'appartiens à la société (Fortis) anonyme](/j-appartiens-a-la-societe-fortis-anonyme)
-* [Postbank devient ING](/postbank-devient-ing-officielement)
----

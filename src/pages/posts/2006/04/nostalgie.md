@@ -18,4 +18,3 @@ Avant de repartir à Paris pour chercher mes dernières affaires, je dispose les
 ![Tour Eiffel in Pijp](tour-eiffel-in-pijp.jpg){.center}
 
 Merci [Aline](/briquets-aline) et Élodie
----

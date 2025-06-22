@@ -32,4 +32,3 @@ Contrairement à ce qui est annoncé sur le journal, l'ouverture de la ligne n'e
 * [Noord-zuidlijn : Ceintuurbaan station](/noord-zuidlijn-ceintuurbaan-station)
 * [Les maisons d'Amsterdam s'enfoncent](/les-maisons-s-enfoncent)
 * Vous pouvez voir quelques images des travaux en passant [Noël sur Ferdinand Bolstraat](/noel-sur-ferdinand-bolstraat)...
----

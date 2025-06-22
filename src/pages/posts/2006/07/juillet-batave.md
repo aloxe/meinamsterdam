@@ -23,5 +23,6 @@ Le [Consulat Général de France](http://www.consulfrance-amsterdam.org) est à 
 
 ![République Française](republique-francaise.gif){.left}
 Le Consulat est plus proche de moi géographiquement que l'Ambassade mais sur le web, c'est le contraire. L'[Ambassade de France](http://www.ambafrance.nl/) publie tous les jours une [revue de presse néerlandaise](http://www.ambafrance.nl/rubrique.php?id_rubrique=23) dans une langue qui m'est familière. C'est quand même très pratique pour comprendre un peu mieux ce qui se passe dans mon pays de résidence.
+
 ---
 [^1]: La ville qui est le siège du [gouvernement](/balkenende-ii-est-tombe), la ville des ambassades, le lieu de résidence de la famille royale mais qui n'est pas la capitale du pays.

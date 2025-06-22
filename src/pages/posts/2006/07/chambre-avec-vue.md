@@ -25,5 +25,6 @@ Enfin, quand je dis «voir» il faut se tenir debout et essayer de viser entre l
 ![rijksmuseum](rijksmuseum-arriere.jpg){.center}
 
 Le Rijksmuseum c'est quand même le Louvre local, le plus grand musée de la ville et même s'il est toujours en travaux, il y a toujours une queue interminable de touristes attendant des heures pour pouvoir regarder *la ronde de nuit* de Rembrandt.
+
 ---
 [^1]: ce qui me permet de vous en faire découvrir un peu régulièrement

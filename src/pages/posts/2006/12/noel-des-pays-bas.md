@@ -10,9 +10,9 @@ image_alt: Étoile de Noël à Amsterdam
 permalink: noel-des-pays-bas/
 date: 2006-12-24
 update: 2017-12-20
+subfooters:
+ - noel
 ---
-
-
 
 ## Nouveau mot: Kerst
 
@@ -32,18 +32,3 @@ Le 26 décembre, lendemain de Noël est aussi férié, comme au Royaume-Uni où 
 
 Ainsi les Néerlandais ne se souhaitent pas un joyeux Noël mais plutôt de joyeux jours de Noël : *Prestige Kerstdagen*. **Très bonnes fêtes de Noël à tous**!
 
-## voir aussi
-* [La chanson de Noël de 2006](/chanson-de-noel)
-* [Mes vœux pour 2007](/meilleurs-voeux-pour-noel)
-* [Mes vœux pour 2009](/joyeux-noel-2009)
-* [Mes vœux pour 2010](/joyeux-noel-2010)
-* [Mes vœux pour 2011](/Joyeux-Noel-2011)
-* [Mes vœux pour 2012](/Joyeux-Noel-2012)
-* [La tradition des vœux en 2008](/pour-les-voeux-c-est-fini)
-* [Douce nuit, Sainte nuit / Stille nacht, Heilige nacht](/douce-nuit-sainte-nuit-stille-nacht-heilige-nacht)
-* [Nouveau mot : Kerstpakket (cadeau de noël)](/dweede-kerstmis-is-boxing-day)
-* [Les inondations de Noël](/les-inondations-de-noel)
-* [Les maronniers de l'hiver](/les-marronniers-de-l-hiver)
-* [Saint Nicolas ne concurence pas Noël](/saint-nicolas-ne-concurence-pas-noel)
-* [La fin des sapins](/la-fin-des-sapins)
----

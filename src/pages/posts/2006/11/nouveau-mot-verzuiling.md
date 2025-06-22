@@ -24,6 +24,7 @@ D'un cœur, les néerlandais ont traduit ce mot *communautarisme* par ***verzuil
 En France jacobine, la société s'est bâtie sur une notion de nation unique autour d'un État centralisateur, le mot communautarisme a encore aujourd'hui une consonnance péjorative et c'est pourtant ce modèle qui a fait les Pays-Bas... Bien sûr les modèles ne sont pas si tranchés et aujourd'hui, le *verzuiling* aux Pays-Bas comme le jacobinisme français sont des modèles du passé. Il me semble qu'ils restent pourtant bien présents dans les esprits et dans certaines habitudes, ces fameuses habitudes de l'autre qui nous choquent sans qu'on puisse dire pourquoi...
 
 Voir aussi: [Les catholiques et les protestants](/catholiques-et-protestants)
+
 ---
 [^1]: Rendez-vous du mardi soir où des francophones et des francophiles échangent sur les finesses de leurs langues respectives autour d'une bière et d'un article de journal. Voir aussi:[La reprise du Jaren](/la-reprise-du-jaren)
 [^2]: **Un hôpital islamique à Rotterdam** Prévu pour 2008, le projet soulève l'ire de la droite populiste. L'article en question est [repris ici](http://atheturk.forumactif.com/ftopic3509.Un-hopital-islamique-a-Rotterdam.htm).

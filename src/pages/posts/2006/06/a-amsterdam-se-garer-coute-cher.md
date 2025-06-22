@@ -27,4 +27,3 @@ Se garer coute cher à Amsterdam et c'est grâce à ça que ceux qui payent le p
 Il y a aussi des parkings souterrains dans la ville mais les tarifs ne sont pas beaucoup plus avantageux (souvent plus de 3 € par heure). 
 
 Je ne saurais trop vous conseiller de venir en centre-ville en transport en commun après [avoir laissé votre voiture dans un Park & Ride](/pour-ceux-qui-viennent-nous-voir-en-voiture).
----

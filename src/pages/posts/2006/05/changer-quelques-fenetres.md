@@ -19,4 +19,3 @@ Je vous laisse une photo de la cuisine au troisième jour des travaux pour que v
 
 c'était hier :  
 ![](gros-travaux.jpg)
----

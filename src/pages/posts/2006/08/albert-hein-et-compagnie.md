@@ -25,6 +25,7 @@ Aujourd'hui (et depuis 1973[^2]) le groupe s'appelle *Koninklijke Ahold N.V.*[^3
 En 2003, **Ahold** a fait l'actualité aux États-Unis à cause d'une affaire de fausse comptabilité. L'entreprise a été comdamnée mais n'a pas eu à payer d'amende parce qu'elle s'est montrée très coopérative, na cachant rien aux inspecteurs du fisc[^4]. Une qualité Néerlandaise qui a apparemment surprit les Fonctionnaires étatsuiniens.
 
 voir aussi **[Albert Hein Bonuskaart](/les-semaines-du-hamster)** et [On schtroumpf bien les smurfs](/schtroumphs-smurf)
+
 ---
 [^1]: Le jour d'après[...](/joyeux)
 [^2]: L'année d'après[...](/joyeux)

@@ -21,7 +21,7 @@ Beaucoup de monde achalende ce marché, spécialement les jours de beau temps...
 Voici maintenant quelques photos de ce marché prises cet été, quand il faisait beau.
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<!-- / HTML -->
+
 ![des passants et des chaussettes](A-Cuyp-chausettes-passants.jpg){.center}
 La foule bigarée passe nonchalante devant les dessous sexys
 
@@ -33,6 +33,7 @@ Un pot en terrasse juste à coté des étales
 <!-- HTML -->
 </div>
 <!-- / HTML -->
+
 ---
 [^1]: pour les filles qui aiment (Sophie se reconnaîtra)...
 [^2]: pour les filles qui aiment (Aline se reconnaîtra)...

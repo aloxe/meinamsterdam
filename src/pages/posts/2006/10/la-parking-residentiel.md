@@ -19,9 +19,9 @@ La gestion du stationnement en ville est déléguée à des sociétés spéciali
 
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFf0; font-size:small; width=530px; text-align:center; padding:0.55em; font-style:italic;">
-<!-- / HTML -->
+
 **AJOUT** : L'information ci dessus n'est plus à jour, la mairie gère maintenant directement le stationnement de courte durée et résidentiel dans toute la ville d'Amsterdam.
-<!-- HTML -->
+
 </div>
 <!-- / HTML -->
 
@@ -44,10 +44,11 @@ Normalement quand on s’enregistre en mairie, il faut aussi s’enregistrer à 
 ### Attendre et marcher
 <!-- HTML -->
 <div style="float:left; font-size:10px; text-align:center; margin-right:10px;">
-<!-- / HTML -->
-[![carte Oud Zuid](Plattegrond-Oud-Zuid-s.png){.left}](/files/data/OZUID-plattegrond-vergunningen.pdf)
-<!-- HTML -->
-<a href="/files/data/OZUID-plattegrond-vergunningen.pdf">Carte des zones de Parking Oud Zuid</a> (PDF)
+
+[![carte Oud Zuid](Plattegrond-Oud-Zuid-s.png){.left}](/files/2006/OZUID-plattegrond-vergunningen.pdf)
+
+<br>
+<a href="/files/2006/OZUID-plattegrond-vergunningen.pdf" class="text-xs">Carte des zones de Parking Oud Zuid</a> <span class="text-xs">(PDF)</span>
 </div>
 <!-- / HTML -->
 
@@ -63,10 +64,9 @@ Une fois que la société nous assure que nous pouvons nous garer dans la zone d
 
 <!-- HTML -->
 <div style="font-size:10px; text-align:center; margin-right:10px;">
-<!-- / HTML -->
-![](pch-papier-300.jpg) ![](crack-pv-300.jpg)
-<!-- HTML -->
+
+![papier de PCH](pch-papier-300.jpg){.left} ![et crack un PV](crack-pv-300.jpg){.right}
+
 Une belle illustration de ce que je viens d'écrire : Si tu n'as pas la feuille de gauche, on te pose le ticket de droite.
 </div>
 <!-- / HTML -->
----

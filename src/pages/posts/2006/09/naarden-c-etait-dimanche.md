@@ -25,7 +25,7 @@ hein ?# que peut-on faire putain de narden ?!
 Nous avons préféré [bronzer dans l'herbe](http://sophie.fodil.co.uk/fruit/land/500/img_6590-Naarden.jpg) et [boire des coups](http://sophie.fodil.co.uk/fruit/normal/500/IMG_1127-Wien.JPG) parce qu'il n'y a qu'à Naarden qu'ils nous est offert de le faire en si bonne condition.
 
 ![panoramique dans l'herbe](panoramique-herbe-580.jpg){.center}
----
+
 <!-- post notes:
 http://www.fotofestival.com/
 --->

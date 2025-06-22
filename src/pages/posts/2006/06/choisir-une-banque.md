@@ -11,6 +11,8 @@ permalink: choisir-une-banque/
 date: 2006-06-13
 update: 2017-12-11
 TODO: no image alt, shortened desc, image without alt
+subfooters:
+ - banques
 ---
 
 Pour mes réglements quotidiens et encaisser un jour mon salaire, il me faut ouvrir un compte en banque. Mais comment choisir une banque dans un nouveau pays alors que les commentaires de chacuns sont toujours subjectifs ? L'esthétique peut-être ?
@@ -45,21 +47,3 @@ ING utilise le *oranje* national
 
 Je suis toujours à la recherche d'**un distributeur SNS** mais impossible d'en trouver un à Amstedam
 
-
-### Lire aussi :
- **[France / Pays bas: Comparatif des services bancaires](/france-pays-bas-comparatif-des-services-bancaires)**
-
- **[Le nouveau Rabo Scanner](/nouveau-Rabo-Scanner)**
-
- **[Une banque qui demande moins de sous](/une-banque-qui-demande-moins-de-sous)**
-
- **[La fin du porte monnaie électronique](/Porte-monnaie-electronique-la-fin-du-Chipknip)**
-
- **[Les sécurité des sites bancaires](/la-securite-des-sites-bancaires)**
-
- **[Attention, emprunter de l'argent coûte de l'argent](/emprunter-de-l-argent-coute-de-l-argent)**
-
- **[Changement de banque: Rabobank](/changement-de-banque-rabobank)**
-
- **[Postbank devient ING](/postbank-devient-ing-officielement)**
----

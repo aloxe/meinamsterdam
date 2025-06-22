@@ -22,4 +22,3 @@ Je ne vous ai pas dit que ce fameux crochet a fait l'objet d'une [discussion sur
 Je confirme que j'ai vu des professionels déménager un canapé avec une poulie, je pense que ces derniers doivent être au courant le la masse limite des meubles qui peuvent utiliser le crochet avec la poulie. Je confirme aussi que **les déménageurs futés utilisent un monte-charge** pour passer les meubles, toujours par la fenêtre. C'est moins fatiguant et plus sûr. Par contre, ça demande une occupation de la chaussée plus importante; mais comme pour les gros déménagements, il faut garer un gros camion à proximlité, les déménageurs futés disposent de camions équipés de ces monte-charge.
 
 ![déménagement sur Mauritzkade](demenagement-mauritzkade-200.jpg){.center}
----

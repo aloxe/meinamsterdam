@@ -58,4 +58,3 @@ Merci à [Babel Fish](http://fr.wikipedia.org/wiki/Babel_fish) (pardon, [Babel F
 > Ronde, fruitée, parfois ce que les vins blancs épicés
 
 Le [Robert + Van Dale](http://www.books-by-isbn.com/2-85036/2850364800-Le-Robert-et-Van-Dale-Dictionnaire-francais-neerlandais-2-85036-480-0.html) nous a aidé à comprendre que *haas* signifiait aussi filet. Ces filets de porc, cuisinés ainsi, étaient très bon. Il ne reste plus qu'à trouver où acheter du lapin.
----

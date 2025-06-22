@@ -25,5 +25,6 @@ Il se trouve que le VVD est [actuellement au pouvoir](http://fr.wikipedia.org/wi
 **Ayaan Hirsi Ali** a avoué il y a un bon moment qu'elle avait menti sur son dossier de demande d'asile. La semaine dernière, suite à une plainte, elle devrait perdre sa nationalité Néerlandaise et même son droit de séjour. C'est sa collègue au pouvoir, Rita Verdonk, qui doit trancher et elle a annoncé qu'elle ne ferait pas d'exception pour le cas Hirsi Ali. Nous sommes à un an des élections et Rita Verdonk a envie de prendre la tête de la liste VVD, quitte à sacrifier celle de Hirsi Ali...
 
 Ayaan Hirsi Ali a donc démissionné hier et a été déchue sa nationalité néerlandaise.
+
 ---
 [^1]:  Voir aussi:[La reprise du Jaren](/la-reprise-du-jaren)

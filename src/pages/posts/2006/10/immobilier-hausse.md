@@ -20,11 +20,10 @@ update: 2008-06-27
 
 Un peu plus loin la rue est barrée pour cause de travaux. Ce ne sont pas des travaux de voirie, comme les terrains sont petits, les matériaux sont montées à l'aide de grues implantées sur la chaussée. Ici, il y a deux chantiers en face l'un de l'autre et deux grues, une pour chacun des chantiers. Le technicien remarquera que les grues n'ont pas de contre-flèche. La rue est étroite et il n'est pas permis de survoler les autres habitations avec une flêche de grue. Les contrepoids sont donc au pied de la grue, retenus par des câbles.
 
-![rue barée](rue-baree-grues-300.jpg){.center}
+![rue barée](rue-baree-grues.jpg){.center}
 
 Ces photos sont dans mon album depuis un moment et je ne vous les ai pas encore montrées. Mais hier, un [article de Laurent chambon sur l'immobilier à Pijp](http://laurentchambon.blogspot.com/2006/10/ballade-australovicienne-2.html) complète très bien ce que je voulais écrire et que je vous ai fait lire aujourd'hui.
 
 * [Voir la photo en plus grand](http://www.flickr.com/photos/13274211@N00/408905545/)
 * et aussi [les travaux dans ma rue](/des-travaux-dans-ma-rue)
 * et enfin, le point un an apres, des [nouvelles de l'immobilier](/des-nouvelles-de-l-immobilier)
----

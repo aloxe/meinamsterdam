@@ -57,4 +57,3 @@ Les grands bâtiments comme théatre Schouwburg à La Haye ou le palais royal de
 
 # note
 J'ai honteusement décidé de pomper l'article que j'ai écrit [pour Wikipedia](http://fr.wikipedia.org/wiki/Koninklijk). Celà dit, si vous y avez trouvé des erreurs et des fautes, je vous invite à le [corriger directement](http://fr.wikipedia.org/w/index.php?title=Koninklijk&action=edit) ;o)
----

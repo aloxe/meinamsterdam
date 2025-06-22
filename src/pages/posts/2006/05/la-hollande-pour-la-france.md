@@ -32,4 +32,3 @@ Certains voulaient écrire à Marco et Marko pour les remercier de soutenir notr
 et que tous avaient été réalisé par Marco et Marko pour recevoir de l'aide de l'étranger. C'était un piège !
 
 Aujoud'hui les deux bataves se révèlent être l'arme secrète de la Hollande (*[Hollands geheime wapen](http://blog.pointlogic.com/2006/05/21/marco-marko-hollands-secret-weapon/)*). Ils détournent toutes les idées qu'ils ont reçu par mail et en font [des instruments pour supporter l'équipe *Oranje*](http://blog.dirkschuetze.de/?p=321). Maintenant, [les néerlandais se ruent](http://www.marketingfacts.nl/berichten/20060503_holland_wird_weltmeister/) sur les nouveaux objets publicitaires et même moi [je me prends au jeu](http://www.xs4all.nl/~jlhkrans/Reine_2006/pages/DSCN1569.htm). Aidez-moi...
----

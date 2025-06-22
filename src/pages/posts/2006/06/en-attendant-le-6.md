@@ -18,7 +18,7 @@ Aujourd'hui, 6 juin 2006, reprise des billets sur ce blog. On peut dire que j'ai
 Voilà, depuis [mon anniversaire](/joyeux), j'ai attendu. J'ai attendu avant de redonner des nouvelles mais aussi j'ai attendu d'autres trucs toute la semaine. 
 
 * J'ai attendu des nouvelles de ma nouvelle banque (en vain)
-* J'ai attendu la publication des [photos de mon aniversaire](http://www.ofotheblog.org/home/2006/05/amrterdam_sous_.html)
+* J'ai attendu la publication des photos de mon aniversaire
 * J'ai aussi attendu [un technicien UPC](/upc-m-a-lacher) pour à nouveau avoir internet et le téléphone
 * J'ai attendu des nouvelles de la famille chez qui j'allais ce week end
 * J'ai attendu le week end
@@ -30,5 +30,6 @@ Voilà, depuis [mon anniversaire](/joyeux), j'ai attendu. J'ai attendu avant de 
 
 Vous aurez plus de détail dans les jours à venir
 
-Lire aussi [mon billet du 7/7/7, ou je reparle du 6/6/6|/date-marquante||un ticket de parking avec une numéro singulier].
----
+Lire aussi [mon billet du 7/7/7, où je reparle du 6/6/6](/date-marquante) avec un ticket de parking au numéro singulier.
+
+<!-- (http://www.ofotheblog.org/home/2006/05/amrterdam_sous_.html) -->

@@ -20,11 +20,6 @@ update: 2012-10-17
 
 Quand quelqu'un donne son adresse, si on ne connait pas la rue mais qu'on a la carte des codes postaux en main, on peut savoir dans quel quartier il habite et ainsi trouver la rue plus facilement... Voici, dévoilée ici, la carte des codes postaux d'Amsterdam, piquée dans un journal d'annonces immobilières.
 
-[![Les codes postaux à Amsterdam](amsterdam-postcode-200.jpg){.center}](/public/images/scans/cartes/amsterdam-postcode-800.png)  
-<!-- HTML -->
-<div align="center">
-<b>Carte des codes postaux d'Amsterdam</b><br/>
-<b><i>Amsterdam postcodekaart</i></b>
-</div>
-<!-- / HTML -->
----
+![Les codes postaux à Amsterdam](amsterdam-postcode-800.png){.center}
+**Carte des codes postaux d'Amsterdam**
+***Amsterdam postcodekaart***

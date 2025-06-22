@@ -23,4 +23,3 @@ Comme je passe souvent sur cette place, je vous en parlerais surement encore. Ce
 En bon français, je me suis dit que cela voulait dire « **Olympique de Marseille** ». Un touriste un peu fan serait venu cet été après [la coupe du monde](/on-est-en-finale) et n'aurait pas osé écrire le nom de l'équipe nationale. Alors, en prévision d'un match de la coupe des clubs champions contre l'[Ajax](http://www.ajax.nl/web/show), il a tracé en gros les lettres OM au millieu de la place.
 
 Il faudra que je montre tout ça à **Olivier et Martina**...
----

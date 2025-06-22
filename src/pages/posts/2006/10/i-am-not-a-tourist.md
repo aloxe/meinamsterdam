@@ -30,4 +30,3 @@ Je pense que c'est pareil dans beaucoup de pays. La langue véhiculaire des expa
 ## Un lieu à services
 
 Le reste des stands offraient des services plus quotidien à destination des expatriés. J'ai déjà parlé de services de banque, d'assurance et de santé. Les Écoles internationales étaient là aussi. Les conseillers immobiliers, financiers, ou juridiques offraient plein de petits gâteaux pour attirer le chaland. J'ai bien sûr été intéressé par les agences de recrutement qui vont bientôt recevoir mon CV. Les écoles de langue, on verra plus tard.
----

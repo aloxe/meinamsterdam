@@ -24,6 +24,7 @@ Je ne m'était pas encore fait immatriculer en tant que français établi à l'�
 J'ai fait faire un nouveau passeport (avec la puce) et -après insistance- je n'ai pas été soumis au droit de timbre. Le truc ? J'avais déjà fait changer l'adresse sur mon passeport en arrivant à Paris. Il n'y avait plus de place et j'ai simplement fait une demande pour y indiquer maintenant ma nouvelle adresse à Amsterdam. Seuls les changement d'adresse et l'ajout d'enfant ne sont pas soumis au droit de timbre. Par contre, la date de validité du nouveau passeport reste la même que sur l'ancien titre. Ce truc peut être utile pour ceux qui doivent demander un nouveau passeport à puce[^3].
 
 * voir aussi : [Mes premiers pas comme immigré](/mes-premiers-pas-comme-immigre)
+
 ---
 [^1]: Tous les services d'état civil, d'inscriptions sur les listes électorales et tout ça, peuvent être faites là bas.
 [^2]: J'ai préféré avoir la possibilité de m'exprimer aux prochaines municipales en 2008

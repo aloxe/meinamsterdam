@@ -24,4 +24,3 @@ Cette pancarte indique que la ligne devrait ouvrir en 2011 mais [la mairie vient
 * La suite de la suite [Des travaux qui n'en finissent toujours pas](/travaux-n-en-finissent-toujours-pas) ou l'on apprends que les travaux sont repoussés à 2015.
 
 Vous pouvez voir quelques images des travaux en passant [Noël sur Ferdinand Bolstraat](/noel-sur-ferdinand-bolstraat)...
----

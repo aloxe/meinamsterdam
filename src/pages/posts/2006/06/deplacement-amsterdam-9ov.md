@@ -23,4 +23,3 @@ En 1992, le Ministère des transport a mis en place ce service téléphonique d'
 
 ----
 Ceux qui veinnent [nous voir en voiture](/pour-ceux-qui-viennent-nous-voir-en-voiture) peuvent déjà planifier leurs sorties...
----

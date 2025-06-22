@@ -26,4 +26,3 @@ Comme il y avait du soleil au menu, nous en avons profité pour faire un tour en
 
 ## Dimanche tranquille
 Après mangé, toute la petite famille est partie et nous sommes allez au Vondelpark pour une sieste bien méritée au soleil. Cette sieste était rythmée par l'[Amsterdam's anual hiphop dance battle](http://www.flickr.com/photos/bandido/tags/breakz/) dont vous pouvez voir quelques photos ici : [Amsterdam's anual hiphop dance battle](http://www.flickr.com/photos/bandido/tags/breakz/).
----

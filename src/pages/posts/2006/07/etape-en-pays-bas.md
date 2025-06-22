@@ -28,5 +28,6 @@ Mais très vite les Belges se soulèvent et demandent leur indépendance et un r
 
 ### La douzième province
 Le Flévoland est la 12e province des Pays-Bas. Cette province n'éxistait pas avant sa création en 1968. Avant, c'était la mer, et aujourd'hui, c'est la province des Pays-Bas dont les habitants comme les habitations sont les plus jeunes. Cette province a été crée en gagnant des territoires sur la mer grâce à la construction de **la** digue de fermeture (*Afsluitdijk*). La digue a été terminée dans les années trentes mais la création des polders a pris des années et c'est en 1968 que la province a été effectivement crée.
+
 ---
 [^1]: Durant la période des Provinces-Unies, la Hollande était le moteur économique du pays. C'est la raison pour laquelle son appellation par le nom d'une de ses provinces les plus importantes persiste. Il y a d'autres exemples de métonymie connus en Géographie, Le fait d'appeller le Royaume-Uni «Angleterre» ou de réduire l'Amérique aux États-Unis sont des classiques. Les habitants de Finlande ou de Malaisie sont aussi parfois réduits à leur composante principale...

@@ -33,4 +33,3 @@ Il y a surement d'autres villes et aussi d'autres toponymes comme les fleuves et
 **Breda** : Bréda   
 
 Je n'ai pas mis dans cette liste le nom des villes belges qui changent presque toutes de nom dès qu'on franchit la frontière linguistique. Je ne vais pas accuser mes amis belges de guerre fratricide sur ce point. Les villes listées ci dessus ont toutes une histoire multilingue comme la plupart des villes de Belgique et l'histoire seule explique qu'il faille traduire leurs noms d'une langue à l'autre.
----

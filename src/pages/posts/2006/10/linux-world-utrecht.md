@@ -27,4 +27,3 @@ Le salon Linux World avait lieu à la **Jaarbeurs**, le Hall d'exposition de la 
 [Mozilla aux Pays-Bas](/mozilla-aux-pays-bas)  
 [Amsterdam adopte le libre](/amsterdam-adopte-le-libre)  
 [Notre Microsoft ne marche plus](/microsoft-ne-marche-plus)  
----

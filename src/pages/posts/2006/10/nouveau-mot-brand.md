@@ -29,4 +29,3 @@ Abordant l'actualité internationnale, le journaliste a parlé de la France. Il 
 
 ![voiture de pompier - brandweer](voiture-pompier-amsterdam-300.jpg){.left}
 Grâce à tous ces titres ayant pour thème commun les incendies, j'ai appris le mot ***brand*** et je me suis souvenu que sur les voitures de pompiers le mot *brandweer* est censée me faire comprendre que ce véhicule est prioritaire. Je vous laisse aussi admirer un de leurs véhicules d'intervention, idéal pour se garer près des incendies même quand il n'y a plus de place libre.
----

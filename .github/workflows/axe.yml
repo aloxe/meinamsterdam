@@ -22,4 +22,4 @@ jobs:
       - name: Run axe 🪓
         run: |
           npm install -g @axe-core/cli@4.10.2-e53cd36.0
-          axe http://localhost:8080/documentation/images/ --exit
+          axe http://localhost:8080/tous-derriere-la-balle/ --exit

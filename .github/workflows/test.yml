@@ -33,7 +33,7 @@ jobs:
           key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
           source: "_site/*"
-          target: "~/domains/test.xn--4lj4bfp6d.eu.org/public_html/"
+          target: "~/htdocs/test.meinamsterdam.nl/"
           strip_components: 1
           rm: true
 
@@ -56,8 +56,8 @@ jobs:
           SSH_HOST: ${{ secrets.HOST }}
           SSH_PORT: ${{ secrets.PORT }}
 
-      - name: Copy htaccess to site
-        run: ssh staging "cd ~/domains/test.xn--4lj4bfp6d.eu.org/homes/; cp .htaccess ../public_html/"
+      # - name: Copy htaccess to site
+      #   run: ssh staging "cd ~/domains/test.xn--4lj4bfp6d.eu.org/homes/; cp .htaccess ../public_html/"
 
-      - name: Add symlink to the logs
-        run: ssh staging "cd ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/; ln -s ../logs logs"
+      # - name: Add symlink to the logs
+      #   run: ssh staging "cd ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/; ln -s ../logs logs"

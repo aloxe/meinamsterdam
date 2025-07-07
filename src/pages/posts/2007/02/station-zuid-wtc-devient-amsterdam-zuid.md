@@ -15,22 +15,23 @@ Je vous l'ai dit en vous présentant le quartier [Zuidas](/un-buurt-nomme-zuidas
 
 <!--excerpt-->
 
-<!-- HTML -->
 
-<div class="flex flex-col items-center">
-<table><tr><td align=center>
+<div class="flex justify-center">
+  <div class="m-1 text-center">
 
 [![Station Zuid zonder WTC](station-zuid-zonder-wtc-200.jpg){.center}](http://flickr.com/photos/13274211@N00/391468176/)
 **Station Zuid ~~WTC~~**
 [agrandir](http://flickr.com/photos/13274211@N00/391468176/)
-<!-- HTML -->
-</td><td align=center>
+
+  </div>
+
+  <div class="m-1 text-center">
 
 [![Werknemers bij Station Zuid WTC](travaux-zuid-wtc-200.jpg){.center}](http://flickr.com/photos/13274211@N00/391443565/)
 **NS Werknemers**
 [agrandir](http://flickr.com/photos/13274211@N00/391443565/)
-<!-- HTML -->
-</td></tr></table>
+
+  </div>
 </div>
 
 Les panneaux seront surement changés un jour avec le reste du mobilier urbain. Pour le moment l'ensemble de la station est un chantier. Si vous avez lu mes articles, vous savez que cette station devrait avoir de plus en plus de trafic et peut-être même le futur [train à grande vitesse](/une-nouvelle-ligne-a-grande-vitesse). Deux nouvelles voies ont été construites à cet effet (la photo de droite montre la pose des catenaires) et les accès sont aujourd'hui en train d'être aménagés.

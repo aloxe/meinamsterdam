@@ -13,8 +13,6 @@ update: 2021-06-11
 TODO: no image, no image alt
 ---
 
-
-
 Nous venons de remplacer nos conseillers et conseillères des Français de République tchèque la semaine dernière et les Néerlandais de leur coté, ont élu leur 150 députés en mars dernier. Le public et les enjeux de ces deux élections sont rigoureusement différents mais les deux scrutins ont lieu à la proportionnelle que nous allons décortiquer en expliquant [les résultats](https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/resultats-des-elections/article/elections-consulaires-des-29-et-30-mai-2021-resultats) des conseillers des français des Pays-Bas (un exemple simple avec 5 listes pour 5 sièges et un poste de délégué consulaire).
 
 Les français sont familiers du scrutin majoritaire à deux tours, utilisé dans leurs élections phares: la présidentielle et les législatives. Pour élire ses députés, la France est découpée en 577 circonscriptions, autant que de sièges et les électeurs doivent se rendent aux urnes deux fois pour valider le résultat. Chez les Néerlandais, le scrutin est proportionnel les circonscriptions se dénombrent sur les doigts d'un seul doigt puisqu'il n'y a qu'une circonscription nationale.
@@ -81,7 +79,7 @@ La méthode de d’Hondt favorisant en général les plus gros partis en leur at
 Cette méthode est utilisée dans certaines élections en Allemagne ou en Scandinavie. Même si Sainte-Laguë est un mathématicien français ce système n’est pas utilisée en France où la classe politique veut éviter l’instabilité de la IVème République qu’elle attribue au trop grand nombre de petits partis au pouvoir à cette période.
 
 Vous pouvez maintenant calculer les résultats d'une élection proportionnelle et vous savez même que le choix de la méthode peut favoriser certains candidats. Pour l'élection d'une petite assemblée de 5 personnes, le choix de la méthode n'a pas beaucoup d’influence sur le résultat alors il ne nous reste plus qu'à remercier tous les candidats et féliciter les nouveaux élus en leur souhaitant bon courage pour leur nouveau mandat de 5 ans.
----
+
 <!-- post notes:
 https://www.diplomatie.gouv.fr/IMG/pdf/2021_-_tx_part_urne_par_pays_et_bv_cle8c7ad3.pdf 
 https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/resultats-des-elections/article/elections-consulaires-des-29-et-30-mai-2021-resultats 

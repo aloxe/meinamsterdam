@@ -39,36 +39,45 @@ Une association des commerçants des *negen straatjes* existe, qui essaye de pro
 
 Neuf artistes ont habillé de rouge, chacun à leur manière, chacune des neuf ruelles. C'est à voir du 1er au 10 septembre 2008, pendant neuf jour donc. pour ceux qui sont loin, en voici quelques vues, piquées sur le site du sponsor, Vodafone. Et oui, depuis que [Orange n'existe plus aux Pays-Bas](/orange-magenta), le rouge est le nouveau orange...
 
-
-<table cellpadding="10" align="center"><tr><td>
+<div class="flex justify-center">
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 3](9-straatjes-03.png)
 
-</td><td>
+  </div>
+
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 2](9-straatjes-rood-02.png)
 
-</td></tr><tr><td>
+  </div>
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 1](9-straatjes-rood-01.png)
 
-</td><td>
+  </div>
+</div>
+
+<div class="flex justify-center">
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 4](9-straatjes-rood-04.png)
 
-</td></tr><tr><td>
+  </div>
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 5](9-straatjes-rood-05.png)
 
-</td><td>
+  </div>
+  <div class="m-1 text-center">
 
 ![les 9 ruelles, vue 6](9-straatjes-rood-06.png)
 
-</td></tr></table>
-
+  </div>
+</div>
 
 ---
-[^1]: Les maisons de canaux en pierre sont rare à Amsterdam
+[^1]: Les maisons de canaux en pierre sont rares à Amsterdam
 <!-- post notes:
 De namen van een aantal van deze straatjes herinneren aan de ambachten die hier vroeger werden uitgeoefend, zoals het bewerken van huiden van beren, herten (harten), ree, rund en wolven.
  * Les noms d'un nombre de ceux-ci rappellent straatjes aux métiers qui ont été pratiqués ici autrefois, comme travailler les peaux barrir, des cerfs (harten), du chevreuil, du rund et des loups. 

@@ -39,7 +39,7 @@ Proef se veut un nouveau concept de restaurant qui vous invite à essayer, c’e
 
 #### Comme un pic-nic à la campagne
 
-Situé au milieu de Westerpark, Proef est petit local bordé d'un jardin qui se transforme en terrasse les jours de beau temps. L'intérieur fait penser à un loft : murs bruts de décoffrage, meubles rustiques savamment design et tables bien espacées. 
+Situé au milieu de Westerpark, Proef est petit local bordé d'un jardin qui se transforme en terrasse les jours de beau temps. L'intérieur fait penser à un loft : murs bruts de décoffrage, meubles rustiques savamment design et tables bien espacées.
 J'ai tout de suite été attiré par la cuisine, spacieuse et ouverte sur la salle, ici c'est la cuisine qui compte et ça me plait. Il y a peu de choix mais la carte change tous les jours ce qui garantit des plats frais et de saison.
 
 #### Sa succulente planche de légumes

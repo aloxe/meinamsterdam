@@ -25,19 +25,23 @@ Avant même de venir m'installer aux Pays-Bas, j'ai aussi remarqué que, dans ce
 <!--excerpt-->
 Les arrondis respectent les règles aussi utilisées pour la vente de produits au poids. La somme à payer est la somme "ronde" la plus proche de la somme exacte à payer. Parfois le client «perd» deux centimes maximum, parfois, le commerçant les «perd». Dans l'ensemble, les magasins ne gagnent pas d'argent sur les arrondis mais font des économies sur la logistique autour des pièces et des fonds de caisse. La première enseigne a avoir lancé le mouvement est, il me semble, [Albert Hein](http://meinamsterdam.nl/albert-hein-et-compagnie) mais nombre de magasins et boutiques ont suivit le mouvement.
 
-<!-- HTML -->
-<table><tr><td style="text-align:center;">
+
+<div class="flex justify-center">
+  <div class="m-1 text-center">
 
 ![Ticket avec arrondis gagnant](ticket-AH-afronding.jpg){.left}
 *Ticket avec arrondis gagnant*
-</td><td style="text-align:center;">
+
+  </div>
+
+  <div class="m-1 text-center">
 
 ![Ticket avec arrondis perdant](ticket-AH-bonus-afonding.jpg){.right}
 *Ticket avec arrondis perdant*
 
-</td></tr></table>
-<!-- / HTML -->
+  </div>
+</div>
 
-### Disparition des centimes d'euro
+### La disparition des centimes d'euro
 
 Vous imaginez mon désarroi, moi, [collectionnant les pièces en euro](http://meinamsterdam.nl/2006-nouveau-millesime) dans un pays qui ne les fait pas circuler. Au début, je pouvais encore récolter des petites pièces en cuivre dans les magasins qui ne pratiquaient pas encore les arrondis : La poste et les enseignes hard discount ou les prix sont au plus juste. Mais après quelques années même le Aldi du coin pratique les arrondis. Quand aux postes, [elles ont fermé](http://meinamsterdam.nl/la-fin-des-bureaux-de-poste). Il était vraiment temps que le quitte le pays.

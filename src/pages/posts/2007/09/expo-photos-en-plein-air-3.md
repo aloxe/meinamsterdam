@@ -17,9 +17,29 @@ subfooters:
 
 Durant l'été, en plus des festivals, il y a aussi des expositions de photos en plein air.
 
-<!-- [![http://farm2.static.flickr.com/1303/1362290062_5059040ee0_m.jpg](Who needs art ?){.center}](http://www.flickr.com/photos/13274211@N00/1362290062/) -->
+[![panneau sucette JCDecaux avec un homme gros qui arbore un tee shirt Who needs art?, bière et clope](who-need-art-in-museumplein.jpg){.center}](http://www.flickr.com/photos/13274211@N00/1362290062/)
 
 Au mois de juillet, j'ai croisé cette affiche sur **la place des musées** (*museumplein*). Cette photo marquait l'entrée d'une exposition **Who needs art ?** proposant un parcours autour du musée Van Gogh, du Rijksmuseum ey du musée Stedelijk, fermé pour travaux. Je n'ai en fait, pas eu l'occasion de voir cette expo à part cette photo, comme une provocation à l'entrée du parking de museumplein. Je ne suis d'ailleurs pas le seul à l'avoir remarquée.
+
+<div class="flex justify-center">
+  <div class="m-1 text-center">
+
+
+[![Who needs art? par Ekusie](793340262_ee548ddd8c_q.jpg)](https://www.flickr.com/photos/eisuke/793340262/)
+
+  </div>
+  <div class="m-1 text-center">
+
+[![who needs art by ina andré *](776354660_a19776f7fc_q.jpg)](https://www.flickr.com/photos/pinpanpunchi/776354660/)
+
+  </div>
+  <div class="m-1 text-center">
+
+[![who needs art by lissat80](698411181_5b23950f03_q.jpg)](https://www.flickr.com/photos/melissathompson/698411181/)
+
+  </div>
+</div>
+
 
 <table align=center cellpadding=0 cellspacing=0><tr><td align=center>
 <!-- / HTML -->

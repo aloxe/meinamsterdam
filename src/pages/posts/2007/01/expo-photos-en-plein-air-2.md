@@ -14,6 +14,8 @@ subfooters:
  - cliches
 ---
 
-Cet été, je suis allé à [Picnic '06](http://www.crossmediaweek.org/?id=1) pour voir ce que ça donnait. Je n'ai pas vu grand chose puisque les conférences étaient payantes et plutôt chères. Mais pour ma deuxième visite à la *westergazfabriek* j'ai plutôt profité du beau temps et de l'expo photo qui se trouvait sur l'esplanade devant le bâtiment.
+Cet été, je suis allé à [Picnic '06](http://www.crossmediaweek.org/?id=1) pour voir ce que ça donnait. 
 
-![gens sur leur vélos regardent des grands panneaux](expo-a-westergasfabriek-400.jpg)
+Je n'ai pas vu grand chose puisque les conférences étaient payantes et plutôt chères. Mais pour ma deuxième visite à la *westergazfabriek* j'ai plutôt profité du beau temps et de l'expo photo qui se trouvait sur l'esplanade devant le bâtiment.
+
+![gens sur leur vélos regardent des grands panneaux](expo-a-westergasfabriek-400.jpg){.center}

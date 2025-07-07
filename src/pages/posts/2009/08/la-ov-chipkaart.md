@@ -63,22 +63,6 @@ parodie:
   </div>
 </div>
 
-<!-- HTML -->
-<!-- <div class="flex flex-col items-center">
-<table><tr><td>
-
-original:  
-[![](ov-schipkaart-s.png)](ov-schipkaart.png)
-
-</td><td>
-
-parodie:  
-[![](ov-chipklacht-s.png)](ov-chipklacht.png)
-
-</td></tr></table>
-<div> -->
-<!-- / HTML -->
-
 <!-- post notes:
 http://nieuws.uilenstede.nl/2008/04/24/ov-chipkaart-veel-duurder-dan-strippenkaart/
 --->

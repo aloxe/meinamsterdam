@@ -26,7 +26,7 @@ Cette exposition en plein air a commencé au début de l'été mais comme c'éta
 <div class="text-center w-[500px] m-auto">
 
 ![carte postale de Callantsoog](vijzelstraat/L800-img_3124.jpg)
-Callantsoog
+**Callantsoog**
 
 ![carte postale d Aalsmeer](vijzelstraat/L800-img_3125.jpg)
 **Aalsmeer**  

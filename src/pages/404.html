@@ -2,15 +2,19 @@
 eleventyExcludeFromCollections: true
 layout: nofooter
 permalink: 404.html
-title: Page not found
+title: Page non trouvée
 ---
 
-<main class="container flex flex-col flex-wrap items-center px-6 pt-24 mx-auto md:flex-row md:pt-48">
-  <header class="flex flex-col justify-center w-full overflow-y-hidden lg:items-start">
-    <h1 class="my-4 text-3xl leading-tight text-center text-primary dark:text-secondary-dark md:text-left md:text-5xl">
-      <span class="sr-only">Error</span> 404
-    </h1>
-    <p class="mb-6 text-base leading-normal text-center md:text-left md:text-2xl dark:text-text-dark">🤷 Sorry, we couldn't find this page.</p>
-    <a rel="noopener noreferrer" href="{{ '/' }}" class="px-8 py-3 font-semibold text-bg bg-primary dark:text-bg-menu-dark dark:bg-bg-hover rounded-xs">Back to homepage</a>
-  </header>
-</main>
+<h2 class="my-4 text-3xl leading-tight text-center text-primary dark:text-secondary-dark md:text-left md:text-5xl">
+  <span class="sr-only">Erreur 404 </span>
+  🤷 désolé, cette pages est introuvable. 
+</h2>
+
+<p class="mb-6 text-base leading-normal text-center md:text-left md:text-2xl dark:text-text-dark">
+   Essayez peut-être de faire <a href="#searchinput">une recherche</a>.
+</p>
+<p class="mt-10!">
+  <a rel="noopener noreferrer" href="{{ '/' }}" class="px-8 py-3 font-semibold text-bg bg-primary dark:text-bg-menu-dark dark:bg-bg-hover rounded-xs">
+  Retour à l'accueil
+</a>
+</p>

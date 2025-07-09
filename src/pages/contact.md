@@ -1,30 +1,26 @@
 ---
-layout: base
+layout: contact
 permalink: contact/
 title: Formulaire de contact
 ---
 
-Pour m'envoyer votre message, veuillez compléter tous les champs de ce formulaire : 
+<p>Pour m'envoyer votre message, veuillez compléter tous les champs de ce formulaire : </p>
 
-<form action="https://api.web3forms.com/submit" method="POST">
+<section id="mailform">
+  <form id="contactForm" onSubmit="HandleSubmit(event)">
+    <label for="name">Votre nom :</label>
+    <input type="text" id="name" name="name" required data-validation-required-message="Entrez votre nom"/>
+    <label for="email">Votre adresse électronique :</label>
+    <input type="email" id="email" name="email" required data-validation-required-message="votre adresse mail" data-validation-validemail-message="votre adresse n'est pas bonne" />
+    <label for="message">Message:</label>
+    <textarea name="message" id="message" required maxlength="255" data-validation-minlength-message="5 caractères minimum" minlength="5" data-validation-required-message="merci d'écrire un message"></textarea>
+    <button type="submit" id="formsubmit">Envoyer</button>
+  </form>
+</section>
 
-  <!-- Replace with your Access Key -->
-  <input type="hidden" name="access_key" value="c7f897c8-2641-464d-85b5-dd418870cf08">
+<section id="feedback" class="rollup"></section>
+<hr>
 
-  <!-- Form Inputs. Each input must have a name="" attribute -->
-  <label for="name" class="block text-sm/6 font-medium text-gray-900">Nom
-  <input type="text" name="name" id="name" required class="block w-full grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 sm:text-sm/6 border-1 border-gray-300"></label>
-  <label for="email" class="block text-sm/6 font-medium text-gray-900">Adresse mail
-  <input type="email" id="email" name="email" required class="block w-full grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 sm:text-sm/6 border-1 border-gray-300"></label>
-  <label for="message" class="block text-sm/6 font-medium text-gray-900">Message
-  <textarea name="message" id="message" required class="block w-full rounded-md bg-white px-3 py-1.5 text-base text-gray-900 border-1 border-gray-300 placeholder:text-gray-400 sm:text-sm/6"></textarea></label>
-
-  <!-- Honeypot Spam Protection -->
-  <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
-
-  <!-- Custom Confirmation / Success Page -->
-  <input type="hidden" name="redirect" value="https://meinamsterdam.nl/merci">
-
-  <button type="submit" class="cursor-pointer">Envoyer</button>
-
-</form>
+<ul>
+		<li><a href="/newsletter/">Abonnez-vous à la newsletter</a></li>
+</ul>

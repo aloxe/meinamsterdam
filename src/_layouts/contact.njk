@@ -1,0 +1,21 @@
+{% extends 'base.njk' %}
+
+{% block head %}
+
+  {% include "head.njk" %}
+
+  {% set css %}
+    {% include "src/_assets/css/email.css" %}
+  {% endset %}
+  <style>
+    {{ css | postcss | safe }}
+  </style>
+
+  {% set js %}
+    {% include "src/_assets/js/emailform.js" %}
+  {% endset %}
+  <script>
+    {{ js | jsmin | safe }}
+  </script>
+
+{% endblock %}

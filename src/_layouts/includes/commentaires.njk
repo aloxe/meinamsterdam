@@ -10,25 +10,27 @@
 {% if entrees.length %}
   <section> 
   <h2>Commentaires</h2>
-  {%- for entree in entrees -%}
-      <li class="list-none !ml-0 pb-9">
-        {% if entree.data.email %}{% set email = entree.data.email %}{% else %}{% set email = "anonymous@example" %}{% endif %}
-        <img
-          src="{% gravatar email, 48, "retro" %}" 
-          title="{{ entree.data.email }}"
-          alt="{{ entree.data.author }} Avatar"
-          width="48"
-          height="48"
-          class="float-left mr-2"
-        /> par 
-        {% if entree.data.site %}
-          <a href="{{ entree.data.site }}">{{ entree.data.author }}</a><br>
-        {% else %}
-          {{ entree.data.author }}<br>
-        {% endif %}
-      <em class="text-text-light">le {{ entree.date | date }}</em><br>
-        {{ entree.content | md | safe }}
-      </li>
-  {%- endfor -%}
+    <ul>
+    {%- for entree in entrees -%}
+        <li class="list-none !ml-0 pb-9">
+          {% if entree.data.email %}{% set email = entree.data.email %}{% else %}{% set email = "anonymous@example" %}{% endif %}
+          <img
+            src="{% gravatar email, 48, "retro" %}" 
+            title="{{ entree.data.email }}"
+            alt="{{ entree.data.author }} Avatar"
+            width="48"
+            height="48"
+            class="float-left mr-2"
+          /> par 
+          {% if entree.data.site %}
+            <a href="{{ entree.data.site }}">{{ entree.data.author }}</a><br>
+          {% else %}
+            {{ entree.data.author }}<br>
+          {% endif %}
+        <em class="text-text-light">le {{ entree.date | date }}</em><br>
+          {{ entree.content | md | safe }}
+        </li>
+    {%- endfor -%}
+    </ul>
   </section>
 {% endif %}

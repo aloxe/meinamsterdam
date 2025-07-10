@@ -1,17 +1,28 @@
 <style>
   .pagefind-ui__message {
-    font-weight: bold;
+    
+    font-family: Advent;
+    font-size: var(--text-4xl);
+    margin-bottom: calc(var(--spacing)*1);
+    margin-top: calc(var(--spacing)*8);
+    text-align: left;
+    color: var(--color-secondary);
   }
   .pagefind-ui__results {
     list-style-type: none;
   }
   .pagefind-ui__result-title {
-    margin: 20px 0 10px;
+    margin: 20px 0 5px;
+    font-size: var(--text-xl);
   }
   .pagefind-ui__result-excerpt {
     margin: 5px 0 20px;
   }
+  .pagefind-ui__button {
+    cursor: pointer;
+  }
 </style>
+    {# font-weight: bold; #}
 
 <div id="searchdiv" class="search"></div>
 
@@ -40,7 +51,7 @@
   tabindexNav.appendChild(searchThisSite);
 
     // create label that shows on small screens
-  const label = document.createElement('LABEL');
+  const label = document.createElement('LABEL'); 
   const labelText = document.createTextNode(' 🔎 ');
   label.appendChild(labelText);
   label.classList.add('md:invisible', 'group-focus-within/search:invisible', 'p-3', 'align-bottom', 'cursor-pointer', 'fixed', 'top-0', 'right-2');
@@ -49,12 +60,15 @@
 
   // hide page content if there is a search term
   pageFindInput.onkeyup = () => {
+    const header = document.getElementsByTagName('header')[0];
     const article = document.getElementsByTagName('article')[0];
     const sections = [...document.getElementsByTagName('section')];
     if (pageFindInput.value.length > 0) {
+      header.classList.add('hidden');
       article.classList.add('hidden');
       sections.forEach((sections) => { sections.classList.add('hidden'); });
     } else {
+      header.classList.remove('hidden');
       article.classList.remove('hidden');
       sections.forEach((sections) => { sections.classList.remove('hidden'); });
     }

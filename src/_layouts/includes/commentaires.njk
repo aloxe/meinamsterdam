@@ -6,10 +6,10 @@
     {% set entrees = (entrees.push(comment), entrees) %}
   {% endif %}
 {%- endfor -%}
-
+ 
 {% if entrees.length %}
-<h2>Commentaires</h2>
-  <article>
+  <section> 
+  <h2>Commentaires</h2>
   {%- for entree in entrees -%}
       <li class="list-none !ml-0 pb-9">
         {% if entree.data.email %}{% set email = entree.data.email %}{% else %}{% set email = "anonymous@example" %}{% endif %}
@@ -30,5 +30,5 @@
         {{ entree.content | md | safe }}
       </li>
   {%- endfor -%}
-  </article>
+  </section>
 {% endif %}

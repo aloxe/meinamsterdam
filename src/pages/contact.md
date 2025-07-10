@@ -17,8 +17,9 @@ title: Formulaire de contact
     <button type="submit" id="formsubmit">Envoyer</button>
   </form>
 </section>
-
+<p></p>
 <section id="feedback" class="rollup"></section>
+
 <hr>
 
 <ul>

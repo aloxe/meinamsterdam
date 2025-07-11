@@ -6,7 +6,8 @@
     {% endblock %}
   </head>
   {# <body> #}
-  <body class="flex flex-col h-full dark:bg-bg-dark">
+  {% set is404 = page.fileSlug === "404" %}
+  <body {% if is404 %}onload="makeNotice()" {% endif %} class="flex flex-col h-full dark:bg-bg-dark">
     {% block menu %}
       {% include "menu.njk" %}
     {% endblock %}

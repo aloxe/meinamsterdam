@@ -29,42 +29,35 @@ Un petit dessin valant mieux qu'un grand discours, je vais vous montrer la diff�
 
 <!--excerpt-->
 
-<div class="block md:w-[600px] m-auto">
-
-<!-- HTML -->
-<table border="0" width="410" align="center" cellpadding="3"><tr><td width="50%" valign="top" style="padding-right:50px; font-size:10px;">
-<!-- / HTML -->
+<div class="flex justify-center">
+  <div class="m-3 text-left text-xs md:min-w-md ">
 
 ![prise électrique femelle](prise-electrique-femelle-pays-bas-200.jpg){.center}
 **Prise électrique femelle aux Pays-Bas**  
 **Type F ou SchuKo**  
 La prise de terre se fait par deux ergots en haut et bas de la prise et des guides sur les cotés permettent d'aligner la prise dans le bon sens. Ce type de prise est aussi utilisé en Allemagne.
-
-<!-- HTML -->
-</td><td width="50%" valign="top" style="font-size:10px;">
-<!-- / HTML -->
+  </div>
+  <div class="m-3 text-left text-xs md:min-w-md">
 
 ![prise électrique femelle](prise-electrique-femelle-france-200.jpg){.center}
 **Prise électrique femelle en France**  
 **Type E**  
 La prise de terre se fait par une tige au fond et cette tige sert aussi de repère d'alignement
+  </div>
 
-<!-- HTML -->
-</td></tr><td colspan="2" valign="top" style="font-size:10px;">
-<!-- / HTML -->
+</div>
+
+<div class="flex justify-center">
+  <div class="m-3 text-left text-xs max-w-[400px]">
 
 ![prise électrique male](prise-electrique-male-200.jpg){.center}
 **Prise électrique mâle universelle**  
 **Type CEE 7/7**  
 Une fiche électrique compatible doit présenter un trou pour la terre française en plus des contacts en haut ou en bas pour la terre hollandaise. Des guides sur les cotés doivent être présents pour l’alignement sur une prise en Hollande. La plupart des appareils électriques vendus en Europe utilisent cette norme.
-
-<!-- HTML -->
-</td></tr></table>
+  </div>
 </div>
-<!-- / HTML -->
 
-
-Certaines prises mâles françaises sont rondes et les échancrures sur les coté des prises hollandaises empêchent de les brancher. à l'inverse, les prises mâles hollandaises (et allemandes) n'ont pas toujours de trou pour la terre française et ne peuvent donc pas se brancher en France.
+Certaines prises mâles françaises sont rondes et les échancrures sur les cotés des prises hollandaises empêchent de les brancher. À l'inverse, les prises mâles hollandaises (et allemandes) n'ont pas toujours de trou pour la terre française et ne peuvent donc pas se brancher en France.
 
 ## Les adaptateurs
 

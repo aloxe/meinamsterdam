@@ -1,5 +1,6 @@
 name: '🗼 Lighthouse'
-on: pull_request
+# on: pull_request
+on: workflow_dispatch
 
 jobs:
   lighthouseci:

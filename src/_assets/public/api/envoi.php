@@ -46,7 +46,7 @@ $headname = encode_mail_header("$name", "iso-8859-1");
 
 // destination email out of the codebase
 // <?php $to = "email";
-include "../../safe/mailto.php";
+include "../../homes/mailto.php";
 
 if ($name == "404") {
   $subject = "[meinamsterdam.nl] Page $name";

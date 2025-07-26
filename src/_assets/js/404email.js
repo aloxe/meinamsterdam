@@ -2,7 +2,7 @@ function makeNotice() {
   const url = window.location.href;
   const referer = document.referrer;
 
-  sendEmail("404", "alx@test.meinamsterdam.nl", "\n404 not found on: \n" + url + "\n\n and referer = \n" + referer);
+  sendEmail("404", "meinamsterdam@blog.re", "\n404 not found on: \n" + url + "\n\n and referer = \n" + referer);
 }
 
 function sendEmail(name, email, message) {

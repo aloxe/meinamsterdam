@@ -45,7 +45,7 @@ $name = iconv("ISO-8859-1","ISO-8859-15",$name);
 $headname = encode_mail_header("$name", "iso-8859-1");
 
 // destination email out of the codebase
-// <?php $to = "email"; 
+// <?php $to = "email";
 include "../../safe/mailto.php";
 
 if ($name == "404") {

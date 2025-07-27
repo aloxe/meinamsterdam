@@ -85,13 +85,14 @@ La particularité de ces coques est qu'elles ne sont pas fabriquées de manière
 
 Les coques sont ouvertes mais ce n'est pas la seule chose ouverte chez Fairphone. L'entreprise Fairphone tient à son image et communique largement sur ses activités, maintenant en ce sens une certaine transparence[^5] (et un lien fort avec ses clients qui sont les meilleurs commerciaux de la marque). Elle tient à placer le social dans ses buts et a obtenu le label [B Corporation](https://en.wikipedia.org/wiki/B_Corporation_%28certification%29) réservé aux entreprises éthiques. Les bureaux reçoivent les visites de fans et le prix du téléphone est expliqué en détail jusqu'au détail de l'utilisation de la marge de 9 €. Cette ''analyse détaillée des coûts du Fairphone 2 est même disponible en français et comme c'est la langue de ce blog je vous la mets ci dessous:
 
-[![PDF: Analyse détaillée des coûts du Fairphone 2](analyse-couts-fairephone2.png){.center}](/public/files/2015/Fairphone-2-Cost-Breakdown-French2.pdf)
+[![PDF: Analyse détaillée des coûts du Fairphone 2](analyse-couts-fairephone2.png){.center}](/files/2015/Fairphone-2-Cost-Breakdown-French2.pdf)
 ---
 [^1]: On a beaucoup parlé de [Foxconn](https://fr.wikipedia.org/wiki/Foxconn), le sous-traitant Taïwanais de Apple mais NXP, son fournisseur Philippin [semble faire pire](http://www.industriall-union.org/fr/les-violations-empirent-chez-nxp-fournisseur-de-apple-aux-philippines).
 [^2]: Ce dernier c'est d'ailleurs illustré récement dans une tentative de dissimulation de son utilisation d'[esclavage des enfants](http://www.bastamag.net/Travail-des-enfants-Samsung-pris)
 [^3]: Le film a été [diffusé sur Arte en août 2013](http://www.arte.tv/fr/Blood-in-the-mobile/3688482.html)
 [^4]: Oui oui, la facture est élevée, c'est ce que je voulais dire mais aussi, il vaut son prix.
 [^5]: Les étuits du Fairphone 2 sont [eux aussi transparents](http://shop.fairphone.com/catalog/category/view/id/15) mais c'est peut-être un simple effet de design, tentant de relancer la mode *[Bondi blue iMac](https://fr.wikipedia.org/wiki/IMac_G3)* de 1998.
+
 <!-- post notes:
 http://www.schrijf-schrijf.nl/index.php/projecten/detail/Fairphone-storytelling-en-participatiecommunicatie/71 - https://www.fairphone.com/history/ 
 https://www.fairphone.com/wp-content/uploads/2015/06/150702-English-factsheet.pdf

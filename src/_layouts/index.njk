@@ -19,7 +19,7 @@
 
   <section class="index"><!-- use default mkdn class for styling -->
     {%- for post in revue %}
-      {% if post.data.publish !== "wait" %} {# no progress posts #}
+
         {% if not categorie or (post.data.categorie === categorie) %} {# requested categorie #}
           <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
           <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a> le {{ post.date | date }}</em><br/>
@@ -61,7 +61,7 @@
             </div>
           </p>
         {% endif %}
-      {% endif %}
+
     {%- endfor %}
 
     {% if pagination.href.previous %}

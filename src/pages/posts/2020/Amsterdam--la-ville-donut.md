@@ -1,17 +1,19 @@
 ---
 layout: base
 title: TODO Amsterdam, la ville donut
-publish: wait
 description: 
 categorie: 
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: Amsterdam--la-ville-donut/
+# permalink: Amsterdam--la-ville-donut/
 date: 2020-04-22
 update: 2020-12-07
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

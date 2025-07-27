@@ -1,17 +1,19 @@
 ---
 layout: base
 title: "TODO L'accident du El Al 1862"
-publish: wait
 description: 
 categorie: toering
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: L-accident-du-El-Al-1862/
+# permalink: L-accident-du-El-Al-1862/
 date: 2025-07-21
 update: 2024-12-18
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

@@ -1,17 +1,19 @@
 ---
 layout: base
 title: TODO Avoir pignon sur rue
-publish: wait
 description: 
 categorie: 
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: Avoir-pignon-sur-rue/
+# permalink: Avoir-pignon-sur-rue/
 date: 2025-03-25
 update: 2024-12-18
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

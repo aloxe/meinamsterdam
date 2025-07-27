@@ -2,16 +2,18 @@
 layout: base
 title: Les Pays-Bas, terreau des attaques informatiques
 description: 
-publish: wait
 categorie: dagelijks
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: les-pays-bas-terreau-des-attaques-informatiques/
+# permalink: les-pays-bas-terreau-des-attaques-informatiques/
 date: 2011-01-24
 update: 2011-01-24
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

@@ -1,17 +1,18 @@
 ---
 layout: base
 title: TODOLIST TODOLIST TODOLIST TODOLIST TODOLIST
-publish: wait
 description: style H2 H3 H4
 categorie: dagelijks
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: todolist/
 date: 2025-11-20
 update: 2023-04-07
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 style H2 H3 H4

@@ -1,16 +1,18 @@
 ---
 layout: base
 title: Les vélos oubliés
-publish: wait
 description: "J'ai oublié de lister quelques vélos dans la liste des vélos hollandais, je vais donc les lister ici et les ajouter sur la page en question."
 categorie: nederlandjes
 tags: ["vélo"]
 isMarkdown: true
 thumbnail: fabriekfiets.png
 image_alt: "vélo d'usine"
-permalink: les-velos-oublies/
+# permalink: les-velos-oublies/
 date: 2009-08-13
 update: 2014-04-11
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 J'ai oublié de lister quelques vélos dans [la liste des vélos hollandais](/plein-de-velos), je vais donc les lister ici et les ajouter sur la page en question.

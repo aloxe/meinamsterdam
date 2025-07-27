@@ -1,17 +1,19 @@
 ---
 layout: base
 title: TODO 10 questions sans réponse sur les Pays-Bas
-publish: wait
 description: 
 categorie: dagelijks
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: questions-sans-reponse-sur-les-pays-bas/
+# permalink: questions-sans-reponse-sur-les-pays-bas/
 date: 2025-12-19
 update: 2024-12-18
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 ## 1- Si les terres de hollande, où coulent les canaux, ont une altitude négative et que les canaux sont reliés à la mer. Pourquoi la mer ne s'engouffre pas dans les canaux pour tout inonder ?

@@ -262,7 +262,6 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collection) {
   return collection.getFilteredByGlob("./src/pages/posts/**/*.md") // all posts
     .filter((item) => !item.data.tags.includes("comment")) // without comments
-    .filter((item) => !item.data.publish || !item.data.publish.includes("wait")) // not unpublished
     .sort((a, b) => b.date - a.date); // sort ascending
   });
 
@@ -271,28 +270,24 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addCollection('toering', function (collection) {
     return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
     .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
     .filter((item) => item.data.categorie === 'toering');
   });
 
   eleventyConfig.addCollection('nederlandjes', function (collection) {
     return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
     .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
     .filter((item) => item.data.categorie === 'nederlandjes');
   });
 
     eleventyConfig.addCollection('ik-ben-frans', function (collection) {
     return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
     .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
     .filter((item) => item.data.categorie === 'ik-ben-frans');
   });
 
   eleventyConfig.addCollection('dagelijks', function (collection) {
     return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
     .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => !item.data.publish || !item.data.publish.includes("wait"))
     .filter((item) => item.data.categorie === 'dagelijks');
   });
 

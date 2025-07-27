@@ -1,17 +1,19 @@
 ---
 layout: base
 title: Ben ik asociaal?
-publish: wait
 description: 
 categorie: dagelijks
 tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
-permalink: ben-ik-asociaal/
+# permalink: ben-ik-asociaal/
 date: 2009-07-30
 update: 2009-08-06
 TODO: no image, no image alt
+# UNPUBLISHED
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 

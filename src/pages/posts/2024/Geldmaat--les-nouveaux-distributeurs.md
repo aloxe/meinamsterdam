@@ -4,8 +4,8 @@ title: Geldmaat, les nouveaux distributeurs
 categorie: nederlandjes
 tags: ["Belgique", "banque", "eco", "pratique", "économie"]
 isMarkdown: true
-thumbnail: affiche-geldmaat-ing.jpg
-image_alt: 
+thumbnail: geldmaat-opneming-storting.jpg
+image_alt: Geldmaat dépôt et retrait
 permalink: Geldmaat--les-nouveaux-distributeurs/
 date: 2024-03-18
 update: 2024-03-18

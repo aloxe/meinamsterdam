@@ -37,10 +37,10 @@ Un nouveau vélo ING
   </div>
 </div>
 
-[![rabobank fietsplan in Breda](Rabobank-Breda-fiets-studenten.png){.left}](http://blog.re/me-in-amsterdam/files/data/2008-Rabobank-Breda-fiets-studenten.png)
+[![rabobank fietsplan in Breda](Rabobank-Breda-fiets-studenten.png){.left}](/files/2008/2008-Rabobank-Breda-fiets-studenten.png)
 Les banques aiment bien les étudiants. Généralement les étudiants poursuivent leurs études et trouvent ensuite plus facilement un boulot qui leur assure des revenus confortables. Comme les gens changent rarement de banque, il est bon de capter les clients intéressants dès qu'ils sont étudiants. La Rabobank l'a bien compris et propose depuis plusieurs années déjà, d'offrir un vélo neuf à tout étudiant ouvrant un nouveau compte dans l'une de ses agences. L'étudiant qui vient d'ouvrir son compte peut aller chercher son vélo dans un dépôt en banlieue à une unique date précise. **Le vélo Rabobank** est aux couleurs de la banque. Jadis, c'était un [omafiets](/plein-de-velos#omafiets) orange avec le logo de la banque mais depuis deux ans, les étudiants ont droit à un joli [beach-cruiser](/plein-de-velos#beach-cruiser) orange et bleu toujours avec le logo de la banque. Des vélos de bonne qualité.
 
-Hélas, dans les [conditions générales](http://blog.re/me-in-amsterdam/files/data/2008-Rabobankfiets-studenten_actievoorwaarden.pdf), il est clairement indiqué que l'offre est valable jusqu'au 15 septembre 2008. Trop tard pour moi donc. Il faudra surveiller l'année prochaine...
+Hélas, dans les [conditions générales](/files/2008/2008-Rabobankfiets-studenten_actievoorwaarden.pdf), il est clairement indiqué que l'offre est valable jusqu'au 15 septembre 2008. Trop tard pour moi donc. Il faudra surveiller l'année prochaine...
 
 Une autre banque aussi (**ING**) a cette année proposé des vélos aux étudiants. Ces derniers pouvaient devenir propriétaires de leur vélo [pour 7,50 euros par mois](http://fietsen.web-log.nl/fietsen/2008/02/banken_leveren_.html). Les vélos sont des omafiets, eux aussi orange et bleu aux couleurs de la banque sponsor mais ils portent en plus une plaque publicitaire pour [business-courses.nl](http://www.business-courses.nl/). Inutile de vous dire que quelques mois après la fin de cette opération, on croise encore ces vélos mais aucun ne conserve sa plaque publicitaire.
 

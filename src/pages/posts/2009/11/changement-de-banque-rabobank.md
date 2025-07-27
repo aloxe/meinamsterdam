@@ -2,7 +2,7 @@
 layout: base
 title: Changement de banque, Rabobank
 categorie: nederlandjes
-tags: []
+tags: ["économie", "sociétés", "banque"]
 isMarkdown: true
 thumbnail: rabobank.png
 image_alt: Logo Rabobank
@@ -15,9 +15,9 @@ subfooters:
 
 
 
-L'année dernière, je vous racontais comment [Postbank devenait ING](/postbank-devient-ing-officielement). Ce que je ne vous ai pas raconté c'est qu'à la même période, j'ai chercher à ouvrir un compte dans une nouvelle banque[^1], à vocation moins hégémonique[^2], et ne pratique pas de [petits vols au quotidien](/petits-vols-en-public-2) ni les placements exotiques que personne ne comprend. La tâche est ardue, on sait tous que ce qui intéresse une banque, c'est notre fric...
+L'année dernière, je vous racontais comment [Postbank devenait ING](/postbank-devient-ing-officielement/). Ce que je ne vous ai pas raconté c'est qu'à la même période, j'ai chercher à ouvrir un compte dans une nouvelle banque[^1], à vocation moins hégémonique[^2], et ne pratique pas de [petits vols au quotidien](/petits-vols-en-public-2/) ni les placements exotiques que personne ne comprend. La tâche est ardue, on sait tous que ce qui intéresse une banque, c'est notre fric...
 
-Voir aussi [Choisir une banque](/choisir-une-banque), article de 2006.
+Voir aussi [Choisir une banque](/choisir-une-banque/), article de 2006.
 
 ## Rabobank c'est quoi?
 
@@ -32,10 +32,10 @@ La banque **Rabobank Nederland** est toujours une société coopérative (*coope
 
 En période de crise financière comme cette année, ces choix deviennent censés. Le nouveau PDG de la banque, Piet Moerland [a annoncé en août 2009](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11207) un bénéfice de 1,3 milliard d?euros alors que les autres banques du pays recevait des aides du gouvernement pour combler leurs déficits record. Biensur Rabobank n'est pas couverte contre tous les risques, ces résultats sont en baisse de 16% par rapport à 2008 et si [la crise économique continue](http://contreinfo.info/article.php3?id_article=2851), il est fort probable que cela continue d'affecter les résultats de la banque. Il reste qu'une banque qui se concentre sur le métier traditionnel de banquier et qui s'attache à le faire bien est plus rassurante qu'[une banque qui se la pête à faire n'importe quoi](/les-deboires-de-la-royal-bank-of-scotland).
 
-J'ai donc quitté [Postbank](/postbank-amsterdam) devenue ING[^3] et je suis allé chez Rabobank[^4]. Ceci n'est pas la solution miracle aux problèmes financiers de notre temps, mais j'espère que ça y contribue. Pour finir je vous propose de regarder la vidéo de recrutement de la banque pour la région d'Amsterdam. Point de photo de jeune battant souriants et près à tout pour augmenter leurs bonus, non, juste un film humoristique montant des amstelodamois et des gens serviables qui pourrait venir travailler chez Rabobank. Le service, c'est important. je me suis senti bienvenu en allant chez Rabobank alors j'espère que ça va durer.
+J'ai donc quitté [Postbank](/postbank-amsterdam/) devenue ING[^3] et je suis allé chez Rabobank[^4]. Ceci n'est pas la solution miracle aux problèmes financiers de notre temps, mais j'espère que ça y contribue. Pour finir je vous propose de regarder la vidéo de recrutement de la banque pour la région d'Amsterdam. Point de photo de jeune battant souriants et près à tout pour augmenter leurs bonus, non, juste un film humoristique montant des amstelodamois et des gens serviables qui pourrait venir travailler chez Rabobank. Le service, c'est important. je me suis senti bienvenu en allant chez Rabobank alors j'espère que ça va durer.
 
 ---
-[^1]: En fait je vous en ai un peu parlé: [Changement de banque](/changement-de-banque)
+[^1]: En fait je vous en ai un peu parlé: [Changement de banque](/changement-de-banque/) et ici [avec les vélos gratuits](/les-velos-gratuits/)
 [^2]: Voir [j'appartiens à la société anonyme|]
 [^3]: Officiellement parce que je n'aime pas le orange, c'est ce que j'ai mis sur le questionnaire.
 [^4]: Officiellement parce que c'est une coopérative, c'est ce que j'ai mis sur le questionnaire.

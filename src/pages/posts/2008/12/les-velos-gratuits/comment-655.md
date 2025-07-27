@@ -9,22 +9,13 @@ permalink: false
 
 <p>
 
-C'est vrai qu'à Amsterdam, tout le monde est si gentil à bicyclette. La preuve cette vidéo, réalisée par <a href="http://www.werkenbijrabobankamsterdam.nl/" rel="nofollow">Rabobank</a> justement.
-</p>
-<script type="text/javascript" src="http://www.werkenbijrabobankamsterdam.nl/sites/all/themes/wbra/swfobject.js?1"></script>
-<script type="text/javascript">
-var flashvars = {
-  file: "http://www.werkenbijrabobankamsterdam.nl/sites/default/files/RB_Home-DEF_0.flv",
-  image: "http://www.werkenbijrabobankamsterdam.nl/sites/default/files/RB_Home-DEF_0.jpg",
-  autostart: "false",
-  stretching: "fill"
-};
-var params = {
-  wmode: "transparent"
-};
-swfobject.embedSWF("http://www.werkenbijrabobankamsterdam.nl/sites/default/files/Player.swf", "flashobject", "725", "400", "9.0.0", false, flashvars, params);
+C'est vrai qu'à Amsterdam, tout le monde est si gentil à bicyclette. La preuve cette vidéo, réalisée par <a name="http://www.werkenbijrabobankamsterdam.nl/">Rabobank</a> justement.
 
-</script>
+</p>
+
+<div class="flex flex-col items-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akiuLQMpeCs?si=nXXVOj-vR0loGX2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <p id="flashobject">Deze tekst wordt vervangen door een videospeler indien u Flash geinstalleerd heeft.</p>
 ---

@@ -32,7 +32,7 @@
     {% if tags %}
       <div class="flex-row">
         {% for tag in tags %}
-          <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
+          <em class="text-primary">🏷</em> <em class="text-text-light"><a href="/tag/{{tag}}/">{{ tag }}</a></em>
         {% endfor %}
       </div>
     {% endif %}

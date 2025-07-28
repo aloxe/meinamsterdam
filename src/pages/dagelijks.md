@@ -1,8 +1,8 @@
 ---
 layout: liste
 eleventyComputed:
-    title: '{{ categories[0].title }} - {{ meta.title }}'
-    categorie: '{{ categories[0].name }}'
+    title: '{{ categories[3].title }}'
+    categorie: '{{ categories[3].name }}'
 pagination:
   data: collections.dagelijks
   size: 12

@@ -1,8 +1,7 @@
 ---
 layout: liste
-eleventyComputed:
-    title: '{{ categories[0].title }} - {{ meta.title }}'
-    categorie: '{{ categories[0].name }}'
+title: 'Nederlandjes, Uniquement chez les dutch'
+categorie: nederlandjes
 pagination:
   data: collections.nederlandjes
   size: 12

@@ -22,9 +22,9 @@
 
         {% if not categorie or (post.data.categorie === categorie) %} {# requested categorie #}
           <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-          <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a> le {{ post.date | date }}</em><br/>
+          <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a> le {{ post.date | date }}</em> <br/>
           {% for tag in post.data.tags %}
-            <em class="text-primary">🏷</em> <em class="text-text-light">{{ tag }}</em>
+            <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{tag}}/">{{ tag }}</a></em>
           {% endfor %}
           <p>
             {% if post.data.headline %}

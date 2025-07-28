@@ -1,8 +1,8 @@
 ---
 layout: liste
 eleventyComputed:
-    title: '{{ categories[0].title }} - {{ meta.title }}'
-    categorie: '{{ categories[0].name }}'
+    title: '{{ categories[2].title }}'
+    categorie: '{{ categories[2].name }}'
 pagination:
   data: collections.ik-ben-frans
   size: 12

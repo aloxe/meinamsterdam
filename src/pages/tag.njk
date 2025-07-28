@@ -20,9 +20,11 @@ permalink: /tag/{{ tag }}/
   {% endif %}
 </p>
 
-{% for post in taglist.slice(0,10) %}
-  <h2 class="mb-0.5"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-  <div class="flex-row">
-    <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a><em class="text-text-light">, le {{ post.date | date }}</em>
-  </div>
-{% endfor %}
+<section class="index">
+  {% for post in taglist.slice(0,10) %}
+    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <div class="flex-row -mt-2">
+      <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a>, le {{ post.date | date }}</em>
+    </div>
+  {% endfor %}
+</section>

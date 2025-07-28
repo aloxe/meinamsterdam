@@ -7,8 +7,9 @@ tags: comment
 permalink: false
 ---
 
-<p><a href="/images/photos/2006-03/inventaire-cartons.jpg" title="inventaire-cartons.jpg" rel="nofollow">.../inventaire-cartons.jpg</a><br />
+<p>
+<a href="/demenagement-en-photos/inventaire-cartons-550w.jpeg" title="inventaire-cartons.jpg" rel="nofollow">.../inventaire-cartons.jpg</a><br />
 <em>"inventaire : est ce que tout y est ?"</em><br />
 <br />
-- Non! il manque le cochonet qui va avec la grosse boule de petanque.</p>
----
+- Non! il manque le cochonet qui va avec la grosse boule de petanque.
+</p>

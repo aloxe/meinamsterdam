@@ -254,11 +254,6 @@ module.exports = async function(eleventyConfig) {
     return metadata.webp[0].url
   })
 
-  // Collections 
-  eleventyConfig.addCollection("documentation", function (collection) {
-    return collection.getFilteredByGlob("./src/pages/documentation/**/*.md");
-  });
-
   eleventyConfig.addCollection("posts", function (collection) {
   return collection.getFilteredByGlob("./src/pages/posts/**/*.md") // all posts
     .filter((item) => !item.data.tags.includes("comment")) // without comments

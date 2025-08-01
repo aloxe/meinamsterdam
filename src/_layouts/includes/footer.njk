@@ -1,14 +1,31 @@
-{# <script>
-{% set js %}
-  {% include "src/_assets/js/animateheader.js" %}
-{% endset %}
-{{js | safe}}
-</script> #}
+
+
+{% if categorie %}
+  <script type="text/javascript" src="/js/drawer.js" defer></script>
+  
+    <!-- Bottom drawer container with transition -->
+    <div id="bottomDrawer"
+      class="translate-y-[10em] duration-300 
+      border-2 border-primary bg-cyan-50 rounded-xl mx-auto my-0 fixed bottom-0
+      p-2 w-full left-0 md:p-4 md:w-[60%] md:left-[20%]">
+      <button type="button" id="closeButton" class="float-right cursor-pointer">
+        ×
+      </button>
+      <div>
+        <!-- Drawer content -->
+        <h2>Abonnez-vous</h2>
+        <p>Recevez les prochains articles par mail.</p>
+        {% include "newsletter-form.njk" %}
+      </div>
+    </div>
+    <!-- END Bottom drawer -->
+
+{% endif %}
 
 <script src="/js/animateheader.js" type="text/javascript" defer></script>
 
 <footer class="bg-white text-text-light text-center p-4 w-full shrink-0 ">
   <div class="border-text-light border-1 rounded-2xl p-1">
-     Blog créé en 2006, animé par <a href="https://alix.guillard.fr/">Alix Guillard</a> cc-by-sa	
+     Blog créé en 2006, animé par <a href="https://alix.guillard.fr/">Alix Guillard</a> cc-by-sa - <a href="/contacts/">Contacts</a>	
   </div>
 </footer>

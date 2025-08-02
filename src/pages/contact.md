@@ -1,7 +1,7 @@
 ---
 layout: contact
 permalink: contact/
-title: me in Amsterdam, contacts
+title: me in Amsterdam, contact
 ---
 
 ## Abonnez-vous à la Newsletter
@@ -11,7 +11,7 @@ Laissez votre adresse mail ci-dessous et recevez les prochains articles directem
 
 {% include "../includes/newsletter-form.njk" %}
 
-Votre adresse mail n'est utilisé par follow.it que pour vous envoyer les nouveaux articles ( voir leur <a href="https://follow.it/info/privacy" class="ext">politique de confidentialité</a> ). Vous pouvez aussi suivre mon <a href="https://meinamsterdam.nl/feed.xml">flux RSS</a> si vous préférez.{.note}
+Votre adresse mail n'est utilisé par follow.it que pour vous envoyer les nouveaux articles ( voir leur <a href="https://follow.it/info/privacy" class="ext">politique de confidentialité</a> ).{.note}
 
 
 ## Autre moyen de me suivre

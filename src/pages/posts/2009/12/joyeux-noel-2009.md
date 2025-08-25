@@ -2,7 +2,9 @@
 layout: base
 title: Joyeux Noël 2009
 categorie: dagelijks
-tags: []
+tags: 
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: joyeux-noel-2009.jpg
 image_alt: alix et drooderfiets

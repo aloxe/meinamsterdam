@@ -3,7 +3,9 @@ layout: base
 title: Drooderfiets, mon nouveau nouveau vélo
 description: "Vous vous rappelé qu'on m'a volé mon Btwin ? Ça fait longtemps que je n'en ai pas parlé parce qu'en fait, j'ai un nouveau vélo depuis six mois. Pas le beac"
 categorie: dagelijks
-tags: ["vélo"]
+tags: 
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: transportfiets.png
 image_alt: vélo transportfiets hollandais

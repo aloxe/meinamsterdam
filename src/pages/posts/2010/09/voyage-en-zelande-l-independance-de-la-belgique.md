@@ -2,7 +2,10 @@
 layout: base
 title: "Voyage en Zélande: L'indépendance de la Belgique"
 categorie: toering
-tags: ["Belgique"]
+tags: 
+ - vélo
+ - drooderfiets
+ - Belgique
 isMarkdown: true
 thumbnail: borne-belgie.jpg
 image_alt: Borne frontière Belgique - Pays-Bas

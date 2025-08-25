@@ -3,16 +3,18 @@ layout: base
 title: Révision du Drooderfiets
 description: Mon nouveau vélo de 2009 commence à se faire vieux. J'envisage des réparation.
 categorie: Dagelijk
-tags: [vélo]
+tags:
+ - vélo
+ - drooderfiets
 isMarkdown: true
-thumbnail: 
-image_alt: 
-# permalink: 10-mots-neerlandais-qui-viennent-du-francais/
+thumbnail: drooder-marque.jpg
+image_alt: Arrière de vélo rouge de marque Azor
+permalink: revision-du-drooderfiets/
 date: 2025-07-23
 update: 2024-08-03
 ---
 
-je l'ai fais [pour mon Btwin](/revision-du-btwin/) après un an à dormir dehors à Amsterdam, je fais le point sur les petits bobos de mon vélo Que je vous ai présenté ici à plusieurs reprises. Après avoir parcouru des kilometres en Europe, il ne va pas très bien. Un frein vient de casser et les vitesses n'arrêtent pas de sauter. Mais ce n'est pas tout.
+je l'ai fait [pour mon Btwin](/revision-du-btwin/) après un an à dormir dehors à Amsterdam, je fais le point sur les petits bobos de mon vélo Que je vous ai présenté ici à [plusieurs reprises](/tag/drooderfiets/). Après avoir parcouru des kilometres en Europe, il ne va pas très bien. Les vitesses n'arrêtent pas de sauter et en plus Un frein vient de casser. V'est le pompon ! Mais ce n'est pas tout.
 
 ![alt text](drooder-karter.jpg){.left}
 Je vanatis les vélos hollandais parce qu'ils avaient un carter, cette pièce de protection en plastique permet de faire du vélo sans remonter son pantalon et protège la chaine contre l'usure des entemperies. Seulement rien ne protège le carter contre l'usure des intempéries et ici, on voit qu'il commence à rouiller.

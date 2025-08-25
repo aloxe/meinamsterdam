@@ -3,7 +3,9 @@ layout: base
 title: Les touristes du nouvel an
 description: 
 categorie: toering
-tags: []
+tags: 
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: 
 image_alt: 

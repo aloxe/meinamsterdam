@@ -2,7 +2,12 @@
 layout: base
 title: "Voyage en Zélande: Traverser l'Escaut"
 categorie: nederlandjes
-tags: ["Belgique", "géographie", "mots", "vélo"]
+tags: 
+ - vélo
+ - drooderfiets
+ - Belgique
+ - mots
+ - géographie
 isMarkdown: true
 thumbnail: escault-et-anvers.jpg
 image_alt: "L'Escault et Anvers"

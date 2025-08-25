@@ -3,7 +3,8 @@ layout: base
 title: Les vélos en couleur (2)
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - vélo
 isMarkdown: true
 thumbnail: velos-en-couleur.jpg
 image_alt: vélos en couleur pris par derrière

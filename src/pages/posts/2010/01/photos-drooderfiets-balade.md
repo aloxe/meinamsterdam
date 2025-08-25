@@ -2,7 +2,9 @@
 layout: base
 title: "Drooderfiets en balade: quelques photos"
 categorie: toering
-tags: []
+tags: 
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: transportfiets.png
 image_alt: vélo transportfiets hollandais

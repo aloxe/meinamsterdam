@@ -3,7 +3,10 @@ layout: base
 title: Le Thalys à moins grande vitesse
 description: "Annoncé depuis des lustres, souvent reportée, la nouvelle ligne de trains à grande vitesse des Pays-Bas est enfin en service depuis le 13 décembre 2009. J'a"
 categorie: ik-ben-frans
-tags: []
+tags:
+ - Thalys
+ - train
+ - transports
 isMarkdown: true
 thumbnail: thalys-retarde.jpg
 image_alt: train retardé

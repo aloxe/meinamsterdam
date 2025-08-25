@@ -7,6 +7,7 @@ tags:
  - transports
  - train
  - Belgique
+ - Thalys
 isMarkdown: true
 thumbnail: thalys-site-voyages-sncfs.png
 image_alt: Voyages SNCF

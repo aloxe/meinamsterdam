@@ -3,7 +3,12 @@ layout: base
 title: Une nouvelle ligne pour trains à grande vitesse
 description: 
 categorie: nederlandjes
-tags: ["politique", "schiphol", "transports"]
+tags: 
+ - politique
+ - schiphol
+ - transports
+ - train
+ - Thalys
 isMarkdown: true
 thumbnail: thalys-pub-2004.jpg
 image_alt: pub Thalys de 2004

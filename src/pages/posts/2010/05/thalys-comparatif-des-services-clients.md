@@ -2,7 +2,10 @@
 layout: base
 title: "Thalys : comparatif des services clients"
 categorie: ik-ben-frans
-tags: ["thalys", "transports"]
+tags: 
+ - Thalys
+ - transports
+ - train
 isMarkdown: true
 thumbnail: vouchers-surprise.jpg
 image_alt: Moi et mes vouchers

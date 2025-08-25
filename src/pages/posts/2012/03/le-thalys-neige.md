@@ -2,7 +2,10 @@
 layout: base
 title: le Thalys neige
 categorie: toering
-tags: ["Thalys", "neige", "transports"]
+tags: 
+ - Thalys
+ - neige
+ - transports
 isMarkdown: true
 thumbnail: gare-centrale-amsterdam-bourg-saint-maurice.jpg
 image_alt: de Gare Centrale Amsterdam à Bourg-Saint-Maurice

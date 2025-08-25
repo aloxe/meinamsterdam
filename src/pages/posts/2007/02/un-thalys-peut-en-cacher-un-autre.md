@@ -2,7 +2,10 @@
 layout: base
 title: Un Thalys peut en cacher un autre (Texas bigger than France ?)
 categorie: dagelijks
-tags: ["photos", "transports"]
+tags: 
+ - photos
+ - transports
+ - Thalys
 isMarkdown: true
 thumbnail: texas-is-biger-than-france.jpg
 image_alt: "Texas it's bigger than France"

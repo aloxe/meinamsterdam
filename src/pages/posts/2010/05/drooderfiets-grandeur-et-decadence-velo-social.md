@@ -2,7 +2,9 @@
 layout: base
 title: "Drooderfiets: Grandeur et décadence d'un vélo social"
 categorie: dagelijks
-tags: ["velo"]
+tags: 
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: sonette.jpg
 image_alt: ma sonette

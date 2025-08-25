@@ -3,7 +3,9 @@ layout: base
 title: Contravention
 description: "Parmi les marronniers de la saison il y a les lumières pour vélos. Je vous ai parlé de cette obligation d'avoir des lumières sur son vélo puis des différe"
 categorie: dagelijks
-tags: ["transports", "vélo"]
+tags:
+ - vélo
+ - drooderfiets
 isMarkdown: true
 thumbnail: oeps-PV.jpg
 image_alt: PV

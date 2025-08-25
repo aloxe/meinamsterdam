@@ -2,7 +2,11 @@
 layout: base
 title: "Voyage en Zélande : Un petit tour à vélo"
 categorie: toering
-tags: ["géographie", "vélo", "économie"]
+tags: 
+ - vélo
+ - drooderfiets
+ - économie
+ - géographie
 isMarkdown: true
 thumbnail: peupliers-champ-zelande.jpg
 image_alt: Peupliers et champs de blé

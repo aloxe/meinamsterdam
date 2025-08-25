@@ -2,7 +2,10 @@
 layout: base
 title: Sur le Giro
 categorie: dagelijks
-tags: ["sport"]
+tags: 
+ - vélo
+ - drooderfiets
+ - sport
 isMarkdown: true
 thumbnail: 
 image_alt: 

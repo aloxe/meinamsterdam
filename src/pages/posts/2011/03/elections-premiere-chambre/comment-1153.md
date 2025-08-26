@@ -28,7 +28,7 @@ Les divers partis régionaux enregistrent des scores variant de 0,1 à 0,4%.</st
 <p>
 Un image résume bien la situation même si ces cartes ne donne pas toutes les ficelles pour comprendre, on voit bien une déroute du CDA (en vert) et une progression du VVD et du PVV à commencer par le Limbourg. Voici la carte des partis qui sont arrivés en tête par commune:
 <br /><br />
-<img src="http://blog.re/me-in-amsterdam/images/scans/cartes/elections-provinciales-2011.png" /><br /><br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Statenverkiezingen_Nederland_2011.svg/langfr-200px-Statenverkiezingen_Nederland_2011.svg.png" /><br /><br />
 On y voit que le CDA n'est plus forcément majoritaire dans les campagnes. Que le PvdA conserve ses bastions que sont le nord-est et les grandes villes (Amsterdam, Rotterdam, Utrecht, Haarlem, Arnhem, Groningue, Enschede).
 <br /><br />Le SGP, parti protestant orthodoxe arrive premier dans ces bastions de la "bible belt et en Zélande alors que la Christen Unie, parti plus démocratique conserve ses bastions des environs de Staphorst et en profite pour arriver premier dans deux communes de Frise. Il faudrait une carte interactive pour voir si c'est parce que les votes sont dilués dans plusieurs partis ou si c'est une installation dans le territoire.
 <br /><br />

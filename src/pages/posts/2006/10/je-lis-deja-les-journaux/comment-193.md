@@ -17,8 +17,8 @@ Je viens de découvrir que le lien de la revue de presse ne marchait plus et per
 Et en passant, je vais répondre au message...
 </p>
 <p>
-Bonjour <a href="http://blog.re/me-in-amsterdam/index.php/un-peu-de-lecture-sur-d-autres-blogs">Nina</a>,
+Bonjour <a href="https://meinamsterdam.nl/un-peu-de-lecture-sur-d-autres-blogs/">Nina</a>,
 <br/><br/>
-Je te réponds un peu tard mais il y a de nombreuses sources de nouvelles anglophones et j'ai décidé de ne parler que e francphone ici. Sinon, je comprarrerais plutôt la revue de presse de l'ambassade de France à celle faite en anglais par <a href="http://www.radionetherlands.nl/pr/">Radio Netherlands</a>. La Newsletter <a href="http://dutchnews.nl/">Dutchnews</a> est bien aussi et pour les nouvelles insolites, je lis <a href="http://www.24oranges.nl/">24 oranges</a>, lancé avec <a href="http://blog.re/me-in-amsterdam/index.php/14-juillet-party">Natasha</a> et aussi <a href="http://badnewsfromthenetherlands.blogspot.com/">Bad news from the Netherlands</a>.
+Je te réponds un peu tard mais il y a de nombreuses sources de nouvelles anglophones et j'ai décidé de ne parler que e francphone ici. Sinon, je comprarrerais plutôt la revue de presse de l'ambassade de France à celle faite en anglais par <a href="http://www.radionetherlands.nl/pr/">Radio Netherlands</a>. La Newsletter <a href="http://dutchnews.nl/">Dutchnews</a> est bien aussi et pour les nouvelles insolites, je lis <a href="http://www.24oranges.nl/">24 oranges</a>, lancé avec <a href="https://meinamsterdam.nl/juillet-party/">Natasha</a> et aussi <a href="http://badnewsfromthenetherlands.blogspot.com/">Bad news from the Netherlands</a>.
 </p>
 ---

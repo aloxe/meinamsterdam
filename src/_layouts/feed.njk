@@ -1,29 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ meta.url }}">
   <title>{{ meta.title }}</title>
-  <description>{{ meta.description }}</description>
-  <image>
-    <url>{{ meta.url }}{{ meta.image }}</url>
-    <title>{{ meta.title }}</title>
-    <link>{{ meta.url }}</link>
-  </image>
+  <subtitle>{{ meta.description }}</subtitle>
   <link href="{{ meta.url }}{{ permalink }}" rel="self"/>
-  <link href="{{ meta.url }}"/>
-  <updated>{{ collections.documentation | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <link href="{{ meta.url }}/"/>
+  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ meta.url }}</id>
   <author>
     <name>{{ meta.author.name }}</name>
   </author>
 
-{%- for post in collections.documentation | reverse %}
-  {%- set absolutePostUrl =  meta.url+post.url %}
-  <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ absolutePostUrl }}</id>
-      <content xml:lang="{{ meta.language }}" type="html">{{ post.templateContent | renderTransforms(post.data.page, meta.url) }}</content>
-  </entry>
+  {%- for post in collections.article %}
+  {%- set absolutePostUrl = post.url | absoluteUrl(meta.url) %}
+    <entry xml:lang="{{ meta.language }}">
+      <title>{{ post.data.title }}</title>
+      <link  rel="alternate" type="text/html" href="{{ absolutePostUrl }}"/>
+      <published>{{ post.date | dateToRfc3339 }}</published>
+      {%- if (post.data.update) -%}
+        <updated>{{ post.data.update | dateToRfc3339 }}</updated>
+      {%- else -%}
+        <updated>{{ post.date | dateToRfc3339 }}</updated>
+      {%- endif -%}
+      <id>{{ absolutePostUrl }}</id>
+      <content type="html">
+        {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl)}}
+      </content>
+    </entry>
+  {%- endfor %}
+
+{%- for post in collections.posts %}
+  {% if loop.index0 < 20 %}
+    {%- set absolutePostUrl =  meta.url+post.url %}
+    <entry>
+      <title>{{ post.data.title }}</title>
+      <link href="{{ absolutePostUrl }}"/>
+      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      <id>{{ absolutePostUrl }}</id>
+      <content type="html" xml:lang="{{ meta.language }}">
+        {{ post.templateContent | renderTransforms(post.data.page, meta.url) }}
+      </content>
+    </entry>
+  {% endif %}
 {%- endfor %}
 
 </feed>

@@ -1,10 +1,27 @@
 ---
 layout: contact
 permalink: contact/
-title: Formulaire de contact
+title: me in Amsterdam, contact
 ---
 
-<p>Pour m'envoyer votre message, veuillez compléter tous les champs de ce formulaire : </p>
+## Abonnez-vous à la Newsletter
+
+Laissez votre adresse mail ci-dessous et recevez les prochains articles directement dans votre boîte-aux-lettres.
+</p>
+
+{% include "../includes/newsletter-form.njk" %}
+
+Votre adresse mail n'est utilisé par follow.it que pour vous envoyer les nouveaux articles ( voir leur <a href="https://follow.it/info/privacy" class="ext">politique de confidentialité</a> ).{.note}
+
+
+## Autre moyen de me suivre
+
+- [Flus RSS de me in Amsterdam](/feep.xml)
+- [Mastodon: @meinamsterdam@piaille.fr](https://piaille.fr/@meinamsterdam){:rel="me"}
+
+## Contact
+
+L'auteur de ce blog est Alix Guillad que vous pouvez contacter depuis [sa page personelle](https://alix.guillard.fr/) ou via ce formulaire de contact :
 
 <section id="mailform">
   <form id="contactForm" onSubmit="HandleSubmit(event)">
@@ -19,9 +36,3 @@ title: Formulaire de contact
 </section>
 <p></p>
 <section id="feedback" class="rollup"></section>
-
-<hr>
-
-<ul>
-		<li><a href="/newsletter/">Abonnez-vous à la newsletter</a></li>
-</ul>

@@ -3,7 +3,9 @@ layout: base
 title: Tintin conduit le Thalys
 description: 
 categorie: dagelijks
-tags: ["transports"]
+tags:
+ - transports
+ - Thalys
 isMarkdown: true
 thumbnail: kuifje-thalys-tintin-100.jpg
 image_alt: dupont et dupond sur le Thalys
@@ -15,7 +17,7 @@ update: 2008-10-16
 
 
 ![dupont et dupond sur le Thalys](kuifje-thalys-tintin-100.jpg){.left}
-Après un chouette week end en France, je rentre tranquillement le dimanche soir par **le thalys Paris -> Amsterdam**. Comme d'habitude, à Paris, il faut aller tout au bout du quai. Le train est long et composé de deux rames. la rame avant est à destination des Pays-Bas et la rame arrière s'arrète en Belgique, elle est détachée à la gare du midi à Bruxelles.
+Après un chouette week end en France, je rentre tranquillement le dimanche soir par **le Thalys Paris -> Amsterdam**. Comme d'habitude, à Paris, il faut aller tout au bout du quai. Le train est long et composé de deux rames. la rame avant est à destination des Pays-Bas et la rame arrière s'arrète en Belgique, elle est détachée à la gare du midi à Bruxelles.
 
 ## Un cheminot centenaire
 

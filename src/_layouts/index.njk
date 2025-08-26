@@ -17,7 +17,7 @@
     </article>
   {% endif %}
 
-  <section class="index"><!-- use default mkdn class for styling -->
+  <section class="index"> {# use default mkdn class for styling  #}
     {%- for post in revue %}
 
         {% if not categorie or (post.data.categorie === categorie) %} {# requested categorie #}

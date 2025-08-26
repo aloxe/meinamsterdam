@@ -5,8 +5,8 @@ description: "Les billets de début d'année sont souvent l'occasion d'annoncer 
 categorie: toering
 tags: ["Belgique", "administration", "géographie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: philippe-mathilde-guillaume-alexendre-maxima-e763.jpeg
+image_alt: signature du traité avec les deux rois
 permalink: Agrandissement-des-Pays-bas-sans-polder/
 date: 2018-01-02
 update: 2018-01-03
@@ -18,7 +18,7 @@ La Belgique et les Pays-Bas ont procédé le 1er janvier à un échange officiel
 
 ![Le roi Philippe la reine Mathilde le roi Guillaume-Alexandre et la reine Maxima en arrière plan cource: Trouw (© ANP)](philippe-mathilde-guillaume-alexendre-maxima-e763.jpeg){.center}
 
-En fait, cet échange de territoire remonte à plus longtemps que cette signature et l'on peut remonter jusqu'à [l'indépendance de la Belgique](/au-bord-de-la-belgique) en 1830. Le tracé de la frontière entre les deux pays a pris beaucoup de temps et en Zélande comme entre le Limbourg et la province de Liège ou cette échange de territoires a eu lieu, la frontière a été bornée en 1843. Ici elle devait être au point le plus profond du lit de la Meuse sauf autour de la commune de Maastricht qui, bien que rive droite de la rivière reste aux Pays bas.
+En fait, cet échange de territoire remonte à plus longtemps que cette signature et l'on peut remonter jusqu'à [l'indépendance de la Belgique](/au-bord-de-la-belgique) en 1830. Le tracé de la frontière entre les deux pays a pris beaucoup de temps. Entre le Limbourg et la province de Liège où cet échange de territoires a eu lieu, la frontière a été bornée en 1843, comme [en Zélande](/voyage-en-zelande-l-independance-de-la-belgique/). Ici elle devait être au point le plus profond du lit de la Meuse sauf autour de la commune de Maastricht qui, bien que rive droite de la rivière reste aux Pays bas.
 
 La Meuse est navigable sur tout son long dans les deux pays mais souvent grâce à un réseau de canaux qui suit le lit de la rivière. Chaque période apporte son lot de modifications des espaces navigables en fonction du trafic fluvial projeté. Au sud, le canal Albert contourne Maastricht et rejoint le port d'Anvers. Au nord, le canal Juliana longe la Meuse et connecte Maastricht à Maasbracht. La jonction entre les deux canaux a été améliorée entre 1962 et 1980 et durant les travaux, le cours du fleuve a été modifié. Des méandres ayant été supprimés certain terrains ont ainsi changé de rive. 
 

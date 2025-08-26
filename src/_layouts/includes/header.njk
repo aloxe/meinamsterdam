@@ -2,7 +2,7 @@
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
   <header class="flex w-full flex-col justify-center overflow-y-hidden lg:items-start">
 
-    <!-- post order is inverted. next is previous -->
+    {# post order is inverted so next is previous  #}
     {% if nextPost %}
     <div class="mt-6 h-15 block flex-left max-w-19/40 truncate">
     <div class="float-left mt-2 text-text-light">

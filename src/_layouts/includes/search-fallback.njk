@@ -1,9 +1,9 @@
 <div class="transition absolute right-0 p-2 translate-y-0 mr-10"> 
-	<form action="https://duckduckgo.com/" id="duckduckgo" method="post" class="group/search min-h-2.5"><!-- min-height to reduce CLS -->
+	<form action="https://duckduckgo.com/" id="duckduckgo" method="post" class="group/search min-h-2.5">{# min-height to reduce CLS  #}
 		<label>
 			<span class="md:invisible group-focus-within/search:invisible align-bottom"><span class="sr-only">Search for:</span> 🔎 </span>
 			<input placeholder="Search" type="search" id="search" name="q" autocomplete="off" class="
-      w-0 !p-0 md:w-20 md:!p-2 group-focus-within/search:!p-2 duration-300 ease-in-out bg-white rounded-xl group-focus-within/search:max-w-[calc(80vw-50px)] group-focus-within/search:w-150 group-focus-within/search:mt-16 -mr-6"
+      w-0 !p-0 md:w-35 md:!p-2 group-focus-within/search:!p-2 duration-300 ease-in-out bg-white rounded-xl group-focus-within/search:max-w-[calc(80vw-50px)] group-focus-within/search:w-150 group-focus-within/search:mt-16 -mr-6"
       />
 		</label>
 		<input type="hidden" name="sites" value="{{meta.url}}" />

@@ -19,9 +19,10 @@ update: 2020-09-25
 ![Femke Halsema en 2010](Femke_Halsema_twist.jpg)
 *Femke Halsema en 2010 par Jos van Zetten « La politique, c'est fini, j'en ai marre ».*
 
-C'est un peu sa qualité de femme qui a fait connaître la bourgmestre au monde entier. Alors que les Pays-Bas sont plutôt connus pour pratiquer l'égalité des sexes en politique avec une presque parité à la chambre basse et au gouvernement sans loi pour les y forcer, avec de nombreuses grandes villes comme Rotterdam ayant déjà eu des mairesses, la capitale du pays n'a jamais eu de bourgmestre femme depuis que Godevaert Wormbouts [a inauguré la fonction](https://fr.wikipedia.org/wiki/Liste_des_bourgmestres_d%27Amsterdam "Liste des bourgmestres d'Amsterdam") en 1343 !
+C'est un peu sa qualité de femme qui a fait connaître la bourgmestre au monde entier. les Pays-Bas sont plutôt connus pour pratiquer l'égalité des sexes en politique avec une presque parité à la chambre basse et au gouvernement sans loi pour les y forcer, avec de nombreuses grandes villes comme Rotterdam ayant déjà eu plusieurs mairesses. Mais la capitale du pays n'a jamais eu de bourgmestre femme depuis que Godevaert Wormbouts [a inauguré la fonction](https://fr.wikipedia.org/wiki/Liste_des_bourgmestres_d%27Amsterdam "Liste des bourgmestres d'Amsterdam") en 1343 !
 
-# Une vrai nouveauté
+## Une vrai nouveauté
+
 <!--excerpt-->
 
 #### Une femme…

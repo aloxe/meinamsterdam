@@ -3,7 +3,9 @@ layout: base
 title: "Des travaux qui n'en finissent encore pas"
 description: 
 categorie: dagelijks
-tags: ["transports"]
+tags:
+ - transports
+ - Thalys
 isMarkdown: true
 thumbnail: 
 image_alt: 

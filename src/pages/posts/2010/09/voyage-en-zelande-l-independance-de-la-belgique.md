@@ -26,7 +26,7 @@ Quand on regarde la frontière qui sépare les Pays-Bas de la Belgique, on se de
 
 ## La guerre d'indépendance
 
-En 1815, le nouveau roi des Pays-Bas, Guillaume Ier, réinstallé sur le trône par les anglais après la défaite napoléonienne est un monarque protestant, conservateur et réactionnaire. Les catholiques du pays (majoritaires dans le midi) ne sont pas bien traités, le roi les considèrent comme de la vermine. Alors que la majorité des habitants du nouveau royaume sont belges et catholiques, ces derniers sont sous représentés aux états généraux. La plupart des institutions et grandes compagnies avaient leur siège en Hollande ce qui ne laissait pas grande place aux belges. Enfin, la langue néerlandaise officielle déplaisait aux francophones du sud.
+En 1815, le nouveau roi des Pays-Bas, Guillaume Ier, réinstallé sur le trône par les anglais après la défaite napoléonienne est un monarque protestant, conservateur et réactionnaire. Les catholiques du pays (majoritaires dans le midi) ne sont pas bien traités, le roi les considèrent comme de la vermine. Alors que la majorité des habitants du nouveau royaume sont belges et catholiques, ces derniers sont sous représentés aux états généraux. La plupart des institutions et grandes compagnies avaient leur siège en Hollande ce qui ne laissait pas grande place aux Belges. Enfin, la langue néerlandaise officielle déplaisait aux francophones du sud.
 
 ![Borne frontière Belgique - Pays-Bas](borne-belgie.jpg){.right}
 Les catholiques et les libéraux se sont alliés pour adresser leurs griefs au roi et faire acte d'opposition. En [juillet, août et septembre 1830](http://fr.wikipedia.org/wiki/R%C3%A9volution_belge), divers évènements en Belgique et décision du roi Guillaume eurent pour conséquence  la partition définitive de la Belgique du royaume des Pays-Bas. Le roi Guillaume Ier est âpre en négociation et négocie chaque acre de terre de son royaume. Il conserve le Luxembourg, obtient la scission du Limbourg en deux petites provinces de part et d'autre de la frontière et conserve des territoires protestants au sud de l'Escaut. Le tracé sinueux de cette frontière laisse entendre que les négociations ont été dures.
@@ -39,13 +39,13 @@ La frontière entre les deux pays fut balisée par des [bornes frontières](http
 
 ## La période Moderne
 
-La rivalité entre les deux royaumes s'est vite estompée et le coté pragmatique de nos voisins du nord  a repris le dessus. Les Pays-Bas et la Belgique ont avec le Luxembourg crée le [Benelux](https://fr.wikipedia.org/wiki/Benelux), une organisation de coopération économique qui a servit d'exemple à la création de l'Union Européenne. Les frontières entre les deux pays sont depuis longtemps libres et ouvertes. 
+La rivalité entre les deux royaumes s'est vite estompée et le coté pragmatique de nos voisins du nord a repris le dessus. Les Pays-Bas et la Belgique ont, avec le Luxembourg, crée le [Benelux](https://fr.wikipedia.org/wiki/Benelux), une organisation de coopération économique qui a servi d'exemple à la création de l'Union Européenne. Les frontières entre les deux pays sont depuis longtemps libres et ouvertes. 
 
 ![Frontière Belge](panneaux-belgie.jpg){.center}
 
 Les ports de Gand et d'Anvers dépendent de la bonne volonté des Néerlandais pour leur accès à la mer, via l'[estuaire de l'Escaut](/voyage-en-zelande-traverser-l-escaut) pour Anvers et le canal Gent-Terneuzen pour Gent. L'entretien de ces voies de communication sont à la charge des Néerlandais mais réalisées en concertation avec les Belges. 
 
-L'urbanisation croissante de la Flandre a créé des village-frontières ou il est intéressant d'acheter son pain et sa bière coté belge et de se promener coté néerlandais. Mais j'en ai déjà parlé en 2008[^1]...
+L'urbanisation croissante de la Flandre a créé des village-frontières où il est intéressant d'acheter son pain et sa bière coté belge et de se promener coté néerlandais. Mais j'en ai déjà parlé en 2008[^1]...
 
 ---
 [^1]: Lire [Au bord de la Belgique](/au-bord-de-la-belgique).

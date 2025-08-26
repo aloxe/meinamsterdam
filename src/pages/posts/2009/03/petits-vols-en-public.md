@@ -3,7 +3,9 @@ layout: base
 title: Petits vols en public
 description: 
 categorie: dagelijks
-tags: ["Thalys", "sociétés"]
+tags: 
+ - Thalys
+ - sociétés
 isMarkdown: true
 thumbnail: tnt-post.png
 image_alt: TNT Post logo

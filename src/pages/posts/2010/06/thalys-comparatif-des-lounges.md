@@ -3,7 +3,9 @@ layout: base
 title: "Thalys: comparatif des lounges"
 description: 
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - Thalys
+ - train
 isMarkdown: true
 thumbnail: in-the-lounge-Amsterdam.jpg
 image_alt: "moi dans la lounge d'Amsterdam"

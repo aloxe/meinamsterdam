@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Révision du Drooderfiets
+description: Je présente l'état avancé de vieillissement de drooderfiets, mon vélo hollandais que j'ai présenté sur ce blog il y a 16 ans. Pour la révision, il y a du boulot…
 categorie: dagelijks
 tags:
  - vélo
@@ -11,9 +12,12 @@ image_alt: Arrière de vélo rouge de marque Azor
 permalink: revision-du-drooderfiets/
 date: 2025-07-23
 update: 2024-08-03
+subfooters:
+ - drooderfiets
+ - velos
 ---
 
-je l'ai fait [pour mon Btwin](/revision-du-btwin/) après un an à dormir dehors à Amsterdam, je fais le point sur les petits bobos de mon vélo Que je vous ai présenté ici à [plusieurs reprises](/tag/drooderfiets/). Après avoir parcouru des kilometres en Europe, il ne va pas très bien. Les vitesses n'arrêtent pas de sauter et en plus Un frein vient de casser. V'est le pompon ! Mais ce n'est pas tout.
+je l'ai fait [pour mon Btwin](/revision-du-btwin/) après un an à dormir dehors à Amsterdam, je fais le point sur les petits bobos de mon vélo Que je vous ai présenté ici à [plusieurs reprises](/tag/drooderfiets/). Après avoir [parcouru des kilometres](https://alix.guillard.fr/velo/) en Europe, il ne va pas très bien. Les vitesses n'arrêtent pas de sauter et en plus, un frein vient de casser. C'est le pompon ! Mais ce n'est pas tout.
 
 ![alt text](drooder-karter.jpg){.left}
 Je vantais les vélos hollandais parce qu'ils avaient un carter, cette pièce de protection en plastique permet de faire du vélo sans remonter son pantalon et protège la chaine contre l'usure des entempéries. Seulement rien ne protège le carter contre l'usure des intempéries et ici, on voit qu'il commence à rouiller.

@@ -27,16 +27,16 @@
             <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{tag}}/">{{ tag }}</a></em>
           {% endfor %}
           <p>
-            {% if post.data.headline %}
-              <em>{{post.data.headline}}</em>
+            {% if post.data.page.excerpt %}
+              <p class="text-justify justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
               {{ readMore(post.url) }}
             {% else %}
-              {% if post.data.description %}
-                {{ post.data.description | md | safe }}
+              {% if post.data.headline %}
+                <em>{{post.data.headline}}</em>
                 {{ readMore(post.url) }}
               {% else %}
-                {% if post.data.page.excerpt %}
-                  <p class="text-justify justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
+                {% if post.data.description %}
+                  {{ post.data.description | md | safe }}
                   {{ readMore(post.url) }}
                 {% else %}
                   <p class="text-justify justify-content">{{ post.content | safe }}</p>

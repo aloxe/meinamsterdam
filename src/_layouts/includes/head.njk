@@ -11,17 +11,23 @@
 {% endif %}
 
 <title>{{ title or meta.title }}</title>
-{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+
+{% if description %}{% set desc = description | safe %}{% else %}
+  {% if headline %}{% set desc = headline | safe %}{% else %}
+    {% if page.excerpt %}{% set desc = page.excerpt | text | trim | truncate(164) %}{% endif %}
+  {% endif %}
+{% endif %}
+{% if desc %}<meta name="description" content="11 {{ desc }}">{% endif %}
 
 {% if page.fileSlug === "404" %}{% else %}
   <meta name="fediverse:creator" content="@meinamsterdam@piaille.fr">
   <meta itemprop="name" content="{{ title }}">
-  {% if description %}<meta itemprop="description" content="{{ description }}">{% endif %}
+  {% if desc %}<meta itemprop="description" content="{{ desc }}">{% endif %}
   {% if thumbnail %}<meta itemprop="image" content="{{ meta.url }}{% getOGImageUri meta, page, thumbnail %}">{% endif %}
   <meta property="og:title" content="{{ title }}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ meta.url }}{{ page.data.permalink or page.url | url }}">
-  {% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
+  {% if desc %}<meta property="og:description" content="{{ desc }}">{% endif %}
   <meta property="og:site_name" content="{{ meta.title }}">
   <meta property="og:locale" content="{{ meta.language or "en" }}">
   {% if thumbnail %}<meta property="og:image" content="{{ meta.url }}{% getOGImageUri meta, page, thumbnail %}">{% endif %}
@@ -29,7 +35,7 @@
   {% if meta.author.fediverse %}<meta name="fediverse:creator" content="{{ meta.author.fediverse }}" />{% endif %}
   <meta name="generator" content="Eleventy">
   <meta name="twitter:title" content="{{ title }}">
-  {% if description %}<meta name="twitter:description" content="{{ description }}">{% endif %}
+  {% if desc %}<meta name="twitter:description" content="{{ desc }}">{% endif %}
   {% if thumbnail %}<meta name="twitter:image:src" content="{{ meta.url }}{% getOGImageUri meta, page, thumbnail %}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
 {% endif %}

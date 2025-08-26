@@ -129,6 +129,15 @@ module.exports = async function(eleventyConfig) {
     }
    });
 
+   // format excerpt in raw text
+  eleventyConfig.addFilter("text", function(rawText) { 
+    if (!rawText) return;
+    rawText = rawText.replace(/\[\^[0-9]*\]/g, ' ', rawText); // remove footer ref
+    rawText = mdLib.render(rawText);
+    rawText = rawText.replace(/\<[^\>]*\>/g, ' ', rawText); // remove html tags
+    return rawText;
+  });
+
   // format excerpt in markdown
   eleventyConfig.addFilter("md", function(rawText) { 
     if (!rawText) return;

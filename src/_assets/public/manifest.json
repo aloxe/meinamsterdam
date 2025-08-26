@@ -3,22 +3,22 @@
     "name": "me in Amsterdam",
     "icons": [
       {
-        "src": "/favicon.ico",
+        "src": "https://meinamsterdam.nl/favicon.ico",
         "sizes": "32x32 16x16",
         "type": "image/x-icon"
       },
       {
-        "src": "/img/meinamsterdam192.png",
+        "src": "https://meinamsterdam.nl/img/meinamsterdam192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/img/meinamsterdam512.png",
+        "src": "https://meinamsterdam.nl/img/meinamsterdam512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
-    "start_url": ".",
+    "start_url": "https://meinamsterdam.nl/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ff6f32"

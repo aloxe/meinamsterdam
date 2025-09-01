@@ -9,6 +9,8 @@ image_alt: Geldmaat dépôt et retrait
 permalink: Geldmaat--les-nouveaux-distributeurs/
 date: 2024-03-18
 update: 2024-03-18
+subfooters:
+ - banques
 ---
 
 En 2006, quand je suis arrivé à Amsterdam, j'ai choisi ma banque [en fonction de la couleur de ses distributeurs de billets](/choisir-une-banque). Maintenant ce n'est plus possible. Tous les distributeurs se ressemblent et aucun ne porte la marque d'une banque. Ils ont tous le même nom (**Geldmaat**) et la même tête (jaune). 

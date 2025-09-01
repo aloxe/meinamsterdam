@@ -6,11 +6,10 @@ categorie: nederlandjes
 tags: ["administratif", "sociétés", "tag", "sociétés"]
 isMarkdown: true
 thumbnail: geldautomaat-abn-amro-250.jpg
-image_alt: 
+image_alt: DAB ABN AMRO
 permalink: choisir-une-banque/
 date: 2006-06-13
 update: 2017-12-11
-TODO: no image alt, shortened desc, image without alt
 subfooters:
  - banques
 ---
@@ -28,21 +27,23 @@ Les principales banques de dépot aux Pays-Bas sont ABN-AMRO, ING, Rabobank, Pos
 
 Bon, ces sites web sont en neerlandais ce qui n'aide pas trop si on ne parle pas bien cette langue.
 
-J'ai aussi essayé de regarder les distributeurs de billets. Pourquoi ne pas choisir ma banque en fonction de l'aspect de ses distributeurs de billets. On dirait qu'ici, certaines banques s'attachent à habiller leurs *Geldautomaat* de jolies couleurs. Voici quelques échantillons :
+J'ai aussi essayé de regarder les distributeurs de billets (DAB). Pourquoi ne pas choisir ma banque en fonction de l'aspect de ses distributeurs de billets. On dirait qu'ici, certaines banques s'attachent à habiller leurs *Geldautomaat* de jolies couleurs. Voici quelques échantillons :
 
-![](geldautomaat-abn-amro-250.jpg)  
+<!--excerpt-->
+
+![facade de distributeur de billets](geldautomaat-abn-amro-250.jpg)  
 Ronce de noyer chez [ABN-AMRO](/abn-amro-banque)
 
-![](fortis-bank-200.png)  
+![facade de distributeur de billets à bordure rouge](fortis-bank-200.png)  
 Fortis s'habille de rouge
 
-![](giromaat-250.jpg)  
+![facade de distributeur de billets à bordure bleue](giromaat-250.jpg)  
 L'[ex banque étatique](/postbank-amsterdam) dont le bleu se voit de loin
 
-![](rabobank-200.jpg)  
+![facade de distributeur de billets avec le nom au dessus](rabobank-200.jpg)  
 Un logo bizare pour la banque coopérative
 
-![](ing-bank-250.jpg)  
+![facade de distributeur de billets orange](ing-bank-250.jpg)  
 ING utilise le *oranje* national
 
 Je suis toujours à la recherche d'**un distributeur SNS** mais impossible d'en trouver un à Amstedam

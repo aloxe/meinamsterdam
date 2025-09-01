@@ -46,7 +46,7 @@
     border-color: var(--color-gray-200, currentColor);
   }
   * {
-    @apply font-[OpenSansRegular];
+    @apply font-sans;
   }
 }
 
@@ -102,12 +102,6 @@
   }
   & h2 > a {
     @apply text-secondary no-underline visited:text-tertiary;
-  }
-  & b, & strong {
-    @apply font-[OpenSansBold];
-  }
-  & i, & em {
-    @apply font-[OpenSansItalic];
   }
   & table {
     @apply table-auto md:table-fixed

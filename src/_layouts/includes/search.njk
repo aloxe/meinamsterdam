@@ -76,14 +76,9 @@
     pageFindInput.focus();
     document.getElementsByClassName('pagefind-ui__search-clear ')[0].classList = 'hidden';
 
-    // create a 'Search this site' link on top of the tabindex page
-    const searchThisSite = document.createElement('A');
-    const searchThisSiteText = document.createTextNode('Search this site');
-    searchThisSite.appendChild(searchThisSiteText);
+    // update 'Search this site' link on top of the tabindex page
+    const searchThisSite = document.getElementById('searchthissite');
     searchThisSite.setAttribute('href', '#searchinput');
-    searchThisSite.classList.add('fixed', 'transition', 'left-4', 'top-12', 'bg-secondary', 'text-bg', 'absolute', 'p-3', 'm-5', '-translate-x-72', 'focus:translate-x-12', 'z-2');
-    const tabindexNav = document.getElementById('tabindexnav');
-    tabindexNav.appendChild(searchThisSite);
 
     // create label that shows on small screens
     const label = document.createElement('LABEL'); 

@@ -24,22 +24,23 @@
 
 <div id="searchdiv" class="search"></div>
 
-<div class="transition absolute right-0 top-0 p-2 translate-y-0 mr-5" id="duckduckgo" > 
+<div class="transition fixed -right-5 top-0 p-2 translate-y-0 mr-5" id="duckduckgo" > 
   {# default form is the fallback when nojs #}
 	<form action="https://duckduckgo.com/" method="post" class="group/search min-h-2.5">{# min-height to reduce CLS  #}
 		<label>
 			<span class="md:invisible group-focus-within/search:invisible align-bottom"><span class="sr-only">Rechercher :</span> 🔎 </span>
-			<input placeholder="Recherche" type="search" id="search" name="q" autocomplete="off" class="
+			<input placeholder="Recherche" type="search" id="searchinput" name="q" autocomplete="off" class="
       w-0 md:w-35 !p-0 md:!p-2 -mr-6 border-0 border-black md:border-1 bg-white rounded-xl
+      fixed top-1 right-10
       delay-100 duration-300 ease-in-out 
       group-focus-within/search:!p-2 group-focus-within/search:max-w-[calc(80vw-50px)] group-focus-within/search:w-150 group-focus-within/search:mt-16" onfocus="loadPagefindUI()"
       />
 		</label>
 		<input type="hidden" name="sites" value="{{meta.url}}" />
-		<button type="submit" class="delay-160 duration-300 ease-in-out invisible w-0 !bg-white !p-0 !px-1 
+		{# <button type="submit" class="delay-160 duration-300 ease-in-out invisible w-0 !bg-white !p-0 !px-1 
     group-focus-within/search:rounded-[40px] group-focus-within/search:!p-1 group-focus-within/search:mt-16 group-focus-within/search:inline-block group-focus-within/search:-ml-5 group-focus-within/search:visible group-focus-within/search:!w-8
     ">
-    <span class="sr-only">Search</span> 🔎 </button>
+    <span class="sr-only">Search</span> 🔎 </button> #}
 	</form>
 </div>
 
@@ -66,13 +67,14 @@
 
     document.getElementById('duckduckgo').classList = 'hidden';
 
-    const searchInput = document.getElementById('search');
+    const searchInput = document.getElementById('searchinput');
+    searchInput.removeAttribute('id');
     const pageFindForm = document.getElementsByClassName('pagefind-ui__form')[0];
     pageFindForm.classList.add('group/search');
     const pageFindInput = document.getElementsByClassName('pagefind-ui__search-input')[0];
     pageFindInput.classList = searchInput.classList;
     pageFindInput.setAttribute('id', 'searchinput');
-    pageFindInput.classList.add('fixed', 'top-2', 'right-10', 'border-0', 'border-black', 'md:border-1');
+//    pageFindInput.classList.add('fixed', 'top-2', 'right-10', 'border-0', 'border-black', 'md:border-1');
     pageFindInput.focus();
     document.getElementsByClassName('pagefind-ui__search-clear ')[0].classList = 'hidden';
 

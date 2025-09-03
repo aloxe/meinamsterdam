@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       compact = true;
       nav.classList.remove('border-b-4', 'h-32');
       nav.classList.add('border-b-1', 'h-14');
-      searchInput.classList.remove('group-focus-within/search:mt-16');
+      searchInput.classList.remove('group-focus-within/search:mt-16'); // tailwind doesn't apply it when this used before the change
       logo.style.height = '48px';
       logo.style.width = '48px';
       link.classList.remove('text-3xl', 'md:text-4xl', 'ml-[-20px]', 'p-4');
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       compact = false;
       nav.classList.add('border-b-4', 'h-32');
       nav.classList.remove('border-b-1', 'h-14');
-      searchInput.classList.add('group-focus-within/search:mt-16');
+      searchInput.classList.add('group-focus-within/search:mt-16'); // tailwind doesn't apply it when this used before the change
       logo.style.height = '72px';
       logo.style.width = '72px';
       link.classList.add('text-3xl', 'md:text-4xl', 'ml-[-20px]', 'p-4');

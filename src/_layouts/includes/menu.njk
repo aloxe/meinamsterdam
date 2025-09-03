@@ -9,11 +9,9 @@
 <nav class="transition-all ease-in w-full fixed h-32 bg-primary text-bg text-xl md:flex-shrink-0 border-b-4 border-secondary" id="navigation">
   {% set allEntries = collections.all %}
   <div class="float-left">
-    <a href="/" {% if entry.url == "/" %} aria-current="page" {% endif %}
-    class="transition-all ease-in block p-4 text-nowrap text-3xl md:text-4xl text-secondary"
-    >
+    <a href="/" {% if entry.url == "/" %} aria-current="page" {% endif %} class="transition-all ease-in block p-4 text-nowrap text-3xl md:text-4xl text-secondary">
       <img src="/img/meinamsterdam-tr.svg" class="transition-all ease-in-out inline" alt="👤" width="72" height="72" />
-      <span class="transition-all ease-in inline font-[PacificoRegular] ml-[-10px]"> me in Amsterdam</span>
+      <span class="transition-all ease-in inline font-Pacifico ml-[-10px]"> me in Amsterdam</span>
     </a> 
   </div>
   {# Hiding menu for now #}

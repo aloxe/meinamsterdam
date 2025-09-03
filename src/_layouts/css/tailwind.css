@@ -27,6 +27,12 @@
   --color-visited-dark: #c4b4ff; /* violet-200 */
   --color-note-dark: #a2f4fd; /* cyan-200 */
   --color-note-bg-dark: #104e64; /* cyan-900 */
+
+  --font-Pacifico: 'PacificoRegular', 'PacificoFallback';
+
+  --font-Advent: 'Advent', 'AdventFallback';
+
+
 }
 
 @layer base {
@@ -53,16 +59,16 @@
 /* default styles for markdown and html. Can be overwritten */
 @utility mkdn {
   & h2, & h2 > a {
-    @apply mt-8 mb-1 text-left text-3xl/4 leading-tight text-secondary font-[Advent];
+    @apply mt-8 mb-1 text-left text-3xl/4 leading-tight text-secondary font-Advent;
   }
   & .index h2 > a {
     @apply text-4xl/6;
   }
   & h3 {
-    @apply my-4 text-left text-2xl/4 leading-normal text-tertiary font-[Advent];
+    @apply my-4 text-left text-2xl/4 leading-normal text-tertiary font-Advent;
   }
   & h4 {
-    @apply my-4 text-left text-xl leading-normal text-secondary font-[Advent];
+    @apply my-4 text-left text-xl leading-normal text-secondary font-Advent;
   }
   & p {
     @apply my-4 text-lg text-justify font-light leading-6 tracking-wide text-text;

@@ -42,5 +42,11 @@
 
 <link rel="me" href="https://piaille.fr/@meinamsterdam">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ "/feed.xml" }}" />
-<link rel="stylesheet" href="{{ '/css/fonts.css' }}" preload>
+  {% set fonts %}
+    {% include "src/_assets/public/css/fonts.css" %}
+  {% endset %}
+  <style>
+    {{ fonts | postcss | safe }}
+  </style>
+
 <link rel="stylesheet" href="{{ '/css/styles.css' }}" preload>

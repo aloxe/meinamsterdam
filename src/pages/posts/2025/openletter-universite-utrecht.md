@@ -8,8 +8,8 @@ tags:
  - informatique
  - Utrecht
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: menace-numerique-universite.png
+image_alt: La menace numérique sur l'université, figure avec des bulles rouge et vertes
 # permalink: Avoir-pignon-sur-rue/
 date: 2025-07-30
 update: 2025-07-30
@@ -25,6 +25,8 @@ En 2022, le *Nationaal Cyber Security Centrum (NCSC)* avait publié une étude j
 Les recteurs d'université avaient tiré la sonnette d'alarme dès 2019. Dans [une tribune publié dans le Volkskrant](https://www.volkskrant.nl/columns-opinie/digitalisering-bedreigt-onze-universiteit-het-is-tijd-om-een-grens-te-trekken~bff87dc9/), ils déploraient déjà le recours croissant en ces services du cloud qui enfermait les universités et ses membres dans des impasses.
 
 On peut même citer deux études qui détaillent le problème. La première en 2023 [sur la transformation numérique](https://www.ivir.nl/projects/information-law-and-the-digital-transformation-of-the-university/) de l'université de l'Institut du droit de l'Information de l'Université d'Amsterdam (The Institute for Information Law (IViR)), dont la première partie traite de la souveraineté numérique. La seconde en 2024 est l'[article d'un étudiant](https://communities.surf.nl/files/Artikel/download/Safeguarding_Dutch_Universities_Against_Big_Tech_Dominance_0.pdf) de l'Universitè Radboud de Nimègue qui explique comment protèger les universités néerlandais de la dominance des *Big Tech*.
+
+![La menace numérique sur l'université, figure avec des bulles](menace-numerique-universite.png)
 
 ### La lettre ouverte
 

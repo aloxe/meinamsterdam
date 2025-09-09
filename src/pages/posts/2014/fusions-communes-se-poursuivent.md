@@ -2,7 +2,7 @@
 layout: base
 title: Les fusions de communes se poursuivent
 categorie: nederlandjes
-tags: ["2", "tag", "administration", "cartes", "politique"]
+tags: ["administration", "cartes", "politique"]
 isMarkdown: true
 thumbnail: Nederlandse-gemeentes-herindeling-2015.png
 image_alt: Fusion des communes néerlandaises en 2015

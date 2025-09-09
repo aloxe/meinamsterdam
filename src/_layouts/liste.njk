@@ -40,9 +40,9 @@
           <a href="{{pagination.href.next}}" class="text-text-light!"> billets suivants → </a>
       </div>
     {% endif %}
-    {% if pagination.pageNumber %}
+    {% if pagination.pages.length %}
       <div class="[&&]:text-text-light p-1 px-2 center m-auto w-35 mt-10">
-        Page {{ pagination.pageNumber }} sur {{ pagination.pages.length-1 }}
+        Page {{ pagination.pageNumber+1 }} sur {{ pagination.pages.length }}
       </div>
     {% endif %}
 

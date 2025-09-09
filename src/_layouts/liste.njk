@@ -17,11 +17,22 @@
     </article>
   {% endif %}
 
+
+  {% if revue %}
+    {% set posts = revue %}
+  {% else %}
+    {% set posts = revueTags.pageItems %}
+  {% endif %}
+
   <section class="index"> {# use default mkdn class for styling  #}
-    {%- for post in revue %}
+    {%- for post in posts %}
       <h2 class="mb-0.5"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
       <div class="flex-row -mt-2">
-        <em class="text-text-light">le {{ post.date | date }}</em>
+        {% if revueTags and post.data.categorie and post.date %}
+          <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a> le {{ post.date | date }}</em> 
+        {% else %}
+          <em class="text-text-light">le {{ post.date | date }}</em>
+        {% endif %}
         {% if post.data.tags %}
           {% for tag in post.data.tags %}
             <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{tag}}/">{{ tag }}</a></em>
@@ -30,19 +41,25 @@
       </div>
     {%- endfor %}
 
-    {% if pagination.href.previous %}
+    {% if revue %}
+      {% set paginate = pagination %}
+    {% else %}
+      {% set paginate = revueTags.subPagination %}
+    {% endif %}
+
+    {% if paginate.href.previous %}
       <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 block float-left mt-10">
-          <a href="{{pagination.href.previous}}" class="text-text-light!"> ← billets précédents </a>
+          <a href="{{paginate.href.previous}}" class="text-text-light!"> ← billets précédents </a>
       </div>
     {% endif %}
-    {% if pagination.href.next %}
+    {% if paginate.href.next %}
       <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 block float-right mt-10">
-          <a href="{{pagination.href.next}}" class="text-text-light!"> billets suivants → </a>
+          <a href="{{paginate.href.next}}" class="text-text-light!"> billets suivants → </a>
       </div>
     {% endif %}
-    {% if pagination.pages.length %}
+    {% if paginate.pages.length > 1 %}
       <div class="[&&]:text-text-light p-1 px-2 center m-auto w-35 mt-10">
-        Page {{ pagination.pageNumber+1 }} sur {{ pagination.pages.length }}
+        Page {{ paginate.pageNumber+1 }} sur {{ paginate.pages.length }}
       </div>
     {% endif %}
 

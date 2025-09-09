@@ -22,7 +22,7 @@ const Images = {
 }
 
 // number of post per page for list pages
-const PAGE_SIZE = 2;
+const PAGE_SIZE = 12;
 
 module.exports = async function(eleventyConfig) {
 
@@ -295,28 +295,18 @@ module.exports = async function(eleventyConfig) {
   	});
   });
 
-
-
-  const toChunk = (array) => {
-    const chunks = [];
-    for (let i = 0; i < array.length; i += PAGE_SIZE) {
-      chunks.push(array.slice(i, i + PAGE_SIZE))
-    }
-    return chunks;
-  }
-
   // tags
   // inspired by https://chriskirknielsen.com/blog/double-pagination-in-eleventy/
   // this is only a collection, the template is tag.md
   eleventyConfig.addCollection('tags', (collection) => {
     console.log("in tags collec")
     // Retrieve a list of all posts tagged `_posts`, extract their list of tags, flatten to a single-level array, and feed that into Set to deduplicate
-    const allTags = collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+    const allTags = Array.from(new Set(
+        collection.getFilteredByGlob("./src/pages/posts/**/*.md")
       .filter((item) => !item.data.tags.includes("comment"))
-      .map((item) => item.data.tags).flat();
-    const listTags = allTags.filter((item, index) => allTags.indexOf(item) === index);
+      .map((item) => item.data.tags).flat()));
 
-    const allPostsPerTag = listTags
+    const allPostsPerTag = allTags
       .map((t) => {
         // Grab every post of the current tag `t`, sorted by post date in descending order
         const allPostsOfTag = collection.getFilteredByTag(t).sort((a, b) => new Date(b.date) - new Date(a.date));

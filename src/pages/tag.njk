@@ -2,13 +2,14 @@
 layout: base
 eleventyExcludeFromCollections: true
 eleventyComputed:
-    title: 'Mot clé : {{ tag }}'
+    title: 'computed Mot clé : {{ tag }}'
+    description: 'fine page {{ collections[ tag ].length }}'
 pagination:
   data: collections
   size: 1
   alias: tag
-title: Mot clé {{ tag }}
-permalink: /tag/{{ tag }}/
+title: Le Mot clé {{ tag }}
+permalink: /tag/{{ tag }}/{{ n }}/
 ---
 
 {% set taglist = collections[ tag ] | reverse %}
@@ -20,6 +21,12 @@ permalink: /tag/{{ tag }}/
   {% endif %}
 </p>
 
+<p>
+  on va faire pages de 2 titres<br>
+  long {{ collections[ tag ].length }} on {{ collections[ tag ].length / 2 }} pages <br>  
+  on est sur la page {{ n }} avec le post {{ taglist.length * n / 2  }}<br>
+  pagination: {{pagination.href.previous}}
+</p>
 <section class="index">
   {% for post in taglist.slice(0,10) %}
     <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>

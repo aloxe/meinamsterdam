@@ -3,7 +3,7 @@ layout: base
 title: Tous au Bresil en orange
 description: 
 categorie: nederlandjes
-tags: []
+tags: ["sport", "coutumes"]
 isMarkdown: true
 thumbnail: petit-chien-orange.jpg
 image_alt: petit chien orange

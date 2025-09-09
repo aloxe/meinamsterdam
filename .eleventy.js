@@ -21,6 +21,9 @@ const Images = {
   SIZES: '(max-width: 1200px) 70vw, 1200px' // size of image rendered
 }
 
+// number of post per page for list pages
+const PAGE_SIZE = 2;
+
 module.exports = async function(eleventyConfig) {
 
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
@@ -263,6 +266,7 @@ module.exports = async function(eleventyConfig) {
     return metadata.webp[0].url
   })
 
+  // full collection of posts (gets rid of other pages)
   eleventyConfig.addCollection("posts", function (collection) {
   return collection.getFilteredByGlob("./src/pages/posts/**/*.md") // all posts
     .filter((item) => !item.data.tags.includes("comment")) // without comments
@@ -285,78 +289,72 @@ module.exports = async function(eleventyConfig) {
       title: cat.title,
       pagination: {
 				data: `collections['${cat.name}']`,
-				size: 3,
+				size: PAGE_SIZE,
 				alias: 'revue',
       },
   	});
   });
 
-  const PAGE_SIZE = 3;
 
-  function toChunk(array, size = PAGE_SIZE) {
-	if (size <= 0) { size = PAGE_SIZE; } // Hey now, let's stay positive
-	const chunks = [];
-	for (let i = 0; i < array.length; i += size) {
-		chunks.push(array.slice(i, i + size)); // Grabs an array of {size} items at a time, adding it to the list of chunks
-	}
-	return chunks;
-}
+
+  const toChunk = (array) => {
+    const chunks = [];
+    for (let i = 0; i < array.length; i += PAGE_SIZE) {
+      chunks.push(array.slice(i, i + PAGE_SIZE))
+    }
+    return chunks;
+  }
 
   // tags
-  // https://chriskirknielsen.com/blog/double-pagination-in-eleventy/
+  // inspired by https://chriskirknielsen.com/blog/double-pagination-in-eleventy/
+  // this is only a collection, the template is tag.md
   eleventyConfig.addCollection('tags', (collection) => {
     console.log("in tags collec")
     // Retrieve a list of all posts tagged `_posts`, extract their list of tags, flatten to a single-level array, and feed that into Set to deduplicate
     const allTags = collection.getFilteredByGlob("./src/pages/posts/**/*.md")
       .filter((item) => !item.data.tags.includes("comment"))
       .map((item) => item.data.tags).flat();
-      const listTags = allTags.filter((item, index) => allTags.indexOf(item) === index);
+    const listTags = allTags.filter((item, index) => allTags.indexOf(item) === index);
 
-      console.log("listTags", listTags, "=======================")
+    const allPostsPerTag = listTags
+      .map((t) => {
+        // Grab every post of the current tag `t`, sorted by post date in descending order
+        const allPostsOfTag = collection.getFilteredByTag(t).sort((a, b) => new Date(b.date) - new Date(a.date));
+        // split array of posts into array of chuncks with PAGE_SIZE posts
+        const chunkedPostsOfTag = [];
+        for (let i = 0; i < allPostsOfTag.length; i += PAGE_SIZE) {
+          chunkedPostsOfTag.push(allPostsOfTag.slice(i, i + PAGE_SIZE))
+        }
 
-      const allPostsPerTag = listTags
-        .map((t) => {
-          // Grab every post of the current tag `t`, sorted by post date in descending order
-          const allPostsOfTag = collection.getFilteredByTag(t).sort((a, b) => new Date(b.date) - new Date(a.date));
-          const chunkedPostsOfTag = toChunk(allPostsOfTag, PAGE_SIZE); // Convert single array of all posts for the tag, to an array of arrays of N posts
-          const maxPageOfTag = chunkedPostsOfTag.length; // e.g 3 chunks = 3 pages
-
-          // Helper to build out the permalink based on the page index
-          const getPageHref = (index0) => `/tag/${eleventyConfig.getFilter('slugify')(t)}/${index0 > 0 ? `${index0}/` : ''}`;
-          // Now iterate over every chunk to create a page with all the data you'd expect from Eleventy's pagination
-          const chunkPages = chunkedPostsOfTag.map((chunk, pageIndex0, allPagesOfTag) => {
-            return {
-              tag: t, // Our tag context
-              // Recreate the useful properties of a top level Eleventy pagination object
-              subPagination: {
-                // alias: 'pageItems', // Not sure this is needed but… maybe?
-                pageNumber: pageIndex0,
-                pageHref: getPageHref(pageIndex0),
-                previous: pageIndex0 > 0,
-                next: (pageIndex0 + 1) < maxPageOfTag,
-                href: {
-                  first: getPageHref(0),
-                  previous: pageIndex0 > 0 ? getPageHref(pageIndex0 - 1) : null,
-                  current: getPageHref(pageIndex0),
-                  next: (pageIndex0 + 1) < maxPageOfTag ? getPageHref(pageIndex0 + 1) : null,
-                  last: getPageHref(maxPageOfTag - 1),
-                },
-                hrefs: Array.apply(null, Array(maxPageOfTag)).map((_, i) => getPageHref(i)), 
-                // This generates a list of all the page permalinks for the current tag
-                pages: allPagesOfTag, 
-                // All the chunks (this is kind of wrong I think but should be useful enough for things like pages.length in a paginator component
+        // permalink in the form /tag/tagName/page/
+        const getPageHref = (index) => `/tag/${eleventyConfig.getFilter('slugify')(t)}/${index > 0 ? `${index}/` : ``}`;
+        const maxPageOfTag = chunkedPostsOfTag.length;
+        const chunkPages = chunkedPostsOfTag.map((chunk, pageIndex) => {
+          return {
+            tag: t,
+            pageCount: allPostsOfTag.length,
+            subPagination: { // equivalent to collection pagination for each tag
+              pages: Array.apply(null, Array(maxPageOfTag)).map((_, i) => getPageHref(i)), 
+              pageNumber: pageIndex,
+              pageHref: getPageHref(pageIndex),
+              previous: pageIndex > 0,
+              next: (pageIndex + 1) < maxPageOfTag,
+              href: {
+                first: getPageHref(0),
+                previous: pageIndex > 0 ? getPageHref(pageIndex - 1) : null,
+                current: getPageHref(pageIndex),
+                next: (pageIndex + 1) < maxPageOfTag ? getPageHref(pageIndex + 1) : null,
+                last: getPageHref(maxPageOfTag - 1),
               },
-              ['pageItems']: chunk,
-            };
-          });
-          return chunkPages; // List of all the pages for the current tag
-
-          
-        })
-        .flat(); // Flatten the array of pages
+            },
+            pageItems: chunk,
+          };
+        });
+        return chunkPages; // List of all the pages for the current tag
+      })
+      .flat();
     return allPostsPerTag;
   });
-
 
   // pagefind search
   eleventyConfig.on('eleventy.after', () => {

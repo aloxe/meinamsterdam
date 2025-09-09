@@ -269,30 +269,36 @@ module.exports = async function(eleventyConfig) {
     .sort((a, b) => b.date - a.date); // sort ascending
   });
 
-  // const categories = [ 'toering', 'nederlandjes', 'ik-ben-frans', 'dagelijks' ];
-  // we can't look into categories to generate categorised collections
-  eleventyConfig.addCollection('toering', function (collection) {
-    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
-    .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => item.data.categorie === 'toering');
-  });
+  // function groupByTag(arr) {
+  //   const result = {};  
+  //   arr.forEach(item => {
+  //     if (!result[item.tag]) {
+  //       result[item.tag] = [];
+  //     }
+  //     result[item.tag].push(item);
+  //   });
+  //   return Object.entries(result).map(([tag, posts]) => ({ tag, items }));
+  // }
 
-  eleventyConfig.addCollection('nederlandjes', function (collection) {
-    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
-    .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => item.data.categorie === 'nederlandjes');
-  });
-
-    eleventyConfig.addCollection('ik-ben-frans', function (collection) {
-    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
-    .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => item.data.categorie === 'ik-ben-frans');
-  });
-
-  eleventyConfig.addCollection('dagelijks', function (collection) {
-    return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
-    .filter((item) => !item.data.tags.includes("comment"))
-    .filter((item) => item.data.categorie === 'dagelijks');
+  const categories = require('./src/_data/categories.json');
+  categories.map((cat) => {
+    // collection for each category
+    eleventyConfig.addCollection(cat.name, function (collection) {
+      return collection.getFilteredByGlob("./src/pages/posts/**/*.md")
+      .filter((item) => !item.data.tags.includes("comment"))
+      .filter((item) => item.data.categorie === cat.name);
+    });
+    // template for each category
+    eleventyConfig.addTemplate(cat.name+".md", ``, {
+      layout: "liste.njk",
+      categorie: cat.name,
+      title: cat.title,
+      pagination: {
+				data: `collections['${cat.name}']`,
+				size: 3,
+				alias: 'revue',
+      },
+  	});
   });
 
   // pagefind search

@@ -10,4 +10,4 @@ pagination:
   alias: revueTags
 ---
 
-Les articles étiquetés {{ revueTags.tag }}
+{{ revueTags.pageCount }} articles sont étiquetés « {{ revueTags.tag }} ».

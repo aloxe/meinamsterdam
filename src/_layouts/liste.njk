@@ -17,11 +17,13 @@
     </article>
   {% endif %}
 
-
+  {# initiate values for categories and tags #}
   {% if revue %}
     {% set posts = revue %}
+    {% set paginate = pagination %}
   {% else %}
-    {% set posts = revueTags.pageItems %}
+    {% set posts = revueTags.posts %}
+    {% set paginate = revueTags.subPagination %}
   {% endif %}
 
   <section class="index"> {# use default mkdn class for styling  #}
@@ -40,12 +42,6 @@
         {% endif %}
       </div>
     {%- endfor %}
-
-    {% if revue %}
-      {% set paginate = pagination %}
-    {% else %}
-      {% set paginate = revueTags.subPagination %}
-    {% endif %}
 
     {% if paginate.href.previous %}
       <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 block float-left mt-10">

@@ -2,7 +2,7 @@
 layout: base
 title: Le cloud de confiance mérite-t-il notre confiance ?
 categorie: ik-ben-frans
-tags: ["economie", "politique", "internet", "Europe"]
+tags: ["économie", "politique", "internet", "Europe"]
 isMarkdown: true
 thumbnail: GreenbergTraurig.png
 image_alt: memo de GreenbergTraurig

@@ -3,7 +3,7 @@ layout: base
 title: Pour se soulager (2)
 description: 
 categorie: nederlandjes
-tags: ["amsterdam"]
+tags: ["Amsterdam"]
 isMarkdown: true
 thumbnail: vespasienne-ancienne.jpg
 image_alt: ancienne vespasienne

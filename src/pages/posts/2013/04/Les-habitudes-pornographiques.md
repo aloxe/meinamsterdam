@@ -3,7 +3,7 @@ layout: base
 title: Les habitudes pornographiques
 description: 
 categorie: nederlandjes
-tags: ["economie", "coutumes"]
+tags: ["économie", "coutumes"]
 isMarkdown: true
 thumbnail: pornmd-pays-bas.png
 image_alt: Les recherches porno aux Pays-Bas

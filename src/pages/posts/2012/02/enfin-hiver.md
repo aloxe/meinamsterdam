@@ -2,7 +2,7 @@
 layout: base
 title: "C'est enfin l'hiver"
 categorie: dagelijks
-tags: ["sortir", "meteo"]
+tags: ["sortir", "météo"]
 isMarkdown: true
 thumbnail: pays-bas-sous-la-neige-2012.jpg
 image_alt: Photo des Pays-Bas sous la neige

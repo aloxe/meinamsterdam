@@ -3,7 +3,7 @@ layout: base
 title: Se garer à Amsterdam, ça coûte cher
 description: "Une place libre en plein centre ville dans une rue calme et tranquille. Juste à l'ombre d'un arbre, on se croirait dans un village... Pas de signe d'interdicti"
 categorie: toering
-tags: ["Amsterdam", "transports", "voiture", "planet", "amsterdam", "transports"]
+tags: ["Amsterdam", "transports", "voiture", "planet", "transports"]
 isMarkdown: true
 thumbnail: parlementer-pour-un-sabot.jpg
 image_alt: parlementer pour un sabot

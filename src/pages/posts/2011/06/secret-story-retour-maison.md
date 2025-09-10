@@ -3,7 +3,7 @@ layout: base
 title: Secret Story, retour à la maison
 description: 
 categorie: nederlandjes
-tags: ["télévision", "sociétés"]
+tags: ["télé", "sociétés"]
 isMarkdown: true
 thumbnail: Secret_Story.jpg
 image_alt: logo Secret Story

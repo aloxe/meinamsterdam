@@ -3,7 +3,7 @@ layout: base
 title: Une curieuse combinaison de circonstances
 description: 
 categorie: nederlandjes
-tags: ["cinema", "travaux", "guerre", "histoire"]
+tags: ["cinéma", "travaux", "guerre", "histoire"]
 isMarkdown: true
 thumbnail: le-dam-s-ecroule.jpg
 image_alt: le palais du Dam s'écroule vue de haut

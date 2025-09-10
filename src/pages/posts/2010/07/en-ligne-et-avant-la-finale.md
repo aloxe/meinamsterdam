@@ -2,7 +2,7 @@
 layout: base
 title: En ligne et avant la finale
 categorie: nederlandjes
-tags: ["sport", "television"]
+tags: ["sport", "télé"]
 isMarkdown: true
 thumbnail: oranje-grachten-places-reservees.png
 image_alt: "carte d'Amsterdam en orange"

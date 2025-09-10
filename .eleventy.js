@@ -300,12 +300,13 @@ module.exports = async function(eleventyConfig) {
   // this is only a collection, the template is tag.md
   eleventyConfig.addCollection('tags', (collection) => {
     console.log("in tags collec")
-    // Retrieve a list of all posts tagged `_posts`, extract their list of tags, flatten to a single-level array, and feed that into Set to deduplicate
-    const allTags = Array.from(new Set(
-        collection.getFilteredByGlob("./src/pages/posts/**/*.md")
-      .filter((item) => !item.data.tags.includes("comment"))
-      .map((item) => item.data.tags).flat()));
-
+    // Retrieve a list of all posts
+    const allTags = Array.from(new Set( // ← deduplicate
+      collection.getFilteredByGlob("./src/pages/posts/**/*.md") // ← only posts
+      .filter((item) => !item.data.tags.includes("comment")) // ← exclude comments
+      .map((item) => item.data.tags) // ← keep only tags
+      .flat() // ← flaten array
+    ));
     const allPostsPerTag = allTags
       .map((t) => {
         // Grab every post of the current tag `t`, sorted by post date in descending order
@@ -319,10 +320,11 @@ module.exports = async function(eleventyConfig) {
         // permalink in the form /tag/tagName/page/
         const getPageHref = (index) => `/tag/${eleventyConfig.getFilter('slugify')(t)}/${index > 0 ? `${index}/` : ``}`;
         const maxPageOfTag = chunkedPostsOfTag.length;
-        const chunkPages = chunkedPostsOfTag.map((chunk, pageIndex) => {
+        const chunkPage = chunkedPostsOfTag.map((chunk, pageIndex) => {
           return {
             tag: t,
             pageCount: allPostsOfTag.length,
+            posts: chunk,
             subPagination: { // equivalent to collection pagination for each tag
               pages: Array.apply(null, Array(maxPageOfTag)).map((_, i) => getPageHref(i)), 
               pageNumber: pageIndex,
@@ -337,10 +339,9 @@ module.exports = async function(eleventyConfig) {
                 last: getPageHref(maxPageOfTag - 1),
               },
             },
-            pageItems: chunk,
           };
         });
-        return chunkPages; // List of all the pages for the current tag
+        return chunkPage; // ← chunk with tag, PAGE_SIZE posts and pagination
       })
       .flat();
     return allPostsPerTag;

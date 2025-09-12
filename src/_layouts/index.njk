@@ -43,6 +43,7 @@
                 {% endif %}
               {% endif %}
             {% endif %}
+            {% if entrees.length %}
             <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2">
               <em class="text-primary"> ✍</em>
               {% set entrees = [] %}
@@ -53,12 +54,13 @@
                   {% set entrees = (entrees.push(comment), entrees) %}
                 {% endif %}
               {%- endfor -%}
-              {% if entrees.length %}
+              {# {% if entrees.length %} #}
                   {{ entrees.length }} commentaire{% if entrees.length > 1 %}s{% endif %}
-              {% else %}
-                pas de commentaire
+                  </div>
+              {# {% else %} #}
+                {# pas de commentaire #}
               {% endif %}
-            </div>
+            {# </div> #}
           </p>
         {% endif %}
 

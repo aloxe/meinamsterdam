@@ -2,13 +2,15 @@
 layout: base
 title: Le gouvernement dit non aux portes dérobées
 categorie: nederlandjes
-tags: []
 isMarkdown: true
 thumbnail: 
 image_alt: 
 permalink: Le-gouvernement-dit-non-aux-portes-derobees/
 date: 2016-01-06
 update: 2016-01-06
+tags:
+ - informatique
+ - politique
 ---
 
 Depuis l'année dernière et les [attentats de Charlie](/Willem-et-Charlie), le gouvernement de la France a réagit fortement, à la hauteur de l’émotion suscitée. Hélas, la réaction n'a pas été d'exiger des services de police et de renseignement **une organisation plus efficace** mais plutôt **renforcer leur pouvoir** au détriment des libertés publiques. Il est vraisemblablement plus facile de faire des lois que de veiller à ce qu'elles soient bien utilisées[^1].

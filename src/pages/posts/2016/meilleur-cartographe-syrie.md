@@ -2,7 +2,8 @@
 layout: base
 title: Le meilleur cartographe de Syrie
 categorie: nederlandjes
-tags: []
+tags:
+ - cartes
 isMarkdown: true
 thumbnail: syrie-irak-fev-2014.png
 image_alt: carte de Syrie et Irak en 2014 avec forces en présences

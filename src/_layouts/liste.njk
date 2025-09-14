@@ -37,7 +37,7 @@
         {% endif %}
         {% if post.data.tags %}
           {% for tag in post.data.tags %}
-            <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{tag | slugify}}/">{{ tag }}</a></em>
+            <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{ tag | slugify }}/">{{ tag }}</a></em>
           {% endfor %}
         {% endif %}
       </div>

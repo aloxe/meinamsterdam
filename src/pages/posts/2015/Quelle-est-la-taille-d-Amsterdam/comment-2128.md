@@ -8,10 +8,3 @@ permalink: false
 ---
 
 <p>Tu ne crois pas si bien dire Yann. Belle-île est un peu plus à l'ouest comme dirait le professeur tournesol.</p>
-
-<figure style="margin: 0 auto; display: table;">
-<figcaption> </figcaption>
-</figure>
-
-<p> </p>
----

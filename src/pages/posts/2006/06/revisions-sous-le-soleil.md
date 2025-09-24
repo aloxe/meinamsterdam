@@ -3,7 +3,7 @@ layout: base
 title: Révisions sous le soleil
 description: 
 categorie: nederlandjes
-tags: ["coutumes", "planet", "habitudes"]
+tags: ["coutumes", "planet", "coutumes"]
 isMarkdown: true
 thumbnail: voisins-au-soleil-300.jpg
 image_alt: voisins au soleil

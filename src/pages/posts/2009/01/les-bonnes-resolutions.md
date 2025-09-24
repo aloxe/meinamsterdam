@@ -3,7 +3,7 @@ layout: base
 title: Les bonnes résolutions
 description: 
 categorie: dagelijks
-tags: []
+tags: ["sexe", "drogue"]
 isMarkdown: true
 thumbnail: 
 image_alt: 

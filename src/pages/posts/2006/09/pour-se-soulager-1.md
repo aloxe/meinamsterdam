@@ -3,7 +3,7 @@ layout: base
 title: Pour se soulager (1)
 description: "Rien de spécial aujourd'hui, juste allé au supermarché pour acheter des choses qui allaient manquer à la maison..."
 categorie: dagelijks
-tags: ["habitudes"]
+tags: ["coutumes"]
 isMarkdown: true
 thumbnail: pipi-toiletpapier.jpg
 image_alt: pipi toiletpapier

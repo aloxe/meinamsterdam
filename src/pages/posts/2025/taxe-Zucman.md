@@ -9,7 +9,7 @@ tags:
 isMarkdown: true
 thumbnail: 
 image_alt: 
-# permalink: Avoir-pignon-sur-rue/
+permalink: taxe-Zucman/
 date: 2025-09-30
 update: 2025-09-30
 ---
@@ -48,11 +48,24 @@ En revanche, les revenus réels de ce patrimoine, intérets, loyers et plus-valu
 
 ## L'effet sur l'économie
 
+Évidemment la comparaison entre la taxe Zucman et la *Box 3* reste limité puisque les deux dispositifs sont différents par leur assiette, leur présentation et que le cadre fiscal en France et aux Pays-Bas sont différents. Mais leurs similitudes, nottement le taux permet de regarder aux Pays-Bas quelles pourraient avoir les effets de cette taxe en France.
+
 L'idée néerlandaise de ce mode d'imposition est justement de stimuler l'économie en évitant les actifs dormants et en ne pénalisant pas les actifs aux rendements exceptionels.
 
 En effet, le riche particulier, sachant qu'une forte somme sur son compte courant sera taxé aura intéret à le placer pour que cet impôt soit effectivement payé sur les intérets générés. De même. un héritage foncier ne devrait pas rester inutilisé longtemps si son nouveau propriétaire doit régulièrement payer un impôt sur ce qu'il pourrait rapporter. 
 
-Depuis 25 ans qu'il est en place cet impôt néerlandais sur le patrimoine n'a pas fait parler de lui comme un dispositif capable de mettre à terre l'économie du pays.
+Depuis 25 ans qu'il est en place cet impôt néerlandais sur le patrimoine n'a pas fait parler de lui comme un dispositif capable de mettre à terre l'économie du pays, mais plutôt pour le contraire. La plupart des gens qui m'ont exposé cette *Box 3* m'ont aussi parlé de cette obligation intrinsèque de faire travailler ses actifs puisque l'administration fiscale (*Belastingdienst*) en estime les revenus.
+
+## L'effet sur les grandes fortunes
+
+J'ai eu envie de voir aussi si cet impôt sur le patrimoine néerlandais avait un effet sur le taux d'imposition des plus riches aux Pays-Bas. Après tout, c'est parce que les plus riches payent moins d'impôts sur le revenu que les classes moyennes que la taxe Zucman a été imaginée.
+
+Dans [son travail](https://gabriel-zucman.eu/files/report-g20.pdf) pour la mise en place de la taxe qui porte son nom, Gabriel Zucman cite justement les Pays-Bas en citant et s'appuyant sur les travaux d'Arjan Bruil du Bureau Central des Statistiques (*Centraal Bureau voor de Statistiek* CBS).
+
+![alt text](income-rate-taxobservatory.png) 
+
+![alt text](income-rate-Zucman.png)
+
 
 {# Actual return ('werkelijk rendement'): the return you really had on your assets.
 
@@ -62,6 +75,13 @@ Notional return ('fictief rendement'): the return we calculate using fixed perce
 
 taxe Zucman
 https://gabriel-zucman.eu/files/report-g20.pdf
+
+https://www.taxobservatory.eu/www-site/uploads/2025/03/Resources-for-a-Safe-and-Resilient-Europe_The-Case-for-Minimum-Taxation-of-Ultra-High-Net-Worth-Individuals-in-the-EU-1.pdf
+
+
+etudes NL
+https://research.tilburguniversity.edu/en/publications/inequality-and-redistribution-in-the-netherlands
+https://www.cpb.nl/system/files/cpbmedia/omnidownload/CPB-Discussion-Paper-436-Inequality-and-Redistribution-in-the-Netherlands.pdf
 
 débats
 

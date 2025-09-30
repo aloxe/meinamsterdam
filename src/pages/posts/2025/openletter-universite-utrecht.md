@@ -10,7 +10,7 @@ tags:
 isMarkdown: true
 thumbnail: menace-numerique-universite.png
 image_alt: La menace numérique sur l'université, figure avec des bulles rouge et vertes
-# permalink: Avoir-pignon-sur-rue/
+permalink: openletter-universite-utrecht/
 date: 2025-09-02
 update: 2025-09-02
 ---

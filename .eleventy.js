@@ -75,6 +75,7 @@ module.exports = async function(eleventyConfig) {
       return ""; //"<!--"+ tokens[idx].attrGet('src') + "-->";
     }
 
+
     const token = tokens[idx]
     const imgPath = token.attrGet('src')
     const isGlobal = imgPath.slice(0, env.meta.public_folder.length) === env.meta.public_folder

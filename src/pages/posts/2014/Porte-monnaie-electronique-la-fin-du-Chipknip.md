@@ -3,7 +3,9 @@ layout: base
 title: "Porte monnaie électronique : C'est la fin du Chipknip"
 description: 
 categorie: nederlandjes
-tags: ["banques"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: Einde-Chipknip.png
 image_alt: Logo pour annoncer la fin du Chipknip

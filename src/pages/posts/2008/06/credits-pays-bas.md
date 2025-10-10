@@ -3,7 +3,9 @@ layout: base
 title: Les crédits aux Pays-Bas
 description: "En donnant des nouvelles de l'immobilier, je vous ai dit que les banques adaptaient leur offre au fait que le fisc rembourse une bonne partie des intérets d'un"
 categorie: nederlandjes
-tags: []
+tags:
+ - banque
+ - immobilier
 isMarkdown: true
 thumbnail: 
 image_alt: 

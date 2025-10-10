@@ -2,7 +2,8 @@
 layout: base
 title: "France / Pays-Bas: Comparatif des services bancaires"
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - banque
 isMarkdown: true
 thumbnail: 
 image_alt: 

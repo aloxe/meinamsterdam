@@ -3,7 +3,9 @@ layout: base
 title: Changement de banque
 description: "Apparemment la Postbank va changer de nom. Tous ses clients vont avoir une nouvelle banque: ING. Peut être que certains clients ne vont pas changer de banque c"
 categorie: nederlandjes
-tags: ["sociétés"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: dumpjeoudebank2.jpg
 image_alt: canapés vieux et neuf 

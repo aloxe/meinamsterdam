@@ -3,7 +3,9 @@ layout: base
 title: "J'appartiens à la société (Fortis) anonyme"
 description: Vous avez suivit mes aventures aux Pays-Bas, mon nouveau boulot et ma nouvelle maison. Dans toutes ces étapes importantes de la vie, il y a des banques qui me 
 categorie: nederlandjes
-tags: []
+tags:
+ - banque
+ - assurance
 isMarkdown: true
 thumbnail: Amersfoortse.png
 image_alt: Amersfoortse

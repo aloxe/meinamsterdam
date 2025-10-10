@@ -2,7 +2,9 @@
 layout: base
 title: "Attention, emprunter de l'argent coûte de l'argent"
 categorie: nederlandjes
-tags: []
+tags: 
+ - banque
+ - immobilier
 isMarkdown: true
 thumbnail: letop-geld-lenen-kost-geld.png
 image_alt: let op geld lenen kost geld

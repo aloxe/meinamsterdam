@@ -3,7 +3,9 @@ layout: base
 title: Le nouveau Rabo Scanner
 description: "J'ai évoqué les systèmes de connexion sécurisée des sites de banque par Internet aux Pays bas Malgré que ce système soit bien meilleur que ce que j'ai p�"
 categorie: nederlandjes
-tags: ["banque"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: Rabo-Scanner.jpg
 image_alt: le rabo scanner couleur avec sa boite

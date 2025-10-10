@@ -2,7 +2,9 @@
 layout: base
 title: La sécurité des sites bancaires
 categorie: nederlandjes
-tags: ["sociétés"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: random-reader-rabobank.png
 image_alt: Le Rabobank Random Reader

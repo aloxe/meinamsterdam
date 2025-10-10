@@ -3,7 +3,12 @@ layout: base
 title: Choisir une banque
 description: Pour mes réglements quotidiens et encaisser un jour mon salaire, il me faut ouvrir un compte en banque. Mais comment choisir une banque dans un nouveau pays al
 categorie: nederlandjes
-tags: ["administratif", "sociétés", "tag", "sociétés"]
+tags: 
+ - administratif
+ - sociétés
+ - tag
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: geldautomaat-abn-amro-250.jpg
 image_alt: DAB ABN AMRO

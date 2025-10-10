@@ -1,14 +1,14 @@
 ---
 layout: base
 title: La taxe Zucman aux Pays-Bas
-description: 
+description: La taxe « Zucman » n'existe pas aux Pays-Bas mais un impôt taxe le patrimoine de tout le monde. Ça veut peut-être d'y regarder de plus près.
 categorie: ikbenfrans
 tags:
  - impots
  - économie
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: income-rate-Zucman.png
+image_alt: taux d'imposition des plus pauvres aux plus riches
 permalink: taxe-Zucman/
 date: 2025-09-30
 update: 2025-09-30

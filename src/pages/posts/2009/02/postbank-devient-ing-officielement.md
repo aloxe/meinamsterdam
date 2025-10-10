@@ -3,7 +3,8 @@ layout: base
 title: Postbank devient ING (officielement)
 description: 
 categorie: dagelijks
-tags: ["sociétés"]
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: postbank-ing-s.jpg
 image_alt: Postbank ING en Décembre

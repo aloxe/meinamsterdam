@@ -2,7 +2,10 @@
 layout: base
 title: Aventures à la carte bancaire
 categorie: dagelijks
-tags: ["sociétés", "web"]
+tags: 
+ - sociétés
+ - banque
+ - web
 isMarkdown: true
 thumbnail: rabobank-fout.png
 image_alt: Inloggen probeer opnieuw

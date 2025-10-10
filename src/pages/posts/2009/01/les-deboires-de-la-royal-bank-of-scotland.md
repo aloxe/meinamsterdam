@@ -3,7 +3,9 @@ layout: base
 title: Les déboires de la Royal Bank of Scotland
 description: 
 categorie: nederlandjes
-tags: ["sociétés"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: RBS-Amsterdam-office.jpg
 image_alt: "RBS occuppe l'ancien siège ABN AMRO"

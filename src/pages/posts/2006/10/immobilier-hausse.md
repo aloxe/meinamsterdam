@@ -3,7 +3,10 @@ layout: base
 title: "L'immobilier en hausse (encore)"
 description: 
 categorie: dagelijks
-tags: ["Amsterdam", "architecture"]
+tags:
+ - immobilier
+ - Amsterdam
+ - architecture
 isMarkdown: true
 thumbnail: te-koop-te-koop.jpg
 image_alt: appartements à vendre

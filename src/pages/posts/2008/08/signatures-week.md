@@ -3,7 +3,8 @@ layout: base
 title: Signatures week
 description: "[|/signatures-week]    La première semaine de juillet a été tres mouvementée et c'est surement pour ça que je n'ai rien posté pendant cette période. J'ai"
 categorie: dagelijks
-tags: []
+tags: 
+ - immobilier
 isMarkdown: true
 thumbnail: koninklijke-notariele-beroepsorganisatie.jpg
 image_alt: Tête de lettre du Notaire

@@ -2,7 +2,9 @@
 layout: base
 title: Une banque qui demande moins de sous
 categorie: nederlandjes
-tags: ["société"]
+tags: 
+ - sociétés
+ - banque
 isMarkdown: true
 thumbnail: les-courriers-de-la-banque.jpg
 image_alt: Une lettre de ma banque...

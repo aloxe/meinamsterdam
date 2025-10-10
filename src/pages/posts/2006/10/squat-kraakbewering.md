@@ -3,7 +3,11 @@ layout: base
 title: Les squateurs et le kraakbewering
 description: 
 categorie: dagelijks
-tags: ["administration", "architecture", "politique"]
+tags: 
+ - administration
+ - architecture
+ - politique
+ - immobilier
 isMarkdown: true
 thumbnail: manif-squat-img_5720-300.jpg
 image_alt: Mede mogelijk gemaakt door de kraakbewering

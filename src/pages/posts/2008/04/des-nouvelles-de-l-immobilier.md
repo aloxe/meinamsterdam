@@ -3,7 +3,10 @@ layout: base
 title: "Des nouvelles de l'immobilier"
 description: "Voilà un an et demi que je ne vous ai pas parlé de l'immobilier à Amsterdam. Au dernières nouvelles, il était en hausse. C'était en octobre 2006, avant la"
 categorie: nederlandjes
-tags: []
+tags:
+ - impôts
+ - économie
+ - immobilier
 isMarkdown: true
 thumbnail: 
 image_alt: 

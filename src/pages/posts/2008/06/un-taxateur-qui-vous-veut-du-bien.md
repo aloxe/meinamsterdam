@@ -3,7 +3,8 @@ layout: base
 title: Un taxateur qui vous veut du bien
 description: Je vous ai déjà parlé des [crédits immobiliers|] que les banques locales  sont capables de nous vendre. Des prêts à terme sur trente ans. Chers  et risqu�
 categorie: nederlandjes
-tags: []
+tags: 
+ - immobilier
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -13,7 +14,7 @@ update: 2008-06-30
 TODO: no image, no image alt, shortened desc, relire et mise en forme
 ---
 
-Je vous ai déjà parlé des crédits immobiliers que les banques locales
+Je vous ai déjà parlé des [crédits immobiliers](/emprunter-de-l-argent-coute-de-l-argent/) que les banques locales
 sont capables de nous vendre. Des prêts à terme sur trente ans. Chers
 et risqués. Pas si risqué que ça pour la banque puisque le bien est
 hypotéqué jusqu'au bon remboursement du prêt.

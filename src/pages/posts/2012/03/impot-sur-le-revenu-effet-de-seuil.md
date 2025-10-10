@@ -3,7 +3,9 @@ layout: base
 title: Impôt sur le revenu, effet de seuil
 description: "O   Au cours de la campagne présidentielle, Le candidat François Hollande a annoncé (le 27 février au matin) vouloir créer une nouvelle tranche d'impôt de"
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - politique
+ - impôts
 isMarkdown: true
 thumbnail: ../04/32_maart.jpg
 image_alt: affiche sucette 32 Maart bestaat niet

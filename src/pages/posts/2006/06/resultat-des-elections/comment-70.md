@@ -2,7 +2,7 @@
 date: 2006-06-20
 author: Tanguy
 email: tanguy@deblauweleeuw.nl
-site: http://www.lelionbleu.nl
+site: 
 tags: comment
 permalink: false
 ---

@@ -27,7 +27,7 @@ Voilà 130 ans que la **Société Française de Bienfaisance aux Pays-Bas** (SFB
 
 ## Une année difficile
 
-Cette année des 130 ans n'a pas été de tout repos pour l'association. Sa présidente, **Mme Chantal Ostwinkel-Krasnapolsky** l'a expliqué lors d'[une interview](http://www.lelionbleu.nl/?p=4966). **2013 a vu doubler le nombre de demande d'aides**. L'association a du faire face à un nombre croissant de demandes, montrant que la crise touche encore les Pays-Bas. Les ressortissants français établis dans un autre pays de l'Union Européenne ont normalement accès à l'aide sociale locale mais l’administration locale se montre de moins en moins à l'écoute des problèmes sociaux des étrangers. La SFB essaye donc d'aider à finaliser des dossiers ou vient en aide directement selon les cas.
+Cette année des 130 ans n'a pas été de tout repos pour l'association. Sa présidente, **Mme Chantal Ostwinkel-Krasnapolsky** l'a expliqué lors d'une interview. **2013 a vu doubler le nombre de demande d'aides**. L'association a du faire face à un nombre croissant de demandes, montrant que la crise touche encore les Pays-Bas. Les ressortissants français établis dans un autre pays de l'Union Européenne ont normalement accès à l'aide sociale locale mais l’administration locale se montre de moins en moins à l'écoute des problèmes sociaux des étrangers. La SFB essaye donc d'aider à finaliser des dossiers ou vient en aide directement selon les cas.
 
 ## Un nouveau statut
 

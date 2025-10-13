@@ -2,7 +2,7 @@
 date: 2008-05-28
 author: Tanguy Lebreton
 email: 
-site: http://www.lelionbleu.nl/
+site: 
 tags: comment
 permalink: false
 ---

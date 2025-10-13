@@ -28,7 +28,7 @@ C'est un très bon choix parce que Ziggo a bien meilleure réputation qu'UPC et 
 
 ## La disparition de France 2
 
-Le bouquet de base de Ziggo [proposait 54 chaines](https://www.ziggo.nl/televisie/standaard) pour moins de 19 euros par mois. Parmi ces chaînes, **arte**, **TV5 Monde** et **France 2** assuraient une bonne présence francophone. UPC ne propose pas France 2. Le géant n'a cure de l'exception culturelle et on se souvient qu'elle avait [retiré TV5 Monde de son bouquet de base en 2008](http://www.lelionbleu.nl/?p=31)... avant de le proposer en [produit d'appel HD en 2011](http://www.upc.nl/over-upc/nieuws/persberichten/2011/tv5-monde-en-bcc-hd-in-digitale-zenderaanbod-upc/).
+Le bouquet de base de Ziggo [proposait 54 chaines](https://www.ziggo.nl/televisie/standaard) pour moins de 19 euros par mois. Parmi ces chaînes, **arte**, **TV5 Monde** et **France 2** assuraient une bonne présence francophone. UPC ne propose pas France 2. Le géant n'a cure de l'exception culturelle et on se souvient qu'elle avait retiré TV5 Monde de son bouquet de base en 2008… avant de le proposer en [produit d'appel HD en 2011](http://www.upc.nl/over-upc/nieuws/persberichten/2011/tv5-monde-en-bcc-hd-in-digitale-zenderaanbod-upc/).
 
 **La disparition de France 2**, ainsi que celle de **RAI1** du bouquet de base en [déçoit beaucoup](https://community.ziggo.nl/off-topic-forum-19/france-2-verdwijnt-per-1-april-2015-2169) et en premier lieu ceux qui ont souscrit un forfait Ziggo pour pouvoir regarder cette chaîne. Les clients lésés ont [lancé une pétition](https://secure.avaaz.org/fr/petition/Ziggo_Non_a_larret_dela_diffusion_de_France_2_par_Ziggo_aux_PaysBas/) en ligne mais n'ont pas collecté les 7500 signatures avant la date fatidique du 1er avril.
 

@@ -29,7 +29,7 @@ Le véritable jour du beaujolais nouveau, il y aura un français au [festival Cr
 
 ## La kermesse francophone
 ![Logo de la kermesse francophone](Logo-Kermesse-Francophone.png){.left}
-Tous les ans, des français de La Haye et d'ailleurs 9et aussi d'autres francophones) organisent une kermesse dont les bénéfices vont soutenir des projets de développement en Afrique. Cette kermesse est une initiative soutenue par de nombreux parents d'élève du [Lycée Vincent Van Gogh](/van-gogh-fete-ses-60-ans). C'est [la kermesse francophone](http://kermessefrancophone.nl/) et ça fait 40 ans que ça dure... Ce samedi ce sera donc la 40ème édition de cette kermesse et elle aura lieu de 12.00 à 18.00 au Sorghvliet Gymnasium de *Den Haag* à La Haye. Selon [le Lion bleu](http://www.lelionbleu.nl/?p=65) qui s'y connait en trucs francophones, c'est *la plus importante des manifestations francophones aux Pays-Bas*. Raison de plus pour ne pas la manquer...
+Tous les ans, des français de La Haye et d'ailleurs 9et aussi d'autres francophones) organisent une kermesse dont les bénéfices vont soutenir des projets de développement en Afrique. Cette kermesse est une initiative soutenue par de nombreux parents d'élève du [Lycée Vincent Van Gogh](/van-gogh-fete-ses-60-ans). C'est [la kermesse francophone](http://kermessefrancophone.nl/) et ça fait 40 ans que ça dure... Ce samedi ce sera donc la 40ème édition de cette kermesse et elle aura lieu de 12.00 à 18.00 au Sorghvliet Gymnasium de *Den Haag* à La Haye. Selon le Lion bleu, qui s'y connait en trucs francophones, c'est *la plus importante des manifestations francophones aux Pays-Bas*. Raison de plus pour ne pas la manquer...
 
 Voir aussi [Les rendez-vous francophones de la fin d'année](/rendez-vous-francophones-fin-d-annee)
 

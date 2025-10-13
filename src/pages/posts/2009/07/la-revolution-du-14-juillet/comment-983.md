@@ -2,7 +2,7 @@
 date: 2009-07-12
 author: Le Lion Bleu
 email: 
-site: http://www.lelionbleu.nl/
+site: 
 tags: comment
 permalink: false
 ---

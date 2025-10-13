@@ -2,7 +2,7 @@
 date: 2007-04-23
 author: lelionbleu
 email: 
-site: http://www.lelionbleu.nl/
+site: 
 tags: comment
 permalink: false
 ---

@@ -3,7 +3,10 @@ layout: base
 title: Football et commerce
 description: "On a vu que les néerlandais preparaient la coupe d'europe des supporters avec beaucoup de sérieux. Les rues et les gens sont tous décorés en orange et évid"
 categorie: nederlandjes
-tags: ["sociétés", "sport"]
+tags: 
+ - football
+ - sociétés
+ - sport
 isMarkdown: true
 thumbnail: 
 image_alt: 

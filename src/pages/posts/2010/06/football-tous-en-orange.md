@@ -3,7 +3,9 @@ layout: base
 title: "Football: tous en orange"
 description: 
 categorie: nederlandjes
-tags: ["fleurs", "sport"]
+tags: 
+ - football
+ - fleurs
 isMarkdown: true
 thumbnail: WK2010-banieres.jpg
 image_alt: "Banière café jusqu'au toit"

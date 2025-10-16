@@ -3,7 +3,9 @@ layout: base
 title: On est en finââle !!!
 description: 
 categorie: ik-ben-frans
-tags: ["sport"]
+tags: 
+ - sport
+ - football
 isMarkdown: true
 thumbnail: allez-les-bleus-jour.jpg
 image_alt: Allez les bleus de jour

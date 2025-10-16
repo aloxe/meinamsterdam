@@ -3,7 +3,8 @@ layout: base
 title: Des briquets pour Aline
 description: "Aline collectionne les briquets de football (voetbal). C'est original de parler de sa collection le jour du premier match de l'équipe oranje."
 categorie: nederlandjes
-tags: []
+tags: 
+ - football
 isMarkdown: true
 thumbnail: briquets-300.jpg
 image_alt: briquets

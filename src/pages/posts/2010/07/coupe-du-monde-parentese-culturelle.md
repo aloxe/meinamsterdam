@@ -3,7 +3,10 @@ layout: base
 title: Coupe du monde, parentèse culturelle
 description: 
 categorie: nederlandjes
-tags: ["bière", "sociétés", "sport"]
+tags: 
+ - football
+ - bière
+ - sociétés
 isMarkdown: true
 thumbnail: chapeau-tambour.JPG
 image_alt: chapeau tambour

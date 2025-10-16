@@ -3,7 +3,8 @@ layout: base
 title: Les drapeaux oranges
 description: "Aujourd'hui encore, comme chaque jour que l'équipe néerlandaise de football joue à cette coupe d'Europe, les gens s'habillent et décorent en orange comme à"
 categorie: nederlandjes
-tags: []
+tags: 
+ - football
 isMarkdown: true
 thumbnail: drapeau-8876.jpg
 image_alt: 

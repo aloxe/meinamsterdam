@@ -3,7 +3,9 @@ layout: base
 title: Les bleus et les oranges
 description: "Cetrains d'entre vous ont vu le match de la coupe d'Europe (EK) opposant les bleus italiens et les oranges de hollande hier. La formidable victoire des oranges "
 categorie: nederlandjes
-tags: []
+tags: 
+ - banque
+ - football
 isMarkdown: true
 thumbnail: 
 image_alt: 

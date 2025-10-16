@@ -45,7 +45,7 @@ Le prédicat royal des Pays-Bas fera ses 200 ans d'existance en 2007. La fondati
 
 ## Exemples
 
-La plupart des entreprises Néerlandaises dont le nom commence par K sont des entreprises Koninklijk (KPN, [KLM](/?q=klm)), les associations comme la Fédération des Pays-Bas de [football](/wk-reccord-pays-bas) (KNVB) aussi.
+La plupart des entreprises Néerlandaises dont le nom commence par K sont des entreprises Koninklijk (KPN, [KLM](/voyage-klm-retour/)), les associations comme la Fédération des Pays-Bas de [football](/wk-reccord-pays-bas) (KNVB) aussi.
 
 Royal Dutch Shell a choisit d'utiliser le prédicat royal en anglais.
 

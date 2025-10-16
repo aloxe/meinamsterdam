@@ -3,7 +3,9 @@ layout: base
 title: Décorations oranges choisies
 description: 
 categorie: nederlandjes
-tags: ["sport"]
+tags: 
+ - football
+ - photos
 isMarkdown: true
 thumbnail: oranje/collection-de-drapeayx.jpg
 image_alt: drapeaux orange sur une façade

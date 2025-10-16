@@ -3,7 +3,11 @@ layout: base
 title: "Le Grand Départ: Au tour d'Utrecht"
 description: 
 categorie: toering
-tags: ["Utrecht", "sport", "vélo"]
+tags: 
+ - Utrecht
+ - sport
+ - vélo
+ - Jaarbeurs
 isMarkdown: true
 thumbnail: grand-depart-utrecht2015.jpg
 image_alt: grand-depart-utrecht2015.jpg
@@ -42,4 +46,4 @@ Enfin, la chanson du tour «Bon voyage» est écrite et interprétée par **Blau
 
 ---
 [^1]: Utrecht est la quatrième ville la plus peuplée des Pays-Bas après Amsterdam, Rotterdam et la Haye qui ont déjà accueilli le Grand Départ. Pour Rotterdam, c'était [en 2010 et j'en avait parlé](/le-grand-depart-2010)
-[^2]: Dont je vous ai déjà parlé [à l'occasion de salons](/?q=Jaarbeurs)
+[^2]: Dont je vous ai déjà parlé [à l'occasion de salons](/tag/jaarbeurs/)

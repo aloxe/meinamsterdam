@@ -3,7 +3,10 @@ layout: base
 title: Linux World à Utrecht
 description: 
 categorie: dagelijks
-tags: ["Utrecht", "salon"]
+tags: 
+ - Utrecht
+ - salon
+ - Jaarbeurs
 isMarkdown: true
 thumbnail: linux-world-img_7373.jpg
 image_alt: Linux World Utrecht

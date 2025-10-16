@@ -76,7 +76,7 @@ Deuxième province de Hollande, c'est la soeur et la rivale de sa provinde du no
 <a name="Utrecht"></a>
 
 ## Utrecht
-C'est la troisième provinde du Randstad avec sa capitale Utrecht, quatrième ville du pays. Les évèques d'Utrecht ont lontemps été les rivaux de leurs seigneurs voisins de Hollande et de Gueldre ce qui fait que cette petite province est encore aujourd'hui indépendente. Utrecht a une position centrale dans le pays, que ce soit pour le rail, les autoroutes  où les voies d'eau. Utrecht s'affirme donc comme une capitale dynamique avec la plus grande université des Pays-Bas et le siège de la NS (compagnie Néerlandaise de transport féroviaire). C'est aussi un centre internationnal de conférences grâce à la Jaarbeurs.
+C'est la troisième provinde du Randstad avec sa capitale Utrecht, quatrième ville du pays. Les évèques d'Utrecht ont lontemps été les rivaux de leurs seigneurs voisins de Hollande et de Gueldre ce qui fait que cette petite province est encore aujourd'hui indépendente. Utrecht a une position centrale dans le pays, que ce soit pour le rail, les autoroutes  où les voies d'eau. Utrecht s'affirme donc comme une capitale dynamique avec la plus grande université des Pays-Bas et le siège de [la NS](/les-nederlandse-spoorwegen/) (compagnie Néerlandaise de transport [féroviaire](/tag/train/)). C'est aussi un centre internationnal de conférences grâce à la Jaarbeurs.
   [plus...](http://fr.wikipedia.org/wiki/Utrecht_%28province%29)
 
 <!-- HTML -->

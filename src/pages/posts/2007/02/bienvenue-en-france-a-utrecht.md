@@ -3,7 +3,10 @@ layout: base
 title: Bienvenue en France... à Utrecht
 description: 
 categorie: ik-ben-frans
-tags: ["Utrecht", "salon"]
+tags: 
+ - Utrecht
+ - salon
+ - Jaarbeurs
 isMarkdown: true
 thumbnail: bienvenue-en-france.jpg
 image_alt: Bienvenue en France

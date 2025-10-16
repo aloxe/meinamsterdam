@@ -3,7 +3,8 @@ layout: base
 title: "Qu'allons nous faire de nos welpies ?"
 description: "Les coupes de football se suivent et se ressemblent. Les grandes enseignes sautent sur l'occasion médiatique pour faire des promotions WK, EK ou autre... Une f"
 categorie: nederlandjes
-tags: []
+tags: 
+ - football
 isMarkdown: true
 thumbnail: 
 image_alt: 

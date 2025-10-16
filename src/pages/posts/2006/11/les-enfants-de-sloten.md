@@ -3,7 +3,9 @@ layout: base
 title: Les enfants de Sloten
 description: 
 categorie: toering
-tags: ["photos"]
+tags: 
+ - football
+ - photos
 isMarkdown: true
 thumbnail: enfant-frison.jpg
 image_alt: enfant frison

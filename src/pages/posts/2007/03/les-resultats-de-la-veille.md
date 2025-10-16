@@ -3,7 +3,10 @@ layout: base
 title: Les résultats de la veille
 description: 
 categorie: dagelijks
-tags: ["politique", "sport"]
+tags: 
+ - football
+ - politique
+ - sport
 isMarkdown: true
 thumbnail: stembureau-200-img_8526.jpg
 image_alt: STEMBUREAU 7 maart 2007

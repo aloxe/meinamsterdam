@@ -3,7 +3,8 @@ layout: base
 title: "Européennes: qui voter?"
 description: Puisque je vote aux Pays-Bas pour les élections au Parlement Européen, il me faut choisir parmi des candidats que je connais pas vraiment intervenant dans une
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: kandidatenlijsten-choix.jpg
 image_alt: Choix des candidats

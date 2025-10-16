@@ -3,7 +3,9 @@ layout: base
 title: Mars 2010, mois des élections
 description: 2010 est une année électorale pour les français aux Pays-Bas. Deux scrutins dans le royaume au nord et un scrutin dans la république du sud. Les électeurs 
 categorie: ik-ben-frans
-tags: ["administration", "politique"]
+tags: 
+ - élections
+ - administration
 isMarkdown: true
 thumbnail: stempas-passeport.jpg
 image_alt: "moi et mes cartes d'électeur"

@@ -2,7 +2,11 @@
 layout: base
 title: "Législatives 2022 : comment voter autrement"
 categorie: ik-ben-frans
-tags: ["expat", "politique", "pratique"]
+tags: 
+ - élections
+ - expat
+ - politique
+ - pratique
 isMarkdown: true
 thumbnail: pub-legislatives_m.png
 image_alt: "Législatives 2022: vous avez jusqu'au 29 avril pour vous inscrire sur les listes électorales"

@@ -3,7 +3,10 @@ layout: base
 title: Le Prinsenvlag aux fenêtres
 description: 
 categorie: nederlandjes
-tags: ["coutumes", "mots"]
+tags: 
+ - coutumes
+ - mots
+ -maisons
 isMarkdown: true
 thumbnail: drapeau-balcon-carre400.jpg
 image_alt: drapeaux aux fenêtres

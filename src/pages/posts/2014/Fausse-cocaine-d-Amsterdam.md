@@ -39,7 +39,7 @@ L'offre en drogue dure est donc présente dans la ville et il n'est pas rare de 
 
 ## Une campagne hors du commun
 
-C'est donc dans la rue que les policiers ont lancé leur campagne, visant les touristes qui ne lisent pas les guides. Des tracts et des affiches ont été distribués dans les hôtels et autour de la gare centrale, lieu de passage obligé des touristes sans [voiture](/?q=voiture). Ces tracts en anglais sont délibérément alarmistes avec un gros **Cocaïne Alert** et précise que les personnes rapportant leur usage de drogue ne seront pas poursuivies.
+C'est donc dans la rue que les policiers ont lancé leur campagne, visant les touristes qui ne lisent pas les guides. Des tracts et des affiches ont été distribués dans les hôtels et autour de la gare centrale, lieu de passage obligé des touristes sans [voiture](/tag/voiture/). Ces tracts en anglais sont délibérément alarmistes avec un gros **Cocaïne Alert** et précise que les personnes rapportant leur usage de drogue ne seront pas poursuivies.
 
 ![cocaine alert](cocaine-alert.jpg){.center}
 

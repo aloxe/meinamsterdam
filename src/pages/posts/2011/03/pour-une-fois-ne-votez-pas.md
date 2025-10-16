@@ -3,7 +3,8 @@ layout: base
 title: Pour une fois, ne votez pas...
 description: "... pour qui vous avez l'habitude de voter.    C'est à peu de chose prêt le message d'un groupe de réalisateurs néerlandais qui ont lancé le site voor1keer"
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

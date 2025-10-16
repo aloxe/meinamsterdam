@@ -2,7 +2,9 @@
 layout: base
 title: Timbres en promo
 categorie: ik-ben-frans
-tags: ["timbres"]
+tags: 
+ - timbres
+ - poste
 isMarkdown: true
 thumbnail: sneeuw-decemberzegels-nederland.jpg
 image_alt: sneeuw decemberzegels Nederland

@@ -2,7 +2,9 @@
 layout: base
 title: "Timbres: nouvelle numérotation"
 categorie: dagelijks
-tags: ["timbres"]
+tags: 
+ - poste
+ - timbres
 isMarkdown: true
 thumbnail: timbres-77-europa-1.jpg
 image_alt: "Timbres des Pays-Bas d'usage courant pour l'Europe"

@@ -3,7 +3,10 @@ layout: base
 title: Les arrondis
 description: "Avant même de venir m'installer aux Pays-Bas, j'aimais y faire mes courses et payer en liquide, dans la même monnaie qu'en France. L'euro est quand même bien"
 categorie: dagelijks
-tags: ["coutumes", "économie"]
+tags: 
+ - coutumes
+ - poste
+ - économie
 isMarkdown: true
 thumbnail: ticket-Halford-afronding.jpg
 image_alt: 

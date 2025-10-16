@@ -2,7 +2,10 @@
 layout: base
 title: Voter par Internet
 categorie: ik-ben-frans
-tags: ["administration", "politique", "web"]
+tags: 
+ - élections
+ - administration
+ - web
 isMarkdown: true
 thumbnail: lettre-identifiant-vote.jpg
 image_alt: Lettre avec identifiant

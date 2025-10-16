@@ -2,7 +2,7 @@
 layout: base
 title: Les français surveillent la stabilité des maisons
 categorie: ik-ben-frans
-tags: ["Amsterdam", "travaux"]
+tags: ["Amsterdam", "travaux", "maisons"]
 isMarkdown: true
 thumbnail: cible-et-theodolite.jpg
 image_alt: theodolite et cible

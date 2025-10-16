@@ -2,7 +2,10 @@
 layout: base
 title: Le dernier bureau de poste
 categorie: nederlandjes
-tags: ["Amsterdam", "sociétés"]
+tags: 
+ - poste
+ - Amsterdam
+ - sociétés
 isMarkdown: true
 thumbnail: entree-postkantoor-singel-250.png
 image_alt: entrée du bureau de poste
@@ -10,8 +13,6 @@ permalink: Le-dernier-bureau-de-poste/
 date: 2011-01-02
 update: 2019-11-22
 ---
-
-
 
 S'il ne doit en rester qu'un, ce sera celui là. Le grand bureau de poste central d'Amsterdam (*Hooftpostkantoor*) vient une nouvelle fois de réduire sa taille pour mieux recevoir le public. Pour y accéder il ne faut plus emprunter la grande porte de cet immeuble XIXe[^1] mais **descendre dans la cave** où vous attendent des distributeurs automatiques et quelques employés rescapés.
 

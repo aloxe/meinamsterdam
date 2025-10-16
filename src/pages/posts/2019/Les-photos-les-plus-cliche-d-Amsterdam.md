@@ -2,7 +2,10 @@
 layout: base
 title: "Les 12 photos les plus cliché d'Amsterdam"
 categorie: toering
-tags: ["Amsterdam", "photos"]
+tags: 
+ - Amsterdam
+ - photos
+ - maisons
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -3,7 +3,12 @@ layout: base
 title: Cette fois je vote - la campagne
 description: "Les élections au parlement européen ont lieu dans tout juste deux mois et comme d'habitude la participation sera plus faible que pour les autres élections.  "
 categorie: ik-ben-frans
-tags: ["Europe", "administration", "politique", "éducation"]
+tags: 
+ - élections
+ - Europe
+ - administration
+ - politique
+ - école
 isMarkdown: true
 thumbnail: cettefoisjevote.png
 image_alt: "Campagne: Cette fois je vote !"

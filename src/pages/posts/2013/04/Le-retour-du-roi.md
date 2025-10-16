@@ -27,7 +27,7 @@ Le monde des affaires est de la partie la tour de la National Nederlander affich
 ![La soupe orange de Albert Hein](Soupe-orange-AH-par-Dana.jpg){.center}
 *La soupe orange de Albert Hein*
 
-Coté populaire, on retrouve le orange même dans les soupes d'[Albert Hein](http://meinamsterdam.nl/?q=albert+hein), l'enseigne a poussé la surenchère orange encore plus loin qu'[en période de foot](http://meinamsterdam.nl/decorations-oranges-choisies). Photo : *What's Up Amsterdam*, merci [Dana](http://danarozmarin.com/)
+Coté populaire, on retrouve le orange même dans les soupes d'[Albert Hein](/albert-hein-et-compagnie/), l'enseigne a poussé la surenchère orange encore plus loin qu'[en période de foot](http://meinamsterdam.nl/decorations-oranges-choisies). Photo : *What's Up Amsterdam*, merci [Dana](http://danarozmarin.com/)
 
 <!-- ](https://www.facebook.com/photo.php?fbid=581983878502633&set=a.528047567229598.125494.521751881192500&type=1&theater) -->
 

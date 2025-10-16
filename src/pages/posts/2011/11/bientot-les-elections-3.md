@@ -2,7 +2,10 @@
 layout: base
 title: Bientôt les élections (3)
 categorie: ik-ben-frans
-tags: ["administration", "politique"]
+tags: 
+ - élections
+ - administration
+ - politique
 isMarkdown: true
 thumbnail: urne-du-ministere-des-affaires-etrangeres.png
 image_alt: urne du MAE

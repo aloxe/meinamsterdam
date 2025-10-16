@@ -16,7 +16,7 @@ TODO: no image, no image alt, shortened desc
 
 Les coupes de football se suivent et se ressemblent. Les grandes enseignes sautent sur l'occasion médiatique pour faire des promotions WK, EK ou autre... Une fois que l'équipe nationale est éliminée, on range (poubelle) soigneusement toutes ces grandes enseignes oranges et on essaye d'oublier jusqu'à la prochaine fois. Petit retour sur les meilleurs produits hollandais de la coupe d'Europe.
 
-[Albert Hein](/?q=albert+hein) avait déjà accompagné les supporters pour la coupe du monde en [proposant des wuppies](/qu-allons-nous-faire-de-nos-wuppies) à chaque panier de 15 euros. Pour la coupe d'Europe, ils ont recommencé l'opération avec un produit plus original qui a eu autant de succès : **Le Welpie**. En fait c'est un peu comme un wuppie mais avec une tête de lion, l'animal symbole du pays. Albert Hein a même gavé le public avec sa pub tévé.
+[Albert Hein](/albert-hein-et-compagnie/) avait déjà accompagné les supporters pour la coupe du monde en [proposant des wuppies](/qu-allons-nous-faire-de-nos-wuppies) à chaque panier de 15 euros. Pour la coupe d'Europe, ils ont recommencé l'opération avec un produit plus original qui a eu autant de succès : **Le Welpie**. En fait c'est un peu comme un wuppie mais avec une tête de lion, l'animal symbole du pays. Albert Hein a même gavé le public avec sa pub tévé.
 
 <!-- HTML -->
 <div class="flex flex-col items-center">

@@ -3,7 +3,8 @@ layout: base
 title: Les municipales de avant 2010
 description: "L'année prochaine est à nouveau une année électorale. Les électeurs des Pays-Bas vont à élire à nouveau leurs conseils municipaux. Les élections seront"
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

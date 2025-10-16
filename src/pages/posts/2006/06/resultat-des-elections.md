@@ -3,7 +3,9 @@ layout: base
 title: Résultat des élections
 description: "Comme promis, voici les résultats des élections de L'Assemblée des Français de l'étranger pour la circonscription d'Amsterdam."
 categorie: ik-ben-frans
-tags: ["administratif", "tag", "politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: Affiche-AFE-18-juin-2006.jpg
 image_alt: affiche VOTEZ!

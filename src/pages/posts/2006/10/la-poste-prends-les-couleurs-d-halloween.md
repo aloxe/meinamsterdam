@@ -3,7 +3,10 @@ layout: base
 title: "La poste prends les couleurs d'halloween"
 description: 
 categorie: nederlandjes
-tags: ["sociétés", "timbres"]
+tags: 
+ - poste
+ - sociétés
+ - timbres
 isMarkdown: true
 thumbnail: tpg-post-mailbox.jpg
 image_alt: boite aux lettres TPG Post

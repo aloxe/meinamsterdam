@@ -7,6 +7,7 @@ tags:
  - football
  - politique
  - sport
+ - élections
 isMarkdown: true
 thumbnail: stembureau-200-img_8526.jpg
 image_alt: STEMBUREAU 7 maart 2007

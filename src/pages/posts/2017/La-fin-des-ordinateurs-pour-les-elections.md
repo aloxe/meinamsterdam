@@ -2,7 +2,8 @@
 layout: base
 title: La fin des ordinateurs pour les élections
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

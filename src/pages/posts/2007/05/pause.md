@@ -2,7 +2,8 @@
 layout: base
 title: Spring break
 categorie: dagelijks
-tags: []
+tags: 
+ - blog
 isMarkdown: true
 thumbnail: 
 image_alt: 

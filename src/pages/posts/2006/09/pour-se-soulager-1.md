@@ -14,7 +14,7 @@ subfooters:
  - soulager
 ---
 
-Rien de spécial aujourd'hui, juste allé au [supermarché](http://meinamsterdam.nl/?q=Albert+Hein) pour acheter des choses qui allaient manquer à la maison...
+Rien de spécial aujourd'hui, juste allé au [supermarché](/albert-hein-et-compagnie/) pour acheter des choses qui allaient manquer à la maison...
 
 Je suis tombé sur une marque (*pipi*) de **papier toilette** au nom évocateur (pour un français).
 

@@ -91,7 +91,7 @@ Pour les distraits comme moi qui n'ont pas de couverture l'assistance ponctuelle
 ---
 [^1]: Comme les bornes frontalières que je vous ai montré [au bord de la Belgique](/au-bord-de-la-belgique) et qui sont allongées comme des poteaux
 [^2]: L'association utilise son [prédicat royal/koninklijk-le-predicat-royal|].
-[^3]: Il faut changer les batteries de ces 3.323 bornes tous les cinq ans et ça coute dans les 300.000 euros et il y a aussi un contrat avec [KPN](/?q=kpn) pour les communications.
+[^3]: Il faut changer les batteries de ces 3.323 bornes tous les cinq ans et ça coute dans les 300.000 euros et il y a aussi un contrat avec [KPN](/les-bonnes-blagues-de-kpn/) pour les communications.
 <!-- post notes:
 http://wiki.roncalli.nu/images/2/20/Anwb-auto.jpg 
 

@@ -3,7 +3,9 @@ layout: base
 title: La maison des années 20
 description: Après la guerre de 1914-1918, les rescapés de la grande guerre rentrent chez eux, la révolution industrielle poursuit son cours avec un exode rural qui contraint les villes à s'agrandir. 
 categorie: toering
-tags: ["architecture"]
+tags: 
+ - architecture
+ - maisons
 isMarkdown: true
 thumbnail: maison-annees-20_s.jpg
 image_alt: Maison des années 20

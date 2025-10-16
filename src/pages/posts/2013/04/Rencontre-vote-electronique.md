@@ -2,7 +2,11 @@
 layout: base
 title: Rencontre autour du vote électronique
 categorie: ik-ben-frans
-tags: ["administration", "politique", "sociétés"]
+tags: 
+ - élections
+ - administration
+ - politique
+ - sociétés
 isMarkdown: true
 thumbnail: rop-gonggrijp-et-alix-guillard.jpg
 image_alt: Rop Gonggrijp et Alix Guillard

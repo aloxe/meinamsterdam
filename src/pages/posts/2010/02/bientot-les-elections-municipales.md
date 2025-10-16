@@ -3,7 +3,8 @@ layout: base
 title: Bientôt les élections municipales
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

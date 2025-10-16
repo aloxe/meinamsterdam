@@ -18,7 +18,7 @@ Pendant ce mois de la francophonie (le mois de mars), les Pays-Bas ont multipli�
 
 ## Le nouveau Ziggo
 
-**Ziggo**, je vous en ai parlé, c'est un « petit » câblo-opérateur néerlandais, basé à Utrecht qui a été [attaqué par le lobby des marchands de disques](http://meinamsterdam.nl/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas) pour couper l'accès à *the Pirate Bay*. Cette société devait aussi faire de l'ombre à d'autres puisqu'elle a été rachetée par **UPC**, le géant, filiale de **Liberty Global** dont j'ai [déjà parlé](/?q=UPC) (en mode [pas content](/xs4all-suite-upc)) sur ce blog. La Commission Européenne [a donné son accord](http://www.nu.nl/beurs/3900053/fusie-ziggo-en-upc-mag-voorwaarden.html) pour ce rachat en octobre 2014. Rachat présenté comme une fusion puisque le groupe américain a décidé de garder le nom **Ziggo** pour l'ensemble de ses opérations aux Pays-Bas.
+**Ziggo**, je vous en ai parlé, c'est un « petit » câblo-opérateur néerlandais, basé à Utrecht qui a été [attaqué par le lobby des marchands de disques](http://meinamsterdam.nl/The-Pirate-Bay-n-est-plus-bloque-aux-Pays-Bas) pour couper l'accès à *the Pirate Bay*. Cette société devait aussi faire de l'ombre à d'autres puisqu'elle a été rachetée par **UPC**, le géant, filiale de **Liberty Global** dont j'ai [déjà parlé](/upc-m-a-lacher/) (en mode [pas content](/xs4all-suite-upc)) sur ce blog. La Commission Européenne [a donné son accord](http://www.nu.nl/beurs/3900053/fusie-ziggo-en-upc-mag-voorwaarden.html) pour ce rachat en octobre 2014. Rachat présenté comme une fusion puisque le groupe américain a décidé de garder le nom **Ziggo** pour l'ensemble de ses opérations aux Pays-Bas.
 
 <!--excerpt-->
 

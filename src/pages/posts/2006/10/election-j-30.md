@@ -3,7 +3,9 @@ layout: base
 title: "Élections : j-30"
 description: "Les élection générales ont lieu dans un mois. Il s'aggit de renouveler les députés siègeant à la deuxième chambre (Tweede Kamer) des Pays-Bas, l'équiva"
 categorie: nederlandjes
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -3,7 +3,10 @@ layout: base
 title: Acheter une voiture aux Pays-Bas
 description: "Je ne pensais pas faire un billet sur l'achat d'une voiture aux Pays-Bas, tant j'ai insisté sur la difficulté de se garer à Amsterdam et l'usage facile de la"
 categorie: dagelijks
-tags: ["transports", "voiture"]
+tags: 
+ - poste
+ - transports
+ - voiture
 isMarkdown: true
 thumbnail: alix-picasso.jpg
 image_alt: Alix et Picasso

@@ -3,7 +3,8 @@ layout: base
 title: "C'est une maison rose..."
 description: "Les maisons de ma rue sont souvent en travaux certes. Leur autre  particularité est d'être plus ou moins identiques. Elles ont toutes été  construites entre"
 categorie: dagelijks
-tags: []
+tags: 
+ - maisons
 isMarkdown: true
 thumbnail: maison-rose.jpg
 image_alt: la maison rose

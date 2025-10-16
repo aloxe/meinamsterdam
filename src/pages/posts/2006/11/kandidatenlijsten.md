@@ -3,7 +3,9 @@ layout: base
 title: Kandidatenlijsten
 description: 
 categorie: dagelijks
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: lijst-kandidaten-22-november-200.jpg
 image_alt: "liste des candidats à l'election du 22 novembre 2006"

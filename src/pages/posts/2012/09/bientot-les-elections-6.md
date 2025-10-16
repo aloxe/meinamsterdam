@@ -3,7 +3,8 @@ layout: base
 title: Bientôt les élections (6)
 description: "2012 Est une année électorale, c'est au tour des néerlandais de voter, demain, pour renouveler leur députés. Les élections générales ont été provoqué"
 categorie: nederlandjes
-tags: ["politique"]
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: peil-nl-elections-sept2012.png
 image_alt: évolution des sondages pour les principaux partis

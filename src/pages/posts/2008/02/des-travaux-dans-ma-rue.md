@@ -3,7 +3,9 @@ layout: base
 title: Des travaux dans ma rue
 description: 
 categorie: dagelijks
-tags: ["travaux"]
+tags: 
+ - travaux
+ - maisons
 isMarkdown: true
 thumbnail: travaux-sur-maison-protegee-s.jpg
 image_alt: échafaudages et protection pour travaux

@@ -3,7 +3,10 @@ layout: base
 title: Royal et Hollande
 description: "Bon, ce n'est parce que je ne suis pas en France que je ne me renseigne pas sur les potins et les derniers gossips. J'ai bien eu vent de l'histoire de Ségolèn"
 categorie: ik-ben-frans
-tags: ["humour", "politique"]
+tags: 
+ - élections
+ - humour
+ - politique
 isMarkdown: true
 thumbnail: jdd-021207-segolene.png
 image_alt: Ségolène Royal en couverture du Journal du Dimanche - 2 décembre 2007

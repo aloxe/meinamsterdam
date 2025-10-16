@@ -2,7 +2,8 @@
 layout: base
 title: Élections à la première chambre
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

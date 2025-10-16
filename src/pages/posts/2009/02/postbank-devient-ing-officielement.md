@@ -3,6 +3,7 @@ layout: base
 title: Postbank devient ING (officielement)
 description: 
 categorie: dagelijks
+tags:
  - sociétés
  - banque
  - poste

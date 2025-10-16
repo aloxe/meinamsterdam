@@ -4,7 +4,7 @@ title: Plein de vélos hollandais (1)
 description: "Il y a maintenant un mois que je n'ai plus mon vélo, il semble que je l'ai perdu stupidement avec l'aide d'un voleur. J'utilise donc quotidiennement le vélo d"
 categorie: nederlandjes
 tags: 
- - velo
+ - vélo
 isMarkdown: true
 thumbnail: velo-azor-et-moulin-rieker.jpg
 image_alt: Vélo multicolore, multikeukijk fiets

@@ -3,7 +3,9 @@ layout: base
 title: Mon black Friday
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - blog
+ - koninginnedag
 isMarkdown: true
 thumbnail: visitors-overview.png
 image_alt: visitors overview of meinamsterdam.nl
@@ -20,7 +22,7 @@ Le lundi suivant est connu sous le nom du **Cyber Monday** parce que de plus en 
 
 ![visitors overview of meinamsterdam.nl](visitors-overview.png){.center}
 
-On constate que les visiteurs sont plus nombreux à l'approche de [la Saint Nicolas](/saint-nicolas-est-revenu-sinterklaas-is-terug) et pour la [fête de la reine](/?q=koninginnedag). 
+On constate que les visiteurs sont plus nombreux à l'approche de [la Saint Nicolas](/saint-nicolas-est-revenu-sinterklaas-is-terug) et pour la [fête de la reine](/tag/koninginnedag/). 
 
 Les quelques articles que j'ai écrit sur le sujet depuis 2006 apportent des réponses aux questions que les internautes se posent (via Google) à ces moments de l'année. On peut voir que depuis fin 2008, [Noël](/?q=noel) et le [jour de l'an à Amsterdam](/liens-pour-nouvel-an) augmentent aussi l'intéret de ce blog. Les requètes des internautes à cette période confirment tout cela. 
 

@@ -3,7 +3,9 @@ layout: base
 title: Après koninginnedag
 description: Évidement le lendemein, on est un peu fatigué mais je vous montrerais les photos un autre jour. Pour le moment, il faut récupérer...
 categorie: toering
-tags: ["coutumes"]
+tags: 
+ - coutumes
+ - koninginnedag
 isMarkdown: true
 thumbnail: detritus-sapes.jpg
 image_alt: tas de vêtements

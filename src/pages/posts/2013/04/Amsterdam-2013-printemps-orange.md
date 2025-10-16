@@ -17,7 +17,7 @@ Déferlement de touristes à prévoir pour un avril tout orange. Le [site de l'o
 
 <!--excerpt-->
 
-Mais qu'on ne s'y trompe pas, les anniversaires c'est bien mais il n'y en a qu'un de vrai, celui de la reine : [Konniginedag](http://meinamsterdam.nl/?q=Koninginnedag). Seulement voilà, avec l’abdication de la reine, cette fête va disparaitre. L'inauguration du roi Guillame-Alexandre (*de huldiging van prins Willem Alexander*) aura lieu comme prévu le 30 avril à Amsterdam. C'est aussi ce jour là qu'aura lieu la dernière fête de la reine. C'est le dernier jour pour vendre ses drapeaux et t-shirts avec le nom de la reine. Le premier mai, il sera trop tard.
+Mais qu'on ne s'y trompe pas, les anniversaires c'est bien mais il n'y en a qu'un de vrai, celui de la reine : [Konniginedag](/tag/koninginnedag/). Seulement voilà, avec l’abdication de la reine, cette fête va disparaitre. L'inauguration du roi Guillame-Alexandre (*de huldiging van prins Willem Alexander*) aura lieu comme prévu le 30 avril à Amsterdam. C'est aussi ce jour là qu'aura lieu la dernière fête de la reine. C'est le dernier jour pour vendre ses drapeaux et t-shirts avec le nom de la reine. Le premier mai, il sera trop tard.
 
 ![feel orange facebook](feel-orange.png){.center}
 
@@ -25,7 +25,7 @@ Les sites de tourisme ([ici](http://www.holland.com/fr/Tourisme/Vacances-a-theme
 
 L'année prochaine, la fête de la reine deviendra la **fête du roi** (*Koningsdag*). Elle [aura lieu](/Premier-Koningsdag) à l'anniversaire du nouveau monarque : **le 27 avril**. Elle sera toujours au printemps et sera encore en orange.
 
-Voir aussi : [Le retour du roi](http://meinamsterdam.nl/Le-retour-du-roi)
+Voir aussi : [Le retour du roi](/Le-retour-du-roi/)
 
 <!-- post notes:
 http://www.holland.com/fr/Tourisme/Vacances-a-theme/Amsterdam-2013-2.htm 

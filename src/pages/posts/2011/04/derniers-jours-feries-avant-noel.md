@@ -18,7 +18,7 @@ Cette année encore nous ne sommes pas gâtés en jours fériés. Après le week
 
 On peut voir [les jours chômés sur le site du RIPE NCC](http://www.ripe.net/lir-services/ncc/contact/public-holidays). Il n'y a pas grand chose. Pourtant nous sommes gâtés. Le [vendredi saint](/vendredi-saint-est-ferie-ou-pas) n'est pas chômé dans tous le pays, seulement les administrations sont généralement fermés. Dans les entreprises, ce jour de congé est à la discrétion de l'employeur. Souvent plus utilisé dans [le sud catholique](/catholiques-et-protestants) que le nord. Le [lundi de pâques](/c-est-le-deuxieme), par contre, est officiellement férié partout.
 
-Cette année, [la fête de la reine](/?q=koninginnedag) tombe un samedi. Pour ceux qui ne travaillent pas ce jour là, c'est un jours férié qui passe à la trappe. Quand ce jour tombe un dimanche, [il est décalé](/koninginnedag) pour satisfaire tout le monde, mais pas le samedi. Tant pis.
+Cette année, [la fête de la reine](/tag/koninginnedag/) tombe un samedi. Pour ceux qui ne travaillent pas ce jour là, c'est un jours férié qui passe à la trappe. Quand ce jour tombe un dimanche, [il est décalé](/koninginnedag) pour satisfaire tout le monde, mais pas le samedi. Tant pis.
 
 Le premier mai est quasiment inconnu ici, seul exception pour tout le pays, les employés de bureau de la mairie d'Amsterdam font la fête du travail.
 

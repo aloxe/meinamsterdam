@@ -3,7 +3,7 @@ layout: base
 title: Plein de vélos hollandais (2)
 description: "Il y a maintenant plus d'un mois que je n'ai plus mon vélo, il semble vous avoir dit que je l'ai perdu stupidement avec l'aide d'un voleur. Alors maintenant qu"
 categorie: nederlandjes
-tags: ["vélos"]
+tags: ["vélo"]
 isMarkdown: true
 thumbnail: plein-de-velos.jpg
 image_alt: plein de vélos

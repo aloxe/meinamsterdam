@@ -3,7 +3,9 @@ layout: base
 title: Les lions font les cons
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - banque
+ - koninginnedag
 isMarkdown: true
 thumbnail: 
 image_alt: 

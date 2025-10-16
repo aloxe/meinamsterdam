@@ -3,7 +3,12 @@ layout: base
 title: Hoeden, les chapeaux
 description: "Mes problèmes avec UPC et les fenêtres ne sont pas finis alors, une échapatoire : les souvenirs de Koninginnedag avec cette fois ci, une collection de chapea"
 categorie: toering
-tags: ["Amsterdam", "coutumes", "fleurs", "photos"]
+tags: 
+ - Amsterdam
+ - coutumes
+ - koninginnedag
+ - fleurs
+ - photos
 isMarkdown: true
 thumbnail: chapeau-aviateur-soviet.jpg
 image_alt: Petit soviet aviateur

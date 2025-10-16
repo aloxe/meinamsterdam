@@ -3,7 +3,9 @@ layout: base
 title: La fête de la reine sera mobile
 description: "Tous les ans je vous parle de la fête de la reine et de tout le orange qu'il y a autour[^1]. Cette année le manque de temps m'empêche[^2] de m'y attarder mais je voulais quand même signaler une tendance du cru 2011:"
 categorie: nederlandjes
-tags: ["coutumes"]
+tags: 
+ - koninginnedag
+ - coutumes
 isMarkdown: true
 thumbnail: alles-over-koninginnedag-op-je-mobiel.jpg
 image_alt: Alles over koninginnedag op je mobiel

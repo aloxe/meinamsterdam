@@ -16,7 +16,7 @@ update: 2017-12-18
 
 ![fietsen niet plaatsen](fietsen-niet-plaatsen.jpg){.center}
 
-Je suis dans une ville qui revendique autant de bicyclettes que d'habitants[^1] alors évidement il y a quelques aménagements spécifiques pour ce mode de transport. Vous connaissez surement les garages et les pistes réservées, vous avez vu la signalisation pour vélos mais vous êtes peut-être moins attentif aux interdictions de stationner qui fleurissent ça et là. Le panneau ci dessus indique qu'il est interdit d'attacher une bicyclette sur cette grille. Pour une fois l'interdiction est respectée. Beaucoup d'amstelodamois qui habitent au rez-de-chaussée aposent des autocollants sur leur fenêtres pour que [les bicyclettes](/?q=v%C3%A9los) se garent ailleurs. Peine perdue, beaucoup de ces panneaux ne sont pas respectés.
+Je suis dans une ville qui revendique autant de bicyclettes que d'habitants[^1] alors évidement il y a quelques aménagements spécifiques pour ce mode de transport. Vous connaissez surement les garages et les pistes réservées, vous avez vu la signalisation pour vélos mais vous êtes peut-être moins attentif aux interdictions de stationner qui fleurissent ça et là. Le panneau ci dessus indique qu'il est interdit d'attacher une bicyclette sur cette grille. Pour une fois l'interdiction est respectée. Beaucoup d'amstelodamois qui habitent au rez-de-chaussée aposent des autocollants sur leur fenêtres pour que [les bicyclettes](/tag/velo/) se garent ailleurs. Peine perdue, beaucoup de ces panneaux ne sont pas respectés.
 
 ![fientsen langer dan 28 dagen](fietsen-langer-dan-28-dagen.jpg){.center}
 

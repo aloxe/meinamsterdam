@@ -16,7 +16,7 @@ subfooters:
  - velos
 ---
 
-Pour le nouvel an, je suis allé en France en [Thalys](/?q=Thalys). J'ai pédalé jusqu'à la gare centrale (*Amsterdam Centraal Station*) et j'ai garé [mon vélo](/un-b-twin-a-amsterdam) dans cet immense parking jouxtant la gare. À mon retour deux semaines plus tard, il m'était impossible de remettre la main dessus.
+Pour le nouvel an, je suis allé en France en [Thalys](/tag/thalys/). J'ai pédalé jusqu'à la gare centrale (*Amsterdam Centraal Station*) et j'ai garé [mon vélo](/un-b-twin-a-amsterdam) dans cet immense parking jouxtant la gare. À mon retour deux semaines plus tard, il m'était impossible de remettre la main dessus.
 
 [![zilvertoren et parking à vélo multi étages](Zilveren_toren_en_fitsflat.jpg){.center}](http://commons.wikimedia.org/wiki/Image:Zilveren_toren_en_fitsflat.jpg)
 

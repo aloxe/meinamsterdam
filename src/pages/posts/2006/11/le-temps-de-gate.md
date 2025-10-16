@@ -3,7 +3,9 @@ layout: base
 title: Le temps de gâte...
 description: 
 categorie: dagelijks
-tags: ["météo"]
+tags: 
+ - météo
+ - avion
 isMarkdown: true
 thumbnail: velos-morts-sur-la-route.jpg
 image_alt: cadavres de vélos sur la route

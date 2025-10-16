@@ -2,7 +2,11 @@
 layout: base
 title: Le dernier Fokker des Pays bas
 categorie: nederlandjes
-tags: ["schiphol", "sociétés", "transports"]
+tags: 
+ - schiphol
+ - avion 
+ - sociétés
+ - transports
 isMarkdown: true
 thumbnail: Antony-Fokker-sur-F70-par-tjdarmstadt.jpg
 image_alt: F70 livrée spéciale montrant Antony Fokker

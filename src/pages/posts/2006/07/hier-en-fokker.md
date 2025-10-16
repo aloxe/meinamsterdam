@@ -3,7 +3,10 @@ layout: base
 title: Hier en Fokker
 description: 
 categorie: nederlandjes
-tags: ["schiphol", "transports"]
+tags: 
+ - schiphol
+ - avion
+ - transports
 isMarkdown: true
 thumbnail: klm-cityhopper-400.jpg
 image_alt: mon F70 KLM-cityhopper

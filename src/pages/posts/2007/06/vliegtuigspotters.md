@@ -3,7 +3,10 @@ layout: base
 title: Les Vliegtuigspotters de Schiphol
 description: 
 categorie: toering
-tags: ["photos", "schiphol"]
+tags: 
+ - avion
+ - photos
+ - schiphol
 isMarkdown: true
 thumbnail: vliegtuigspotters-300.jpg
 image_alt: longues-vues et avions

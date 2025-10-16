@@ -2,7 +2,10 @@
 layout: base
 title: Pas hier, pas en Fokker
 categorie: nederlandjes
-tags: ["schiphol", "transports"]
+tags: 
+ - schiphol
+ - avion 
+ - transports
 isMarkdown: true
 thumbnail: Embraer-190-KLM-.jpg
 image_alt: Embraer 190 de KLM à Ruzyně

@@ -3,7 +3,9 @@ layout: base
 title: Préparatifs en orange
 description: 
 categorie: toering
-tags: ["coutumes"]
+tags: 
+ - coutumes
+ - koninginnedag
 isMarkdown: true
 thumbnail: witbaard-orange.jpg
 image_alt: vitrine orange

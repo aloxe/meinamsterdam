@@ -23,7 +23,7 @@ Pour faire comme les Néerlandais, j'ai rammené mon vélo parisien à Amsterdam
 Je ne suis pas le seul [B-twin](http://www.decathlon.fr/FR/Product_arborescence/Bikes_and_rolle/Bikes/city_and_countr/multi_purpose_b/product_6556056/index.html) à Amsterdam (j'en ai vu un autre chez un français) mais il n'y en a pas beaucoup d'autre. D'ailleurs il faut être bien stupide pour rouler en B-twin à Amsterdam, il y a bien des points où le vélo hollandais montrer sa supériorité face au B-twin.
 
 * il a un chouette look et ila donc plus de chance de se faire voler
-* il y a des freins qui s'usent alors que [les vélos](/?q=v%C3%A9los) hollandais utilisent le rétropédalage
+* il y a des freins qui s'usent alors que [les vélos](/tag/velo/) hollandais utilisent le rétropédalage
 * la chaine n'est pas protégée
 * le dérailleur n'a pas l'air très solide
 * que faire de 30 vitesses dans une ville plate ?

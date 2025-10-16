@@ -3,7 +3,9 @@ layout: base
 title: "Nouveau mot : Bezet"
 description: 
 categorie: toering
-tags: ["mots"]
+tags: 
+ - mots
+ - koninginnedag
 isMarkdown: true
 thumbnail: trottoir-img_9484-450.jpg
 image_alt: trottoir réservé

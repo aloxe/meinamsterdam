@@ -3,7 +3,9 @@ layout: base
 title: "Fête de la Reine 2008 : on prépare"
 description: "  C'est cette année ma troisième fête de la Reine. Si en 2006 j'ai été surpris par l'évènement, je regarde cette année les préparatifs comme un rituel."
 categorie: nederlandjes
-tags: ["coutumes"]
+tags: 
+ - coutumes
+ - koninginnedag
 isMarkdown: true
 thumbnail: amsterdam-kd.gif
 image_alt: Amsterdam en Konninginnedag

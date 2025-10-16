@@ -3,7 +3,8 @@ layout: base
 title: Crime de lèse-Président
 description: "Je n'ai pas encore parlé de la fête de la reine qui arrive dans quelques jours (Le 30 avril prochain) parce que je vous ai déjà fait part des préparatifs e"
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - koninginnedag
 isMarkdown: true
 thumbnail: affiches-iamsterdam.nl.jpg
 image_alt: Affiches Koninginnedag I amsterdam
@@ -15,7 +16,7 @@ TODO: shortened desc
 
 Je n'ai pas encore parlé de la fête de la reine qui arrive dans quelques jours (Le 30 avril prochain) parce que je vous ai déjà fait part des [préparatifs](/fete-de-la-reine) et de [cette fête](/koninginnedag). Que dire de plus ? Et bien voilà que l'actualité me permet de parler de dirigeants français qui haussent le ton à cette occasion. C'est même pas pour dire des choses intelligentes.
 
-La fête de la Reine ([Koninginnedag](/?q=Koninginnedag)) attire à Amsterdam des milliers de locaux et des milliers de touristes. La mairie est très fière de cette organisation et continue de faire sa promotion en expliquant dans sa campagne que la fête de la reine est la plus grande et la plus belle fête de rue du monde. Pour ce faire, ils ont pondu [des affiches](http://gespot.at5.nl/2009/04/20/zin-in-een-feestje/) avec des dirigeants connus parmi la foule des gens qui font la fête en orange. Ces affiches ont été reprises samedi en couverture de Het Parool, le quotidien d'Amsterdam. **Hillary Clinton** offre ainsi un joli décolleté dans un bikini couleur batave, alors que **Barrak Obama** et **Vladimir Poutine** s'affiche avec un T-shirt «Kiss me I'm drunk». On retrouve aussi **Silvio Berlusconni** et **Nicolas Sarkozy** tout sourires l'un contre l'autre avec un boa à plumes orange.
+La fête de la Reine ([Koninginnedag](/tag/koninginnedag/)) attire à Amsterdam des milliers de locaux et des milliers de touristes. La mairie est très fière de cette organisation et continue de faire sa promotion en expliquant dans sa campagne que la fête de la reine est la plus grande et la plus belle fête de rue du monde. Pour ce faire, ils ont pondu [des affiches](http://gespot.at5.nl/2009/04/20/zin-in-een-feestje/) avec des dirigeants connus parmi la foule des gens qui font la fête en orange. Ces affiches ont été reprises samedi en couverture de Het Parool, le quotidien d'Amsterdam. **Hillary Clinton** offre ainsi un joli décolleté dans un bikini couleur batave, alors que **Barrak Obama** et **Vladimir Poutine** s'affiche avec un T-shirt «Kiss me I'm drunk». On retrouve aussi **Silvio Berlusconni** et **Nicolas Sarkozy** tout sourires l'un contre l'autre avec un boa à plumes orange.
 
 ![Affiches Koninginnedag I amsterdam](affiches-iamsterdam.nl.jpg){.center}
 

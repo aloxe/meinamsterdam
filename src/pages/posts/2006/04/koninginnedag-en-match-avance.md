@@ -3,7 +3,9 @@ layout: base
 title: Konninginnedag en match avancé
 description: 
 categorie: toering
-tags: ["coutumes"]
+tags: 
+ - coutumes
+ - koninginnedag
 isMarkdown: true
 thumbnail: 
 image_alt: 

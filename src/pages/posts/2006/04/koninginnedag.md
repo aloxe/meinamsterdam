@@ -3,7 +3,9 @@ layout: base
 title: Koninginnedag, la fête de la reine
 description: 
 categorie: toering
-tags: ["coutumes"]
+tags: 
+ - koninginnedag
+ - coutumes
 isMarkdown: true
 thumbnail: panorange-500.jpg
 image_alt: Panoramique Orange

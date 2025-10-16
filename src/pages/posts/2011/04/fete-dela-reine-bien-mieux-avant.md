@@ -2,7 +2,9 @@
 layout: base
 title: "La fête de la reine, c'était bien mieux avant"
 categorie: nederlandjes
-tags: ["Amsterdam", "coutumes"]
+tags: Amsterdam
+ - koninginnedag
+ - coutumes
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -3,7 +3,9 @@ layout: base
 title: La fête de quelle reine ?
 description: 
 categorie: nederlandjes
-tags: ["coutumes"]
+tags: 
+ - coutumes
+ - koninginnedag
 isMarkdown: true
 thumbnail: panorange-02-500.jpg
 image_alt: foule orange sur les canaux

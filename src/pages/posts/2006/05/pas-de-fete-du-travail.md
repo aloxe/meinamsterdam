@@ -3,7 +3,9 @@ layout: base
 title: Pas de fête du travail
 description: "Pas de jour férié ici le 1er mai. Je vous rappelle qu'il y a 2 jours c'était férié et qu'il ne faut pas abuser. A la demande générale, quelques photos du"
 categorie: dagelijks
-tags: ["administration"]
+tags: 
+ - administration
+ - koninginnedag
 isMarkdown: true
 thumbnail: panorange-02-500.jpg
 image_alt: 
@@ -13,21 +15,21 @@ update: 2012-09-04
 TODO: no image alt, shortened desc, image without alt
 ---
 
-Pas de jour férié ici le 1er mai. Je vous rappelle qu'il y a 2 jours c'était férié et qu'il ne faut pas abuser. A la demande générale, quelques photos du [29 (Oranje) avril](/koninginnedag).
+Pas de jour férié ici le 1er mai. Je vous rappelle qu'il y a 2 jours c'était férié et qu'il ne faut pas abuser. A la demande générale, quelques photos du [29 (Oranje) avril](/koninginnedag/).
 
-Après les photos de [pendant](/koninginnedag) et [après](/apres-koninginnedag) voici quelques panoramiques :
+Après les photos de [pendant](/koninginnedag) et [après](/apres-koninginnedag/) voici quelques panoramiques :
 
-![](panorange-02-500.jpg)
+![panorama en orange](panorange-02-500.jpg)
 
-![](panorange-03-500.jpg)
+![panorama de  fête en orange](panorange-03-500.jpg)
 
-![](panorange-06-500.jpg)
+![panorama de  fête en orange](panorange-06-500.jpg)
 
-![](panorange-05-500.jpg)
+![panorama de  fête en orange](panorange-05-500.jpg)
 
-![](panorange-04-500.jpg)
+![panorama de  fête en orange](panorange-04-500.jpg)
 
-![](panorange-07-500.jpg)
+![panorama de  fête en orange](panorange-07-500.jpg)
 
 Autres billets sur le sujet :
 * [Konninginnedag](/koninginnedag)

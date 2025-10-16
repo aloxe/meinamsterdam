@@ -3,7 +3,10 @@ layout: base
 title: Lettre aux copains qui viennent à la fête de la reine
 description: 
 categorie: ik-ben-frans
-tags: ["cinéma", "sortir"]
+tags: 
+ - cinéma
+ - sortir
+ - koninginnedag
 isMarkdown: true
 thumbnail: panorange-02-500.jpg
 image_alt: les bateaux à la fete de la reine

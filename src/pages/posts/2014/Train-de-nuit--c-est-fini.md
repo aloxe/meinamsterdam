@@ -2,7 +2,10 @@
 layout: base
 title: "Train de nuit, c'est fini"
 categorie: toering
-tags: ["transport", "Allemagne"]
+tags: 
+ - transport
+ - train 
+ - Allemagne
 isMarkdown: true
 thumbnail: Prague-Amsterdam-CNL.jpg
 image_alt: Panneau de wagon 173 avec destination Prague
@@ -14,14 +17,14 @@ update: 2023-02-19
 **J'essaye un service de train de nuit pratique et moins cher entre Prague et Amsterdam et hop, voilà que Deutsche Bahn annonce sa fermeture.**
 
 ## Nouveau mot : Slaaptrein
-En 2010, Je devais me rendre à Prague [pour le boulot](http://ripe60.ripe.net/) fin avril. Mais les perturbations fumeuses du volcan islandais Eyjafjöll (j'espère l'avoir bien dit) m'a incité à chercher d'autres moyens de transport que [l'avion](/pas-hier-pas-en-fokker). C'est là que j'ai découvert l'option **train de nuit** (*slaaptrein*). Les néerlandais disent train où dormir même si le *nachttrein* qui veut dire train de nuit existe aussi. Tout le monde comprend, s'il est aussi possible de dormir dans un tain de jour même si c'est moins confortable...
+En 2010, Je devais me rendre à Prague [pour le boulot](http://ripe60.ripe.net/) fin avril. Mais les perturbations fumeuses du volcan islandais Eyjafjöll (j'espère l'avoir bien dit) m'a incité à chercher d'autres moyens de transport que [l'avion](/pas-hier-pas-en-fokker/). C'est là que j'ai découvert l'option **train de nuit** (*slaaptrein*). Les néerlandais disent train où dormir même si le *nachttrein* qui veut dire train de nuit existe aussi. Tout le monde comprend, s'il est aussi possible de dormir dans un tain de jour même si c'est moins confortable...
 
 <!--excerpt-->
 
 ## City Night Line
 Le service de train de nuit est opéré par la **CNL**, **City Night Line**, filiale de la DB allemande très présente à Amsterdam Centraal avec ses ICE rouge et blancs. Les trains de CNL sont plus discrets le soir mais il y en a plusieurs partant entre 17 et 18 heures en direction de Prague, mais aussi de Varsovie  (le même train qui se sépare à Berlin), Copenhague ou Zurich. Les billets sont disponibles à partir de 29 euros (prix promo en siège inclinable) à presque 300 euros en coupé individuel de luxe.
 
-Même si j'ai pris l'avion en 2010, j'ai pu noter que ce pourvait être une bonne option pour visiter l'Europe. Même si on passe 10 ou 12 heures dans le train, on ne perd pas de temps puisqu'on se couche dans un pays et on se réveille dans l'autre. Grâce au train de nuit, le transport et une nuit d'hébergement coute moins cher qu'un billet d'avion. Qu'il n'y a pas de changement pour rejoindre le entre ville en train. On évite aussi le scan de sa valise et la fouille au corps, les multiples contrôles et l'attente dans un supermarché, tout ce qui fait qu'on aime les aéroports. Plusieurs lignes partent d'Amsterdam et de nombreuses autres parcourent l'Europe. La carte des lignes de la CNL couvre bien plus que l'Allemagne.
+Même si [j'ai pris l'avion](/tag/avion/) en 2010, j'ai pu noter que ce pourvait être une bonne option pour visiter l'Europe. Même si on passe 10 ou 12 heures dans le train, on ne perd pas de temps puisqu'on se couche dans un pays et on se réveille dans l'autre. Grâce au train de nuit, le transport et une nuit d'hébergement coute moins cher qu'un billet d'avion. Qu'il n'y a pas de changement pour rejoindre le entre ville en train. On évite aussi le scan de sa valise et la fouille au corps, les multiples contrôles et l'attente dans un supermarché, tout ce qui fait qu'on aime les aéroports. Plusieurs lignes partent d'Amsterdam et de nombreuses autres parcourent l'Europe. La carte des lignes de la CNL couvre bien plus que l'Allemagne.
 
 [![Carte du réseau des trains de nuit CNL](Reseau-CNL-2011-de.jpg){.center}](https://nl.wikipedia.org/wiki/CityNightLine#mediaviewer/File:City_Night_Line_network_2010-2011.svg)
 

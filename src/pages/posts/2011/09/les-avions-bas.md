@@ -2,7 +2,9 @@
 layout: base
 title: Les avions volent trop bas
 categorie: dagelijks
-tags: ["transports"]
+tags: 
+ - avion
+ - transports
 isMarkdown: true
 thumbnail: 6142063332.jpg
 image_alt: avion volant bas près d'un bâtiment industriel
@@ -13,7 +15,7 @@ subfooters:
  - schiphol
 ---
 
-Les Pays-Bas s'appellent comme ça parce que tout est bas. Même le vol des avions. Hier le vent d'ouest était si fort que les avions à l'approche de l'aéroport de [Schiphol](/?q=schiphol) devaient survoler la ville à basse altitude avant d'atterrir. Impressionnant ! Un collègue a pris ces photos hier, voyez plutôt :
+Les Pays-Bas s'appellent comme ça parce que tout est bas. Même le vol des avions. Hier le vent d'ouest était si fort que les avions à l'approche de l'aéroport de [Schiphol](/tab/schiphol/) devaient survoler la ville à basse altitude avant d'atterrir. Impressionnant ! Un collègue a pris ces photos hier, voyez plutôt :
 
 <!--excerpt-->
 

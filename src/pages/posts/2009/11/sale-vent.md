@@ -2,7 +2,9 @@
 layout: base
 title: Sale vent!
 categorie: dagelijks
-tags: []
+tags: 
+ - avion
+ - meteo
 isMarkdown: true
 thumbnail: ../../2011/09/6142063332.jpg
 image_alt: avion qui vole bas

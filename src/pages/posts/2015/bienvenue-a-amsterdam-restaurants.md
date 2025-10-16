@@ -16,7 +16,7 @@ TODO: no image, no image alt, shortened desc
 > ![Welcommer Alix Guillard](alix_welcommer.jpg)
 > Si je passe beaucoup de temps devant mon ordinateur, je préfère que l’on me suive à vélo que sur Twitter. J'aime Amsterdam pour... ses ruelles, ses richesses, ses trésors et tous ces spots où l’on sert de la bonne bière. Suivez le guide # Mon petit + : Partir à la découverte de la nature.
 
-C'est comme ça que commence ma présentation sur le site de Thalys ([mon train préféré](/?q=Thalys) entre Paris et Amsterdam), où pendant deux ans (2011 et 2012) j'ai invité les lecteurs à partager mes meilleurs spots d'Amsterdam. L'exercice avait des figures imposées comme les thèmes, le ton et le format. Les sujets étaient soigneusement contrôlés avant publication mais c'était une activité intéressante qui a peut-être fait chuter le nombre d'articles sur ce blog.
+C'est comme ça que commence ma présentation sur le site de Thalys ([mon train préféré](/tag/thalys/) entre Paris et Amsterdam), où pendant deux ans (2011 et 2012) j'ai invité les lecteurs à partager mes meilleurs spots d'Amsterdam. L'exercice avait des figures imposées comme les thèmes, le ton et le format. Les sujets étaient soigneusement contrôlés avant publication mais c'était une activité intéressante qui a peut-être fait chuter le nombre d'articles sur ce blog.
 
 Alors pour me rattraper, et comme je me l'étais promis il y a si longtemps, je vais vous les proposer à la lecture ici même. Cette série s'appelle **bienvenue à Amsterdam** parce que nous étions présentés par le site comme les *welcomers* des voyageurs en train. Pour commencer, je vous propose les bonnes adresses pour manger.
 <div class="flex flex-col items-center">

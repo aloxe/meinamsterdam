@@ -3,7 +3,11 @@ layout: base
 title: Voyage retour, voyage KLM
 description: 
 categorie: nederlandjes
-tags: ["schiphol", "sociétés", "transports"]
+tags: 
+ - schiphol
+ - sociétés
+ - transports
+ - avion
 isMarkdown: true
 thumbnail: roald-amunsdsen-150.jpg
 image_alt: 

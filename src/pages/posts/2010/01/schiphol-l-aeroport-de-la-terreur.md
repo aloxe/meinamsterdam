@@ -2,7 +2,10 @@
 layout: base
 title: "Schiphol, l'aéroport de la terreur"
 categorie: nederlandjes
-tags: ["schiphol", "transports"]
+tags: 
+ - schiphol
+ - avion 
+ - transports
 isMarkdown: true
 thumbnail: 
 image_alt: 

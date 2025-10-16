@@ -3,7 +3,10 @@ layout: base
 title: Un voyage avec Transavia
 description: 
 categorie: dagelijks
-tags: ["transports"]
+tags: 
+ - transports
+ - avion
+ - sociétés
 isMarkdown: true
 thumbnail: ancien-nouveau-logo_Transavia-400.jpg
 image_alt: ancien et nouveau logos transavia à Schiphol

@@ -14,7 +14,7 @@ date: 2012-03-20
 update: 2020-06-10
 ---
 
-Cet hiver, comme beaucoup de néerlandais, je suis allé skier dans les Alpes. Comme certains d'entre eux, je me suis rendu dans les stations en prenant le train. Pas n'importe quel train, le train à grande vitesse qui va en France [dont j'ai beaucoup parlé](/?q=Thalys) sur ce blog: Le [Thalys](/?q=Thalys). 
+Cet hiver, comme beaucoup de néerlandais, je suis allé skier dans les Alpes. Comme certains d'entre eux, je me suis rendu dans les stations en prenant le train. Pas n'importe quel train, le train à grande vitesse qui va en France [dont j'ai beaucoup parlé](/tag/thalys/) sur ce blog: Le [Thalys](/tag/thalys/). 
 
 Ce n'est pas un Thalys comme les autres que j'ai pris mais un **Thalys neige**.
 

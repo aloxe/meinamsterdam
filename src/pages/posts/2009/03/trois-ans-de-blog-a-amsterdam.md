@@ -3,7 +3,8 @@ layout: base
 title: Trois ans de blog à Amsterdam
 description: Voilà trois ans que je raconte mes aventures dans la capitale Batave. Mon premier post, racontant le déménagement est daté du 31 mars 2006. En fait, il est 
 categorie: dagelijks
-tags: []
+tags: 
+ - blog
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -17,7 +18,7 @@ Voilà trois ans que je raconte mes aventures dans la capitale Batave. Mon premi
 
 ## Me
 
-Après trois ans de vie commune et deux déménagements, je suis toujours avec Sophie et ça va bien merci. Même si j'essaye de vous apprendre de [nouveaux mots](/?q=nouveau+mot%3A), je ne suis pas encore une bête dans la langue tochtone, tout juste [débutant](/hollandais-debutant).
+Après trois ans de vie commune et deux déménagements, je suis toujours avec Sophie et ça va bien merci. Même si j'essaye de vous apprendre de [nouveaux mots](/tag/mots/), je ne suis pas encore une bête dans la langue tochtone, tout juste [débutant](/hollandais-debutant).
 
 ## in Amsterdam
 

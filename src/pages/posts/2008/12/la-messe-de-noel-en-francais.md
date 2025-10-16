@@ -3,7 +3,9 @@ layout: base
 title: La messe de Noël en français
 description: "Chers touristes qui préparez votre voyage à Amsterdam. Si vous vous demandez si ça vaut le coup d'aller à la messe de minuit. Ne cherchez plus, ça vaut le "
 categorie: ik-ben-frans
-tags: ["religion"]
+tags: 
+ - Noël
+ - religion
 isMarkdown: true
 thumbnail: naissance-de-jesus.jpg
 image_alt: "Noël: La naissance de Jésus"

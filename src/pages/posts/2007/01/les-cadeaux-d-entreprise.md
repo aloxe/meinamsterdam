@@ -3,7 +3,10 @@ layout: base
 title: "Les cadeaux d'entreprise"
 description: 
 categorie: dagelijks
-tags: ["coutumes", "sociétés"]
+tags: 
+ - Noël
+ - coutumes
+ - sociétés
 isMarkdown: true
 thumbnail: dvd-et-vin.jpg
 image_alt: DVD de Wallace et Gromit sur une caisse de Bordeaux supérieur

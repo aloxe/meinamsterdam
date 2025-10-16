@@ -2,7 +2,10 @@
 layout: base
 title: Les lettres en chocolat
 categorie: nederlandjes
-tags: ["coutumes", "cuisine"]
+tags: 
+ - coutumes
+ - Sinterklaas
+ - cuisine
 isMarkdown: true
 thumbnail: chocoladeletter-250.jpg
 image_alt: boites de lettres en chocolat

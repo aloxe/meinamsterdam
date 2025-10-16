@@ -2,7 +2,8 @@
 layout: base
 title: Sinterklaas op de Dam, il est toujours là
 categorie: nederlandjes
-tags: []
+tags:
+ - Sinterklaas
 isMarkdown: true
 thumbnail: Sinter-claes-saint-nicolas-dam.jpg
 image_alt: Saint Nicolas - Sinter Claes - plaque sur le Dam

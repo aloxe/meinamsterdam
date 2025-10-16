@@ -3,7 +3,8 @@ layout: base
 title: Le Saint Nicolas vert
 description: 
 categorie: nederlandjes
-tags: []
+tags:
+ - Sinterklaas
 isMarkdown: true
 thumbnail: 
 image_alt: 

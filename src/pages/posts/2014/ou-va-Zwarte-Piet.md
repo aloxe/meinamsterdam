@@ -2,7 +2,9 @@
 layout: base
 title: Où vas-tu zwarte Piet ?
 categorie: nederlandjes
-tags: ["coutumes"]
+tags: 
+ - Sinterklaas
+ - coutumes
 isMarkdown: true
 thumbnail: 
 image_alt: 

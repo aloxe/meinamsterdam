@@ -3,7 +3,9 @@ layout: base
 title: Saint Nicolas ne concurence pas Noël
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - Sinterklaas
+ - Noël
 isMarkdown: true
 thumbnail: lumieres-noel.jpg
 image_alt: décorations de noël

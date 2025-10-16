@@ -4,8 +4,8 @@ title: Thalys à vendre
 description: 
 categorie: ik-ben-frans
 tags: 
-- Thalys
-- train
+ - Thalys
+ - train
 isMarkdown: true
 thumbnail: siege-collector-thalys.png
 image_alt: siège collector

@@ -3,7 +3,8 @@ layout: base
 title: "C'est le deuxième"
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: 
 image_alt: 

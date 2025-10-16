@@ -2,7 +2,8 @@
 layout: base
 title: Joyeux Noël 2010
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: save-a-tree_999a.jpg
 image_alt: adopt a tree

@@ -2,7 +2,9 @@
 layout: base
 title: Qui es-tu Zwarte Piet ?
 categorie: nederlandjes
-tags: ["coutumes"]
+tags:
+ - Sinterklaas
+ - coutumes
 isMarkdown: true
 thumbnail: 3-zwarte-piet.png
 image_alt: 3 Zwarte Piet

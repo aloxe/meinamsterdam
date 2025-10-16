@@ -3,7 +3,10 @@ layout: base
 title: Les inondations de Noël
 description: "Noël est une journée de joie et de fête surtout dans le monde chrétien. Mais ce n'est pas pour tout le monde, souvenez vous de la tempête il y a 11 ans ou "
 categorie: toering
-tags: ["mots", "histoire"]
+tags: 
+ - Noël
+ - mots
+ - histoire
 isMarkdown: true
 thumbnail: Christmas_flood_1717.jpg
 image_alt: gravure de ras de marée

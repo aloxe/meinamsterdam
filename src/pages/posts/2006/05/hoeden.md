@@ -48,7 +48,6 @@ Le meunier et la meunière | [Quel est son moulin à Amsterdam ?](/les-moulins-d
 ![Le casque de soldat allemand](chapeau-vermart.jpg)  
 Groupir 
 
-
 <a name="mozart"></a>
 
 ![péruque de mozart mais orange](chapeau-trazom.jpg)  
@@ -117,7 +116,8 @@ Une sorcière
 <a name="portevoix"></a>
 
 ![Ce chapeau est aussi un porte-voix](chapeau-porte-voix.jpg)  
-Le porte-voix [pour annoncer la bière](http://www.xs4all.nl/~jlhkrans/Reine_2006/pages/DSCN1569.htm)
+Le porte-voix 
+{# [pour annoncer la bière](http://www.xs4all.nl/~jlhkrans/Reine_2006/pages/DSCN1569.htm) #}
 
 <a name="plumes"></a>
 
@@ -208,11 +208,10 @@ Cow --boy-- girl
 ![Des petites oreilles de Mickey qui tombent](chapeau-oreilles-mickey.jpg)  
 Oreilles de Mickey
 
-
 <a name="you"></a>
 
 ![Le photographe a été repéré](chapeau-haut-de-forme.jpg)  
-You 
+You!
 
 <a name="tanguy"></a>
 
@@ -222,12 +221,12 @@ Le Gentil Organisateur
 
 <a name="coiffe2"></a>
 
-![Coiffe hollandaise traditionnelle))  
+![Coiffe hollandaise traditionnelle](chapeau-hollandaise.jpg)
 Coiffe de hollandaise
 
 <a name="poils"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-hugenot-poils.jpg](chapeau-hollandaise.jpg)  
+[Chapeau huguenot avec poils](chapeau-hugenot-poils.jpg)
 Chapeau huguenot avec poils
 
 <a name="foulard"></a>
@@ -238,12 +237,12 @@ Foulard sur la tête
 
 <a name="fou"></a>
 
-![fou du roi pour fête de la reine))  
+![fou du roi pour fête de la reine](chapeau-fou-du-roi.jpg) 
 Le fou du roi
 
 <a name="fleurs"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-fleurs.jpg](chapeau-fou-du-roi.jpg)  
+[chapeau à fleurs oranges](chapeau-fleurs.jpg)
 Avec des fleurs
 
 <a name="coq"></a>
@@ -256,7 +255,7 @@ Punk ou coq ?
 ![casquette de gavroche en cuir orange](chapeau-gavroche.jpg)  
 Gavroche ou AC/DC ?
 
-![](chapeau-cracker.jpg)  
+![couronne haut de forme en feutre](chapeau-cracker.jpg)  
 loufoque et traditionnel
 
 <a name="etole"></a>
@@ -271,42 +270,42 @@ Love me tender
 
 <a name="flamenco"></a>
 
-![Deux filles et un chapeau de flamenco))  
+![Deux filles et un chapeau de flamenco](chapeau-flamenco.jpg)
 Coiffe de Flamenco
 
 <a name="reine"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-couronne-hermine2.jpg](chapeau-flamenco.jpg)  
+[La reine au rabais]([chapeau-couronne-hermine2.jpg)
 La Reine était là
 
 <a name="pet"></a>
 
-![Base-Ball Girl))  
+![Base-Ball Girl](chapeau-base-ball.jpg)
 La casquette de base-ball
 
 <a name="carton"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-couronne-carton.jpg](chapeau-base-ball.jpg)  
+[chapeau pas cher en carton d'emballage](chapeau-couronne-carton.jpg)
 Couronne en carton
 
 <a name="gonflable"></a>
 
-![Couronne gonflable))  
+![Couronne gonflable](chapeau-couronne-gonflable.jpg)  
 Couronne en plastique
 
 <a name="bonnet"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-bonnet.jpg](chapeau-couronne-gonflable.jpg)  
+[bonnet orange](chapeau-bonnet.jpg)
 Bonnet en laine
 
 <a name="belle"></a>
 
-![Belle des champs))  
+![Belle des champs](chapeau-belle-des-champs.jpg)
 Belle des champs
 
 <a name="cocker"></a>
 
-((/public/images/photos/2006-05/chapeaux/chapeau-cocker.jpg](chapeau-belle-des-champs.jpg)  
+[avec des oreilles](chapeau-cocker.jpg)
 Un cocker avec des lunettes
 
 Autres billets sur le sujet :

@@ -2,7 +2,7 @@
 date: 2009-09-16
 author: Drooderfiets
 email: drooderfiets@blog.re
-site: http://drooderfiets.tumblr.com/post/189164657/de-zicht-te-laten-zijn
+site: https://pixelfed.social/drooderfiets
 tags: comment
 permalink: false
 ---

@@ -2,7 +2,7 @@
 date: 2012-10-12
 author: drooderfiets
 email: drooderfiets@blog.re
-site: http://drooderfiets.tumblr.com/
+site: https://pixelfed.social/drooderfiets
 tags: comment
 permalink: false
 ---

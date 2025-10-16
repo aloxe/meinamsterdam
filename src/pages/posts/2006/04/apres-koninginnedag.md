@@ -33,4 +33,13 @@ Autres billets sur le sujet :
 D'autres photos de notre sortie en bateau sont disponibles :  
 * [sur le site de Pascale](http://www.xs4all.nl/~jlhkrans/Reine_2006/).
 * [sur mon album en ligne](http://alix.guillard.fr/phototeque/view_album.php?set_albumName=konninginnedag-2006)
-* Plus [une photo avec notre bateau](http://harple.com/family/photos/netherlands/steve-in-nederland/steve-in-nederland-Pages/Image30.html)
+
+* Plus une photo avec notre bateau:
+
+![Prinsengracht Procession, plein de bateaux de toute tailles couvert de monde sur un canal](30.jpg)
+
+{# 
+source: https://web.archive.org/web/20070328142220im_/http://harple.com/family/photos/netherlands/steve-in-nederland/steve-in-nederland-Images/30.jpg
+
+[une photo avec notre bateau](http://harple.com/family/photos/netherlands/steve-in-nederland/steve-in-nederland-Pages/Image30.html) 
+#}

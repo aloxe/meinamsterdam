@@ -38,6 +38,7 @@ De 1955 à 1975, pendant les 20 ans qu'elle ont été produites la DS est sa pet
 
 Le directeur de **Citroën Pays Bas** aime raconter que c'est en commençant à acheter des propriétés dans la campagne française que les hollandais ont découvert ces voitures, prenant la poussière dans une vieille grange à foin. Il aime ajouter qu'il y a aujourd'hui plus de DS roulantes aux Pays Bas qu'il ne s'en est vendu pendant la durée de vie du modèle. Ces allégations sont difficiles à vérifier[^2] mais elle ajoute à la légende qui lie cette voiture bombée et ce pays plat. La DS a reçu de nombre petits noms selon les pays les bataves ne dérogent pas à la règle avec des comparaisons qu'on n'utilisait pas en France. Ici, on parle de **brochet** (*snoek*) en référence au long bec à l'avant de la voiture ou de fer à repasser (*strijkijzer*) qui fait porter la comparaison sur la proximité de la caisse avec le sol quand la voiture est en stationnement.
 
+![Une DS break jaune garée dans la rue](DS-break-jaune.jpg){.center}
 <!-- [![http://farm3.static.flickr.com/2665/4023973026_6c7b4de64e.jpg](Une DS jaune){.center}](http://drooderfiets.tumblr.com/post/217952665/citroen-ds)  TODO external images -->
 
 Brochets ou fer à repasser, ce qui est certain c'est que les nombreuses DS encore garées dans la rue à Amsterdam étonnent plus d'un visiteur !

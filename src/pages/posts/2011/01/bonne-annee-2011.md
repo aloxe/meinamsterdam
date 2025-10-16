@@ -98,7 +98,7 @@ carbonised
 <img src="http://alix.guillard.fr/voeux/2011/adoptatree07.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map" />
 <map name="Map" id="Map"><area shape="rect" coords="349,66,453,171" href="http://www.facebook.com/pages/Drooderfiets/111290696004" alt="Drooderfiets facebook page"  />
 </map><br />
-sponsored by <a href="http://drooderfiets.tumblr.com/">drooderfiets</a>
+sponsored by <a href="https://pixelfed.social/drooderfiets">drooderfiets</a>
 </p>
 
 

@@ -2,7 +2,7 @@
 date: 2009-04-08
 author: drooderfiets
 email: drooderfiets@blog.re
-site: http://drooderfiets.tumblr.com/
+site: https://pixelfed.social/drooderfiets
 tags: comment
 permalink: false
 ---

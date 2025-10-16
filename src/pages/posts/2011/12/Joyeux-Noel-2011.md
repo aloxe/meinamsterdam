@@ -2,7 +2,8 @@
 layout: base
 title: Joyeux Noël 2011
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: joyeux-noel-2011.jpg
 image_alt: Joyeux Noel

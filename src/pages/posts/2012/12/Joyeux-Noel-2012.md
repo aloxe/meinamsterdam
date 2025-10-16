@@ -2,7 +2,8 @@
 layout: base
 title: Joyeux Noël 2012
 categorie: dagelijks
-tags: ["religion"]
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: vrolijke-Kerst-2012.jpg
 image_alt: Vrolijke Kerst

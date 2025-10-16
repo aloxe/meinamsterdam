@@ -2,7 +2,10 @@
 layout: base
 title: Douce nuit, Sainte nuit / Stille nacht, Heilige nacht
 categorie: nederlandjes
-tags: ["musique", "religion"]
+tags: 
+ - Noël
+ - musique
+ - religion
 isMarkdown: true
 thumbnail: 
 image_alt: 

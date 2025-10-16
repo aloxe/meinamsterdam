@@ -2,7 +2,9 @@
 layout: base
 title: Dweede kerstmis is boxing day ?
 categorie: dagelijks
-tags: ["religion"]
+tags: 
+ - Noël
+ - religion
 isMarkdown: true
 thumbnail: kerstpaket.jpg
 image_alt: Mon cadeau de Noël

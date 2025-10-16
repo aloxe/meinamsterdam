@@ -2,7 +2,9 @@
 layout: base
 title: Sinterklaas, ou simplement SINT
 categorie: nederlandjes
-tags: ["cinéma"]
+tags: 
+ - Sinterklaas
+ - cinéma
 isMarkdown: true
 thumbnail: 
 image_alt: 

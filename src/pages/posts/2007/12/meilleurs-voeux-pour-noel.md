@@ -3,7 +3,8 @@ layout: base
 title: Meilleurs voeux pour Noël
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: prettige-kerst.png
 image_alt: prettige kerst

@@ -73,7 +73,7 @@ Le modèle économique de Fairphone est de répondre à une demande précise ave
 </div>
 <!-- / HTML -->
 
-À part la batterie et des coques colorées, la boutique ne propose pas encore les modules pour ce Fairphone 2 mais [les pièces étant disponibles pour le fairphone 1](https://shop.fairphone.com/), il est permis d'espérer les trouver en ligne dès que la livraison des premiers combinés aura commencé. Normalement, les premiers clients recevront leur nouveau Fairphone 2 au début mois de janvier 2016. En espérant que les envois soient fait assez tôt pour qu'il reste un goût de [noël](http://meinamsterdam.nl/?q=no%C3%ABl) dans les paquets.
+À part la batterie et des coques colorées, la boutique ne propose pas encore les modules pour ce Fairphone 2 mais [les pièces étant disponibles pour le fairphone 1](https://shop.fairphone.com/), il est permis d'espérer les trouver en ligne dès que la livraison des premiers combinés aura commencé. Normalement, les premiers clients recevront leur nouveau Fairphone 2 au début mois de janvier 2016. En espérant que les envois soient fait assez tôt pour qu'il reste un goût de [noël](/tag/noel/) dans les paquets.
 
 ## Les coques ouvertes
 

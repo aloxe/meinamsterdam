@@ -3,7 +3,9 @@ layout: base
 title: Les lettres en chocolat sont équitables
 description: 
 categorie: nederlandjes
-tags: ["coutumes", "produits"]
+tags: 
+ - Sinterklaas
+ - produits
 isMarkdown: true
 thumbnail: label-FAIRTRADE-max-havelaar.jpg
 image_alt: Label Fairtrade Max Havelaar

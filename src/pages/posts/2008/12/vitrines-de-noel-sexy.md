@@ -3,7 +3,9 @@ layout: base
 title: Cette année les vitrines de noël sont sexy
 description: 
 categorie: dagelijks
-tags: ["mots"]
+tags: 
+ - Noël
+ - mots
 isMarkdown: true
 thumbnail: sexartikelen-vitrine-noel.jpg
 image_alt: vitrine de noel

@@ -2,7 +2,9 @@
 layout: base
 title: Noël sur Ferdinand Bolstraat
 categorie: toering
-tags: ["travaux"]
+tags: 
+ - Noël
+ - travaux
 isMarkdown: true
 thumbnail: metrostation-ceintuurbaan-4222-200.jpg
 image_alt: Travaux station Centuurbaan de Pijp

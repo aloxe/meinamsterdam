@@ -3,7 +3,9 @@ layout: base
 title: Sinterklaas est arrivé
 description: 
 categorie: dagelijks
-tags: ["coutumes"]
+tags: 
+ - Sinterklaas
+ - coutumes
 isMarkdown: true
 thumbnail: sinterklaas-dagplaatje5_groot.jpg
 image_alt: Sinterklaas et sa présentatrice

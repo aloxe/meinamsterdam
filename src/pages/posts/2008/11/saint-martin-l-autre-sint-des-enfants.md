@@ -3,7 +3,8 @@ layout: base
 title: "Saint Martin, l'autre Sint des enfants"
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - Sinterklaas
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -15,7 +16,7 @@ TODO: no image, no image alt
 
 
 
-Normalement en cette période de l'année, je commence à vous parler de [Saint Nicolas](/?q=sinterklaas) (Sinterklaas) mais j'ai reçu beaucoup de mails pour me demander d'arrêter de parler de Nicolas parce qu'on en parle beaucoup trop à la télé parait-il...
+Normalement en cette période de l'année, je commence à vous parler de [Saint Nicolas](/tag/sinterklaas/) (Sinterklaas) mais j'ai reçu beaucoup de mails pour me demander d'arrêter de parler de Nicolas parce qu'on en parle beaucoup trop à la télé parait-il...
 
 Je vais donc revenir deux jours en arrière pour vous parler d'une fête locale : **La Saint Martin** (*Sint Maarten*). Comme en France, la fête de [Saint Martin](http://nominis.cef.fr/contenus/saint/13/Saint-Martin-de-Tours.html) a lieu le 11 Novembre. Il n'y a plus qu'à [Tours, ville dont il était l'évèque](http://www.diocesedetours.catholique.fr/index.php?rub=95) qu'on le fête puisque partout ailleurs en France, c'est l'anniversaire de l'armistice de 1918 que l'on célèbre. Pourtant ce saint reste célèbre surtout grâce à la légende qui veut qu'il a donné la moitié de son manteau pour éviter à un pauvre errant de mourir de froid.
 

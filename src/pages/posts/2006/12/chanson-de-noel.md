@@ -3,7 +3,11 @@ layout: base
 title: Chanson de Noël
 description: 
 categorie: dagelijks
-tags: ["coutumes", "musique", "mots"]
+tags: 
+ - Noël
+ - coutumes
+ - musique
+ - mots
 isMarkdown: true
 thumbnail: KUS-kerst-200.jpg
 image_alt: Kus en Rene Froger - Kon het elke dag maar Kerstmis zijn

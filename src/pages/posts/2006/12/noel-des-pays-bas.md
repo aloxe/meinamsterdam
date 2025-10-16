@@ -3,7 +3,10 @@ layout: base
 title: Les 3 Noëls des Pays bas
 description: 
 categorie: dagelijks
-tags: ["coutumes", "mots"]
+tags: 
+ - Noël
+ - coutumes
+ - mots
 isMarkdown: true
 thumbnail: amsterdam-kerstster-200.jpg
 image_alt: Étoile de Noël à Amsterdam

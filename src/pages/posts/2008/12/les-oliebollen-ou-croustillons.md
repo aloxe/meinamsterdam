@@ -3,7 +3,9 @@ layout: base
 title: Les oliebollen (ou croustillons)
 description: "Parmi les choses marquantes de l'hiver aux Pays-Bas, il y en a des culinaires qu'on attend plus volontier que le froid. C'est le cas des oliebollen (croustillon"
 categorie: nederlandjes
-tags: []
+tags: 
+ - Noël
+ - cuisine
 isMarkdown: true
 thumbnail: Oud-Hollands-Gebakkraam-s.jpg
 image_alt: Une roulotte de Oliebollen et autre bollen

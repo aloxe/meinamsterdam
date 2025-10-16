@@ -2,7 +2,8 @@
 layout: base
 title: La fin des sapins
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: feu-de-sapin-01.jpg
 image_alt: feu de sapin

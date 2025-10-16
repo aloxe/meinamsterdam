@@ -3,6 +3,7 @@ layout: base
 title: Joyeux Noël 2009
 categorie: dagelijks
 tags: 
+ - Noël
  - vélo
  - drooderfiets
 isMarkdown: true

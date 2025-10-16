@@ -22,11 +22,11 @@ Le lundi suivant est connu sous le nom du **Cyber Monday** parce que de plus en 
 
 ![visitors overview of meinamsterdam.nl](visitors-overview.png){.center}
 
-On constate que les visiteurs sont plus nombreux à l'approche de [la Saint Nicolas](/saint-nicolas-est-revenu-sinterklaas-is-terug) et pour la [fête de la reine](/tag/koninginnedag/). 
+On constate que les visiteurs sont plus nombreux à l'approche de [la Saint Nicolas](/saint-nicolas-est-revenu-sinterklaas-is-terug/) et pour la [fête de la reine](/tag/koninginnedag/). 
 
-Les quelques articles que j'ai écrit sur le sujet depuis 2006 apportent des réponses aux questions que les internautes se posent (via Google) à ces moments de l'année. On peut voir que depuis fin 2008, [Noël](/?q=noel) et le [jour de l'an à Amsterdam](/liens-pour-nouvel-an) augmentent aussi l'intéret de ce blog. Les requètes des internautes à cette période confirment tout cela. 
+Les quelques articles que j'ai écrit sur le sujet depuis 2006 apportent des réponses aux questions que les internautes se posent (via Google) à ces moments de l'année. On peut voir que depuis fin 2008, [Noël](/tag/noel/) et le [jour de l'an à Amsterdam](/liens-pour-nouvel-an/) augmentent aussi l'intéret de ce blog. Les requètes des internautes à cette période confirment tout cela. 
 
-Les autres articles saisonniers comme [le bloemencorso](/bloemen-corso) ou [Dodenherdenking](/dodenherdenking-le-jour-du-souvenir) ne drainent que très peu de visiteurs suplémentaires mais je retrouve parfois leurs requètes dans les logs. Seule inconnue que je n'ai pas eu le temps de vérifier, la soudaine augmentation de fréquentation en septembre 2009. Ce sera pour la prochaine fois...
+Les autres articles saisonniers comme [le bloemencorso](/bloemen-corso/) ou [Dodenherdenking](/dodenherdenking-le-jour-du-souvenir/) ne drainent que très peu de visiteurs suplémentaires mais je retrouve parfois leurs requètes dans les logs. Seule inconnue que je n'ai pas eu le temps de vérifier, la soudaine augmentation de fréquentation en septembre 2009. Ce sera pour la prochaine fois...
 
 <!-- post notes:
 http://www.shopwiki.co.uk/wiki/Black+Friday+and+Cyber+Monday

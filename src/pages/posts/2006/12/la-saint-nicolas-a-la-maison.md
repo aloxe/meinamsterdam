@@ -2,7 +2,8 @@
 layout: base
 title: La Saint-Nicolas à la maison
 categorie: dagelijks
-tags: ["coutumes"]
+tags:
+ - Sinterklaas
 isMarkdown: true
 thumbnail: pepernut-zwarte-piet.jpg
 image_alt: Zwarte Piet en chocolat et pepernotten

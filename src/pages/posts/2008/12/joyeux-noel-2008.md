@@ -3,7 +3,8 @@ layout: base
 title: Joyeux Noël 2008
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - Noël
 isMarkdown: true
 thumbnail: carte-de-voeux.png
 image_alt: carte de voeux
@@ -19,4 +20,4 @@ subfooters:
 
 <!-- Gone http://alix.guillard.fr/voeux/2008/joyeux-noel.html -->
 
-Pas de long article sur [Noël](/?q=No%C3%ABl) cette année, juste une petite carte interactive. 
+Pas de long article sur [Noël](/tag/noel/) cette année, juste une petite carte interactive. 

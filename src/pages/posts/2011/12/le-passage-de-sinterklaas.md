@@ -3,7 +3,9 @@ layout: base
 title: Le passage de Sinterklaas
 description: "Je vous ai parlé à maintes reprises de Sinterklaas, le Saint-Nicolas Néerlandais. Le vrai ami des enfants puisque c'est lui qui leur apporte les cadeaux de f"
 categorie: nederlandjes
-tags: ["coutumes"]
+tags: 
+ - Sinterklaas
+ - coutumes
 isMarkdown: true
 thumbnail: sinterklaas-public.jpg
 image_alt: Le public de Saint Nicolas

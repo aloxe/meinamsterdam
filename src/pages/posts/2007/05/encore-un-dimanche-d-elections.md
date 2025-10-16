@@ -3,7 +3,9 @@ layout: base
 title: "Encore un dimanche d'élections"
 description: 
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: consulat-img_9705-200.jpg
 image_alt: consulat de France le jour des élections

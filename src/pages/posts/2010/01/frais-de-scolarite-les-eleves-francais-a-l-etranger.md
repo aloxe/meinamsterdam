@@ -3,7 +3,9 @@ layout: base
 title: "Frais de scolarité les élèves français à l'étranger"
 description: 
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - politique
+ - école
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -12,8 +14,6 @@ date: 2010-01-30
 update: 2012-12-12
 TODO: no image, no image alt
 ---
-
-
 
 Pendant la campagne électorale pour [les élections présidentielles de 2007](/encore-un-dimanche-d-elections), le candidat Sarkozy a fait la promesse de rendre **la scolarité de tous les élèves français résidant à l'étranger gratuite**. Les promesses n'engagent que ceux qui y croient mais il semblerait que le président Nicolas Sarkozy soit l'un de ceux qui croient à cette mesure. Elle a donc été appliquée dès la rentrée de septembre 2007 pour les terminales, avec pour objectif d'ajouter un niveau par an. Depuis la rentrée de septembre 2009, tous les lycéens français scolarisés à l'étranger n'ont plus de frais de scolarité.
 

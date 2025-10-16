@@ -2,7 +2,10 @@
 layout: base
 title: Bientôt les élections (4) et déjà monconsulat
 categorie: ik-ben-frans
-tags: ["administration", "web"]
+tags: 
+ - élections
+ - administration
+ - web
 isMarkdown: true
 thumbnail: elections-monconsulat.png
 image_alt: Enregistrement pour les élections sur monconsulat

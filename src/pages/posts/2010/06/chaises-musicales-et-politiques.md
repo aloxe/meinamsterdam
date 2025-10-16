@@ -3,7 +3,8 @@ layout: base
 title: Jeu de chaises musicales et politiques
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: cochon-CDA-9juni.jpg
 image_alt: Cochon rose du CDA
@@ -11,8 +12,6 @@ permalink: chaises-musicales-et-politiques/
 date: 2010-06-07
 update: 2010-06-08
 ---
-
-
 
 Les élections générales ont lieu dans un peu plus d'une semaine. Depuis la [démission du précédent gouvernement](/balkenende-iv-est-tombe) ([Balkenende IV](/nieuw-kabinet-balkenende-iv)), le paysage politique a beaucoup évolué. La campagne n'a pas toujours été passionnante mais pour vous mettre à la page, voici un petit résumé des épisodes précédents.
 

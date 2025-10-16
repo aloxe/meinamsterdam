@@ -71,7 +71,7 @@ Entre chez moi et le boulot il y a le Jordan, les rues principales traversent ce
 
 </div>
 
-Quitte à traverser le Jordan, autant faire un détour par Westerstraat. Cette rue possède entre autres deux supérettes ([Albert Hein](/?q=Albert+Hein) et Jumbo) ce qui est pratique pour faire les courses en rentrant du boulot.
+Quitte à traverser le Jordan, autant faire un détour par Westerstraat. Cette rue possède entre autres deux supérettes ([Albert Hein](/albert-hein-et-compagnie/) et Jumbo) ce qui est pratique pour faire les courses en rentrant du boulot.
 
 <div class="flex flex-col items-center">
 

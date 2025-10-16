@@ -5,6 +5,7 @@ description:
 categorie: dagelijks
  - sociétés
  - banque
+ - poste
 isMarkdown: true
 thumbnail: postbank-ing-s.jpg
 image_alt: Postbank ING en Décembre

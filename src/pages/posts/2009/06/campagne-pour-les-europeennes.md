@@ -3,7 +3,8 @@ layout: base
 title: Campagne pour les Européennes
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: nederland-wil-minder-brussels.jpg
 image_alt: campagne du SP

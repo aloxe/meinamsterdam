@@ -3,14 +3,16 @@ layout: base
 title: Cette fois je vote - comment les français peuvent voter aux Pays-Bas
 description: "Les élections au parlement européen ont lieu dans tout juste deux mois et comme d'habitude la participation sera plus faible que pour les autres élections.  "
 categorie: ik-ben-frans
-tags: ["Europe", "administration", "politique"]
+tags:
+ - élections
+ - Europe
+ - administration
 isMarkdown: true
-thumbnail: cettefoisjevote.png
+thumbnail: cettefoisjevote.png 
 image_alt: "Campagne: Cette fois ci je vote !"
 permalink: Comment-les-francais-peuvent-voter-aux-Pays-Bas/
 date: 2019-03-26
 update: 2019-11-19
-TODO: shortened desc
 ---
 
 Les élections au parlement européen ont lieu dans tout juste deux mois et comme d'habitude la participation sera plus faible que pour les autres élections. 

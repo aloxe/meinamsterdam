@@ -2,7 +2,8 @@
 layout: base
 title: Bientôt les élections (1)
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: senatoriales-2011.gif
 image_alt: logo pour les élections sénatoriales

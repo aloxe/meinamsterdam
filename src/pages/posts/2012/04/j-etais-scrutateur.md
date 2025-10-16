@@ -2,7 +2,8 @@
 layout: base
 title: "J'étais scrutateur"
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: queue-au-consulat.jpg
 image_alt: "File d'attente pour voter au consulat de France à Amsterdam"

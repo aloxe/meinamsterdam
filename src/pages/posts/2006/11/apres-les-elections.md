@@ -3,7 +3,9 @@ layout: base
 title: Après les élections
 description: <p>Les élections législatives Néerlandais ont eu lieu hier. Ce matin, la télé disait que le CDA (<em>Christen-Democratisch Appèl</em>, les démocrates chr
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: 
 image_alt: 

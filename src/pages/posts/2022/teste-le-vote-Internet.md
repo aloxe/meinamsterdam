@@ -2,7 +2,10 @@
 layout: base
 title: "J'ai testé le vote par Internet"
 categorie: ik-ben-frans
-tags: ["administration", "politique", "web"]
+tags: 
+ - élections
+ - administration
+ - web
 isMarkdown: true
 thumbnail: ecran-login-vote-electronique-2022_m.png
 image_alt: Elections législatives 2022 Bienvenue

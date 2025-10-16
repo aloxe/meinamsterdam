@@ -3,7 +3,9 @@ layout: base
 title: "Municipales: les affiches en langue étrangère"
 description: La campagne électorale pour les municipales bat son plein. On a vu au niveau national que les différents partis étaient chauds [au point de faire tomber le g
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
+ - coutumes
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -2,7 +2,10 @@
 layout: base
 title: Après les élections (2017)
 categorie: nederlandjes
-tags: ["politique", "Europe"]
+tags: 
+ - élections
+ - politique
+ - Europe
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -3,7 +3,8 @@ layout: base
 title: "Les nouveaux conseillers des Français des Pays-Bas: résultats d'un scrutin proportionnel"
 description: 
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

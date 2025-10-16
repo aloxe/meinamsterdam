@@ -2,7 +2,8 @@
 layout: base
 title: "5 différences électorales dont la France pourrait s'inspirer"
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

@@ -3,7 +3,9 @@ layout: base
 title: Résultat des élections
 description: "Voici enfin le résultat du premier tour des élections présidentielles à Amsterdam et ailleurs, du plus petit au plus grand:"
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: depouillement-elections.jpg
 image_alt: table de dépouillement avec moi

@@ -3,7 +3,9 @@ layout: base
 title: Scrutins pour les départements et les provinces
 description: "J'ai souvent parlé d'élections sur ce blog. Aussi bien aux Pays-Bas qu'en France. Mais pour cette fois je vais parler des deux en même temps puisque les hasa"
 categorie: dagelijks
-tags: ["politique"]
+tags: 
+ - politique
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -13,7 +15,7 @@ update: 2015-03-11
 TODO: no image, no image alt, shortened desc
 ---
 
-J'ai souvent [parlé d'élections](/?q=élection) sur ce blog. Aussi bien aux Pays-Bas qu'en France. Mais pour cette fois je vais parler des deux en même temps puisque les hasards du calendrier ont posé les élections au même moment dans les deux pays. Même période mais encore une fois des différences notables dans l'organisation administrative et électorale. Les néerlandais se déplaceront une fois en semaine tandis que **les français devront se déplacer deux fois le dimanche**. Différences mais aussi ressemblances comme dans les approches politiques. Faisons le point.
+J'ai souvent [parlé d'élections](/tag/elections/) sur ce blog. Aussi bien aux Pays-Bas qu'en France. Mais pour cette fois je vais parler des deux en même temps puisque les hasards du calendrier ont posé les élections au même moment dans les deux pays. Même période mais encore une fois des différences notables dans l'organisation administrative et électorale. Les néerlandais se déplaceront une fois en semaine tandis que **les français devront se déplacer deux fois le dimanche**. Différences mais aussi ressemblances comme dans les approches politiques. Faisons le point.
 
 ## Élections Départementales
 Ces 22 et 29 mars prochain, la France inaugure un nouveau type d'élection : les départementales. Les **Conseils Départementaux** y seront élus partout en même temps et remplaceront les **Conseils Généraux** qui étaient renouvelés partiellement lors d'élections cantonales. Cette simplification (un seul nom, une seule échéance) devrait rendre ces élections plus médiatiques et on l'espère plus populaires. 4.108 Conseillers départementaux seront à élire dans 97 départements.

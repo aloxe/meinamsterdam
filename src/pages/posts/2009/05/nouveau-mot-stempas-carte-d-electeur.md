@@ -3,7 +3,9 @@ layout: base
 title: "Nouveau mot: Stempas (carte d'électeur)"
 description: "Ça y est j'ai reçu ma carte d'électeur, je jour ou j'ai parlé de mon inscription sur les listes électorales pour participer aux élections au parlement Eur"
 categorie: nederlandjes
-tags: []
+tags: 
+ - élections
+ - administration
 isMarkdown: true
 thumbnail: stempas-petit-EP09.jpg
 image_alt: Stempas EP09

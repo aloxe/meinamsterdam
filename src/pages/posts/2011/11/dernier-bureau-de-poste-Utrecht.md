@@ -3,7 +3,11 @@ layout: base
 title: Le dernier bureau de poste (Utrecht)
 description: 
 categorie: toering
-tags: ["Utrecht", "architecture", "sociétés"]
+tags: 
+ - poste
+ - Utrecht
+ - architecture
+ - sociétés
 isMarkdown: true
 thumbnail: Utrecht-Hoofdtkantoor-voute.png
 image_alt: Salle principale voutée

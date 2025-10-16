@@ -3,7 +3,9 @@ layout: base
 title: La fin des bureaux de poste
 description: 
 categorie: dagelijks
-tags: ["sociétés", "timbres"]
+tags: 
+ - poste
+ - sociétés
 isMarkdown: true
 thumbnail: tnt-post-fermeture.jpg
 image_alt: Fermeture du bureau de poste de Ceintuurbaan

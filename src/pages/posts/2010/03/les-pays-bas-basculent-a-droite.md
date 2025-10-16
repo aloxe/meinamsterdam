@@ -3,7 +3,9 @@ layout: base
 title: "Municipales: les Pays-Bas basculent à droite et à droite"
 description: "C'est toujours un exercice inexact d'analyser des élections locales au niveau local mais c'est quand même ce que je vais faire ci dessous. Les communes des Pa"
 categorie: nederlandjes
-tags: ["politique"]
+tags: 
+ - politique
+ - élections
 isMarkdown: true
 thumbnail: 
 image_alt: 

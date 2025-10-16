@@ -2,7 +2,11 @@
 layout: base
 title: "Présidentielle 2022 : comment voter autrement"
 categorie: ik-ben-frans
-tags: ["expat", "politique", "pratique"]
+tags: 
+ - élections
+ - expat
+ - politique
+ - pratique
 isMarkdown: true
 thumbnail: pub-presidentielle_m.png
 image_alt: "vous avez jusqu'au 4 mars pour vous inscrire sur les listes électorales consulaires pour la présidentielle"

@@ -2,7 +2,9 @@
 layout: base
 title: Le nouveau nom de la poste aux Pays-Bas
 categorie: nederlandjes
-tags: ["sociétés", "timbres"]
+tags: 
+ - poste
+ - sociétés
 isMarkdown: true
 thumbnail: TNT-post-is-postnl.png
 image_alt: TNT post is PostNL

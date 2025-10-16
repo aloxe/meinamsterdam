@@ -2,7 +2,9 @@
 layout: base
 title: Pour qui je vais voter
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: 
 image_alt: 

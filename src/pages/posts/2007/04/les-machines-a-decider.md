@@ -3,7 +3,9 @@ layout: base
 title: Les machines à décider
 description: 
 categorie: ik-ben-frans
-tags: ["politique"]
+tags: 
+ - élections
+ - politique
 isMarkdown: true
 thumbnail: jaimelesfemmes-s.jpg
 image_alt: des femmes pour la présidence de la république

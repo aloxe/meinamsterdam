@@ -26,7 +26,7 @@ Mais pourquoi je vous bassine avec les primaires qui ont lieu dans un autre pays
 Ce tract m'est parvenu parce que je suis inscrit sur les listes électorales [au consulat d'Amsterdam](/carte-inutile). Les partis politiques ayant accès au fichier des électeurs ont put envoyer ce tract à tous les inscrit de ma circonscription pour les inciter à s'inscrire. Je ne sais pas si beaucoup de gens se sont inscrits mais les primaires auront lieux aussi aux Pays-Bas. Le bureau de vote sera installé [à la Haye](http://bureauxdevote.lesprimairescitoyennes.fr/bvpe/BVPC4HAY) dans les locaux du PvdA, le parti travailliste local[^2].
 
 ---
-[^1]: Ces primaires ne sont pas à proprement parler des élections. On devrait plutôt parler de votation, mais je préfère garder le titre de ma série [Bientôt les élections](/?q=bient%C3%B4t+les+%C3%A9lections).
+[^1]: Ces primaires ne sont pas à proprement parler des élections. On devrait plutôt parler de votation, mais je préfère garder le titre de ma série **Bientôt les élections**.
 [^2]: Et vous, vous allez voter où?
 <!-- post notes:
 http://www.monde-diplomatique.fr/carnet/2010-12-06-Primaires-PS

@@ -3,7 +3,10 @@ layout: base
 title: Les tarifs postaux
 description: "Les tarifs postaux bataves sont très pratiques, jugez par vous même :"
 categorie: nederlandjes
-tags: ["administration", "timbres"]
+tags: 
+ - administration
+ - timbres
+ - poste
 isMarkdown: true
 thumbnail: tpgpost-europa.jpg
 image_alt: TPG Post timbres

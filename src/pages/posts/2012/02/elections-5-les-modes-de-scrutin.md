@@ -2,7 +2,9 @@
 layout: base
 title: Bientôt les élections (5) les modes de scrutin
 categorie: ik-ben-frans
-tags: ["administration", "politique"]
+tags: 
+ - élections
+ - administration
 isMarkdown: true
 thumbnail: urne-du-ministere-des-affaires-etrangeres.png
 image_alt: Urne du MAE

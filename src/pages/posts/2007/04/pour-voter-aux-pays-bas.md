@@ -3,7 +3,10 @@ layout: base
 title: Pour voter aux Pays-Bas
 description: 
 categorie: ik-ben-frans
-tags: ["administration", "politique"]
+tags: 
+ - élections
+ - administration
+ - politique
 isMarkdown: true
 thumbnail: 
 image_alt: 

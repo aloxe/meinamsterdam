@@ -6,7 +6,7 @@ categorie: nederlandjes
 tags: 
  - coutumes
  - mots
- -maisons
+ - maisons
 isMarkdown: true
 thumbnail: drapeau-balcon-carre400.jpg
 image_alt: drapeaux aux fenêtres

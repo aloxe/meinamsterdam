@@ -10,6 +10,8 @@ image_alt: food truck avec drapeaux
 permalink: hollandse-nieuwe-haring-photos/
 date: 2007-06-12
 update: 2012-09-11
+subfooters:
+ - drapeau
 ---
 
 

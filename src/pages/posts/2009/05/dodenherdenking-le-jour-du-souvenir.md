@@ -10,6 +10,9 @@ image_alt:
 permalink: dodenherdenking-le-jour-du-souvenir/
 date: 2009-05-04
 update: 2009-05-04
+subfooters:
+ - drapeau
+ - timbres
 TODO: no image, no image alt
 ---
 
@@ -19,7 +22,7 @@ Le 4 mai est le **jour du souvenir** (*herdenking*) aux Pays-Bas. Depuis le mai 
 
 Depuis 1961, le dodenherdenking ne rend pas uniquement hommage aux soldats morts durant la seconde guerre mondiale mais aussi aux soldats néerlandais morts dans d'autres conflits comme les opérations dans les Indes Néerlandaises ou les missions internationales en Bosnie ou en Afghanistan. 
 
-Comme je l'ai déjà [indiqué en 2007](/le-prinsenvlag-aux-fenetres), ce jour là les drapeaux sont mis en berne. Les drapeaux sur les bâtiments public sont mis en berne parce que le protocole l'exige mais les néerlandais aiment beaucoup leur drapeau et beaucoup de particuliers suivent le protocole officiel en accrochant un drapeau au balcon ou en le faisant battre *Halfstok* sur le mat de leur jardin.
+Comme je l'ai déjà [indiqué en 2007](/le-prinsenvlag-aux-fenetres/), ce jour là les drapeaux sont mis en berne. Les drapeaux sur les bâtiments public sont mis en berne parce que le protocole l'exige mais les néerlandais aiment beaucoup leur drapeau et beaucoup de particuliers suivent le protocole officiel en accrochant un drapeau au balcon ou en le faisant battre *Halfstok* sur le mat de leur jardin.
 
 La cérémonie officielle d'hommage se passe à Amsterdam. La famille royale assiste à une cérémonie à Niewe Kerk, l'église qui est sur la place du Dam. Elle est entourée de militaires hauts gradés et de membres du gouvernement. La cérémonie commence à 18h55. Puis, à 19h50, la reine porte une gerbe au pied du Monument National et observe quelques minutes de silence. À 20h00, tous les Pays-Bas accompagnent cette cérémonie en observant deux minutes de silence. Les transports publics s'arrêtent, les trains restent arrêtés en pleine voie et les radios et télés nationales arrêtent d'émettre. 
 

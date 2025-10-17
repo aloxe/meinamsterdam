@@ -9,6 +9,9 @@ image_alt: la carte des 100 photos
 permalink: la-centieme-photo/
 date: 2008-02-17
 update: 2012-09-11
+subfooters:
+  - cliches
+  - drooderfiets
 TODO: external
 ---
 

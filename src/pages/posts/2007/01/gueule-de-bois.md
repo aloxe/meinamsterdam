@@ -11,7 +11,8 @@ permalink: gueule-de-bois/
 date: 2007-01-03
 update: 2016-12-30
 TODO: no image, no image alt
-subfooter: nouvelan
+subfooter: 
+ - nouvelan
 ---
 
 

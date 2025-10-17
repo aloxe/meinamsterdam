@@ -11,6 +11,8 @@ permalink: de-hollandse-nieuwe-histoire/
 date: 2007-06-13
 update: 2012-09-11
 TODO: no image, no image alt
+subfooters:
+ - drapeau
 ---
 
 

@@ -7,11 +7,12 @@ tags:
  - football
 isMarkdown: true
 thumbnail: drapeau-8876.jpg
-image_alt: 
+image_alt: drapeau orange sur le toit d'une voiture
 permalink: les-drapeaux-oranges/
 date: 2008-06-21
 update: 2008-06-21
-TODO: no image alt, shortened desc, image without alt
+subfooters:
+ - drapeau
 ---
 
 Aujourd'hui encore, comme chaque jour que l'équipe néerlandaise de football joue à cette coupe d'Europe, les gens s'habillent et décorent en orange comme à [la fête de la reine](/la-fete-de-quelle-reine). Mieux encore, des drapeaux s'accrochent de partout. Ce ne sont même pas des [drapeaux officiels](/le-prinsenvlag-aux-fenetres) du pays, juste des drapeaux oranges pour encourager les joueurs. En voici quelques uns.
@@ -25,7 +26,7 @@ Au marché [Albert Cuyp](/albert-cuyp-le-marche)
 ![sur une voiturette de vieux](drapeau-8742.jpg)  
 Avec un déembulateur électrique
 
-![](drapeau-9104.jpg)  
+![un drapeau orange flotte sur un toi artdéco](drapeau-9104.jpg)  
 Sur les toits les plus hauts
 
 ![avec drapeau turc](drapeaux-8886.jpg)  

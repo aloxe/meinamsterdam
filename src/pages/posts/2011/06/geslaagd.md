@@ -9,6 +9,8 @@ image_alt: Geslaagd in Amsterdam
 permalink: geslaagd/
 date: 2011-06-25
 update: 2014-06-17
+subfooters:
+ - drapeau
 ---
 
 **Un [drapeau Néerlandais](/le-prinsenvlag-aux-fenetres/) et un sac à dos, exposé à l'avant d'une maison sur les canaux d'Amsterdam.**

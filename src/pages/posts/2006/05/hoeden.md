@@ -90,7 +90,7 @@ Banane
 Le bob de la NS
 
 ![chapeau de ska](chapeau-ska.jpg)  
-Ska ou Indiana Jones
+Ska man
 
 <a name="beret"></a>
 
@@ -103,7 +103,7 @@ Béret
 Oreilles de chaton
 
 ![la casquette de mécano](chapeau-mecano.jpg)  
-Le mécano du PrinzenGracht
+Le mécano du Prinzengracht
 
 ![deux chapeaux de feutrine orange](chapeaux-feutrine.jpg)  
 Deux chapeaux en feutrine

@@ -26,4 +26,5 @@ permalink: false
 <p>Commentaire bien torché de Lucienne*: "comme quoi… si tu veux niquer une boîte trendy, tu vires les pédés!" (* le prénom a été changé)</p>
 
 <p>En ce moment tous les Nouveaux Trash ont un scooter. Il est temps que le scooter électrique soit promu. Le problème: ils sont lourds et moches alors que Yamaha (ci-dessous) produit des scooters à essence minimalistes qui feraient de merveilleux objets de désir en version électrique. Mais comme le monde des scooters est largement dominé par les hétéros beaufs, ce n'est pas demain la veille. Mon conseil à Yamaha et autres Scooter City: embauchez des folles!</p>
----
+
+----

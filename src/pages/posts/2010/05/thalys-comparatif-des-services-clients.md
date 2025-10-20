@@ -38,7 +38,7 @@ Il a fallu des mois pour avoir des nouvelles de mon courrier envoyé à Bruxelle
 
 Avantage Hi-Speed devant SNCF-Rail-Be, le temps de réponse des francophones a vraiment été trop long et ils oublient de dédommager le manque de restauration qui est pourtant dû selon les formulaires que j'ai eu en main.
 
-Un peut plus de dix jours plus tard, j'ai reçu [un joli courrier|http://blog.re/me-in-amsterdam/files/data/thalys-lettre.pdf|PDF] du service client Thalys. Ce dernier m'expliquait aussi que les conditions météorologiques n'étaient pas couvertes par la politique de remboursement de la boite mais que, puisque Thalys a décidé de maintenir le service en connaissance des mauvaises conditions, ils se devait de compatir avec la clientèle mécontente. Mon billet retour a été intégralement remboursé.
+Un peut plus de dix jours plus tard, j'ai reçu (un joli courrier)[https://meinamsterdam.nl/files/2010/thalys-lettre.pdf] (pdf) du service client Thalys. Ce dernier m'expliquait aussi que les conditions météorologiques n'étaient pas couvertes par la politique de remboursement de la boite mais que, puisque Thalys a décidé de maintenir le service en connaissance des mauvaises conditions, ils se devait de compatir avec la clientèle mécontente. Mon billet retour a été intégralement remboursé.
 
 L'avantage de Hi-Speed est repris par ce deuxième courrier. En plus le courrier d'explications fait un peu penser que les problèmes des passagers sont pris en compte ce qui n'est pas certain vu l'oubli du dédommagement pour manque de restauration dans leur précédent courrier. Ce qui semble ressortir c'est que le service client de Thalys à Bruxelles semble avoir été débordé par les requêtes de clients mécontents. Répondre en retard n'a pas arrangé les choses.
 

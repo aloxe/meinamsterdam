@@ -31,7 +31,7 @@ Dans le cas présent, le changement d'image est une non-nouvelle[^1] Tout juste 
 ---
 [^1]: Alors que [le changement de nom de la Poste néerlandaise](/le-nouveau-nom-de-la-poste-aux-pays-bas) est beaucoup plus lourd de sens.
 <!-- post notes:
-Il reste le [Lycée Van Gogh|http://blog.re/me-in-amsterdam/index.php/van-gogh-fete-ses-60-ans].
+Il reste le [Lycée Van Gogh|https://meinamsterdam.nl/van-gogh-fete-ses-60-ans].
 
 https://meinamsterdam.nl/van-gogh-fete-ses-60-ans/
 --->

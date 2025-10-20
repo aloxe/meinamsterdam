@@ -16,6 +16,5 @@ En plus au Pays-Bas le navigateur Firefox est disponible dans les 2 langues offi
 <a href="http://www.mozilla.com/en-US/firefox/all.html">Téléchargez le votre ici</a>.
 <br/><br/>
 update de midi : <b>Les Pays-Bas atteignent les 100.000 téléchargements</b><br/>
-<img src="http://blog.re/me-in-amsterdam/images/scans/cartes/netherlands-101000.png">
 </p>
 ---

@@ -2,7 +2,7 @@
 date: 2008-06-22
 author: Alix
 email: meinamsterdam@blog.re
-site: http://blog.re/me-in-amsterdam/
+site: 
 tags: comment
 permalink: false
 ---

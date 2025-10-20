@@ -8,7 +8,7 @@ permalink: false
 ---
 
 <p>
-Évidement, il faut que je prépare un sujet politique d'actualité pour que ce dernier fasse à nouveau parler de lui... Apportant (ou pas) de l'eau à mon moulin. Voici les derniers développements de cette question relaté par <a href="http://blog.re/me-in-amsterdam/index.php/je-lis-deja-les-journaux">la revue de presse de l'ambassade</a>, faisant le choix judicieux de sélectionner divers opinions bien tranchés.
+Évidement, il faut que je prépare un sujet politique d'actualité pour que ce dernier fasse à nouveau parler de lui... Apportant (ou pas) de l'eau à mon moulin. Voici les derniers développements de cette question relaté par <a href="https://meinamsterdam.nl/je-lis-deja-les-journaux">la revue de presse de l'ambassade</a>, faisant le choix judicieux de sélectionner divers opinions bien tranchés.
 
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
 <b>Question irakienne</b> <a href="http://www.ambafrance-nl.org/spip.php?article10552#Question-irakienne">mercredi 28 janvier 2009</a>

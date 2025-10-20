@@ -23,7 +23,7 @@ Rappelons avant tout que ces timbres sont disponibles depuis le mois de novembre
 
 Quelque soit la fête, je voulais vous présenter ce paysage hivernal hollandais d'un nouveu genre. Le peintre a pu ranger dans une perspectivre isométrique, des sapins, bougies, immeubles, [pétards du nouvel an](/nouveau-mot-vuurwerk), cheminées et chalets enneigés tout en en concervant un équilibre graphique dans chacun des 10 timbres qui composent la planche. Cliquez donc pour voir la planche entière.
 
-[![Decemberzegels 2008 perspective isometrique](december-zegels-detail.png){.center}](http://blog.re/me-in-amsterdam/files/data/2008-december-zegels.png)
+![Decemberzegels 2008 perspective isometrique](december-zegels-detail.png){.center}
 
 ---
 [^1]: Merci à Romain pour m'avoir signalé que les timbres néerlandais étaient [plus jolis](/des-timbres-ecolos-en-france-et-aux-pays-bas#co) que les français

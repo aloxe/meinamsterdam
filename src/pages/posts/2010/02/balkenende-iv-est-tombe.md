@@ -29,6 +29,6 @@ Hier, la [revue de presse Néerlandaise](http://www.ambafrance-nl.org/france_pay
 L'armée, le parlement, les ministres et la presse ont largement réagit à l'annonce du vice-premier Ministre **Wouter Bos** (PvdA) qui expliquait que l'arrêt de la mission en Orosgan était la seule solution envisagé. Je vous invite à [lire le dossier](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11733).
 
 <!-- post notes:
-http://blog.re/me-in-amsterdam/index.php/balkenende-ii-est-tombe
+https://meinamsterdam.nl/balkenende-ii-est-tombe
 http://www.nu.nl/politiek/2188986/kabinet-valt-uruzgan-crisis.html
 --->

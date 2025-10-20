@@ -2,7 +2,7 @@
 date: 2008-10-03
 author: intreeweek
 email: 
-site: http://blog.re/me-in-amsterdam/files/2008-Rabobank-studenten-actiepakket.html
+site: 
 tags: comment
 permalink: false
 ---

@@ -31,5 +31,5 @@ Dans cette même revue de presse, on apprend aussi la fermeture du **Centre musi
 <!-- / HTML -->
 
 <!-- post notes:
-Je vous ai présenté [le nouveau gouvernement début octobre|http://blog.re/me-in-amsterdam/index.php/en-vrac-et-debut-octobre] et c'est ce mardi que le ministre a fait un son discours de politique générale devant l'assemblée. __Mark Rutte__ s'est efforcé de se montrer pragmatique et n'a pas convaincu.
+Je vous ai présenté [le nouveau gouvernement début octobre|https://meinamsterdam.nl/en-vrac-et-debut-octobre] et c'est ce mardi que le ministre a fait un son discours de politique générale devant l'assemblée. __Mark Rutte__ s'est efforcé de se montrer pragmatique et n'a pas convaincu.
 --->

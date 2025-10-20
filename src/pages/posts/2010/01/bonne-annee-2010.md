@@ -29,4 +29,4 @@ update: 2010-01-04
 	  </P>
 <!-- / HTML -->
 
-<!--Gone  <a href="http://blog.re/me-in-amsterdam/"><img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;" /></a> -->
+<!--Gone  <img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;" /> -->

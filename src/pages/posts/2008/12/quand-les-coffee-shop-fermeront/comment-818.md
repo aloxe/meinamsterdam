@@ -8,6 +8,6 @@ permalink: false
 ---
 
 <p>
-Quand <a href="http://blog.re/me-in-amsterdam/index.php/cannabis-une-loi-plus-dure-pour-les-drogues-douces">je disais</a> que personne ne lit mes articles avant de poster un message ici...
+Quand <a href="https://meinamsterdam.nl/cannabis-une-loi-plus-dure-pour-les-drogues-douces">je disais</a> que personne ne lit mes articles avant de poster un message ici...
 </p>
 ---

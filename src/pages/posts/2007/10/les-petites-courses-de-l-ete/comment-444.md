@@ -8,6 +8,6 @@ permalink: false
 ---
 
 <p>
-Voir aussi comment <a href="http://blog.re/me-in-amsterdam/index.php/les-brasseries-neerlandaises">les brasseries hollandaises changent de main</a>.
+Voir aussi comment <a href="https://meinamsterdam.nl/les-brasseries-neerlandaises">les brasseries hollandaises changent de main</a>.
 </p>
 ---

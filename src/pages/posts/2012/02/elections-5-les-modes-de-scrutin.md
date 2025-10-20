@@ -46,5 +46,3 @@ Sur le papier, le vote par Internet offre les mêmes garanties et problèmes que
 
 ## Le vote en vrai
 Vous l'aurez compris, je ne vais choisir aucune de ces solutions. J'habite à quelques minutes à vélo de mon consulat ou sera installé un bureau de vote et je n'ai aucune raison de me compliquer la vie avec tout ça. **J'irai donc voter en me déplaçant au bureau de vote**.
-
-![Urne représentée sur le site du ministère des affaires étrangères](https://meinamsterdam.nl/elections-5-les-modes-de-scrutin/urne-du-ministere-des-affaires-etrangeres-149w.png)

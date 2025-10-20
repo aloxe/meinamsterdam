@@ -226,7 +226,7 @@ Coiffe de hollandaise
 
 <a name="poils"></a>
 
-[Chapeau huguenot avec poils](chapeau-hugenot-poils.jpg)
+![Chapeau huguenot avec poils](chapeau-hugenot-poils.jpg)
 Chapeau huguenot avec poils
 
 <a name="foulard"></a>
@@ -242,7 +242,7 @@ Le fou du roi
 
 <a name="fleurs"></a>
 
-[chapeau à fleurs oranges](chapeau-fleurs.jpg)
+![chapeau à fleurs oranges](chapeau-fleurs.jpg)
 Avec des fleurs
 
 <a name="coq"></a>
@@ -275,7 +275,7 @@ Coiffe de Flamenco
 
 <a name="reine"></a>
 
-[La reine au rabais]([chapeau-couronne-hermine2.jpg)
+![La reine au rabais]([chapeau-couronne-hermine2.jpg)
 La Reine était là
 
 <a name="pet"></a>
@@ -285,7 +285,7 @@ La casquette de base-ball
 
 <a name="carton"></a>
 
-[chapeau pas cher en carton d'emballage](chapeau-couronne-carton.jpg)
+![chapeau pas cher en carton d'emballage](chapeau-couronne-carton.jpg)
 Couronne en carton
 
 <a name="gonflable"></a>
@@ -295,7 +295,7 @@ Couronne en plastique
 
 <a name="bonnet"></a>
 
-[bonnet orange](chapeau-bonnet.jpg)
+![bonnet orange](chapeau-bonnet.jpg)
 Bonnet en laine
 
 <a name="belle"></a>
@@ -305,7 +305,7 @@ Belle des champs
 
 <a name="cocker"></a>
 
-[avec des oreilles](chapeau-cocker.jpg)
+![avec des oreilles](chapeau-cocker.jpg)
 Un cocker avec des lunettes
 
 Autres billets sur le sujet :

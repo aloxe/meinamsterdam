@@ -275,7 +275,7 @@ Coiffe de Flamenco
 
 <a name="reine"></a>
 
-![La reine au rabais]([chapeau-couronne-hermine2.jpg)
+![La reine au rabais](chapeau-couronne-hermine2.jpg)
 La Reine était là
 
 <a name="pet"></a>

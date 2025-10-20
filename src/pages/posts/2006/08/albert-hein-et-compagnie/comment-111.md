@@ -2,7 +2,7 @@
 date: 2006-08-16
 author: Elvis
 email: 
-site: http://blog.re/elvis
+site: 
 tags: comment
 permalink: false
 ---

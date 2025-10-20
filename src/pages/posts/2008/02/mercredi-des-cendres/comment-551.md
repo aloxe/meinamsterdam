@@ -1,8 +1,8 @@
 ---
 date: 2008-02-12
 author: Alix
-email: meinamsterdam@blog.re
-site: http://blog.re/me-inamsterdam/
+email: alix@guillard.fr
+site: 
 tags: comment
 permalink: false
 ---

@@ -2,11 +2,12 @@
 date: 2006-10-23
 author: Elvis
 email: 
-site: http://blog.re/elvis
+site: 
 tags: comment
 permalink: false
 ---
 
 <p>Ca me fait penser à ça:<br />
-<a href="http://blog.re/elvis/index.php/2005/10/24/83-bicyclettes" title="http://blog.re/elvis/index.php/2005/10/24/83-bicyclettes" rel="nofollow">blog.re/elvis/index.php/2...</a></p>
+
+<a href="https://web.archive.org/web/20071018015824im_/http://blog.re/elvis/images/velo.jpg" title="byciclettes" rel="nofollow">photosd'/elvis/index.php/2...</a></p>
 ---

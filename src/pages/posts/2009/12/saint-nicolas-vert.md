@@ -6,12 +6,13 @@ categorie: nederlandjes
 tags:
  - Sinterklaas
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: saint-nicolas-s.jpg
+image_alt: saint Nicolas vert qui tient une lettre S en bon chocolat
 permalink: saint-nicolas-vert/
 date: 2009-12-03
 update: 2009-12-04
-TODO: no image, no image alt
+subfooters:
+ - sinterklaas
 ---
 
 
@@ -27,9 +28,9 @@ J'avais déjà parlé d'un Saint Nicolas vert qui passait à la télé pour fair
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/R2XDX9p3n2g&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/R2XDX9p3n2g&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="320" height="265"></embed></object></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2XDX9p3n2g?si=ULy6zZyG2863AA6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <!-- / HTML -->
-
 
 C'est sur ce volet **équitable** que le Saint (Nicolas) vert intervient, il veut que les achats de la Saint Nicolas soient équitables, entendez par là que les produits achetés rémunèrent suffisamment les producteurs pour qu'ils puissent vivre décemment de leur travail. Oxfam Novib fait pression sur les importateurs pour qu'ils se fournissent chez des producteurs qui n'exploitent pas des enfants ou une main d'?uvre servile sous-payée. Il incite aussi les consommateurs à préférer les produits équitables. Les produits agricoles sont parmi les premiers visés parce qu'ils demandent beaucoup de main d'?uvre et que le nombre d'intermédiaires rend difficile la vérification des conditions de travail. Il existe un label pour montrer qu'un aliment utilise des produits issus de l'agriculture équitable. C'est le label **Fair Trade** (plus connu en France sous le nom néerlandais de [Max Havelaar](http://www.maxhavelaarfrance.org/)).
 
@@ -40,14 +41,15 @@ Avec la *Sinterklaas*, des millions de lettres en chocolat seront vendues dans t
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/K_AA7-2_bSc&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K_AA7-2_bSc&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_AA7-2_bSc?si=DMcQtCvQCfHBQluX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <!-- / HTML -->
 
 La campagne porte ses fruits, le *Groene Sint* a été reçu à la chambre basse et par de nombreux magasins. [HEMA](/le-design-c-est-hema) et V&D, deux enseignes qui proposent des lettres en chocolat sous leur marques de distributeur, ont promis d'apposer le label qui va bien pour l'année prochaine. Lidl a aussi promis de se fournir en chocolat équitable l'année prochaine. Les supporters de *Groene Sint* et de Oxfam Novib continuent d'inspecter les magasins et de rencontrer les managers pour leur demander de ne vendre que du chocolat durable (*duurzaam chocolade*). Le tout est consigné dans un *Groene Sint Journal* dans la plus pure tradition des émissions pour enfant de cette période de l'année.
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/6isD7denrN4&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6isD7denrN4&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6isD7denrN4?si=Fn4AdGz_EYN4XT5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 

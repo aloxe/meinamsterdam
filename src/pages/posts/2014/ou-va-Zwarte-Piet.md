@@ -6,12 +6,13 @@ tags:
  - Sinterklaas
  - coutumes
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Zwarte-Piet-img_3749carre800.jpg
+image_alt: Zwarte Piet en 2007
 permalink: ou-va-Zwarte-Piet/
 date: 2014-11-13
 update: 2014-12-29
-TODO: no image, no image alt, shortened desc
+subfooters:
+ - sinterklaas
 ---
 
 [Saint Nicolas est revenu](/saint-nicolas-est-revenu-sinterklaas-is-terug) comme tous les ans et cette année encore il est accompagné de ses serviteurs peints en noir, les **zwarte Piet**. Chose nouvelle cette année, les zwarte Piet ammènent avec eux la discorde et les polémiques. Le joyeux drille ne fait plus rire tout le monde, ses opposants trouvent la création de ce **personnage raciste** et veulent fêter *Sinterklaas* (Saint-Nicolas) sans eux.
@@ -56,7 +57,7 @@ On vera encore cette année des zwarte Piet avec créoles, vêtements de servite
 
 J'aimerais quand même savoir dès aujourd'hui ce que zwarte Piet va devenir, d'où le titre de ce billet. Vous avez des idées ?
 
----
+----
 [^1]: Cet incident est arrivé sur la parade de Dordrecht en octobre 2013.
 [^2]: L'année dernière, Laurent Chambon a osé la comparaison entre les défenseurs de zwarte Piet et les opposant au mariage pour tous (lire *[Le Père Fouettard, la colère et les privilèges](http://www.minorites.org/index.php/2-la-revue/1536-le-pere-fouettard-la-colere-et-les-privileges.html)* sur minorites.org). Même si les néerlandais ont l'avantage de se battre pour ce qui les touche directement, on a ici deux mouvement comparables, conservateur et raciste-qui-ne-veut-pas-se-l'avouer. Laurent creuse très bien la question
 [^3]: Les Piet d'Amsterdam ont proposé de [varier les couleurs](http://www.nrc.nl/nieuws/2014/07/03/amsterdam-moet-intocht-met-zwarte-piet-opnieuw-bekijken/) au cours des débats organisés par la mairie à l'issue du procès.

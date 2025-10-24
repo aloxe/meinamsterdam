@@ -11,6 +11,8 @@ image_alt: 3 Zwarte Piet
 permalink: qui-est-tu-zwarte-piet/
 date: 2006-12-04
 update: 2019-11-21
+subfooters:
+ - sinterklaas
 ---
 
 
@@ -52,7 +54,6 @@ Aux Pays-Bas, alors que la sévérité envers les enfants n'est plus de mise, on
 
 ![Sinterklaas en Zwarte Piet dans un bateau](zwarte-piet-et-sinterklaas.jpg){.center}
 
-
 <div class="footnotes">
 <h4>Notes</h4>
 
@@ -63,8 +64,4 @@ Aux Pays-Bas, alors que la sévérité envers les enfants n'est plus de mise, on
 
 <hr />
 <p><em>Les illustrations de cette page ont été découpées dans les publicités reçues cette semaine dans notre boîte aux lettres.</em></p>
-
-<hr />
-<p>Voir aussi : <a href="/saint-nicolas-est-revenu-sinterklaas-is-terug">Saint-Nicolas est revenu (Sinterklaas is terug)</a> en 2007 (avec des photos).</p>
-
-<h3>Pour en savoir plus sur la polémique, lire mon article de 2014 : <a href="/ou-va-Zwarte-Piet" title="Sur la polémique autour de l'assistant de Saint Nicolas">Où vas-tu Zwarte Piet ?</a></h3>
+<hr/>

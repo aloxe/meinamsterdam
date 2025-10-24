@@ -12,6 +12,8 @@ image_alt: boites de lettres en chocolat
 permalink: les-lettres-en-chocolat/
 date: 2007-12-05
 update: 2012-09-11
+subfooters:
+ - sinterklaas
 ---
 
 Aujourd'hui c'est *pakjesavond* (le soir des paquets). Les gamins vont s'en mettre plein la panse parce que [Saint-Nicolas](/sinterklaas-op-de-dam-il-est-toujours-la) arrive pour leur donner des cadeaux et des friandises. Parmi les friandises les plus appréciées à cette occasion, il y a **les lettres en chocolat** qu'on appelle ici *chocoladeletters*, pour une fois c'est pas trop compliqué. L'histoire de ces lettres en chocolat est très ancienne.

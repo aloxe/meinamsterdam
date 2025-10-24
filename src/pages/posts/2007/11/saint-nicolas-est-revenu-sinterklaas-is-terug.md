@@ -10,6 +10,7 @@ permalink: saint-nicolas-est-revenu-sinterklaas-is-terug/
 date: 2007-11-18
 update: 2025-10-23
 subfooters:
+ - sinterklaas
  - drooderfiets
 ---
 

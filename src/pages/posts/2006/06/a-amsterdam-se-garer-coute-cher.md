@@ -13,7 +13,7 @@ update: 2014-09-09
 TODO: shortened desc
 ---
 
-Une place libre en plein centre ville dans une rue calme et tranquille. Juste à l'ombre d'un arbre, on se croirait dans un village... Pas de signe d'interdiction et ça ne gène personne, une place rêvée à deux pas des coins à visiter. Le week end à Amsterdam commence super bien. Domage qu'il finisse aussi mal avec [un sabot sur la voiture](http://www.stadstoezicht.amsterdam.nl/live/index.jsp?nav=1964&loc=10880&det=1731).
+Une place libre en plein centre ville dans une rue calme et tranquille. Juste à l'ombre d'un arbre, on se croirait dans un village... Pas de signe d'interdiction et ça ne gène personne, une place rêvée à deux pas des coins à visiter. Le week end à Amsterdam commence super bien. Dommage qu'il finisse aussi mal avec [un sabot sur la voiture](http://www.stadstoezicht.amsterdam.nl/live/index.jsp?nav=1964&loc=10880&det=1731).
 
 ![parlementer pour un sabot](parlementer-pour-un-sabot.jpg){.center}
 

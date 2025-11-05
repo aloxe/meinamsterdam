@@ -123,7 +123,7 @@ module.exports = async function(eleventyConfig) {
     excerpt: true,
   });
 
-  // add nunjunk filter
+  // add nunjunk filter (avoid importing luxon or other lib)
   eleventyConfig.addFilter("date", function(dateObj) { 
     if (dateObj) {
       const formatter = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Amsterdam", dateStyle: "full" });

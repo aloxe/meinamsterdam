@@ -17,7 +17,7 @@ subfooters:
  - drooderfiets
 ---
 
-Nous avons déjà vu sur ce blog, à l'aide de jolies cartes, quels étaient [les endroits les plus photographiés à Amsterdam](/le-amsterdam-des-touristes-et-loacaux). Les statistiques de flickr permettent de voir qui prennent les photos à quels endroits mais nous n'avons pas vu les photos en question. Voici donc pour me rattraper une** liste des photos les plus clichées d'Amsterdam** que les touristes aiment à montrer dans les soirées diapos à leur retour ou bien sur leur réseau social préféré. Cette sélection pointilleuse a été faite en toute subjectivité.
+Nous avons déjà vu sur ce blog, à l'aide de jolies cartes, quels étaient [les endroits les plus photographiés à Amsterdam](/le-amsterdam-des-touristes-et-locaux/). Les statistiques de flickr permettent de voir qui prennent les photos à quels endroits mais nous n'avons pas vu les photos en question. Voici donc pour me rattraper une** liste des photos les plus clichées d'Amsterdam** que les touristes aiment à montrer dans les soirées diapos à leur retour ou bien sur leur réseau social préféré. Cette sélection pointilleuse a été faite en toute subjectivité.
 
 <!--excerpt-->
 ## 1. Les maisons à galbe

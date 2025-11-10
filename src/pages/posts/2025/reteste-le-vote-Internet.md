@@ -69,18 +69,58 @@ J'avais aussi suggéré de réduire le risque de coercition du vote en permettan
 
 La plupart de ces remarques sont encore valides aujourd'hui. Si l'application a changé certaines configurations ou contrôles demeurent imparfaits.
 
+Ainsi, je mail appellant au vote contennait deux liens vers des pages d'aide qui n'existent pas (Erreur 404), l'identifiant de connexion qu'il faut recopier sans erreur est toujours offusqué par defaut et le certificat du site web n'a toujours pas de propriétaire explicite.
+
 #### Une présentation des bulletins améliorée
 
+En 2022, je signalais l'horreur de présenter les bulletins sur deux colonnes même sur un petit écran de téléphone ce qui rendait le nom des listes parfois impossible à lire en entier.
+
+En novembre 2025 le teste me montre des bulletins sur une seule colonne ou le nom de la liste, nême très long, s'affiche sur l'écran en entier. Un grand progrès pour ceux qui vont voter depuis leur mobile.
+
+![copie d'écran de la liste des bulletins sur un écran de mobile](ecran-de-vote-listes-sur-mobile.png)
 
 #### mais pas complètement
 
+Seulement la liste des bulletins souffre d'un autre problème d'accessibilité. Les personnes ne pouvant utiliser la souris, utilisent leur clavier. Elles naviguent entre les éléments activables d'une page avec la touche *tabulation* et cliquent avec la touche *entrée*. Or la sur la page des bulletin, seul le premier bulletin est activable via la touche *tabulation*. Il est donc impossible pour les personnes sans souris de choisir un autre candidat.
+
+![animation montrant la navigation au clavier sur la liste des bulletins](bulletins-sellection-clavier.gif)
+
+Cette erreur est cruciale à corriger parce que les administrations sont légalement contraintes de proposer des sites et des applications accessibles mais en plus de ça, cela crée une ruptire d'égalité devant le vote en excluant *de facto* certains electeurs de cette modalité de vote.
 
 #### Ce qui est nouveau et peut-être plus grave
 
+Dans mon raport de 2022, j'avais constaté que tous les mails, (envoi d'identifiant, annonce d'ouverture du vote, code de confirmation…) n'étaient pas tous envoyés par la même adresse ce qui n'aidait pas à identifier les courriers autentiques d'éventuels spams et courriers d'hameçonnage administratifs que nous recevons tous.
+
+Cette erreur a été corrigée. Tous les mails sont envoyés par `Ministère de l'Europe et des Affaires étrangères <voteinternet@votezaletranger.gouv.fr>` ou `Ministère de l'Europe et des Affaires étrangères <noreply@votezaletranger.gouv.fr>`. 
+
+> Attention, la suite est un peu technique
+
+Seulement, le diable se cachant dans les détails, j'ai remarqué que les mails envoyées par l'application (identifiant, mise à jour du mot de passe et code de confirmation…) étaient toujours identifié comme spam par mon gestionaire de mails. En essayant de savoir pourquoi, j'ai constaté que cette classification était due à un [Echec DMARC](https://fr.wikipedia.org/wiki/DMARC).
+
+DMARC est une politique de traitement des mails après vérification d'informations fournies par le serveur du nom de domaine de l'expéditeur du mail. par exemple, le code de confirmation de vote est envoye par le serveur `o3.p25.mailjet.com [185.189.236.3]` mais l'expéditeur est `noreply@votezaletranger.gouv.fr`. Pour vérifier que l'expéditeur est légitime, qu'il est bien le `noreply@votezaletranger.gouv.fr` qu'il prétend être, le serveur de mail du destinataire va envoyer une requète au serveur du nom de domaine `votezaletranger.gouv.fr` pour savoir si `o3.p25.mailjet.com` ou `185.189.236.3` est bien habilité à envoyer des courriers à ce nom. Il peut aussi envoyer une requète pour vérifier une éventuelle signature cryptographique envoyée dans l'entête du message.
+
+Si aucune de ces vérifications n'est valide, il y a de fortes chances que l'adresse de l'expediteur soit usurpée et que le courrier soit un spam. Une autre possibilité est que l'utilitaire d'envoi de mail soit mal configuré. C'est dans ce dernier cas que nous nous trouvons mais le serveur de mail qui ne peut pas s'en rendre compte étiquète cet envoi comme spam.
+
+![copie d'écrran du score de SPAM d'un mail mailjet MEAE](dmarc-score-10-spam.png)
+
+Le mail d'annonce de l'ouverture du vote est envoyé par un autre prestataire étranger `i2.ms203.atmailsvr.net [91.199.29.203]` mais la signature cryptographique dans l'entête du domaine est validée lors de la requète au serveur de nom de `votezaletranger.gouv.fr`. Le courrier n'est donc pas étiqueté spam parce qu'il est légitime. 
+
+Le courrier envoye avec `voteinternet@votezaletranger.gouv.fr` alors que l'envoi n'est pas parti du MEAE. Seulement l'outil d'envoi des mails chez Active Trail (c'est le nom du prestataire du `91.199.29.203`) a bien été configuré.
+
+Il suffirait donc que l'outil d'envoi des mails avec `noreply@votezaletranger.gouv.fr`, qui est hébergé par mailjet, soit, lui aussi configuré correctement. Mailjet, entreprise américaine spécialisé dans le ~~spam~~ marketing digital, fourni même [un guide complet](https://documentation.mailjet.com/hc/fr/articles/360049641733-Guide-complet-d-authentification-des-domaines-avec-SPF-et-DKIM) pour aider à la configuration de ses outils. Suivre ce guide (et bien configurer la zone `votezaletranger.gouv.fr`) est la meilleure garantie pour que les courriers d'envoi des identifiants aux électeurs ne soient pas à nouveau bloqués.
+
+> Attention, la suite est un peu politique
+
+Le Ministère de l'Europe et des Affaires étrangères français a confié à une entreprise française **Voxaly-Docaposte**, le soin de gérer la solution de vote par Internet. Cela me permet de penser que les données personnelles que j'ai confiées à mon consulat pour pouvoir exercer mon droit de vote, ne quitteraient pas le territoire français. 
+
+En grattant un peu les données techniques dans les entêtes des courriers que j'ai reçu, je constate que ces données sont passées par [un serveur en Israel](https://apps.db.ripe.net/db-web-ui/query?from=www&searchtext=91.199.29.203) et un autre est parti depuis la filiale française ([Mailjet SAS](https://apps.db.ripe.net/db-web-ui/query?bflag=false&dflag=false&rflag=true&searchtext=185.189.236.3&source=RIPE)) d'une société américaine.
+
+Ces deux entreprises indiquent bien respecter le RGPD — ce qui est la moindre des choses dans leur métier — mais je ne suis pas certain que mes données ne tombent pas sous le coup d'un loi extra-territoriale qui obligerait ces sociétés à déroger au RGPD suite à une requète judiciaire à leur siège. Pour le cas de la société américaine on sait depuis la jurisprudence *Schrems II* que c'est un risque à envisager. Ce risque qui a été [confirmé aux Pays-Bas](/cloud-merite-notre-confiance/) en 2022.
+
+En participant au test grandeur nature du vote par Internet, je pensais découvrir des avancées pour améliorer le sentiment de confiance des électeurs mais j'ai surtout vu qu'il y a encore du travail.
 
 
-{# 
 
-https://www.senat.fr/questions/base/2025/qSEQ250605046.html
 
- #}
+
+{#  https://www.senat.fr/questions/base/2025/qSEQ250605046.html #}

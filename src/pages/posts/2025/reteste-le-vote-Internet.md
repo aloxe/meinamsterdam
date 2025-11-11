@@ -6,6 +6,7 @@ tags:
 - élections
 - administration
 - web
+- politique
 isMarkdown: true
 thumbnail: fermeture-du-vote.png
 image_alt: "Test grandeur nature, fermeture du vote dans 50 min"

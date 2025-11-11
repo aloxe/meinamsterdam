@@ -34,7 +34,7 @@ Pour effectuer un test de charge des serveurs, une centaine de volontaires ne pe
 
 La multiplication des volontaires permet surtout de produire une multiplicité des configurations que la solution doit prendre en compte tant pour la connexion que pour l'envoi des messages mail et SMS sur les différents réseaux de nombreux pays. 
 
-Hélas cet échantillon de votants est ici aussi trop petit pour faire apparaitre des problèmes qui pourraient apparaitre dans le cas d'envoi de message plus nombreux. Ainsi, en 2022, des problèmes de refus d'acheminement de mails et de SMS perdus sont apparus durant le scrutin officiel alors qu'ils ne se sont pas produits durant le test grandeur nature.
+Hélas **cet échantillon de votants est ici aussi trop petit** pour faire apparaitre des problèmes qui pourraient apparaitre dans le cas d'envoi de message plus nombreux. Ainsi, en 2022, des problèmes de refus d'acheminement de mails et de SMS perdus sont apparus durant le scrutin officiel alors qu'ils ne se sont pas produits durant le test grandeur nature.
 
 #### Tester la réception de la solution par le public
 
@@ -42,21 +42,21 @@ Enfin, le test grandeur nature permet de recueillir le retour d'utilisateurs en 
 
 Normalement ce genre de test est réalisé par des équipes spéciales de testeurs et d'ingénieurs qualité qui peuvent rendre un audit ou une liste de fonctionnalités à mettre à jour. 
 
-À mon avis le prestataire ne compte pas sur ce test grandeur nature pour améliorer la qualité de sa solution puisqu'aucun formulaire de retour ou adresse de contact n'est fournie aux volontaires. C'est d'ailleurs bien dommage parce que sur [les 13 pages de remarques](/teste-le-vote-Internet/) que j'ai envoyé après avoir fait le teste grandeur nature de 2022, seules deux ou trois améliorations avaient été implémentées avant l’élection.
+À mon avis le prestataire ne compte pas sur ce test grandeur nature pour améliorer la qualité de sa solution puisqu'**aucun formulaire de retour ou adresse de contact** n'est fournie aux volontaires. C'est d'ailleurs bien dommage parce que sur [les 13 pages de remarques](/teste-le-vote-Internet/) que j'ai envoyé après avoir fait le teste grandeur nature de 2022, seules deux ou trois améliorations avaient été implémentées avant l’élection.
 
 ## La solution de 2026
 
-Pour les élections de 2026, le système en place ressemble beaucoup à ce que j'avais déjà utilisé en 2022. Le prestataire, auteur de la solution est d'ailleurs Voxaly-Docaposte, le même que pour la solution de 2022. Néanmoins, le MEAE, ayant tiré les enseignements des ratés durant les élections de 2022 a fait évoluer son cahier des charges.
+Pour les élections de 2026, le système en place ressemble beaucoup à ce que j'avais déjà utilisé en 2022. Le prestataire, auteur de la solution est d'ailleurs **Voxaly-Docaposte**, le même que pour la solution de 2022. Néanmoins, le MEAE, ayant tiré les enseignements des ratés durant les élections de 2022 a fait évoluer son cahier des charges.
 
 En 2022 certains électeurs ne recevaient plus leur code de confirmation par mail rendant l’authentification impossible. Plusieurs grands fournisseurs de service mail comme Yahoo ou Verizon avaient tout bonnement bloqué le système de vote pour SPAM. Je suppose que le cahier des charges impose à la solution une obligation de moyens pour éviter que cela se reproduise. (*Je ne veux pas divulgacher la suite mais ce n’est pas le cas*)
 
 #### France Identité
 
-De plus elle a demandé la mise en place de l’authentification par France Identité, une application mobile régalienne d'authentification en ligne qui permet de certifier son identité nationale.
+De plus elle a demandé la mise en place de l’**authentification par France Identité**, une application mobile régalienne d'authentification en ligne qui permet de certifier son identité nationale.
 
 Cette nouvelle option est très judicieuse, car elle permet d'éviter de reposer sur des prestataires étrangers d'accès à internet et d'abonnement au téléphone pour certifier l'identité des électeurs.
 
-France Identité commence à être largement adopté en France parce que certaines personnes s'en servent pour prouver leur réservation de TGV ou retirer un colis à la poste. Hélas, il y a peu de cas d'usage hors de France (à vrai dire cette élection par Internet est le premier cas que je connaisse). De plus, l'ouverture d'un compte France Identité doit être validée, soit par le passage d'un facteur de la Poste qui n'est pas possible hors de France, soit par un compte France Connect qui, depuis de nombreuses années déjà n'est pas accessible à tous les français résident hors de France.
+France Identité commence à être largement adopté en France parce que certaines personnes s'en servent pour prouver leur réservation de TGV ou retirer un colis à la poste. Hélas, il y a peu de cas d'usage hors de France (à vrai dire cette élection par Internet est le premier cas que je connaisse). De plus, l'ouverture d'un compte France Identité doit être validée, soit par le passage d'un facteur de la Poste qui n'est pas possible hors de France, soit par un compte France Connect qui, depuis de nombreuses années déjà, n'est pas accessible à tous les français résident hors de France.
 
 ![fausse copie d'écran France Connect](france-connect.png)
 
@@ -68,9 +68,9 @@ Dans mon rapport de 13 pages rédigé suite à mon test de 2022, j'avais plusieu
 
 J'avais aussi suggéré de réduire le risque de coercition du vote en permettant aux électeurs de mettre à jour leur vote même après l'avoir validé.
 
-La plupart de ces remarques sont encore valides aujourd'hui. Si l'application a changé, certaines imperfections demeurent.
+La plupart de ces remarques sont encore valides aujourd'hui. Si l'application a changé, les imperfections demeurent.
 
-Ainsi, le mail appelant au vote contenait deux liens vers des pages d'aide qui n'existent pas (Erreur 404), l'identifiant de connexion qu'il faut recopier sans erreur est toujours offusqué par défaut et le certificat du site web n'a toujours pas de propriétaire explicite.
+Ainsi, le mail appelant au vote contenait deux liens vers des pages d'aide qui n'existent pas (Erreur 404), l'identifiant de connexion qu'il faut recopier sans erreur est toujours offusqué par défaut et le certificat du site web n'a toujours pas de propriétaire explicite. etc.
 
 #### Une présentation des bulletins améliorée
 
@@ -95,8 +95,8 @@ Cette erreur est cruciale à corriger parce que les administrations sont légale
 Dans mon rapport de 2022, j'avais constaté que tous les mails, (envoi d'identifiant, annonce d'ouverture du vote, code de confirmation…) n'étaient pas tous envoyés par la même adresse ce qui n'aidait pas à identifier les courriers authentiques d'éventuels spams et courriers d'hameçonnage administratifs que nous recevons tous.
 
 Cette erreur a été corrigée. Tous les mails sont envoyés par 
-- **Ministère de l'Europe et des Affaires étrangères <voteinternet@votezaletranger.gouv.fr>** ou 
-- **Ministère de l'Europe et des Affaires étrangères <noreply@votezaletranger.gouv.fr>**. 
+- **Ministère de l'Europe et des Affaires étrangères \<voteinternet@votezaletranger.gouv.fr>** ou 
+- **Ministère de l'Europe et des Affaires étrangères \<noreply@votezaletranger.gouv.fr>**. 
 
 Ça présente plutôt bien.
 
@@ -106,15 +106,15 @@ Seulement, le diable se cachant dans les détails, j'ai remarqué que les mails 
 
 DMARC est une politique de traitement des mails après vérification d'informations fournies par le serveur du nom de domaine (DNS) de l'expéditeur du mail. 
 
-Par exemple, le code de confirmation de vote est envoyé par l'expéditeur **noreply@votezaletranger.gouv.fr** mais le serveur qui l'envoie est celui du prestataire *Mailjet* `o3.p25.mailjet.com [185.189.236.3]`. Pour vérifier que l'expéditeur est légitime, qu'il est bien le **noreply@votezaletranger.gouv.fr** qu'il prétend être, le serveur de mail du destinataire va envoyer une requête au serveur du nom de domaine `votezaletranger.gouv.fr` pour savoir si le serveur d'envoi est bien habilité à envoyer des courriers à ce nom. Il va vérifier si `o3.p25.mailjet.com` ou `185.189.236.3` est bien renseigné dans un enregistrement DNS dédié. Si une signature cryptographique est présente dans l'entête du message, il va aussi envoyer une requête pour vérifier cette signature.
+Par exemple, le code de confirmation de vote est envoyé par l'expéditeur **\<noreply@votezaletranger.gouv.fr>** mais le serveur qui l'envoie est celui du prestataire *Mailjet* `o3.p25.mailjet.com [185.189.236.3]`. Pour vérifier que l'expéditeur est légitime, qu'il est bien le **\<noreply@votezaletranger.gouv.fr>** qu'il prétend être, le serveur de mail du destinataire va envoyer une requête au serveur du nom de domaine `votezaletranger.gouv.fr` pour savoir si le serveur d'envoi est bien habilité à envoyer des courriers à ce nom. Il va vérifier si `o3.p25.mailjet.com` ou `185.189.236.3` est bien renseigné dans un enregistrement DNS dédié. Si une signature cryptographique est présente dans l'entête du message, il va aussi envoyer une requête pour vérifier cette signature.
 
 Si aucune de ces vérifications n'est valide, il y a de fortes chances que l'adresse de l’expéditeur soit usurpée et que le courrier soit un spam. Une autre possibilité est que l'utilitaire d'envoi de mail soit mal configuré. C'est dans ce dernier cas que nous nous trouvons mais le serveur de mail qui ne peut pas s'en rendre compte étiquète l'envoi comme un spam.
 
 ![copie d'écran du score de SPAM d'un mail mailjet MEAE](dmarc-score-10-spam.png)
 
-Le mail d'annonce de l'ouverture du vote est envoyé par un autre prestataire étranger : Active Trail `i2.ms203.atmailsvr.net [91.199.29.203]`. Mais dans ce cas, la signature cryptographique dans l'entête du mail est validée lors de la requête au serveur du nom de domaine. Le courrier est donc considéré comme légitime et n'est pas étiqueté spam. Ce courrier est envoyé avec l'adresse d'expéditeur **voteinternet@votezaletranger.gouv.fr** alors que l'envoi n'est pas parti du MEAE. Seulement l'outil d'envoi des mails chez Active Trail a été configuré correctement[^1].
+Le mail d'annonce de l'ouverture du vote est envoyé par un autre prestataire étranger : Active Trail `i2.ms203.atmailsvr.net [91.199.29.203]`. Mais dans ce cas, la signature cryptographique dans l'entête du mail est validée lors de la requête au serveur du nom de domaine. Le courrier est donc considéré comme légitime et n'est pas étiqueté spam. Ce courrier est envoyé avec l'adresse d'expéditeur **\<voteinternet@votezaletranger.gouv.fr>** alors que l'envoi n'est pas parti du MEAE. Seulement l'outil d'envoi des mails chez Active Trail a été configuré correctement[^1].
 
-Il suffirait donc que l'outil d'envoi des mails avec **noreply@votezaletranger.gouv.fr**, qui est hébergé par Mailjet, soit, lui aussi configuré correctement. Mailjet, entreprise américaine spécialisée dans le ~~spam~~ marketing digital, fourni même [un guide complet](https://documentation.mailjet.com/hc/fr/articles/360049641733-Guide-complet-d-authentification-des-domaines-avec-SPF-et-DKIM) pour aider à la configuration de ses outils. Suivre ce guide (et bien configurer la zone `votezaletranger.gouv.fr`) est la meilleure garantie pour que les courriers d'envoi des identifiants aux électeurs ne soient pas à nouveau bloqués comme ce fut le cas en 2022.
+Il suffirait donc que l'outil d'envoi des mails avec **\<noreply@votezaletranger.gouv.fr>**, qui est hébergé par Mailjet, soit, lui aussi configuré correctement. Mailjet, entreprise américaine spécialisée dans le ~~spam~~ marketing digital, fourni même [un guide complet](https://documentation.mailjet.com/hc/fr/articles/360049641733-Guide-complet-d-authentification-des-domaines-avec-SPF-et-DKIM) pour aider à la configuration de ses outils. Suivre ce guide <!--(et bien configurer la zone `votezaletranger.gouv.fr`)--> est la meilleure garantie pour que les courriers d'envoi des identifiants aux électeurs ne soient pas à nouveau bloqués comme ce fut le cas en 2022.
 
 > Attention, la suite est un peu politique
 

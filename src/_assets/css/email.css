@@ -1,15 +1,15 @@
-#mailform form {
+.mailform form {
 	max-width:500px;
 	margin:0 auto;
 }
 
-#mailform form label {
+.mailform form label {
   font-size: 16px;
 	display: block;
 	padding: 15px 0 5px;
 }
 
-#mailform form input {
+.mailform form input {
   color: #001c86;
   font-size: 18px;
   line-height: 22px;
@@ -23,12 +23,12 @@
   outline:0;
 }
 
-#mailform form textarea:focus,
-#mailform form input:focus {
-	border: 2px solid #001c86;
+.mailform form textarea:focus,
+.mailform form input:focus {
+	border: 1px solid #001c86;
 }
 
-#mailform form textarea {
+.mailform form textarea {
 	border: 1px solid rgb(255, 89, 0);
 	border-radius: 5px;
 	width:100%;
@@ -39,15 +39,16 @@
   resize:vertical;
 }
 
-#mailform input:-moz-placeholder,
-#mailform input:focus,
-#mailform textarea:focus,
-#mailform textarea:required {
+.mailform input:-moz-placeholder,
+.mailform input:focus,
+.mailform textarea:focus,
+.mailform textarea:required {
     box-shadow:none !important;
 		outline: none !important;
 }
 
-#mailform form button[type="submit"] {
+.mailform form input[type="submit"],
+.mailform form button[type="submit"] {
   width: 100%;
   background: #006fcf;
   border-radius:5px;
@@ -62,14 +63,15 @@
   font-weight: 700;
 }
 
-#mailform form button[type="submit"]:hover {
+.mailform form input[type="submit"]:hover 
+.mailform form button[type="submit"]:hover {
 	background:#006fff;
 	color: white;
 }
 
-#mailform {
+.mailform {
 	overflow-y: hidden;
-	height: 460px; /* approximate max height */
+	max-height: 460px; /* approximate max height */
 	transition: all 1s cubic-bezier(0, 0.2, 0.8, 0.2);
 }
 
@@ -82,7 +84,7 @@
 	transition: all 1s cubic-bezier(0, 0.5, 1, 0.2);
 }
 
-#mailform.rollup,
+.mailform.rollup,
 #feedback.rollup {
 	height: 0;
 	padding: 0;

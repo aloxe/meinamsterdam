@@ -11,19 +11,18 @@ Laissez votre adresse mail ci-dessous et recevez les prochains articles directem
 
 {% include "../includes/newsletter-form.njk" %}
 
-Votre adresse mail n'est utilisé par follow.it que pour vous envoyer les nouveaux articles ( voir leur <a href="https://follow.it/info/privacy" class="ext">politique de confidentialité</a> ).{.note}
-
+Ces informations ne sont utilisés que pour envoyer les nouveaux articles.{.note}
 
 ## Autre moyen de me suivre
 
 - [Flus RSS de me in Amsterdam](/feep.xml)
-- [Mastodon: @meinamsterdam@piaille.fr](https://piaille.fr/@meinamsterdam){:rel="me"}
+- [Mastodon: @meinamsterdam@piaille.fr](https://piaille.fr/@meinamsterdam){rel="me"}
 
 ## Contact
 
-L'auteur de ce blog est Alix Guillad que vous pouvez contacter depuis [sa page personelle](https://alix.guillard.fr/) ou via ce formulaire de contact :
+L'auteur de ce blog est Alix Guillard que vous pouvez contacter depuis [sa page personelle](https://alix.guillard.fr/) ou via ce formulaire de contact :
 
-<section id="mailform">
+<section class="mailform">
   <form id="contactForm" onSubmit="HandleSubmit(event)">
     <label for="name">Votre nom :</label>
     <input type="text" id="name" name="name" required data-validation-required-message="Entrez votre nom"/>

@@ -14,8 +14,6 @@ date: 2009-11-27
 update: 2009-11-27
 ---
 
-
-
 Aux Etats-Unis, le **Black Friday** est le vendredi après [Thanksgiving](http://fr.wikipedia.org/wiki/Action_de_Gr%C3%A2ce_%28Thanksgiving%29), le jeudi de l'action de grâce. *Black Friday* (**vendredi noir**) est un jour ou les magasins de détail font le plein de clients et réalisent un pic de ventes marquant le début de la saison des courses de Noël. L'expression *Black Friday* vient du fait que les comptes des magasins passent au noir (les pertes étant marquées en rouge).
 
 Le lundi suivant est connu sous le nom du **Cyber Monday** parce que de plus en plus les gens font les courses en ligne le lundi, pour peut-être, essayer de trouver un meilleur prix de ce qu'ils on vu en ville le week end. Chris Silver Smith explique d'ailleurs qu'[il y a plusieurs Cyber Mondays](http://searchengineland.com/forget-black-friday-are-you-ready-for-holiday-seasons-cyber-mondays-12730) grace à de jolis graphiques. Cette analyse de statistiques me rappelle que le blog que vous lisez est aussi quelque peu saisonnier. J'ai peu l'habitude de parler du fonctionnement de ce blog mais je vais le faire ici en vous montrant quelques statistiques sur ses visiteurs.

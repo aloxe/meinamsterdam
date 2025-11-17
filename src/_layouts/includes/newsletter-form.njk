@@ -1,10 +1,27 @@
 <section class="mailform">
   <form method="post" action="https://lm.chim.re/subscription/form" class="listmonk-form">
-      <label for="email">Votre adresse électronique :</label>
-      <input type="email" id="email" name="email" required data-validation-required-message="votre adresse mail" data-validation-validemail-message="votre adresse n'est pas bonne" />
-      <label for="name">Votre nom (facultatif):</label>
-      <input type="text" id="name" name="name"/>
-      <input id="e6852" type="hidden" name="l" checked value="e6852a50-d309-4e69-8a46-4cb2f0e92e47" />
-      <input type="submit" value="Souscrire " />
+    <div style="display:inline-block;">
+      <input type="email" name="email" required="required" placeholder="votre adresse mail" data-validation-required-message="votre adresse mail" data-validation-validemail-message="cette adresse n'est pas bonne"
+      style="text-transform: none !important; color: rgb(0, 0, 0); text-align: left; background-color: rgb(255, 255, 255);
+      border: 2px solid #ff6f32;
+      border-right: 0;
+      border-radius: 1em 0 0 1em;
+      padding: 0.3em 0 0.3em 0.5em ;
+      ">
+    </div>
+    <input id="e6852" type="hidden" name="l" checked value="e6852a50-d309-4e69-8a46-4cb2f0e92e47" />
+    <div style="display:inline-block;">
+        <input type="submit" value="Souscrire "style="
+        background-color: #ff6f32;
+        border: 2px solid #ff6f32;
+        border-left: 0;
+        border-radius: 0 1em 1em 0;
+        padding: 0.3em 0.5em;
+        color: white;
+        font-weight: bold;
+        margin-left: -5px;
+        cursor: pointer;
+        ">
+    </div>
   </form>
 </section>

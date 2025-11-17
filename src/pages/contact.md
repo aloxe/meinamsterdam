@@ -15,7 +15,7 @@ Ces informations ne sont utilisés que pour envoyer les nouveaux articles.{.note
 
 ## Autre moyen de me suivre
 
-- [Flus RSS de me in Amsterdam](/feep.xml)
+- [Flus RSS de me in Amsterdam](/feed.xml)
 - [Mastodon: @meinamsterdam@piaille.fr](https://piaille.fr/@meinamsterdam){rel="me"}
 
 ## Contact

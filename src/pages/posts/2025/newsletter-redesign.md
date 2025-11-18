@@ -7,8 +7,8 @@ tags:
  - blog
  - web
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: abonnez-vous.png
+image_alt: capture d'écran de mon vieux abonnez-vous sur ce blog
 permalink: newsletter-redesign/
 date: 2025-11-18
 update: 2025-11-18
@@ -34,22 +34,17 @@ Avant 2021, j'offrais mon flux RSS au travers d'un service qui s'appelait FeedBu
 FeedBurner a été racheté par Google en 2007 qui l'a maintenu sans le modifier jusqu'en 2021. Après cela, Google a annoncé que le service allait changer pour une structure plus stable et moderne (comprenez *sera bientôt supprimé*) et que les personnes qui s'en servaient pour la newsletter devaient trouver une alternative au plus vite.
 
 ![Hi Alix,
-FeedBurner has been a part of Google for almost 14 years, and we're 
-making several upcoming changes to support the product's next chapter. 
-Hereâ€™s what you can expect to change and what you can do now to ensure 
-you're prepared.
-Starting in July, we are transitioning FeedBurner onto a more stable, 
-modern infrastructure. This will keep the product up and running for all 
-users, but it also means that we will be turning down most non-core feed 
-management features, including email subscriptions, at that time.
-For those who use FeedBurner email subscriptions, we recommend 
-downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
+FeedBurner has been a part of Google for almost 14 years, and we're making several upcoming changes to support the product's next chapter. 
+Here's what you can expect to change and what you can do now to ensure you're prepared.
+Starting in July, we are transitioning FeedBurner onto a more stable, modern infrastructure. This will keep the product up and running for all users, but it also means that we will be turning down most non-core feed management features, including email subscriptions, at that time.
+For those who use FeedBurner email subscriptions, we recommend downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
 
-J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Mais très vite, le nouveau service a commencé à tronquer les mails pour forcer les personnes abonnées à lire la suite sur leur interface pas très bien faite, puis à rajouter des pubs dans les mails si bien qu'à la fin, ça ne resemblait plus à une newsletter.
+J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Mais très vite, le nouveau service a commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface noche.
+Il a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
 
 ![capture d'écran d'une alerte Follow.it](follow.it-promotion.png){.center}
 
-Il fallait donc que j'arrête d'utiliser ce service. J'ai pensé utiliser un service comme Substack, Brevo ou Kessel pour partager mes contenu mais c'était à nouveau m'appuyer sur un service qui pouvait se transformer au moment où je m'y attends le moins.
+Il fallait donc que j'arrête d'utiliser ce service. J'ai pensé utiliser un service comme Mailchimp ou Brevo pour partager mes contenus mais c'était à nouveau m'appuyer sur un service qui pouvait se transformer au moment où je m'y attends le moins.
 
 ## Mon service de newsletter
 
@@ -57,6 +52,28 @@ Après moult hésitations, je me suis décidé à gérer moi même l'envoi des n
 
 J'y ai ajouté les adresses mail abonnées à ma newsletter sur mon ancien service et j'ai mis à jour mon [formulaire de souscription](https://meinamsterdam.nl/newsletter/).
 
-Ensuite, et suite aux changement du site concernant les commentaires, je viens d'abonner aussi toutes les personnes qui suivaient les commentaires de mon blog sans en recevoir depuis de nombreux mois.
+Ensuite, me souvenant des changements concernant les commentaires, j’ai aussi abonné toutes les personnes qui suivaient les commentaires de mon blog. Depuis des mois qu’elles n’ont rien reçu de moi, il est possible que cela les surprenne.
 
-Si vous êtes surpris de trouver cet article dans votre boîte aux lettres, en voici toute l'explication.  Il est possible que ce choix ne vous convienne plus. Dans ce cas le lien de d'abonnement en bas de page est pour vous. Pour tous les autres, bienvenue, welkom.
+Cet article est le premier à être partagé par la nouvelle newsletter, Si vous êtes surpris de trouver cet article dans votre boîte aux lettres, en voici donc toute l'explication. Il est possible que ce choix ne vous convienne plus. Dans ce cas le lien de désabonnement en bas de page est pour vous. Pour tous les autres, *welkom*.
+
+## Et les réseaux sociaux
+
+Une lectrice me proposait récement de passer mes archives sur Substack ou un equivalent comme Kessel. Ces services proposent de gérer sa newsletter mais une offre éditoriale permet aussi aux membres de découvrir d'autres newsletters sur la même plate-forme. Je ne sais pas si ceci donnera plus d'impact à mes écrits mais je n'exclue pas d'essayer au moins pour voir.
+
+En ce qui concerne les autres réseaux sociaux, j'ai souvent partagé mes écrits sur facebook et twitter mais là encore le message est tronqué. Pour que ces partages génèrent du clic, je devrais changer mes titres en par exemple :
+
+> Comment j'ai fidélisé mon lectorat en 3 étapes
+
+ou bien
+
+> J'ai enfin trouvé la newsletter idéale, vous ne devinerez jamais laququelle
+
+ou même encore
+
+> Plein d'argent gratuit grâce à ce nouveau truc tout simple
+
+Immutile de vous dire que ça ne correspond pas du tout à ma ligne éditoriale. J'ai donc préféré ne plus compter sur ces réseaux sociaux. Ne pas y traîner apporte d'ailleurs plus de quiétude à mon âme.
+
+Il reste que je voudrais resté ouvert à la discussion. Le mail est pour cela la solution idéale et il suffit pour celà de répondre au mail envoyer par la newsletter. Mais certaines discussion veullent être publiques, il est vrai dans ce cas, qu'un réseau social peut y aider.
+
+C'est pourquoi, j'ai ouvert [un compte mastodon](https://piaille.fr/@meinamsterdam) *me in Amsterdam* qui, lui aussi, partage mes derniers articles. Mastodon utilise le protocole ActivityPub ; il est ainsi possible de commenter depuis n'importe quel réseau utilisant le même protocole. La discussion peut donc continuer.

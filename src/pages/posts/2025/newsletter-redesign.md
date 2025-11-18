@@ -1,7 +1,7 @@
 ---
 layout: base
-title: La Newsletter de me in Amsterdam
-description: J'ai refait mon site et par la même occasion, j'ai refait la newsletter. Abonnez-vous.
+title: La newsletter de me in Amsterdam
+description: J'ai refait mon site et par la même occasion, j'ai refait la newsletter. Tout ne s'est pas passé comme prévu.
 categorie: dagelijks
 tags:
  - blog
@@ -39,12 +39,11 @@ Here's what you can expect to change and what you can do now to ensure you're pr
 Starting in July, we are transitioning FeedBurner onto a more stable, modern infrastructure. This will keep the product up and running for all users, but it also means that we will be turning down most non-core feed management features, including email subscriptions, at that time.
 For those who use FeedBurner email subscriptions, we recommend downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
 
-J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Mais très vite, le nouveau service a commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface noche.
-Il a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
+J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Mais très vite, le nouveau service a commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface moche. *Follow it* a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
 
 ![capture d'écran d'une alerte Follow.it](follow.it-promotion.png){.center}
 
-Il fallait donc que j'arrête d'utiliser ce service. J'ai pensé utiliser un service comme Mailchimp ou Brevo pour partager mes contenus mais c'était à nouveau m'appuyer sur un service qui pouvait se transformer au moment où je m'y attends le moins.
+Il fallait donc que j’arrête d’utiliser ce service. J’ai pensé utiliser un service comme *Mailchimp* ou *Brevo* pour partager mes contenus, mais c’était à nouveau m’appuyer sur un service qui pouvait se transformer au moment où je m’y attends le moins.
 
 ## Mon service de newsletter
 
@@ -58,9 +57,9 @@ Cet article est le premier à être partagé par la nouvelle newsletter, Si vous
 
 ## Et les réseaux sociaux
 
-Une lectrice me proposait récement de passer mes archives sur Substack ou un equivalent comme Kessel. Ces services proposent de gérer sa newsletter mais une offre éditoriale permet aussi aux membres de découvrir d'autres newsletters sur la même plate-forme. Je ne sais pas si ceci donnera plus d'impact à mes écrits mais je n'exclue pas d'essayer au moins pour voir.
+Une lectrice me proposait récemment de passer mes archives sur *Substack* ou un équivalent comme *Kessel*. Ces services proposent de gérer sa newsletter, mais une offre éditoriale permet aussi aux membres de découvrir d’autres newsletters sur la même plate-forme. Je ne sais pas si ceci donnera plus d’impact à mes écrits, mais je n’exclus pas d’essayer au moins pour voir.
 
-En ce qui concerne les autres réseaux sociaux, j'ai souvent partagé mes écrits sur facebook et twitter mais là encore le message est tronqué. Pour que ces partages génèrent du clic, je devrais changer mes titres en par exemple :
+En ce qui concerne les autres réseaux sociaux, j'ai souvent partagé mes écrits sur *facebook* et *twitter* mais là encore, le message est tronqué. Pour que ces partages génèrent du clic, je devrais changer mes titres en par exemple :
 
 > Comment j'ai fidélisé mon lectorat en 3 étapes
 
@@ -72,8 +71,8 @@ ou même encore
 
 > Plein d'argent gratuit grâce à ce nouveau truc tout simple
 
-Immutile de vous dire que ça ne correspond pas du tout à ma ligne éditoriale. J'ai donc préféré ne plus compter sur ces réseaux sociaux. Ne pas y traîner apporte d'ailleurs plus de quiétude à mon âme.
+Inutile de vous dire que ça ne correspond pas du tout à ma ligne éditoriale. J’ai donc préféré ne plus compter sur ces réseaux sociaux. Ne pas y traîner apporte d’ailleurs plus de quiétude à mon âme.
 
-Il reste que je voudrais resté ouvert à la discussion. Le mail est pour cela la solution idéale et il suffit pour celà de répondre au mail envoyer par la newsletter. Mais certaines discussion veullent être publiques, il est vrai dans ce cas, qu'un réseau social peut y aider.
+Il reste que je voudrais resté ouvert à la discussion. Le mail est pour cela la solution idéale et il suffit pour cela de répondre au mail envoyé par la newsletter. Mais certaines discussions veulent être publiques, il est vrai, dans ce cas, qu’un réseau social peut y aider.
 
 C'est pourquoi, j'ai ouvert [un compte mastodon](https://piaille.fr/@meinamsterdam) *me in Amsterdam* qui, lui aussi, partage mes derniers articles. Mastodon utilise le protocole ActivityPub ; il est ainsi possible de commenter depuis n'importe quel réseau utilisant le même protocole. La discussion peut donc continuer.

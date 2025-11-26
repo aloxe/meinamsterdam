@@ -25,12 +25,11 @@ En [présentant ce jour en 2007](/encore-un-troisieme-mardi-de-septembre), j'exp
 *Nota* c'est la **note** et *Miljoen* c'est **million**. Quand il y en a plusieurs, les nérlandais disent *Miljoenen*. Logiquement *Miljoenennota*, c'est la note des millions, le budget de l'année à venir, élaboré par le ministère des finances et présenté au Prinsjesdag, juste après le discours du trône prononcé par le roi. Cette note des millions est enfermée dans une valise avec le budget de l'état (*Rijksbegroting*). Le ministre des finances le porte donc son budget dans cette valise jusque la salle des chevaliers où il est présenté. La note des millions est une sorte de présentation de ce budget qui est lu lors de la présentation.
 
 ## Nouveau mot : Koffertje
-[![Witteveen__H.J._-_SFA003000443.jpg](Witteveen__H.J._-_SFA003000443_s.jpg){.left}|https://commons.wikimedia.org/wiki/File:Witteveen,_H.J._-_SFA003000443.jpg||Witteveen et sa valisette]
-*Koffer* signifie **valise**. c'est donc une **valisette** (*Koffertje*) que transporte le ministre des finances en ce jour protocolaire. Et comme le protocole est important, cette valise a même sa place [sur le site de la deuxième chambre](http://www.derdekamer.nl/prinsjesdag/het-koffertje) où il est expliqué ce qu'elle contient. Le site ne s'attarde pas sur le maroquin beige et le grainage de la valisette, juste une photo rappelle à quoi elle ressemble.
+[![Witteveen et sa valisette](Witteveen__H.J._-_SFA003000443_s.jpg)](https://commons.wikimedia.org/wiki/File:Witteveen,_H.J._-_SFA003000443.jpg){.left} *Koffer* signifie **valise**. c'est donc une **valisette** (*Koffertje*) que transporte le ministre des finances en ce jour protocolaire. Et comme le protocole est important, cette valise a même sa place [sur le site de la deuxième chambre](http://www.derdekamer.nl/prinsjesdag/het-koffertje) où il est expliqué ce qu'elle contient. Le site ne s'attarde pas sur le maroquin beige et le grainage de la valisette, juste une photo rappelle à quoi elle ressemble.
 
 Cette valise a été offerte en 1964 à Johan Witteveen (photo ci-contre), ministre des finances de l'époque, par l'imprimerie d'État à l'occasion des 150 de l'établissement. Cette valise a été transporté par tous les ministres des finances depuis lors comme le montre cette [galerie de photos sur Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Miljoenennota) La dernière photo de Jeroen Dijsselbloem, actuel ministre des finances:
 
-[![ Jeroen Dijsselbloem et sa valisette à la deuxième chambre](Aanbieden_koffertje_Tweede_Kamer.jpg){.center}|https://commons.wikimedia.org/wiki/File:Aanbieden_koffertje_Tweede_Kamer.jpg||]
+[![Jeroen Dijsselbloem et sa valisette à la deuxième chambre](Aanbieden_koffertje_Tweede_Kamer.jpg)](https://commons.wikimedia.org/wiki/File:Aanbieden_koffertje_Tweede_Kamer.jpg){.center}
 
 ## Het koffertje van Lieftinck
 

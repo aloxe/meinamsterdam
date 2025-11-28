@@ -1,5 +1,8 @@
 # me in Amsterdam
-A blog I started when I moved to Amsterdam. First hosted as a subsection of my personal site then on dotclear. It is now hosted on github with huwindty.
+A blog I started when I moved to Amsterdam. 
 
-# huwindty 🌬️
-**A simple 11ty starter project to create a static site using Eleventy and Sveltia CMS with Tailwind CSS. It handles automatic navigation menus, SEO meta tags, and responsive images.**
+I first hosted it as a subsection of my personal site moved it on a dotclear blog engine. It is now hosted on codeberg and is based on [🌬️ huwindty](aloxe.codeberg.page/huwindty/).
+
+Most content is cc-by-sa Alix Guillard
+
+Huwindty is released under GPL 3.0

@@ -1,0 +1,29 @@
+when:
+  - event: push
+    branch: main
+
+steps:
+  - name: ⛓️ Use Node et 🛠️ Install 
+    image: node
+    commands:
+     - npm install
+     - npm run build
+
+  - name: check a boo
+    image: debian
+    commands:
+      - echo "Testing ..."
+      - ls -al
+
+  - name: scp files (╯ ͡° ͜ʖ ͡°）╯／/┴┬┴┬┴ 
+    image: appleboy/drone-scp
+    settings:
+      host: meinamsterdam.nl
+      user: 
+        from_secret: USERNAME
+      key:
+        from_secret: KEY
+#      port:
+#        from_secret: PORT
+      target: ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/
+      source: _site/*

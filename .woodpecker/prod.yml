@@ -1,6 +1,6 @@
 when:
   - event: push
-    branch: main
+    branch: [main, try-to-deploy]
 
 steps:
   - name: ⛓️ Use Node et 🛠️ Install 

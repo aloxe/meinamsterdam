@@ -23,7 +23,5 @@ steps:
         from_secret: USERNAME
       key:
         from_secret: KEY
-#      port:
-#        from_secret: PORT
       target: ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/
       source: _site/*

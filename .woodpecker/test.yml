@@ -1,6 +1,5 @@
 when:
-  - event: push
-    branch: main
+  - event: manual
 
 steps:
   - name: ⛓️ Use Node et 🛠️ Install 
@@ -24,9 +23,11 @@ steps:
         from_secret: USERNAME
       key:
         from_secret: KEY
-      port: 
-        from_secret: PORT
-      target: ~/domains/meinamsterdam.nl/public_html/
+      target: ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/
       source: _site/*
       strip_components: 1
       rm: true
+
+      # - name: Copy htaccess to site
+      #   run: ssh staging "cd ~/domains/test.xn--4lj4bfp6d.eu.org/homes/; cp .htaccess ../public_html/"
+      #   not needed since we use nginx

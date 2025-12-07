@@ -18,10 +18,13 @@ steps:
   - name: scp files (╯ ͡° ͜ʖ ͡°）╯／/┴┬┴┬┴ 
     image: appleboy/drone-scp
     settings:
-      host: meinamsterdam.nl
+      host: 
+        from_secret: HOST
       user: 
         from_secret: USERNAME
       key:
         from_secret: KEY
       target: ~/domains/test.xn--4lj4bfp6d.eu.org/public_html/
       source: _site/*
+      strip_components: 1
+      rm: true

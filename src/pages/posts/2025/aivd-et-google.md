@@ -32,14 +32,14 @@ Faire des stats n'a rien de bien malicieux mais dans ce contexte on voit bien la
 
 > Nous sommes en 2025 et on ne peux toujours pas postuler à l’AIVD sans qu’un message explicite soit envoyé à Google. Nous nous plaignons de cela depuis trois ans, mais apparemment, il n’y a Rien à Faire. Il y a un bouton spécial pour les candidatures à l’AIVD, mais celui-ci s’adresse d’abord à Google.
 
-# Bert Hubert
+## Bert Hubert
 
 <!-- https://berthub.eu/ -->
 Bert Hubert n'est pas le premier venu, il est le créateur d'un serveur (libre) DNS utilisé largement dans le monde pour servir les noms de domaine ([comme mon .nl](/trois-millions-de-domaines/)). Il est surtout un expert en cybersécurité et ancien membre d’un organe de régulation des services de renseignement. Lorsqu'il parle de demande répétés depuis trois ans on immagine qu'elles sont adressées aux bonne personnes et que ses remarques sont considérées avec sérieux.
 
 Nous avons donc un processus de recrutement qui partage d'information de candidature de chaque candidat avec un tiers à l'étranger. Cela semble paradoxal pour une agence de renseignement mais cela dure depuis des années.
 
-# Derk Boswijk
+## Derk Boswijk
 
 Le skeet de Bert Hubert n'est pas passé inaperçu parce qu'il a fait réagir Derk Boswijk qui a adressé des questions à l'expert en sécurité. Derk Boswijk n'est pas un agent secret (ou du moins ce n'est pas dans sa biographie officielle) mais il est député d'opposition à la chambre basse (*Tweede Kamer*) des Pays-Bas. Il n'est pas au gouvernement mais peut se saisir de l'affaire. Il est membre de la commission de la défense et porte-parole du CDA pour la justice et la sécurité, la défense, et les affaires étrangères.
 
@@ -56,13 +56,13 @@ Néamoins, le ministre a ajouté que les outils d'analyses de trafic des sites w
 
 > Ten slotte wordt de trend gesignaleerd dat het gebruik van analytics-tools binnen overheidsorganisaties in het algemeen steeds vaker onder de loep wordt genomen. De discussie over privacy en databeveiliging is de afgelopen jaren daarmee sterk toegenomen, en dit heeft ook terechte gevolgen voor de keuze van softwaretools.
 
-# La souveraineté numérique
+## La souveraineté numérique
 
 Cet épisode rappelle un débat récurent dans toute l'Europe où le manque de maîtrise des outils numériques par les institutions publiques, les rendent dépendantes des géants américains comme Google, alors qu’elles  devraient protéger les données sensibles des citoyens.
 
 Ces questions animent la société néerlandaise à l'heure où l'administration des États-Unis use ostendiblement de la dépendance en ses produits technologiques. En mai 2025, Karim Khan, procureur général de la Cour pénale internationale siàgant à la Haye, a perdu l’accès à son compte Microsoft 365, incluant sa messagerie professionnelle, à la suite de sanctions imposées par l’administration de Donald Trump. 
 
-# GA4 supprimé en douce
+## GA4 supprimé en douce
 
 <!-- https://www.politico.eu/article/the-netherlands-shuts-off-google-tracking-spy-job-listings/ -->
 !["Google mag niet meer meekijken bij sollicitaties geheime dienst" avec une infographie qui montre un demi Trump faisant le big brother sur un écran](google-sollicitatie.ftm.png){.center}

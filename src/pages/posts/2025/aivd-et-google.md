@@ -20,13 +20,13 @@ L'histoire qui suit est née d'un petit *skeet* (un post sur le réseau bluesky)
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:gxyehbdrd7oxjj4nfbwxbtoz/app.bsky.feed.post/3lfknkqpm2c26" data-bluesky-cid="bafyreieh6hdf5oseqfzx6xrr5ivpx23zqne7h4c4x5jgb3szoiusflyauq" data-bluesky-embed-color-mode="system"><p lang="nl">Het is 2025 en je kunt nog steeds niet bij de AIVD solliciteren zonder dat er expliciet bericht naar Google gaat. We zeuren hier al drie jaar over, maar er is kennelijk Niets Aan Te Doen. Er is een speciale aparte knop voor AIVD sollicitaties, maar ook die meldt zich eerst bij Google.<br><br><a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">[image or embed]</a></p>&mdash; Bert Hubert 🇺🇦🇪🇺🇺🇦 (<a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz?ref_src=embed">@berthub.eu</a>) <a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">12 January 2025 at 17:33</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 </div>
 
-Les copies d'écran montrent les requêtes envoyées par les candidats à `google-analytics.com`. Il n'y a rien de bien malicieux ici, il s'agit d'une requête pour compter les clics et pouvoir produire des analyses de fréquentation du site. De millions de sites utilisent Google Analytics à cette fin. Même le blog que vous lises l'a utilisé il y a quelques années ce qui m'a permis de [vous partager quelques tendances](/mon-black-friday/).
+Les copies d'écran montrent les requêtes envoyées par les candidats à `google-analytics.com`. Il n'y a rien de bien malicieux ici, il s'agit d'une requête pour compter les clics et pouvoir produire des analyses de fréquentation du site. De millions de sites utilisent Google Analytics à cette fin. Même le blog que vous lisez l'a utilisé il y a quelques années ce qui m'a permis de [vous partager quelques tendances](/mon-black-friday/).
 
 Rien de bien malicieux ? Ce n'est pas si sûr. Rappelons que Google est une entreprise participant au [programme de surveillance PRISM](https://fr.wikipedia.org/wiki/PRISM_(programme_de_surveillance)) révélé par Edward Snowden en 2013. Que c'est une entreprise Étasunienne, [soumise au Cloud Act](/cloud-merite-notre-confiance/) permettant à la justice des états-Unis d'y obtenir les données dont elle a besoin.
 
 <!--excerpt-->
 
-Pour ma part j'ai supprimé le pistage des visiteurs par Google depuis plusieurs années. Mais nombre de sites web continuent de l'utiliser, comme plusieurs sites du gouvernement néerlandais.
+Même si je pense être peu exposé, j'ai pour ma part, supprimé le pistage des visiteurs par Google depuis plus de dix ans. Mais nombre de sites web continuent de l'utiliser, comme plusieurs sites du gouvernement néerlandais.
 
 ## L'Algemene Inlichtingen- en Veiligheidsdienst 
 

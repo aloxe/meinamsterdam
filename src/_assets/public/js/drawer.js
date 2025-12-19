@@ -22,13 +22,13 @@ document.addEventListener("DOMContentLoaded", () => {
     const closeButton = document.getElementById("closeButton");
 
     const openDrawer = () => {
-        bottomDrawer.classList.remove("translate-y-[10em]");
+        bottomDrawer.classList.remove("translate-y-[15em]");
         bottomDrawer.classList.add("translate-y-0");
     }
 
     const closeDrawer = () => {
         bottomDrawer.classList.remove("translate-y-0");
-        bottomDrawer.classList.add("translate-y-[10em]");
+        bottomDrawer.classList.add("translate-y-[15em]");
     }
 
     closeButton.addEventListener("click", () => {

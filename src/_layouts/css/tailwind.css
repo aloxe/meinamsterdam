@@ -130,7 +130,7 @@
   & img.right {
     @apply float-right ml-4;
   }
-  & altcha-widget + div {
+  & div.altcha {
      @apply m-2;
   }
 }

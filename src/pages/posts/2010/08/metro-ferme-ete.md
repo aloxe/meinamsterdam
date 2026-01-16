@@ -16,11 +16,10 @@ update: 2010-08-06
 
 Ceux qui prennent les transports en commun **à Amsterdam** ont eu à leur disposition dans les trams et les bus, une petite brochure leur indiquant qu'un tronçon de métro était coupé pour travaux entre **Centraal Station** et **Amstel Station**. Ce tronçon est important parce que les 3 lignes de métro de la ville l'empruntent. La brochure explique donc tous les chemins alternatifs en tram ou en bus de remplacement.
 
-[![plan de métro d'Amsterdam pendant les travaux](metromap-s.jpg){.center}](/public/images/scans/cartes/metromap-s.jpg)
+![plan de métro d'Amsterdam pendant les travaux](metromap-s.jpg){.center}
 
 
-![ligne en travaux GVB brochure](GVB-travaux.jpg){.right}
-La brochure indique aussi que les travaux qui auront lieu durant l'été vont permettre d'améliorer le confort et la qualité de service. Comme toujours. Seulement voilà. Les travaux n'auront pas lieu.
+![ligne en travaux GVB brochure](GVB-travaux.jpg){.right} La brochure indique aussi que les travaux qui auront lieu durant l'été vont permettre d'améliorer le confort et la qualité de service. Comme toujours. Seulement voilà. Les travaux n'auront pas lieu.
 
 La ville et le contractant sont hélas (*helaas*) en litige et je ne sais pas si c'est le contractant chargé des travaux a dénoncé l'appel d'offreou la ville qui est revenu sur la signature de ce marché. En tout état de cause, **GVB, la compagnie des transports publics de la ville d'Amsterdam** doit passer un nouvel appel d'offre et cela devrait prendre du temps.
 

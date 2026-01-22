@@ -2,7 +2,7 @@
 layout: base
 title: "Le design, c'est HEMA"
 categorie: nederlandjes
-tags: ["sociétés"]
+tags: ["sociétés", "shopping"]
 isMarkdown: true
 thumbnail: design-hema.png
 image_alt: le design HEMA

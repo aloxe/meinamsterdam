@@ -7,6 +7,7 @@ tags:
  - football
  - sociétés
  - sport
+ - shopping
 isMarkdown: true
 thumbnail: 
 image_alt: 

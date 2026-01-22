@@ -7,6 +7,7 @@ tags:
  - coutumes
  - poste
  - économie
+ - shopping
 isMarkdown: true
 thumbnail: ticket-Halford-afronding.jpg
 image_alt: 

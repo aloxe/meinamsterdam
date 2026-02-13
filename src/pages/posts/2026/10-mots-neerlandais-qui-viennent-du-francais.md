@@ -8,8 +8,8 @@ isMarkdown: true
 thumbnail: 
 image_alt: 
 # permalink: 10-mots-neerlandais-qui-viennent-du-francais/
-date: 2025-12-20
-update: 2024-12-18
+date: 2026-12-20
+update: 2026-12-18
 TODO: no image, no image alt
 # UNPUBLISHED
 permalink: false

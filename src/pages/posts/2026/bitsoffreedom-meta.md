@@ -36,7 +36,7 @@ Les états pourraient se servir de ce réglement pour infléchir ou sanctionner 
 
 Si rien n'est fait du coté des exécutifs, il y a une initiative qui est à souligner. Celle de Bits of Freedom qui a attaqué Meta, la maison mère de facebook et Instagram pour que ces services offrent à leurs utilisateurs la possibilité de choisir un flux de nouvelles non basée sur le profilage algorithmique, uniquement chronologique. cette disposition figure clairement dans le DSA qui s'applique depuis le 17 February 2024.
 
-![infographie de Bits of Freedom avec mobiles et marteau de la justice](Meta-Rechtszaak-Petitie-Uitgelicht-300x234.jpg)
+![infographie de Bits of Freedom avec mobiles et marteau de la justice](Meta-Rechtszaak-Petitie-Uitgelicht.jpg){.center}
 
 Bits of Freedom est une association spécialisée dans la défense des droits numériques aux Pays-Bas. Elle est connue pour son engagement dans la protection des données personnelles. Avec ce procès contre Instagram et facebook elle défend la liberté de choix des utilisateurs et reste pleinement dans son rôle.
 
@@ -57,6 +57,9 @@ Le report est accordé par le juge mais seulement jusqu’au 31 décembre 2025 �
 ## Un changement pour 2026
 
 Dès le 1er janvier 2026, les utilisateurs néerlandais découvrent enfin un changement majeur dans leur interface facebook et Instagram: ils peuvent choisir entre la timeline algorithmique *voor jouw* (« **Pour toi** ») et une timeline chronologique *Volgend* (« **Suivis** ») — et ce choix est enregistré, même après une fermeture de l’application.
+
+![capture d'écran du nouveau menu avec volgend sur un écran mobile](volgend-5g.png){.center}
+> ''Extrait de [la vidéo](https://www.bitsoffreedom.nl/wp-content/uploads/2026/01/META-VOLGEND-FEED-HOW-TO.mp4) annonçant la nouvelle''
 
 Le choix *Volgend* permet de n'afficher que les posts des personnes et groupes suivits de manière chronologique et sans autre ajout. Bits of Freedom s'en réjouit dans un post du 13 janvier (bonne année) en ajoutant que ceci offre un flux sans *endless scroll*, *rabbit hole* ni *time drain*.
 

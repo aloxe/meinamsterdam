@@ -24,9 +24,11 @@ Face aux méfaits qui perdurent et qui causent des problèmes de santé mentale 
 
 Tout va bien, les enfants vont être protégés et mon article peut s'arrêter là.
 
+En fait non..
+
 <!--excerpt-->
 
-Heu non ! C'est oublier un peu vite que *cette solution impose un contrôle d'identité à toutes la population* voulant utiliser les réseaux sociaux, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne résoud pas la cause du problème, les algorythmes opaques et adictifs des plateformes de média sociaux demeurent et ils sont aussi la cause de troubles chez les adultes.
+Comme le rappellent certains commentateurs, c'est oublier un peu vite que cette solution impose surtout **un contrôle d'identité à toutes la population voulant utiliser les réseaux sociaux**, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne résoud pas la cause du problème, les algorythmes opaques et adictifs des plateformes de média sociaux demeurent et ils sont aussi la cause de troubles chez les adultes.
 
 ## Appliquer la loi
 

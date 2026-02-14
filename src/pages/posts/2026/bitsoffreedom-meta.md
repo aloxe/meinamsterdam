@@ -71,12 +71,11 @@ Certains de ces termes sont nouveaux pour moi, qui connais pourtant le *doomscro
 
 ## Et ailleurs en Europe ?
 
-Bien que ce choix soit maintenant en place pour les utilisateurs paysbasiens[^2], je n'ai pas réussi à le retrouver dans mes réglages personnels sur Facebook. Pourtant, je suis citoyen européen et ce DSA est un règlement auquel Facebook doit se conformer dans tous les pays de l'Union depuis presque 2 ans.
+Bien que ce choix soit maintenant en place pour les utilisateurs paysbasiens[^2], je n'ai pas réussi à le retrouver dans mes réglages personnels sur Facebook. Pourtant, je suis [citoyen européen](/les-europeens-peuvent-voter-aux-Pays-Bas-(et-ailleurs)/) et ce DSA est un règlement auquel Facebook doit se conformer dans tous les pays de l'Union depuis bientôt 2 ans.
 
-Pour reprendre ma comparaison des nouvelles années de 2008, je dirais que :
+Pour reprendre ma comparaison des [nouvelles années de 2008](/deux-nouvelles-annees/), je dirais que :
 
-
-<table border="0" cellpadding="5">
+<table cellpadding="5">
 
 <tr><td colspan="2"><h2>
 Réseaux sociaux

@@ -26,7 +26,7 @@
           {% for tag in post.data.tags %}
             <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{ tag | slugify }}/">{{ tag }}</a></em>
           {% endfor %}
-          <p>
+          <p class="">
             {% if post.data.page.excerpt %}
               <p class="text-justify justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
               {{ readMore(post.url) }}
@@ -61,6 +61,7 @@
                 {# pas de commentaire #}
               {% endif %}
             {# </div> #}
+            <hr>
           </p>
         {% endif %}
 

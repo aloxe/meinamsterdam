@@ -20,7 +20,7 @@ TODO: no image, no image alt
 
 ## Protéger les mineurs…
 
-Face aux méfaits qui perdurent et qui causent des problèmes de santé mentale (addiction, désinformation, cyberharcèlement, anxiété, dépression…), la France a réagi en proposant **l'interdiction des réseaux sociaux aux moins de 15 ans**[^1]. La proposition de loi a été adoptée fin janvier à l'assemblée nationale à une large majorité et semble faire consensus partout. Déjà, la Tchéquie envisage une loi similaire et des voix commencent à proposer cette solution au niveau européen.
+Face aux méfaits qui perdurent et qui causent des problèmes de santé mentale (addiction, désinformation, cyberharcèlement, anxiété, dépression…), la France a réagi en proposant **l'interdiction des réseaux sociaux aux moins de 15 ans**[^1]. La proposition de loi a été adoptée fin janvier à l'Assemblée Nationale à une large majorité et semble faire consensus partout. Déjà, la Tchéquie envisage une loi similaire et des voix commencent à proposer cette solution au niveau européen.
 
 Tout va bien, les enfants vont être protégés et mon article peut s'arrêter là.
 
@@ -28,7 +28,7 @@ En fait non..
 
 <!--excerpt-->
 
-Comme le rappellent certains commentateurs, c'est oublier un peu vite que cette solution impose surtout **un contrôle d'identité à toutes la population voulant utiliser les réseaux sociaux**, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne résoud pas la cause du problème, les algorythmes opaques et adictifs des plateformes de média sociaux demeurent et ils sont aussi la cause de troubles chez les adultes.
+Comme le rappellent certains commentateurs, c'est oublier un peu vite que cette solution impose surtout **un contrôle d'identité pour l'ensemble de la population voulant utiliser les réseaux sociaux**, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne supprime pas la cause du problème : les algorythmes opaques et adictifs des plateformes de média sociaux demeurent. De plus, ils sont aussi la cause de troubles chez les adultes que la nouvelle loi oublie aussi.
 
 ## Appliquer la loi
 
@@ -38,25 +38,25 @@ Les États pourraient se servir de ce règlement pour infléchir ou sanctionner 
 
 ## L'initiative de Bits of Freedom
 
-Si rien n'est fait du côté des exécutifs, il y a une initiative qui est à souligner. Celle de Bits of Freedom qui a attaqué Meta, la maison mère de Facebook et Instagram pour que ces services offrent à leurs utilisateurs **la possibilité de choisir un flux de nouvelles non basé sur le profilage algorithmique**, uniquement chronologique. cette disposition figure clairement dans le DSA qui s'applique depuis le 17 février 2024.
+Si rien n'est fait du côté des exécutifs, il y a une initiative qui est à souligner. Celle de Bits of Freedom qui a attaqué Meta, la maison mère de Facebook et Instagram pour que ces services offrent à leurs utilisateurs **la possibilité de choisir un flux de nouvelles non basé sur le profilage algorithmique**, uniquement chronologique. Cette disposition figure clairement dans le DSA qui s'applique depuis le 17 février 2024. Pourtant ce choix n'est pas offert aux utilisateurs de facebook ou Instagram.
+
+Bits of Freedom est une association spécialisée dans la défense des droits numériques aux Pays-Bas. Elle est connue pour son engagement pour la protection des données personnelles. Avec ce procès contre Instagram et Facebook, elle défend la liberté de choix des utilisateurs et reste pleinement dans son objet.
 
 ![infographie de Bits of Freedom avec mobiles et marteau de la justice](Meta-Rechtszaak-Petitie-Uitgelicht.jpg){.center}
 
-Bits of Freedom est une association spécialisée dans la défense des droits numériques aux Pays-Bas. Elle est connue pour son engagement dans la protection des données personnelles. Avec ce procès contre Instagram et Facebook, elle défend la liberté de choix des utilisateurs et reste pleinement dans son objet.
+L’affaire a commencé dès l'été 2025, quand l’association a envoyé sa demande à Meta. Après plusieurs échanges, une discussion entre Meta et l'association s’est tenue le 20 août 2025 et cette dernière n'a pas donné satisfaction. Bits of Freedom a donc transmis sa demande à la justice qui a entendu les plaignants le 22 septembre. [Le jugement](https://www.bitsoffreedom.nl/wp-content/uploads/2025/10/20251002-vonnis-kort-geding.pdf) a été rendu le 2 octobre. Le juge a ordonné à l’entreprise de modifier ses applications sous deux semaines, afin que le choix de l’utilisateur — entre une timeline algorithmique et une timeline chronologique — soit respecté et mémorisé, même après fermeture et réouverture de l’application.
 
-L’affaire a commencé à l'été 2025, quand l’association a envoyé sa demande à Meta. Après plusieurs échanges, une discussion entre Meta et l'association s’est tenue le 20 août 2025 et cette dernière n'a pas donné satisfaction. Bits of Freedom a donc transmis sa demande à la justice qui a entendu les plaignants le 22 septembre. [Le jugement](https://www.bitsoffreedom.nl/wp-content/uploads/2025/10/20251002-vonnis-kort-geding.pdf) a été rendu le 2 octobre. Le juge a ordonné à l’entreprise de modifier ses applications sous deux semaines, afin que le choix de l’utilisateur — entre une timeline algorithmique et une timeline chronologique — soit respecté et mémorisé, même après une réouverture de l’application.
-
-Dans un monde normal, devant cet aveu flagrant de non-respect de la loi, l'entreprise s'exécute et l'article peut s'arrêter là. Mais c'est sans compter sur la filouterie des *Big Tech* qui ont les moyens d'user leurs opposants juste pour gagner un peu de temps. **L’histoire est loin d’être terminée**.
+Dans un monde normal, devant cet aveu flagrant de non-respect de la loi, l'entreprise s'exécute pour éviter une amende. Mais c'est sans compter sur la filouterie des *Big Tech* qui ont les moyens d'user leurs opposants juste pour gagner un peu de temps. **L’histoire est loin d’être terminée**.
 
 ## Meta gagne du temps
 
-Deux semaines plus tard, Meta n’a toujours pas appliqué les changements. Pire, le 22 octobre, l’entreprise demande un report jusqu’au 31 janvier 2026, arguant de contraintes techniques. Une demande qui indigne Bits of Freedom dont la directrice, Evelyn Austin, [souligne la mauvaise foi](https://www.bitsoffreedom.nl/2025/10/22/meta-voldoet-niet-aan-bevel-rechter-ontloopt-verantwoordelijkheid/)
+Deux semaines plus tard, Meta n’a toujours pas appliqué les changements. Pire, le 22 octobre, l’entreprise demande un report jusqu’au 31 janvier 2026, arguant de contraintes techniques. Une demande qui indigne Bits of Freedom dont la directrice, Evelyn Austin, [souligne la mauvaise foi](https://www.bitsoffreedom.nl/2025/10/22/meta-voldoet-niet-aan-bevel-rechter-ontloopt-verantwoordelijkheid/).
 
 > "De wetgever wil het, deskundigen zeggen dat het kan en de rechter zegt dat het moet. Toch laat Meta het na haar platformen in lijn te brengen met onze wetgeving. Het is een schoffering van onze democratische rechtsstaat en de rechtspraak. Schandalig, maar helaas niet anders dan we van Meta gewend zijn. We zijn blij dat de rechter op heel korte termijn tijd heeft vrijgemaakt. Gebruikers moeten weten waar ze aan toe zijn," aldus Evelyn Austin, algemeen directeur van Bits of Freedom.
 
-En résumé, les experts disent que c’est possible, le juge ordonne, et Meta persiste à ignorer ses obligations. C’est un mépris total pour notre État de droit.
+En résumé, elle rappelle que les experts disent que c’est possible, le juge ordonne ce que de droit, et Meta persiste à ignorer ses obligations. C’est un mépris total pour notre État de droit.
 
-Finalement, le report est accordé par le juge mais seulement jusqu’au 31 décembre 2025 — soit un mois de moins que  le délai demandé par Meta. Le tribunal souligne que « Les adaptations doivent être mises en œuvre le plus rapidement possible, et de manière structurelle ».
+Finalement, le report est accordé par le juge mais seulement jusqu’au 31 décembre 2025 — soit un mois de moins que le délai demandé par Meta. Le tribunal souligne que « Les adaptations doivent être mises en œuvre le plus rapidement possible, et de manière structurelle ».
 
 ## Un changement pour 2026
 
@@ -65,11 +65,11 @@ Dès le 1er janvier 2026, les utilisateurs néerlandais découvrent enfin un cha
 ![capture d'écran du nouveau menu avec volgend sur un écran mobile](volgend-5g.png){.center}
 __*Extrait de [la vidéo](https://www.bitsoffreedom.nl/wp-content/uploads/2026/01/META-VOLGEND-FEED-HOW-TO.mp4) annonçant la nouvelle et montrant le nouveau menu*__
 
-Le choix Volgend permet de n'afficher que les posts des personnes et groupes suivis de manière chronologique et sans autre ajout. Bits of Freedom s'en réjouit dans [un post du 13 janvier](https://www.bitsoffreedom.nl/2026/01/13/eindelijk-weer-wat-te-kiezen-op-instagram-en-facebook/) (bonne année !) en ajoutant que cela offre un flux sans *endless scroll*, *rabbit hole* ni *time drain*.
+Le choix *Volgend* permet de n'afficher que les posts des personnes et groupes suivis de manière chronologique et sans autre ajout. Bits of Freedom s'en réjouit dans [un post du 13 janvier](https://www.bitsoffreedom.nl/2026/01/13/eindelijk-weer-wat-te-kiezen-op-instagram-en-facebook/) (bonne année !) en ajoutant que cela offre un flux sans *endless scroll*, *rabbit hole* ni *time drain*.
 
 > Geen *endless scroll*. Geen *rabbit hole*. Geen *time drain*. Kortom: meer grip op waar je aandacht heen gaat.
 
-Certains de ces termes sont nouveaux pour moi, qui connais pourtant le *doomscrolling*, mais en gros, les utilisateurs qui font le bon choix ne seront plus pris dans une spirale de contenu dans laquelle ils sont entraînés, souvent de manière involontaire, par des recommandations algorithmiques toujours plus ciblées et addictives. Cette spirale infinie aspire leur temps et leur énergie.
+Certains de ces termes sont un peu trop imagés pour être compréhensibles. En gros, les utilisateurs qui font le bon choix ne seront plus pris dans une spirale de contenu dans fin dans laquelle ils sont entraînés, souvent de manière involontaire, par des recommandations algorithmiques toujours plus ciblées et addictives. Cette spirale infinie aspire leur temps et leur énergie.
 
 ## Et ailleurs en Europe ?
 
@@ -77,16 +77,16 @@ Bien que ce choix soit maintenant en place pour les utilisateurs paysbasiens[^2]
 
 Pour reprendre ma comparaison des [nouvelles années de 2008](/deux-nouvelles-annees/), je dirais que :
 
-<table cellpadding="5">
+<table cellpadding="5" >
 
-<tr><td colspan="2"><h2>
+<tr><td colspan="2" style="border:0;"><h2>
 Réseaux sociaux
 </h2></td></tr>
 
-<tr><td width="50%" valign="top"><h3>En France</h3>
+<tr><td width="50%" valign="top" style="border:0;"><h3>En France</h3>
 En France, Facebook entraîne toujours ses utilisateurs dans une spirale de contenu addictif. Mais rassurez-vous : on va demander aux gens leur âge et priver les enfants de cette expérience.
 
-</td><td valign="top"><h3>Aux Pays-Bas</h3>
+</td><td valign="top" style="border:0;"><h3>Aux Pays-Bas</h3>
 Enfin, il est possible d’utiliser Facebook comme avant : en restant connecté avec nos proches et en partageant nos expériences, sans y perdre trop de temps.
 
 </td></tr>
@@ -96,12 +96,15 @@ Enfin, il est possible d’utiliser Facebook comme avant : en restant connecté 
 
 Faudra-t-il que d'autres associations attaquent Meta dans les autres pays européens ? Au vu de l'attitude peu enthousiaste de cette entreprise à respecter la loi, j'en ai bien peur.
 
-Pour le moment, il faut attendre parce que le jugement néerlandais ne peut pas encore faire jurisprudence comme le rappelle sur son site Bits of Freedomn [en faisant le point](https://www.bitsoffreedom.nl/2026/02/11/waar-staan-we-met-ons-juridische-gevecht-voor-jouw-keuzevrijheid-in-metas-apps/) le 11 février.
+Alors pourquoi la Quadrature du Net[^3] ne suit pas encore les traces Bits of Freedom ?
 
-En octobre, Meta a fait appel de la décision, qu’elle doit néanmoins exécuter avant même de connaître le verdict de cet appel. L’audience en appel a eu lieu le 28 janvier dernier. Bien que l’entreprise ait indiqué vouloir contester la décision de justice sur le fond, elle s’est contentée d’accepter le principe selon lequel elle devait respecter le DSA. Elle a également interrogé la cour sur la filiale de Meta juridiquement responsable de ces manquements, ainsi que sur le caractère urgent de la décision. Des excuses pour gagner du temps…
+Pour le moment, il faut attendre, parce que le jugement néerlandais ne peut pas encore faire jurisprudence comme le rappelle sur son site Bits of Freedom [en faisant le point](https://www.bitsoffreedom.nl/2026/02/11/waar-staan-we-met-ons-juridische-gevecht-voor-jouw-keuzevrijheid-in-metas-apps/) le 11 février. En octobre, Meta a fait appel de la décision, qu’elle doit néanmoins exécuter avant même de connaître le verdict de cet appel. 
+
+**L’audience en appel** a eu lieu le 28 janvier dernier. Bien que l’entreprise étasunienne annonçait vouloir contester la décision de justice sur le fond, elle s’est contentée d’accepter le principe selon lequel elle devait respecter le DSA. Elle a simplement interrogé la cour sur la filiale de Meta juridiquement responsable de ces manquements, ainsi que sur le caractère urgent de la décision. Une nouvelle tactique juridique pour gagner du temps…
 
 Le jugement en appel sera rendu le 4 avril. L’affaire n’est donc pas terminée.
 
 ---
-[^1]: Rappelons que les réseaux sociaux étaient déjà interdit aux moins de 13 ans. Le changement est plus dans le contrôle que dans l'age.
+[^1]: Rappelons que les réseaux sociaux étaient déjà interdits aux moins de 13 ans. Cette loi apporte surtout un changement dans le contrôle de l'âge des internautes.
 [^2]: les habitants des Pays-Bas.
+[^3]: La Quadrature du Net promeut et défend les libertés fondamentales remises en question par certains usages des outils informatiques en France. Elle s'est rendue célèbre face à la Hadopi et serait légitime à défendre les utilisateurs de facebook comme Bits of freedom. Vous pouvez [aider l'association ici](https://www.laquadrature.net/donner/).

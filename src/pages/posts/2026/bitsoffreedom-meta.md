@@ -30,17 +30,17 @@ En fait non..
 
 <!--excerpt-->
 
-Comme le rappellent certains commentateurs, c'est oublier un peu vite que cette solution impose surtout **un contrôle d'identité pour l'ensemble de la population voulant utiliser les réseaux sociaux**, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne supprime pas la cause du problème : les algorythmes opaques et adictifs des plateformes de média sociaux demeurent. De plus, ils sont aussi la cause de troubles chez les adultes que la nouvelle loi oublie aussi.
+Comme le rappellent certains commentateurs, c'est oublier un peu vite que cette solution impose surtout **un contrôle d'identité pour l'ensemble de la population voulant utiliser les réseaux sociaux**, à une époque où les vols de données font l'actualité [tous les jours](https://bonjourlafuite.eu.org/). Ceci ne supprime pas la cause du problème : les algorithmes opaques et addictifs des plateformes de média sociaux demeurent. De plus, ils sont aussi la cause de troubles chez les adultes que la nouvelle loi oublie aussi.
 
 ## Appliquer la loi
 
-Une approche plus efficace serait de contraindre les plateformes à être plus transparentes sur leurs algorythmes. C'est justement le but du réglement européen [Digital Services Act](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065) (DSA) qui a été adopté en 2022. Jusqu'à présent, les audits européens réalisés se heurtent à une mauvaise volonté des grosses plateformes et à une complexité technique probablement maintenue pour protéger l'opacité.
+Une approche plus efficace serait de contraindre les plateformes à être plus transparentes sur leurs algorithmes. C'est justement le but du règlement européen [Digital Services Act](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065) (DSA) qui a été adopté en 2022. Jusqu'à présent, les audits européens réalisés se heurtent à une mauvaise volonté des grosses plateformes et à une complexité technique probablement maintenue pour protéger l'opacité.
 
 Les États pourraient se servir de ce règlement pour infléchir ou sanctionner les *Big Tech*, mais cette approche les expose à une confrontation directe et usante avec une industrie qui a montré qu’elle ne lâche pas facilement une source de revenus. De plus, dans la période actuelle, une confrontation directe avec un secteur clé de l’économie des États-Unis expose le politicien tranquille à des risques imprévus. Bref, **rien n’est fait pour obliger les plateformes à changer leurs pratiques**.
 
 ## L'initiative de Bits of Freedom
 
-Si rien n'est fait du côté des exécutifs, il y a une initiative qui est à souligner. Celle de Bits of Freedom qui a attaqué Meta, la maison mère de Facebook et Instagram pour que ces services offrent à leurs utilisateurs **la possibilité de choisir un flux de nouvelles non basé sur le profilage algorithmique**, uniquement chronologique. Cette disposition figure clairement dans le DSA qui s'applique depuis le 17 février 2024. Pourtant ce choix n'est pas offert aux utilisateurs de facebook ou Instagram.
+Si rien n'est fait du côté des exécutifs, il y a une initiative qui est à souligner. Celle de Bits of Freedom qui a attaqué Meta, la maison mère de Facebook et Instagram pour que ces services offrent à leurs utilisateurs **la possibilité de choisir un flux de nouvelles non basé sur le profilage algorithmique**, uniquement chronologique. Cette disposition figure clairement dans le DSA qui s'applique depuis le 17 février 2024. Pourtant, ce choix n'est pas offert aux utilisateurs de facebook ou Instagram.
 
 Bits of Freedom est une association spécialisée dans la défense des droits numériques aux Pays-Bas. Elle est connue pour son engagement pour la protection des données personnelles. Avec ce procès contre Instagram et Facebook, elle défend la liberté de choix des utilisateurs et reste pleinement dans son objet.
 
@@ -100,7 +100,7 @@ Faudra-t-il que d'autres associations attaquent Meta dans les autres pays europ�
 
 Alors pourquoi la Quadrature du Net[^3] ne suit pas encore les traces Bits of Freedom ?
 
-Pour le moment, il faut attendre, parce que le jugement néerlandais ne peut pas encore faire jurisprudence comme le rappelle sur son site Bits of Freedom [en faisant le point](https://www.bitsoffreedom.nl/2026/02/11/waar-staan-we-met-ons-juridische-gevecht-voor-jouw-keuzevrijheid-in-metas-apps/) le 11 février. En octobre, Meta a fait appel de la décision, qu’elle doit néanmoins exécuter avant même de connaître le verdict de cet appel. 
+Pour le moment, il faut attendre, parce que le jugement néerlandais ne peut pas encore faire jurisprudence, comme le rappelle sur son site Bits of Freedom [en faisant le point](https://www.bitsoffreedom.nl/2026/02/11/waar-staan-we-met-ons-juridische-gevecht-voor-jouw-keuzevrijheid-in-metas-apps/) le 11 février. En octobre, Meta a fait appel de la décision, qu’elle doit néanmoins exécuter avant même de connaître le verdict de cet appel. 
 
 **L’audience en appel** a eu lieu le 28 janvier dernier. Bien que l’entreprise étasunienne annonçait vouloir contester la décision de justice sur le fond, elle s’est contentée d’accepter le principe selon lequel elle devait respecter le DSA. Elle a simplement interrogé la cour sur la filiale de Meta juridiquement responsable de ces manquements, ainsi que sur le caractère urgent de la décision. Une nouvelle tactique juridique pour gagner du temps…
 

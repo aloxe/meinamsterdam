@@ -3,7 +3,10 @@ layout: base
 title: "Coronavirus : La horde le marteau et la danse"
 description: 
 categorie: dagelijks
-tags: ["politique", "économie"]
+tags: 
+ - politique
+ - économie
+ - santé
 isMarkdown: true
 thumbnail: impact-intervention-covid-19.png
 image_alt: Impact des interventions légales sur la propagation de la COVID19

@@ -7,14 +7,16 @@ tags:
  - sociétés
  - santé
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Reinventing-organizations.jpg
+image_alt: couverture de Reinventing Organizations
 permalink: Buurtzorg-organisation-reinventee/
 date: 2017-08-03
 update: 2019-03-06
 ---
 
-Le titre de cet article est inspiré de *Reinventing Organizations*, le livre de Frédéric Laloux, sous-titré **Vers des communautés de travail inspirées**. Ce livre est un éssai de management d'entreprises passionant et cet article prétend en être une fiche de lecture.
+**Le titre de cet article est inspiré de *Reinventing Organizations*, le livre de Frédéric Laloux, sous-titré *Vers des communautés de travail inspirées*. Ce livre est un éssai de management d'entreprises passionant et cet article prétend en être une fiche de lecture.**
+
+![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg){.center}
 
 L’auteur est un ancien partenaire associé chez McKinsey. Ses recherches sur les modèles organisationnels émergents ont été décrites comme un « saut dans la pensée du management » par certains des spécialistes les plus respectés. Publié en 2014, *Reinventing Organizations* propose une vision radicale du management, avec un fonctionnement sans hiérarchie pyramidale, sans processus bureaucratiques, et avec une autonomie totale des employés. Laloux postule que les entreprises évoluent comme les sociétés humaines ey peuvent évoluer vers des modèles plus humains, décentralisés et inspirés par la confiance.
 
@@ -26,6 +28,8 @@ Laloux s’inspire de [la spirale dynamique](https://fr.wikipedia.org/wiki/Spira
  - Orange (performant) : Modèle dominant aujourd’hui, axé sur la compétition, l’innovation et la croissance (ex. : multinationales).
  - Vert (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
  - Opale (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
+
+![5 bandes de couleur ouge-ambre-orange-vert-opale avec explications ci dessus et illustations loup soldat engrenages famille foetus](rouge-ambre-orange-vert-opale.png){.center}
 
 Dans la deuxième partie, il décrit des entreprises qui ont attein le niveau opal même si certaines ont depuis reculé à nouveau au niveau orange.
 
@@ -76,6 +80,8 @@ https://des-livres-pour-changer-de-vie.com/reinventing-organizations/
 
 https://fichesetresumesdelivres.com/index.php/resume-reinventing-organizations-frederic-laloux/
 
+
+https://medium.com/@AKKA_DS/mutation-et-evolution-des-modeles-d-organisation-manageriaux-e807c79e60de
 
 https://reinventingorganizationswiki.com/fr/
 

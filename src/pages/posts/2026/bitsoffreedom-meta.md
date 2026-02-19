@@ -18,6 +18,8 @@ TODO: no image, no image alt
 
 **Il y a un moment que je n'ai pas parlé de réseaux sociaux sur ce blog et c'est vraisemblablement parce que je ne les fréquente plus, ils ont mal tourné. Le nombre d'articles décrivant leurs agissements néfastes depuis les révélations de [Frances haugen](https://fr.wikipedia.org/wiki/Frances_Haugen) ne manquent pas. Je n'ai guère besoin d'en rajouter.**
 
+{# Zach Vorhies not on Wikipedia??? #}
+
 ## Protéger les mineurs…
 
 Face aux méfaits qui perdurent et qui causent des problèmes de santé mentale (addiction, désinformation, cyberharcèlement, anxiété, dépression…), la France a réagi en proposant **l'interdiction des réseaux sociaux aux moins de 15 ans**[^1]. La proposition de loi a été adoptée fin janvier à l'Assemblée Nationale à une large majorité et semble faire consensus partout. Déjà, la Tchéquie envisage une loi similaire et des voix commencent à proposer cette solution au niveau européen.

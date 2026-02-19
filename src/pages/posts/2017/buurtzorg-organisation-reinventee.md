@@ -51,7 +51,7 @@ Dans son livre, Laloux détail l'organisation des équipes, leurs façon de gér
 
 Frédéric Laloux détaille plusieurs principes qu'il a découvert dans les entreprises opale qu'il présente en exemple. Cela lui permet en troisième partie de son livre de livrer ses conseils pratiques pour créer ou devenir une entreprise opale, c'est à dire avec le plus haut stade de la conciance humaine. Cettre troisième partie délivre des conseils pratiques mais souligne qu'il s'agit ici de compter sur les personnes plus que sur les rêgles. Sa première remarque est que l'emtreprise ne peut évoluer que si son dirigeant lui même évolue. **Une organisation ne pourra jamais dépasser le niveau de conscience de son dirigeant**. Le défi le plus difficile à relever pour les dirigeants est le fait de combattre la pulsion de garder le contrôle. Laloux ajoute que la même condition s'applique aux actionnaires.
 
-Les autres conseils pratqiues sont classé en fonction de leur lien avec des principes de l'entreprise opale : l’autogouvernance, la plénitude et la raison d'être.
+Les autres conseils pratiques sont classés en fonction de leur lien avec des principes de l'entreprise opale : l’autogouvernance, la plénitude et la raison d'être.
 
 ### L’autogouvernance.
 Savoir soliciter les avis des bonnes personnes, savoir accepter et résoudre les conflits. Permettre l'évaluation par les pairs et la transparence des processus salariaux.
@@ -62,9 +62,14 @@ Savoir soliciter les avis des bonnes personnes, savoir accepter et résoudre les
 ### La raison d’être
   Partager ses passions avec son équipe. Donner de l'importance au projet de l’entreprise en le personifiant lors de réunions (chaise vide).
 
+Ces thèmes son't d'abbord abordés dans le cadre de la création d'une entreprise opale, puis ils sont repris et adapté à la transformation d'entreprise existante dans une autre couleur pour la transformer en entreprise opale. Dans le cadre d'une transformation, il est nécessaire de veiller à ce que tout le personnel de l'entreprise désire travailler en autonomie et partage la même raison d'être.
+
+L'auteur termine son livre sur une note prospective en passant de l'entreprise opale à la société opale. Une lecture qui fait couler l'évolution de source mais se heurte à la réalité quotidienne et les nouvelles anxiogènes. C'est là qu'on se rend compte que tous les exemples et toutes les explications claires du livre nous font presque oublier que cette approche du management est super novatrice et parfois à contre-courant des logiques que j'ai pu observer dans des entreprises piramydales oranges.  
+
+À l'époque où l'on ne compte plus les cas de burnout tout autant que les [boreout](https://en.wiktionary.org/wiki/boreout), cet essai est révolutionnaire et montre un autre managment qui apparait efficace. L'auteur nous dégotte même des exemples concrèts qui nous montrent que des changements sont possibles. Et, au delà de la théorie de l'entreprise opale qu'il met au jour, il s'attarde sur la mise en application de ces principes ce qui peut en faire un livre de chevet pour guider les acteurs du changement.
+
 
 <!---
-
 https://projetsesame.org/sante/buurtzorg-modele-innovant-soins-a-domicile/
 
 https://des-livres-pour-changer-de-vie.com/reinventing-organizations/

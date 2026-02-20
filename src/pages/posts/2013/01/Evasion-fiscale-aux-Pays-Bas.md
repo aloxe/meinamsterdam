@@ -2,7 +2,9 @@
 layout: base
 title: Evasion fiscale aux Pays-Bas
 categorie: nederlandjes
-tags: ["sociétés", "économie"]
+tags: 
+- sociétés
+- économie
 isMarkdown: true
 thumbnail: entree-tour-vinoly-257w.png
 image_alt: Siaie de police à l'entrée de la tour Viñoli

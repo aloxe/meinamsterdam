@@ -2,7 +2,10 @@
 layout: base
 title: Un tour à Sloterdijk
 categorie: toering
-tags: ["Amsterdam", "architecture"]
+tags: 
+ - Amsterdam
+ - architecture
+ - économie
 isMarkdown: true
 thumbnail: tour-cristal-300.jpg
 image_alt: Crystal Tower Sloterdijk - main vue

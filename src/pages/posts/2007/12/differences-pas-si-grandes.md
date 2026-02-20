@@ -2,7 +2,9 @@
 layout: base
 title: Les différences ne sont pas si grandes
 categorie: ik-ben-frans
-tags: ["sociétés"]
+tags: 
+ - sociétés
+ - économie
 isMarkdown: true
 thumbnail: unilever.png
 image_alt: Unilever

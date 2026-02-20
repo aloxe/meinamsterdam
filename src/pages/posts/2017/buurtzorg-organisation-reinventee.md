@@ -3,7 +3,7 @@ layout: base
 title: Buurtzorg, l'organisation réinventée
 categorie: nederlandjes
 tags: 
- - economie
+ - économie
  - sociétés
  - santé
 isMarkdown: true
@@ -14,7 +14,7 @@ date: 2017-08-03
 update: 2019-03-06
 ---
 
-**Le titre de cet article est inspiré de *Reinventing Organizations*, le livre de Frédéric Laloux, sous-titré *Vers des communautés de travail inspirées*. Ce livre est un éssai de management d'entreprises passionant et cet article prétend en être une fiche de lecture.**
+**Le titre de cet article est inspiré de *Reinventing Organizations*, le livre de Frédéric Laloux, sous-titré *Vers des communautés de travail inspirées*. Ce livre est un éssai de management d'entreprises passionant. Le petit article ci-dessous peut être considéré comme une modeste fiche de lecture.**
 
 ![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg){.center}
 
@@ -23,11 +23,11 @@ L’auteur est un ancien partenaire associé chez McKinsey. Ses recherches sur l
 ## De toutes les couleurs
 
 Laloux s’inspire de [la spirale dynamique](https://fr.wikipedia.org/wiki/Spirale_dynamique), théorie des stades de la conciance humaine, pour décrire l’évolution des organisations à travers cinq stades, symbolisés par des couleurs :
- - Rouge (impulsif) : Organisations basées sur la force et le pouvoir (ex. : mafias, tribus).
- - Ambre (conformiste) : Hiérarchies rigides, règles strictes (ex. : armée, église, administrations).
- - Orange (performant) : Modèle dominant aujourd’hui, axé sur la compétition, l’innovation et la croissance (ex. : multinationales).
- - Vert (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
- - Opale (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
+ - **Rouge** (impulsif) : Organisations basées sur la force et le pouvoir (ex. : mafias, tribus).
+ - **Ambre** (conformiste) : Hiérarchies rigides, règles strictes (ex. : armée, église, administrations).
+ - **Orange** (performant) : Modèle dominant aujourd’hui, axé sur la compétition, l’innovation et la croissance (ex. : multinationales).
+ - **Vert** (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
+ - **Opale** (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
 
 ![5 bandes de couleur ouge-ambre-orange-vert-opale avec explications ci dessus et illustations loup soldat engrenages famille foetus](rouge-ambre-orange-vert-opale.png){.center}
 
@@ -49,7 +49,7 @@ Une étude [menée par KPMG en 2010](https://www.soignonshumain.com/buurtzorg/) 
 
 De plus le travail en autonomie valorise les infirmières qui se sentent responsables de promouvoir et fournir des soins d'excellente qualité. Beaucoup veullent rejoindre l'organisation et en 10 ans, l’entreprise passe de 10 à 10 000 employés, couvrant tout le pays Aujourd'hui Buurtzorg sert de modèle organisationel dans le monde entier.
 
-Dans son livre, Laloux détail l'organisation des équipes, leurs façon de gérer leur temps et le rôle des coachs. L'ensemble des spécificités de Buurtzorg peuvent être résumées en : Les équipes sont autogérées, elles ne doivent pas dépasser 12 personnes, les tâches doivent être réparties entre tout les membres. Les membres s'évaluent mutuellement la confiance est la base des discussions. Il n'y a pas de budget et d'objectifs, tout le monde a le même salaire, même Jos de Blok.
+Dans son livre, Laloux détaille l'organisation des équipes, leurs façon de gérer leur temps et le rôle des coachs. L'ensemble des spécificités de Buurtzorg peuvent être résumées en : Les équipes sont autogérées, elles ne doivent pas dépasser 12 personnes, les tâches doivent être réparties entre tout les membres. Les membres s'évaluent mutuellement la confiance est la base des discussions. Il n'y a pas de budget et d'objectifs, tout le monde a le même salaire, même Jos de Blok.
 
 ## L’émergence des organisations Opale
 

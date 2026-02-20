@@ -2,7 +2,13 @@
 layout: base
 title: "La neutralité d'Internet à la sauce hollandaise"
 categorie: nederlandjes
-tags: ["administration", "internet", "mots", "politique", "sociétés"]
+tags: 
+ - administration
+ - internet
+ - mots
+ - politique
+ - sociétés
+ - économie
 isMarkdown: true
 thumbnail: 
 image_alt: 

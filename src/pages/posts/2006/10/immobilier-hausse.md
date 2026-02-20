@@ -7,6 +7,7 @@ tags:
  - immobilier
  - Amsterdam
  - architecture
+ - économie
 isMarkdown: true
 thumbnail: te-koop-te-koop.jpg
 image_alt: appartements à vendre

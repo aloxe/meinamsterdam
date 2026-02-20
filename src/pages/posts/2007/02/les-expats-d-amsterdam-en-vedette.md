@@ -3,7 +3,9 @@ layout: base
 title: "Les expats d'Amsterdam en vedette"
 description: 
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - économie
+ - expat
 isMarkdown: true
 thumbnail: courrier-cardes-14717-6bcaw4m6nwm.jpg
 image_alt: Corrier cadres

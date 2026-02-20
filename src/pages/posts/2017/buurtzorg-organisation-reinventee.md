@@ -13,65 +13,70 @@ permalink: Buurtzorg-organisation-reinventee/
 date: 2017-08-03
 update: 2019-03-06
 ---
+**Le titre de cet article est inspiré de _Reinventing Organizations_ , le livre de Frédéric Laloux, sous-titré _Vers des communautés de travail inspirées_ . Ce livre est un essai de management d’entreprises passionnant. Le petit article ci-dessous peut être considéré comme une modeste fiche de lecture.**
 
-**Le titre de cet article est inspiré de *Reinventing Organizations*, le livre de Frédéric Laloux, sous-titré *Vers des communautés de travail inspirées*. Ce livre est un éssai de management d'entreprises passionant. Le petit article ci-dessous peut être considéré comme une modeste fiche de lecture.**
+![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg) {.center}
 
-![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg){.center}
+L’auteur est un ancien partenaire associé chez McKinsey. Ses recherches sur les modèles organisationnels émergents ont été décrites comme un « saut dans la pensée du management » par certains des spécialistes les plus respectés. Publié en 2014, _Reinventing Organizations_ propose une vision radicale du management, avec un fonctionnement sans hiérarchie pyramidale, sans processus bureaucratiques, et avec une autonomie totale des employés. Laloux postule que les entreprises évoluent comme les sociétés humaines et peuvent évoluer vers des modèles plus humains, décentralisés et inspirés par la confiance.
 
-L’auteur est un ancien partenaire associé chez McKinsey. Ses recherches sur les modèles organisationnels émergents ont été décrites comme un « saut dans la pensée du management » par certains des spécialistes les plus respectés. Publié en 2014, *Reinventing Organizations* propose une vision radicale du management, avec un fonctionnement sans hiérarchie pyramidale, sans processus bureaucratiques, et avec une autonomie totale des employés. Laloux postule que les entreprises évoluent comme les sociétés humaines ey peuvent évoluer vers des modèles plus humains, décentralisés et inspirés par la confiance.
+De toutes les couleurs
+----------------------
 
-## De toutes les couleurs
+Laloux s’inspire de [la spirale dynamique](https://fr.wikipedia.org/wiki/Spirale_dynamique), théorie des stades de la conscience humaine, pour décrire l’évolution des organisations à travers cinq stades, symbolisés par des couleurs :
 
-Laloux s’inspire de [la spirale dynamique](https://fr.wikipedia.org/wiki/Spirale_dynamique), théorie des stades de la conciance humaine, pour décrire l’évolution des organisations à travers cinq stades, symbolisés par des couleurs :
- - **Rouge** (impulsif) : Organisations basées sur la force et le pouvoir (ex. : mafias, tribus).
- - **Ambre** (conformiste) : Hiérarchies rigides, règles strictes (ex. : armée, église, administrations).
- - **Orange** (performant) : Modèle dominant aujourd’hui, axé sur la compétition, l’innovation et la croissance (ex. : multinationales).
- - **Vert** (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
- - **Opale** (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
+*   **Rouge** (impulsif) : Organisations basées sur la force et le pouvoir (ex. : mafias, tribus).
+*   **Ambre** (conformiste) : Hiérarchies rigides, règles strictes (ex. : armée, église, administrations).
+*   **Orange** (performant) : Modèle dominant aujourd’hui, axé sur la compétition, l’innovation et la croissance (ex. : multinationales).
+*   **Vert** (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
+*   **Opale** (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
 
-![5 bandes de couleur ouge-ambre-orange-vert-opale avec explications ci dessus et illustations loup soldat engrenages famille foetus](rouge-ambre-orange-vert-opale.png){.center}
+![5 bandes de couleur rouge ambre orange vert opale avec explications ci-dessus et illustrations loup soldat engrenages famille fœtus](rouge-ambre-orange-vert-opale.png) {.center}
 
-Dans la deuxième partie, il décrit des entreprises qui ont attein le niveau opal même si certaines ont depuis reculé à nouveau au niveau orange.
+Dans la deuxième partie, il décrit des entreprises qui ont atteint le niveau opale même si certaines ont depuis reculé à nouveau au niveau orange.
 
-La diversité des organisation, pays et des secteurs d'activité est là pour montrer que toute entreprise peut devenir une entreprise opale pour peu que ses dirigeants le veuillent. Dans la liste des 12 du bouqin, il y a **FAVI** en France, une fonderie automobile où les employés gèrent eux-mêmes leur travail. **BSO / Origin**, une société de consulting IT maintenant part du groupe français Atos. **Morning Star**, une coopérative fruitière étasunienne, leader mondial de la transformation de tomates, où les 400 employés s’auto-organisent via des contrats relationnels, **Patagonia** une entreprise de vêtements de sport et d'escalade engagée écologiquement, **ESBZ** une école alternative allemande et enfin, **Buurtzorg** aus Pays-Bas, un réseau de soins infirmiers à domicile.
+La diversité des organisations, pays et des secteurs d’activité est là pour montrer que toute entreprise peut devenir une entreprise opale pour peu que ses dirigeants le veuillent. Dans la liste des 12 du bouquin, il y a **FAVI** en France, une fonderie automobile où les employés gèrent eux-mêmes leur travail. **BSO / Origin** , une société de consulting IT maintenant part du groupe français Atos. **Morning Star** , une coopérative fruitière étasunienne, leader mondial de la transformation de tomates, où les 400 employés s’auto-organisent via des contrats relationnels, **Patagonia** une entreprise de vêtements de sport et d’escalade engagée écologiquement, **ESBZ** une école alternative allemande et enfin, **Buurtzorg** aux Pays-Bas, un réseau de soins infirmiers à domicile.
 
-## Histoire de Buurtzorg,
+Histoire de Buurtzorg,
+----------------------
 
-Dans les années 2000 les infirmières à domicile ont été incités à se regrouper pour être plus efficace. Ils ont centralisé les opérations avec un centre d’appels, en imposant des temps standardisés permettant de planifier et de spécialiser les tâches. Les infirmières recevaient un planning rigide — « Allez à cette adresse à 8h et passez 10 minutes, pas une de plus ». Pour « optimiser » davantage, ces organisations ont commencé à fusionner, cherchant des économies d’échelle et un pouvoir accru. Le personel soignat s'est retrouvé encadré par des superviseurs, des managers et des couches hiérarchiques supplémentaires, éloignant toujours plus le métier de sa vocation première. Résultat : une qualité des soins en déclin, avec des interventions impersonnelles, un turnover élevé parmi les infirmiers épuisés, et des coûts administratifs explosifs pour un service médiocre. Aux Pays-Bas personne n'était satisfait des soins à domicile.
+Dans les années 2000, les infirmières à domicile ont été incitées à se regrouper pour être plus efficace. Ils ont centralisé les opérations avec un centre d’appels, en imposant des temps standardisés permettant de planifier et de spécialiser les tâches. Les infirmières recevaient un planning rigide — « Allez à cette adresse à 8h et passez 10 minutes, pas une de plus ». Pour « optimiser » davantage, ces organisations ont commencé à fusionner, cherchant des économies d’échelle et un pouvoir accru. Le personnel soignant s’est retrouvé encadré par des superviseurs, des managers et des couches hiérarchiques supplémentaires, éloignant toujours plus le métier de sa vocation première. Résultat : une qualité des soins en déclin, avec des interventions impersonnelles, un turnover élevé parmi les infirmiers épuisés et des coûts administratifs explosifs pour un service médiocre. Aux Pays-Bas personne n’était satisfait des soins à domicile.
 
-En 2006, Jos de Blok reprend un service de soins à domicile exhangue dans la ville d'Amelo au Limbourg et imagine une alternative radicale et toute simple : Et si les infirmiers pouvaient se concentrer pleinement sur leurs patients, sans être entravés par des couches managériales ou des procédures administratives inutiles ? Pour y parvenir, il a imagine une structure où les équipes de 10 à 12 infirmières s’auto-organisent, prennent leurs propres décisions et assument collectivement la responsabilité de leur travail.
+En 2006, Jos de Blok reprend un service de soins à domicile exsangue dans la ville d’Amelo au Limbourg et imagine une alternative radicale et toute simple : Et si les infirmiers pouvaient se concentrer pleinement sur leurs patients, sans être entravés par des couches managériales ou des procédures administratives inutiles ? Pour y parvenir, il a imaginé une structure dans laquelle les équipes de 10 à 12 infirmières s’auto-organisent, prennent leurs propres décisions et assument collectivement la responsabilité de leur travail.
 
-Chaque équipe est responsable d’un quartier spécifique et gère l’ensemble du processus : de l’accueil des patients à la planification des visites, en passant par les soins médicaux, l’administration et même le recrutement de nouveaux membres. Les décisions sont prises par consensus au sein de l’équipe, favorisant la responsabilité collective et individuelle. Un petit bureau central de quelque personnes gère l'administratif comme les payes et surtout fournit des coachs pour former les nouveaux et nouvelles venues à cette organisation et aider les équipes à résoudre les conflits.
+Chaque équipe est responsable d’un quartier spécifique et gère l’ensemble du processus : de l’accueil des patients à la planification des visites, en passant par les soins médicaux, l’administration et même le recrutement de nouveaux membres. Les décisions sont prises par consensus au sein de l’équipe, favorisant la responsabilité collective et individuelle. Un petit bureau central de quelque personnes gère l’administratif comme les payes et surtout fournit des coachs pour former les nouveaux et nouvelles venues à cette organisation et aider les équipes à résoudre les conflits.
 
-Buurtzorg et chaque équipe place en premier le bien-être de ses patients avant le profit, avec une priorité, rendre le patient le plus autonome possible. L'infirmière Buurtzorg est comme une "référence" pour le client et sa famille, les aidant à trouver les solutions les plus adaptées à leur situation. Résultat, Buurtzorg est classé N°1 dans les études de satisfaction clients parmi plus de 300 organisations de soins.
+Buurtzorg et chaque équipe place en premier le bien-être de ses patients avant le profit, avec une priorité, rendre le patient le plus autonome possible. L’infirmière Buurtzorg est comme une "référence" pour le client et sa famille, les aidant à trouver les solutions les plus adaptées à leur situation. Résultat, Buurtzorg est classé N°1 dans les études de satisfaction clients parmi plus de 300 organisations de soins.
 
-Une étude [menée par KPMG en 2010](https://www.soignonshumain.com/buurtzorg/) a conclu que Buurtzorg permettait de diminuer de 40% la dépense d'aide et de soins par personne accompagnée. Devant ce résultat, le gouvernement des Pays-Bas a fait évoluer le système de soin du pays en prenant l'organisation de Buurtzorg comme modéle.
+Une étude [menée par KPMG en 2010](https://www.soignonshumain.com/buurtzorg/) a conclu que Buurtzorg permettait de diminuer de 40% la dépense d’aide et de soins par personne accompagnée. Devant ce résultat, le gouvernement des Pays-Bas a fait évoluer le système de soin du pays en prenant l’organisation de Buurtzorg comme modéle.
 
-De plus le travail en autonomie valorise les infirmières qui se sentent responsables de promouvoir et fournir des soins d'excellente qualité. Beaucoup veullent rejoindre l'organisation et en 10 ans, l’entreprise passe de 10 à 10 000 employés, couvrant tout le pays Aujourd'hui Buurtzorg sert de modèle organisationel dans le monde entier.
+De plus, le travail en autonomie valorise les infirmières qui se sentent responsables de promouvoir et fournir des soins d’excellente qualité. Beaucoup veullent rejoindre l’organisation et en 10 ans, l’entreprise passe de 10 à 10 000 employés, couvrant tout le pays Aujourd’hui Buurtzorg sert de modèle organisationel dans le monde entier.
 
-Dans son livre, Laloux détaille l'organisation des équipes, leurs façon de gérer leur temps et le rôle des coachs. L'ensemble des spécificités de Buurtzorg peuvent être résumées en : Les équipes sont autogérées, elles ne doivent pas dépasser 12 personnes, les tâches doivent être réparties entre tout les membres. Les membres s'évaluent mutuellement la confiance est la base des discussions. Il n'y a pas de budget et d'objectifs, tout le monde a le même salaire, même Jos de Blok.
+Dans son livre, Laloux détaille l’organisation des équipes, leurs façons de gérer leur temps et le rôle des coachs. L’ensemble des spécificités de Buurtzorg peuvent être résumées en : Les équipes sont autogérées, elles ne doivent pas dépasser 12 personnes, les tâches doivent être réparties entre tous les membres. Les membres s’évaluent mutuellement, la confiance est la base des discussions. Il n’y a pas de budget et d’objectifs, tout le monde a le même salaire, même Jos de Blok.
 
-## L’émergence des organisations Opale
+L’émergence des organisations Opale
+-----------------------------------
 
-Frédéric Laloux détaille plusieurs principes qu'il a découvert dans les entreprises opale qu'il présente en exemple. Cela lui permet en troisième partie de son livre de livrer ses conseils pratiques pour créer ou devenir une entreprise opale, c'est à dire avec le plus haut stade de la conciance humaine. Cettre troisième partie délivre des conseils pratiques mais souligne qu'il s'agit ici de compter sur les personnes plus que sur les rêgles. Sa première remarque est que l'emtreprise ne peut évoluer que si son dirigeant lui même évolue. **Une organisation ne pourra jamais dépasser le niveau de conscience de son dirigeant**. Le défi le plus difficile à relever pour les dirigeants est le fait de combattre la pulsion de garder le contrôle. Laloux ajoute que la même condition s'applique aux actionnaires.
+Frédéric Laloux détaille plusieurs principes qu’il a découverts dans les entreprises opale qu’il présente en exemple. Cela lui permet en troisième partie de son livre de livrer ses conseils pratiques pour créer ou devenir une entreprise opale, c’est à dire avec le plus haut stade de la conscience humaine. Cette troisième partie délivre des conseils pratiques, mais souligne qu’il s’agit ici de compter sur les personnes plus que sur les règles. Sa première remarque est que l’entreprise ne peut évoluer que si son dirigeant lui-même évolue. **Une organisation ne pourra jamais dépasser le niveau de conscience de son dirigeant**. Le défi le plus difficile à relever pour les dirigeants est le fait de combattre la pulsion de garder le contrôle. Laloux ajoute que la même condition s’applique aux actionnaires.
 
-Les autres conseils pratiques sont classés en fonction de leur lien avec des principes de l'entreprise opale : l’autogouvernance, la plénitude et la raison d'être.
+Les autres conseils pratiques sont classés en fonction de leur lien avec des principes de l’entreprise opale : l’auto-gouvernance, la plénitude et la raison d’être.
 
-### L’autogouvernance.
-Savoir soliciter les avis des bonnes personnes, savoir accepter et résoudre les conflits. Permettre l'évaluation par les pairs et la transparence des processus salariaux.
+### L’auto-gouvernance.
+
+Savoir solliciter les avis des bonnes personnes, savoir accepter et résoudre les conflits. Permettre l’évaluation par les pairs et la transparence des processus salariaux.
 
 ### La plénitude
- Créer un espace protecteur, décoration chaleureuse des bureaux, pas de hierarchie visible. Créé une charte de responsabilité mise à jour régulièrement. Créer un processus d'intégration appiquer des méthodes de réunion qui chasse les egos.
+
+Créer un espace protecteur, décoration chaleureuse des bureaux, pas de hiérarchie visible. Créé une charte de responsabilité mise à jour régulièrement. Créer un processus d’intégration appliquer des méthodes de réunion qui chasse les egos.
 
 ### La raison d’être
-  Partager ses passions avec son équipe. Donner de l'importance au projet de l’entreprise en le personifiant lors de réunions (chaise vide).
 
-Ces thèmes son't d'abbord abordés dans le cadre de la création d'une entreprise opale, puis ils sont repris et adapté à la transformation d'entreprise existante dans une autre couleur pour la transformer en entreprise opale. Dans le cadre d'une transformation, il est nécessaire de veiller à ce que tout le personnel de l'entreprise désire travailler en autonomie et partage la même raison d'être.
+Partager ses passions avec son équipe. Donner de l’importance au projet de l’entreprise en le personnifiant lors de réunions (chaise vide).
 
-L'auteur termine son livre sur une note prospective en passant de l'entreprise opale à la société opale. Une lecture qui fait couler l'évolution de source mais se heurte à la réalité quotidienne et les nouvelles anxiogènes. C'est là qu'on se rend compte que tous les exemples et toutes les explications claires du livre nous font presque oublier que cette approche du management est super novatrice et parfois à contre-courant des logiques que j'ai pu observer dans des entreprises piramydales oranges.  
+Ces thèmes sont d’abord abordés dans le cadre de la création d’une entreprise opale, puis ils sont repris et adapté à la transformation d’entreprise existante dans une autre couleur pour la transformer en entreprise opale. Dans le cadre d’une transformation, il est nécessaire de veiller à ce que tout le personnel de l’entreprise désire travailler en autonomie et partage la même raison d’être.
 
-À l'époque où l'on ne compte plus les cas de burnout tout autant que les [boreout](https://en.wiktionary.org/wiki/boreout), cet essai est révolutionnaire et montre un autre managment qui apparait efficace. L'auteur nous dégotte même des exemples concrèts qui nous montrent que des changements sont possibles. Et, au delà de la théorie de l'entreprise opale qu'il met au jour, il s'attarde sur la mise en application de ces principes ce qui peut en faire un livre de chevet pour guider les acteurs du changement.
+L’auteur termine son livre sur une note prospective en passant de l’entreprise opale à la société opale. Une lecture qui fait couler l’évolution de source, mais se heurte à la réalité quotidienne et les nouvelles anxiogènes. C’est là qu’on se rend compte que tous les exemples et toutes les explications claires du livre nous font presque oublier que cette approche du management est super novatrice et parfois à contre-courant des logiques que j’ai pu observer dans des entreprises pyramidales oranges.
 
+À l’époque où l’on ne compte plus les cas de burnout tout autant que les [boreout](https://en.wiktionary.org/wiki/boreout), cet essai est révolutionnaire et montre un autre management qui apparait efficace. L’auteur nous dégotte même des exemples concrets qui nous montrent que des changements sont possibles. Et, au-delà de la théorie de l’entreprise opale qu’il met au jour, il s’attarde sur la mise en application de ces principes, ce qui peut en faire un livre de chevet pour guider les acteurs du changement.
 
 <!---
 https://projetsesame.org/sante/buurtzorg-modele-innovant-soins-a-domicile/

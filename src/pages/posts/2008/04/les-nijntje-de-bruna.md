@@ -3,7 +3,10 @@ layout: base
 title: Les Nijntjes de Bruna
 description: "Il semblerait que les schtroumphs de Albert Hein soit une affaire rentable puisque le panier moyen a augmenté de 7,9% peadant l'opération. Ça a biensûr donn"
 categorie: nederlandjes
-tags: ["art", "sociétés"]
+tags: 
+ - art
+ - sociétés
+ - livres
 isMarkdown: true
 thumbnail: bruna_nijtje-aktie.gif
 image_alt: nijntje en promo

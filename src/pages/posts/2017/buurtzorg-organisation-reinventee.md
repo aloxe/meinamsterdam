@@ -6,6 +6,7 @@ tags:
  - économie
  - sociétés
  - santé
+ - livres
 isMarkdown: true
 thumbnail: Reinventing-organizations.jpg
 image_alt: couverture de Reinventing Organizations

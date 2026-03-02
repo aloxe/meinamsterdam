@@ -68,7 +68,7 @@ Savoir solliciter les avis des bonnes personnes, savoir accepter et résoudre le
 
 ### La plénitude
 
-Créer un espace protecteur, décoration chaleureuse des bureaux, pas de hiérarchie visible. Créé une charte de responsabilité mise à jour régulièrement. Créer un processus d’intégration appliquer des méthodes de réunion qui chasse les egos.
+Créer un espace protecteur, décoration chaleureuse des bureaux, pas de hiérarchie visible. Créér une charte de responsabilité mise à jour régulièrement. Créer un processus d’intégration appliquer des méthodes de réunion qui chasse les egos.
 
 ### La raison d’être
 

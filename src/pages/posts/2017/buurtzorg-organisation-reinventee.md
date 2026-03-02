@@ -15,7 +15,8 @@ update: 2019-03-06
 ---
 **Le titre de cet article est inspiré de _Reinventing Organizations_ , le livre de Frédéric Laloux, sous-titré _Vers des communautés de travail inspirées_ . Ce livre est un essai de management d’entreprises passionnant. Le petit article ci-dessous peut être considéré comme une modeste fiche de lecture.**
 
-![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg) {.center}
+![couverture de Reinventing Organizations, ed. diateino](Reinventing-organizations.jpg){.center}
+> [Acheter le livre sur fnac.com](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=297165&clickref=Laloux&ued=https://www.fnac.com/a8843377/Frederic-Laloux-Reinventing-organizations) (lien affilié){.center}
 
 L’auteur est un ancien partenaire associé chez McKinsey. Ses recherches sur les modèles organisationnels émergents ont été décrites comme un « saut dans la pensée du management » par certains des spécialistes les plus respectés. Publié en 2014, _Reinventing Organizations_ propose une vision radicale du management, avec un fonctionnement sans hiérarchie pyramidale, sans processus bureaucratiques, et avec une autonomie totale des employés. Laloux postule que les entreprises évoluent comme les sociétés humaines et peuvent évoluer vers des modèles plus humains, décentralisés et inspirés par la confiance.
 
@@ -30,7 +31,7 @@ Laloux s’inspire de [la spirale dynamique](https://fr.wikipedia.org/wiki/Spira
 *   **Vert** (pluraliste) : Culture collaborative, valorisation des parties prenantes (ex. : entreprises sociales comme Patagonia).
 *   **Opale** (évolutif) : Auto-organisation, confiance radicale, et raison d’être collective. C’est le modèle le plus avancé, où les employés agissent comme des adultes responsables, sans besoin de contrôle hiérarchique.
 
-![5 bandes de couleur rouge ambre orange vert opale avec explications ci-dessus et illustrations loup soldat engrenages famille fœtus](rouge-ambre-orange-vert-opale.png) {.center}
+![5 bandes de couleur rouge ambre orange vert opale avec explications ci-dessus et illustrations loup soldat engrenages famille fœtus](rouge-ambre-orange-vert-opale.png){.center}
 
 Dans la deuxième partie, il décrit des entreprises qui ont atteint le niveau opale même si certaines ont depuis reculé à nouveau au niveau orange.
 

@@ -2,7 +2,10 @@
 layout: base
 title: La nouvelle bière trappiste est néerlandaise
 categorie: nederlandjes
-tags: ["bière", "religion"]
+tags:
+ - bière
+ - religion
+ - Tilburg
 isMarkdown: true
 thumbnail: authentic-trappist-product.png
 image_alt: trappist authentic product
@@ -43,13 +46,12 @@ Aujourd'hui la brasserie de Koningshoeven est toujours la plus grosse brasserie 
 
 ## La Zundert
 
-Il y a d'autres abbayes trappistes aux Pays bas, de Diepenveen en Overyssel à Tegelen en Limbourg (voir [les Provinces des Pays bas](/les-provinces-des-pays-bas)), toutes en [terre catholique](/catholiques-et-protestants) c'est à dire dans les provinces du sud sauf en Zélande. Parmi ces abbayes, L'abbaye Notre Dame de Toevlucht (*Abdij Maria Toevlucht*) à Zundert est la plus proche de Notre Dame de Koningshoeven. C'est d'ailleurs une abbaye fille cette dernière puisqu'elle a été fondée par des moines envoyés de Notre Dame de Koningshoeven en 1899. L'idée de l'époque était d'avoir assez de structures pour accueillir les moines contemplatifs français qui allaient être expulsés un jour ou l'autre suite à la laïcisation de la société française. Les expulsions n'ont jamais eu lieu mais l'abbaye de Notre Dame de Toevlucht est restée. En 1934 elle a gagné son indépendance et un père Abbé. Le travail des moines s’effectuait autour de l'élevage des vaches laitières et la production d'autres produits maraîchers. En 2009, la production laitière cessant, les moines se sont tournés vers le secteur de la brasserie qui est plutôt porteur en ce moment.
+Il y a d'autres abbayes trappistes aux Pays bas, de **Diepenveen** en Overyssel à **Tegelen** en Limbourg (voir [les Provinces des Pays bas](/les-provinces-des-pays-bas)), toutes en [terre catholique](/catholiques-et-protestants) c'est à dire dans les provinces du sud sauf en Zélande. Parmi ces abbayes, L'abbaye **Notre Dame de Toevlucht** (*Abdij Maria Toevlucht*) à **Zundert** est la plus proche de Notre Dame de Koningshoeven. C'est d'ailleurs une abbaye fille cette dernière puisqu'elle a été fondée par des moines envoyés de Notre Dame de Koningshoeven en 1899. L'idée de l'époque était d'avoir assez de structures pour accueillir les moines contemplatifs français qui allaient être expulsés un jour ou l'autre suite à la laïcisation de la société française. Les expulsions n'ont jamais eu lieu mais l'abbaye de Notre Dame de Toevlucht est restée. En 1934 elle a gagné son indépendance et un père Abbé. Le travail des moines s’effectuait autour de l'élevage des vaches laitières et la production d'autres produits maraîchers. En 2009, la production laitière cessant, les moines se sont tournés vers le secteur de la brasserie qui est plutôt porteur en ce moment.
 
-Les travaux de construction de la brasserie ont commencé en 2012 et le premier brassin est sorti l'année suivant et l'unique bière, **la Zundert**, qui titre quand même à 8%, a été présentée au public en octobre 2013. La brasserie a obtenu le précieux label de bière trappiste authentique en 2014, dernier membre du club très select des brasseurs qui s'habillent en noir et blanc.
+Les travaux de construction de la brasserie ont commencé en 2012 et le premier brassin est sorti l'année suivante et l'unique bière, **la Zundert**, qui titre quand même à 8%, a été présentée au public en octobre 2013. La brasserie a obtenu le précieux label de bière trappiste authentique en 2014, dernier membre du club très select des brasseurs qui s'habillent en noir et blanc.
 
-Il reste d'autres abbaye trappistes aux Pays bas. Ce débouché étant porteur, quelle sera la prochaine ?
+Il y a d'autres abbaye trappistes aux Pays bas. Ce débouché étant porteur, quelle sera la prochaine à faire de la [bière](/tag/biere/) ?
 
----
 <!-- post notes:
 https://en.wikipedia.org/wiki/Trappist_beer#International_Trappist_Association_recognised_breweries 
 De Koningshoeven (La Trappe)

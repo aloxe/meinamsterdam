@@ -17,10 +17,17 @@ TODO: no image, no image alt
 
 L'hommage de la presse était unanime, allant de la simple page noire arborant lunettes et pipe, ses accessoires les plus iconiques, au dossier de 9 pages du Volkskrant. [Harry Mulisch](http://fr.wikipedia.org/wiki/Harry_Mulisch) y est qualifié de plus grand écrivain de son époque. Le nouveau Ministre-Président, Mark Rutte a qualifié son décès de grande perte pour les Pays-Bas.
 
-Harry Mulisch est le dernier des «trois grands» ([de Grote Drie](http://nl.wikipedia.org/wiki/De_Grote_Drie)) auteurs néerlandais de l'après guerre Willem Frederik Hermans et Gerard Reve. Les plus lus et les plus connus à l'étranger. Harry Mulisch est devenu mondialement connu en 1986 après que son roman **l'attentat** (*De aanslag*) ait été adapté au cinéma par Fons Rademakers[^1]. 
+Harry Mulisch est le dernier des «trois grands» ([de Grote Drie](http://nl.wikipedia.org/wiki/De_Grote_Drie)) auteurs néerlandais de l'après guerre **Willem Frederik Hermans** et **Gerard Reve**. Les plus lus et les plus connus à l'étranger. Harry Mulisch est devenu mondialement connu en 1986 après que son roman **l'attentat** (*De aanslag*) ait été adapté au cinéma par Fons Rademakers[^1].
+
+![Couverture verte de la BD l'Attentat avec un homme qui pédale vent dans le dos courbé](L-attentat.jpg){.center}
+
+*Ce roman a été adapté en bande dessinée en 2020. ([Acheter la BD sur fnac.com](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=297165&clickref=Mulisch&ued=https://www.fnac.com/a14545746/Harry-Mulisch-L-attentat))*
 
 Harry Mulish a reçu le Reina Prinsen Geerligsprijs en 1951 pour son premier roman **Archibald Strohalm**[^2]. Il a depuis accumulé les prix et distinction jusqu'à devenir chevalier des arts et des lettres en 2001.
 
 ---
-[^1]: traduit [L'assaut](http://www.imdb.fr/title/tt0090576/) en français, vraisemblablement pour se rapprocher de la version anglaise
-[^2]: Ce qui me permet de rectifier [une coquille de la revue de presse](http://www.ambafrance-nl.org/france_paysbas/spip.php?article12344) qui dit que c'est en 1952.
+[^1]: traduit [L'assaut](http://www.imdb.fr/title/tt0090576/) en français, vraisemblablement pour se rapprocher de la version anglaise (*the assault*).
+[^2]: Ce qui me permet de rectifier une coquille de la revue de presse de l'ambassade qui dit que c'est en 1952.
+
+
+{# http://www.ambafrance-nl.org/france_paysbas/spip.php?article12344 #}

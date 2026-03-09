@@ -10,6 +10,7 @@ tags:
 isMarkdown: true
 thumbnail: google-sollicitatie.ftm.png
 image_alt: demi Trump faisant le big brother sur un écran
+permalink: google-agents-secrets/
 date: 2025-12-10
 update: 2024-12-10
 ---
@@ -20,7 +21,7 @@ L'histoire qui suit est née d'un petit *skeet* (un post sur le réseau bluesky)
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:gxyehbdrd7oxjj4nfbwxbtoz/app.bsky.feed.post/3lfknkqpm2c26" data-bluesky-cid="bafyreieh6hdf5oseqfzx6xrr5ivpx23zqne7h4c4x5jgb3szoiusflyauq" data-bluesky-embed-color-mode="system"><p lang="nl">Het is 2025 en je kunt nog steeds niet bij de AIVD solliciteren zonder dat er expliciet bericht naar Google gaat. We zeuren hier al drie jaar over, maar er is kennelijk Niets Aan Te Doen. Er is een speciale aparte knop voor AIVD sollicitaties, maar ook die meldt zich eerst bij Google.<br><br><a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">[image or embed]</a></p>&mdash; Bert Hubert 🇺🇦🇪🇺🇺🇦 (<a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz?ref_src=embed">@berthub.eu</a>) <a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">12 January 2025 at 17:33</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 </div>
 
-Les copies d'écran montrent les requêtes envoyées par les candidats à `google-analytics.com`. Il n'y a rien de bien malicieux ici, il s'agit d'une requête pour compter les clics et pouvoir produire des analyses de fréquentation du site. De millions de sites utilisent Google Analytics à cette fin. Même le blog que vous lisez l'a utilisé il y a quelques années ce qui m'a permis de [vous partager quelques tendances](/mon-black-friday/).
+Les copies d'écran montrent les requêtes envoyées par les candidats à `google-analytics.com`. Il n'y a rien de bien malicieux ici, il s'agit d'une requête pour compter les clics et pouvoir produire des analyses de fréquentation du site. Des millions de sites utilisent *Google Analytics* à cette fin. Même le blog que vous lisez l'a utilisé il y a quelques années ce qui m'a permis de [vous partager quelques tendances](/mon-black-friday/).
 
 Rien de bien malicieux ? Ce n'est pas si sûr. Rappelons que Google est une entreprise participant au [programme de surveillance PRISM](https://fr.wikipedia.org/wiki/PRISM_(programme_de_surveillance)) révélé par Edward Snowden en 2013. Que c'est une entreprise Étasunienne, [soumise au Cloud Act](/cloud-merite-notre-confiance/) permettant à la justice des états-Unis d'y obtenir les données dont elle a besoin.
 
@@ -30,7 +31,7 @@ Même si je pense être peu exposé, j'ai pour ma part, supprimé le pistage des
 
 ## L'Algemene Inlichtingen- en Veiligheidsdienst 
 
-Il faut préciser que l'AIVD c'est l'*Algemene Inlichtingen- en Veiligheidsdienst*, c'est à dire le Service général de Renseignement- et de Sécurité, l'équivalent de la direction générale de la Sécurité intérieure en France. Les candidats recrutés par cette agence sont donc de potentiels futurs espions, des gens amener à garder le secret sur leurs activités.
+Il faut préciser que l'AIVD c'est l'*Algemene Inlichtingen- en Veiligheidsdienst*, c'est à dire le Service général de Renseignements- et de Sécurité, l'équivalent de la direction générale de la Sécurité intérieure en France. Les candidats recrutés par cette agence sont donc de potentiels futurs espions, des gens amener à garder le secret sur leurs activités.
 
 Faire des stats n'a rien de bien malicieux, mais dans ce contexte sensible, on voit bien la véhémence de Bert Hubert qui partage publiquement son agacement :
 
@@ -73,7 +74,7 @@ La perte de souveraineté n'est pas juste une théorie pour politicien en mal d'
 
 <!-- https://www.politico.eu/article/the-netherlands-shuts-off-google-tracking-spy-job-listings/ -->
 !["Google mag niet meer meekijken bij sollicitaties geheime dienst" avec une infographie qui montre un demi Trump faisant le big brother sur un écran](google-sollicitatie.ftm.png){.center}
-C'est dans ce contexte que le magazine d'investigation en ligne Follow the Money (ftm.nl) [a révélé](https://www.ftm.nl/artikelen/stop-google-tracking-sollicitatie-aivd-mivd) le 3 décembre 2025 que Google ne peut plus suivre les candidats qui postulent pou un emploi auprès des services secrets néerlandais. La plateforme de recrutement werkenvoornederland.nl ainsi que le site du ministère des affaires étrangères ont été modifiés pour supprimer les traceurs de Google Analytics.
+C'est dans ce contexte que le magazine d'investigation en ligne *Follow the Money* (ftm.nl) [a révélé](https://www.ftm.nl/artikelen/stop-google-tracking-sollicitatie-aivd-mivd) le 3 décembre 2025 que Google ne peut plus suivre les candidats qui postulent pou un emploi auprès des services secrets néerlandais. La plateforme de recrutement werkenvoornederland.nl ainsi que le site du ministère des affaires étrangères ont été modifiés pour supprimer les traceurs de Google Analytics.
 
 Cependant, l’article ajoute qu'il est possible que d'autres prestataires aient encore accès à des données personnelles ce qui fait que les risques de fuite persistent.
 
@@ -82,7 +83,7 @@ En vérifiant les appels réseau d'une page de werkenvoornederland.nl, je n'ai e
 <!-- le mot piwik dans le fichier est bloqué par les adblocks ! -->
 ![capture décran montrant du fichier chargé sur le site werkenvoornederland](pwk-sur-werkenvoornederland.png){.center}
 
-Piwik est le script utilisé par l'utilitaire Matomo[^1] d'analyse du trafic web. Matomo est un logiciel libre qui peut être installé directement sur les serveurs de l'État qui en garde le contrôle ce qui évite la fuite d’informations. Cependant, il peut aussi être utilisé via un prestataire qui s'assure de son bon fonctionnement. C'est peut-être ce risque dont parle le journal d'investigation.
+Piwik est le script utilisé par l'utilitaire Matomo[^1] d'analyse du trafic web. Matomo est un logiciel libre qui peut être installé directement sur les serveurs de l'État qui en garde le contrôle, ce qui évite la fuite d’informations. Cependant, il peut aussi être utilisé via un prestataire qui s'assure de son bon fonctionnement. C'est peut-être ce risque dont parle le journal d'investigation.
 
 Les auteurs de l'article ne partagent aucune annonce ou commentaire de l'administration sur ce changement, mais rappellent la question posée par Derk Boswijk en début d'année. En effet, sur le même sujet, le député CDA a de nouveau interrogé le ministre de la Défense [le 4 novembre dernier](https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2025Z19429&did=2025D45506). La réponse n'est pas encore disponible, mais je pense qu’elle pourra annoncer une évolution positive.
 

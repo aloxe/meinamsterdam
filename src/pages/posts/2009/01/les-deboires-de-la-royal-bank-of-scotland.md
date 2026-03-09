@@ -6,6 +6,7 @@ categorie: nederlandjes
 tags: 
  - sociétés
  - banque
+ - économie
 isMarkdown: true
 thumbnail: RBS-Amsterdam-office.jpg
 image_alt: "RBS occuppe l'ancien siège ABN AMRO"

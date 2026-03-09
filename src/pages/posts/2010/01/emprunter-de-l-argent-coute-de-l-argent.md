@@ -5,6 +5,7 @@ categorie: nederlandjes
 tags: 
  - banque
  - immobilier
+ - économie
 isMarkdown: true
 thumbnail: letop-geld-lenen-kost-geld.png
 image_alt: let op geld lenen kost geld

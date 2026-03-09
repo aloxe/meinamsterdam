@@ -60,7 +60,9 @@ Il y a encore d'autres différences moins notables qui sont présentée dans cet
 <div class="clear-both"></div>
 <!-- / HTML -->
 ---
+
 [^1]: Le Brexit, l'article 50 du traité de Lisbonne et tout ça…
+
 [^2]: Oui les noms des pays sur l'infographie sont classées par ordre alphabétique non français ce qui peut faire bizarre en français. D'autant que la base pour les calendriers est l'anglais mais la base pour les résidents à l'étranger est le nom local (endonyme comme on m'a dit que cela se disait).
 <!-- post notes:
 http://www.europarl.europa.eu/RegData/etudes/ATAG/2018/623556/EPRS_ATA(2018)623556_FR.pdf

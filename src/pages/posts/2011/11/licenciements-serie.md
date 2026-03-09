@@ -2,7 +2,9 @@
 layout: base
 title: Licenciements en série
 categorie: nederlandjes
-tags: ["sociétés"]
+tags: 
+ - sociétés
+ - économie
 isMarkdown: true
 thumbnail: 
 image_alt: 

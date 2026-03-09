@@ -17,4 +17,4 @@ $ git fetch codeberg
 $ git merge codeberg/main
 $ git push
 ```
-The [prod action](https://github.com/aloxe/meinamsterdam/actions) should start.
+The [prod action](https://ci.codeberg.org/repos/15688) should start.

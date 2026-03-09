@@ -18,15 +18,14 @@
   {% endif %}
 
   <section class="index"> {# use default mkdn class for styling  #}
-    {%- for post in revue %}
-
+    {%- for post in revue -%}
         {% if not categorie or (post.data.categorie === categorie) %} {# requested categorie #}
           <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
           <em class="text-text-light">in <a href="/{{ post.data.categorie }}/" class="text-text-light">{{ post.data.categorie }}</a> le {{ post.date | date }}</em> <br/>
           {% for tag in post.data.tags %}
             <em class="text-primary text-xs">🏷</em> <em class="text-text-light text-xs"><a href="/tag/{{ tag | slugify }}/">{{ tag }}</a></em>
           {% endfor %}
-          <p>
+          <p class="">
             {% if post.data.page.excerpt %}
               <p class="text-justify justify-content"> {{ post.data.page.excerpt | md | safe }}</p>
               {{ readMore(post.url) }}
@@ -43,28 +42,10 @@
                 {% endif %}
               {% endif %}
             {% endif %}
-            {% if entrees.length %}
-            <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2">
-              <em class="text-primary"> ✍</em>
-              {% set entrees = [] %}
-              {%- for comment in collections.comment -%}
-                {% set length = comment.filePathStem.split("/").length %}
-                {% set slug = "/"+comment.filePathStem.split("/")[length-2]+"/" %}
-                {% if slug === post.data.page.url %}
-                  {% set entrees = (entrees.push(comment), entrees) %}
-                {% endif %}
-              {%- endfor -%}
-              {# {% if entrees.length %} #}
-                  {{ entrees.length }} commentaire{% if entrees.length > 1 %}s{% endif %}
-                  </div>
-              {# {% else %} #}
-                {# pas de commentaire #}
-              {% endif %}
-            {# </div> #}
+            <hr>
           </p>
         {% endif %}
-
-    {%- endfor %}
+    {%- endfor -%}
 
     {% if pagination.href.previous %}
       <div class="border-text-light [&&]:text-text-light border-1 rounded-2xl p-1 px-2 block float-left">

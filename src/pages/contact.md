@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 layout: contact
 permalink: contact/
 title: me in Amsterdam, contact

@@ -3,7 +3,11 @@ layout: base
 title: Descente de flics chez les voisins
 description: 
 categorie: nederlandjes
-tags: ["administration", "mots", "sociétés"]
+tags: 
+ - administration
+ - mots
+ - sociétés  
+ - économie
 isMarkdown: true
 thumbnail: entree-tour-vinoly.png
 image_alt: entrée de la tour Viñoli avec les flics

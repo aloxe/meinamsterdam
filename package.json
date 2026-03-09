@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aloxe/meinamsterdam.git"
+    "url": "https://codeberg.org/aloxe/meinamsterdam.git"
   },
   "keywords": [
     "eleventy",
@@ -18,9 +18,9 @@
   ],
   "author": "Alix Guillard",
   "license": "Art Libre",
-  "homepage": "https://github.com/aloxe/meinamsterdam/#readme",
+  "homepage": "https://codeberg.org/aloxe/meinamsterdam/#readme",
   "bugs": {
-    "url": "https://github.com/aloxe/meinamsterdam/issues"
+    "url": "https://codeberg.org/aloxe/meinamsterdam/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
@@ -45,7 +45,6 @@
     "@toycode/markdown-it-class": "^1.2.4",
     "highlight.js": "^11.11.1",
     "markdown-it-attrs": "^4.3.1",
-    "markdown-it-footnote": "^4.0.0",
-    "nunjucks-markdown-filter": "^0.1.0"
+    "markdown-it-footnote": "^4.0.0"
   }
 }

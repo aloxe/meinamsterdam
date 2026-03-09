@@ -3,7 +3,7 @@ layout: base
 title: FEBO (sauf à voir)
 description: 
 categorie: nederlandjes
-tags: ["produits", "sociétés"]
+tags: ["produits", "sociétés", "shopping"]
 isMarkdown: true
 thumbnail: distributeurs-febo-img_8573.jpg
 image_alt: distributeur automatique de Junk food

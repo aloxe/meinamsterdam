@@ -28,7 +28,7 @@ L'idée de nettoyer ces vortex de plastique n'est pas nouvelle et déjà le cong
 Ému comme tout le monde par ces découvertes, le jeune néerlandais Boyan Slat, jeune étudiant à l'université de Delft, la faculté de technologie la plus prestigieuse des Pays-Bas, a l'idée de capturer ces bouts de plastique en suspension avec une solution technologique de son invention : un éorme filet dérivant avec les courants. Il présente son projet lors d'une conférence TEDx à Delft en 2012 et la vidéo de son intervention devient virale.
 
 <!-- HTML -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROW9F-c0kIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="my-auto" title="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ROW9F-c0kIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="my-auto" title="How the oceans can clean themselves: Boyan Slat at TEDxDelft"></iframe>
 <!-- / HTML -->
 
 Les gens sont très vite emballés par cette promesse de « nettoyer les océans » alors que ce n'est qu'un projet qui comme l'explique Boyan, a encore besoin d'être étudié. Le projet se trouve aussi des détracteurs qui critiquent le solutionnisme technologique d'un problème sans en combatre la cause. Pire, disent certains idiots, le nettoyage va inciter à polluer d'avantage. C'est vrai que Paris est bien plus sale depuis que [le Préfet Poubelle a organisé la collecte des déchets](https://meinamsterdam.nl/eugene-poubelle-prefet-amsterdam)…
@@ -44,7 +44,7 @@ En fait même après 2016, le jeune nettoyeur a donné beaucoup moins de nouvell
 Le produit de cette vente permettra de financer les opérations de nettoyage  venir mais surtout elles sont une démonstration de ce qu'on peut faire avec le plastique retrouvé dans la mer. Pour rendre le produit hype, le plastique utilisé est celui de la première campagne de nettoyage qui avait foiré mais qui avait quand même permis de ramener suffisamment de matière. La conception et fabrication en Italie a fait l'objet d'un petit film pour soutenir ce qui est aussi une campagne de financement.
 
 <!-- HTML -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t44PpkpGJHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t44PpkpGJHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Creating The Ocean Cleanup Sunglasses from Ocean Plastic | Cleaning Oceans | The Ocean Cleanup"></iframe>
 <!-- / HTML -->
 
 Aujourd’hui le stock de lunettes est épuisé et le nouveau **System 002** a déjà récolté [40 tonnes de plastique](https://theoceancleanup.com/updates/system-002-mid-term-evaluation/) au rythme d'une tonne par jour. On ne sait pas si cela s'approche des 500.000 terrains de foot nettoyés ou pas mais on sait que la fondation pense déjà lancer un  **System 003** qui ne sera rien d'autre qu'un filet trois fois plus gros que le précédent toujours tiré par deux bateaux.

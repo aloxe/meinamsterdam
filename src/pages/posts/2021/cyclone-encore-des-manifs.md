@@ -17,7 +17,7 @@ Je ne pensais pas parler de protestations deux fois de suite sur ce blog mais vo
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SagT4suVRpU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SagT4suVRpU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Tournedisk (feat. Fusée Dorée) — Cyclone"></iframe>
 </div>
 <!-- / HTML -->
 

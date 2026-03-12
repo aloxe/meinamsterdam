@@ -24,7 +24,7 @@ Haliade-X est un prototype de nouveau modèle d'éolienne conçu par General Ele
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XX2-DE0etcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XX2-DE0etcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Haliade-X offshore wind turbine - installation time lapse"></iframe>
 </div>
 <!-- / HTML -->
 

@@ -19,7 +19,7 @@ Le site drones.nl profite de l'occasion de noël pour se moquer de tous ceux qui
 
 <!-- HTML -->
 <div class="flex flex-col items-center my-1">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rhIMfjcwbE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rhIMfjcwbE" frameborder="0" allowfullscreen title="Top 5 Drone Fails"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -33,7 +33,7 @@ Vous avez sûrement suivit [la presse](http://www.ouest-france.fr/insolite/pays-
 
 <!-- HTML -->
 <div class="flex flex-col items-center my-1">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4SeUv0Q6w0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4SeUv0Q6w0" frameborder="0" allowfullscreen title="Des aigles pour capturer les drones aux Pays-Bas - 30 millions d'amis"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -42,9 +42,9 @@ Seulement l'information n'est pas complètement exacte. Les aigles sont entraîn
 Le [communiqué de presse de la police](https://www.politie.nl/nieuws/2016/september/13/politie-traint-roofvogels-om-drones-te-onderscheppen.html) indique malgré tout que la police néerlandaise est déjà prête pour intercepter les quadroptères avec plusieurs aigles et policiers autoursiers entraînés par **Guard from Above**. Ces derniers seront déployés lors de visites de dignitaires ou lors d'événements sensibles.
 
 <!-- HTML -->
-<div class="flex flex-col items-center my-1">
+<!--<div class="flex flex-col items-center my-1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ccx3WOovGh0" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 <!-- / HTML -->
 
 Espérons que les autoursiers de la police sont meilleurs en fauconnerie de bas vol qu'en jeu d'acteur parce que coté cinéma, ils n'ont pas vraiment convaincu…

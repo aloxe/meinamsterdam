@@ -24,7 +24,7 @@ Voilà presque 7 ans qu'il n'y a [plus un seul bureau de poste aux Pays-Bas](/la
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe src="https://player.vimeo.com/video/59554543" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/59554543" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Escher naar Schiphol on Vimeo"></iframe>
 </div>
 <!-- / HTML -->
 

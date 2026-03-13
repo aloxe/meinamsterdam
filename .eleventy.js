@@ -150,18 +150,6 @@ module.exports = async function(eleventyConfig) {
     return mdLib.render(rawText);
   });
 
-    // filter to minify inline js
-  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (code, callback) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error("Terser error: ", err);
-      // Fail gracefully.
-      callback(null, code);
-    }
-  });
-
   // allows to include subfooters
   const { RenderPlugin } = await import("@11ty/eleventy");
   eleventyConfig.addPlugin(RenderPlugin);
@@ -388,7 +376,7 @@ const postcssFilter = (cssCode, done) => {
   postCss([
     tailwind(), // process tailwind with postcss
     autoprefixer,
-    cssnano({ preset: 'default' }) // minify css
+   cssnano({ preset: 'default' }) // minify css
   ])
     .process(cssCode, {
       from: './src/_layouts/css/tailwind.css'

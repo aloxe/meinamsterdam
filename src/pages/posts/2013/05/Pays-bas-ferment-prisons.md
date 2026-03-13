@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Les Pays-Bas ferment leurs prisons
+title: Les Pays-Bas ferment encore plus de prisons
 categorie: nederlandjes
 tags: 
 - justice
@@ -8,14 +8,14 @@ tags:
 - Belgique
 - Tilburg
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: Koning_Willem_II_Kazerne.jpg
+image_alt: La prison de Tilburg qui va fermer
 permalink: pays-bas-ferment-prison/
 date: 2013-05-05
 update: 2013-05-05
 ---
 
-Voilà un sujet que je voulais aborder depuis quelques années, lorsque la baisse de la population carcérale du pays s'étalait dans les journaux locaux. Aujourd'hui, c'est la radio belge (RTBF) qui revient sur le sujet, car la Belgique est touchée par la fermeture des prisons annoncée cette année par le gouvernement.
+J'ai brièvement abordé ce sujet [il y a quelques années](/les-pays-bas-ferment-leurs-prisons/), lorsque la baisse de la population carcérale du pays s'étalait dans les journaux locaux au grand dam des marchands de peur[^1]. Aujourd'hui, c'est la radio belge (RTBF) qui revient sur le sujet, car la Belgique est touchée par la fermeture des prisons annoncée cette année par le gouvernement.
 
 ## Baisse de la population carcérale
 
@@ -41,6 +41,8 @@ La politique judiciaire et carcérale menée aux Pays-Bas depuis 10 ans a tellem
 La Belgique a lancé un programme de construction de nouvelles prisons, avec 7 nouvelles maisons d'arrêt prévues pour 2016. D'ici là, la Belgique va encore devoir conserver des détenus à Tilburg le temps qu'une place se libère pour eux.
 
 Une autre solution pourrait être de calquer sa politique judiciaire et carcérale sur celle des Pays-Bas, avec des peines de privation de liberté plus courtes et un programme de réinsertion efficace.
+
+[^1] : « On est plus chez nous ! on ne peut plus sortir tant la délinquanece a augmenté ma bonne dame ! ».
 
 
 <!-- 

@@ -3,7 +3,7 @@ layout: base
 title: Les Pays-Bas ferment leurs prisons
 description: "Les prisons ne servent plus à rien. parce qu'il n'y a pas assez de criminels."
 categorie: nederlandjes
-tags: []
+tags: ["justice", "politique"]
 isMarkdown: true
 thumbnail: 
 image_alt: 

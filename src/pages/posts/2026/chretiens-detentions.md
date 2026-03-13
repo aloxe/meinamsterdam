@@ -7,23 +7,24 @@ tags:
  - justice
  - politique
  - religion
- - prisons
+ - justice
 isMarkdown: true
 thumbnail: 
 image_alt: 
 permalink: chretiens-detention/
 date: 2026-03-03
 update: 2026-03-03
-TODO: no image, no image alt
 ---
 
-**L’actualité de ce début d'année s'est attardé sur un détenu célèbre dont la peine de prison ferme a été aménagée. Le multi-condamné, ancien Président, a été autorisé à purger sa peine à domicile sous bracelet électronique. Cet aménagement de peine a suscité des débats sur l’égalité devant la justice et les privilèges des personnalités publiques. **
+**L’actualité de ce début d'année s'est attardé sur un détenu célèbre dont la peine de prison ferme a été aménagée. Le multi-condamné, ancien Président, a été autorisé à purger sa peine à domicile sous bracelet électronique. Cet aménagement de peine a suscité des débats sur l’égalité devant la justice et les privilèges des personnalités publiques.**
 
 L'aménagement des peines pour éviter l'incarcération n'est pourtant pas une mauvaise idée pour éviter la surpopulation des prisons qui coûte cher à la justice. Seulement le cas médiatique de l'année semble être une exception. La population carcérale française ne cesse d’augmenter, entraînant une surpopulation chronique dans les prisons.
 
 ![Evolution mensuelle des personnes écrouées détenues en 2023 2024 2025. Trous courbes qui n'arrêtent pas de monter](ecroues-detenus-france-2025.png){.center}
 __Extrait du rapport [Statistique des établissements et des
 personnes écrouées en France](https://www.justice.gouv.fr/sites/default/files/2025-12/statistique_etablissements_personnes_ecrouees_01122025.pdf) par le ministère de la justice__{.center}
+
+<!--excerpt-->
 
 En France, les établissements pénitentiaires sont régulièrement pointés du doigt pour leurs conditions de détention difficiles, liées à un taux d’incarcération élevé. À l’inverse, les Pays-Bas suivent une évolution radicalement différente. Il y a quelques années plusieurs prisons fermaient faute de détenus. Un contraste frappant, qui interroge sur les différences de politiques pénales et de cultures juridiques entre les deux pays.
 

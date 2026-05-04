@@ -3,7 +3,7 @@ layout: base
 title: Les Pays-Bas ferment leurs prisons
 description: "Les prisons ne servent plus à rien. parce qu'il n'y a pas assez de criminels."
 categorie: nederlandjes
-tags: []
+tags: ["justice", "politique"]
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -21,4 +21,8 @@ Il n'y a pas que la revue de presse de l'ambassade qui traduit en français la p
 
 <!-- post notes:
 Bon je ne sais pas trop comment ça se passe en France mais l'approche pragmatique, spécialité des Pays-Bas, appliquée à la délinquance semble porter des fruits. De ce que je peux voir dans la presse, la France opte plutôt pour l'approche émotionnelle, légiférant trop souvent suite à des cas médiatiques, produisant des lois dont l'application crée plus de problèmes qu'elle n'en résout. Cela dit, la France et les Pays-Bas [coopèrent aussi dans le domaine de la justice|http://www.ambafrance-nl.org/france_paysbas/spip.php?article9279], on peut souhaiter que ce soit dans un sens bénéfique pour les deux pays.
+
+
+TODO: Pays-Bas : Une décroissance carcérale en trompe l’oeil
+https://oip.org/analyse/pays-bas-une-decroissance-carcerale-en-trompe-loeil/
 --->

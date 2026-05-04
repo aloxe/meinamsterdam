@@ -29,7 +29,7 @@ Il reste que cet outil en ligne formidable a marqué des centaines de vies de fr
 
 <!-- HTML -->
 <div class="flex flex-col items-center my-1">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchristina.polidori.94%2Fposts%2F10155895657698413&width=500" width="500" height="386" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" style="margin: 0, auto;" title="post-facebook"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchristina.polidori.94%2Fposts%2F10155895657698413&width=500" width="500" height="386" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" style="margin: 0, auto;" title="post de Cristina sur facebook"></iframe>
 </div>
 <!-- / HTML -->
 

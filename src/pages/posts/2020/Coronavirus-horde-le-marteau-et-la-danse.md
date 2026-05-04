@@ -26,7 +26,7 @@ Je ne vais pas vous faire une énième point sur cette pandémie qu'on  observe 
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" title="video Datagueule" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.datagueule.tv/videos/embed/077002d4-7a80-4f0e-a46c-1b9a949cd36a" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" title="video Datagueule" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.datagueule.tv/videos/embed/077002d4-7a80-4f0e-a46c-1b9a949cd36a" frameborder="0" allowfullscreen title="DTG Coronavirus,  confinements solidaires - DataGueule"></iframe>
 </div>
 <!-- / HTML -->
 

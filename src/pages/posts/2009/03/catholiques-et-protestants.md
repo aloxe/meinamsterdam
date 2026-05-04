@@ -9,11 +9,12 @@ thumbnail: carte-religions-benelux.png
 image_alt: Carte du Benelux catholique et protestant
 permalink: catholiques-et-protestants/
 date: 2009-03-18
-update: 2016-12-19
-TODO: shortened desc
+update: 2026-03-14
 ---
 
 Il me faut faire un billet ces deux familles chrétiennes. Leurs rivalités et leurs actions communes ont modelé le Benelux et imprègnent encore fortement la vie sociale et politique des Pays-Bas. beaucoup de choses s'expliquent par l'histoire religieuse du pays. Les français, de tradition catholique et laïque ne comprennent pas toujours cet historique. Quoi de mieux que la période du carème pour parler des chrétiens des Pays-Bas.
+
+<!--excerpt-->
 
 ## La réforme
 De par sa position minoritaire et autrefois combattue par le pouvoir en place, l'idée protestante a, en France, un accent libertaire. Les dogmes les plus retenus sont la libre interprétation des écritures et le refus de la hiérarchie comme on trouve chez les catholiques. Quand on relit Luther, on constate que ces choix sont la conséquence de son opposition au Pape d'alors, Léon X. L'utilisation des [indulgences](http://fr.wikipedia.org/wiki/Indulgence_(catholicisme)) de plus en plus utilisées par l'église pour renflouer les caisses et permettant un laxisme des croyants. Selon Luther, remettre les pécher par la remise d'indulgences n'est pas vraie piétée. La papauté et le haut clergé se sont opposé à ses positions en l'affrontant et lui faisant un procès en excommunication. En bon théologien, il refuse cette autorité des hommes et s'en remet à l'autorité de la bible qu'il utilise pour se défendre. Aux Pays-Bas, pays ou les protestants ont été majoritaires et proche du pouvoir, c'est cette position centrale de la bible et cette piété qui ressortent le plus des protestants. Les catholiques apparaissant comme des chrétiens un peu laxistes et hauts en couleur.
@@ -23,7 +24,7 @@ Ne vous y trompez pas, catholiques et protestants ont les mêmes dogmes et sont 
 
 Beaucoup de dogmes protestants se retrouvent aujourd'hui dans la vie quotidienne aux Pays-Bas. Le refus d'invoquer les saints s'est par exemple traduit par une absence d'icônes, de statues et peintures dans les églises.
 
-Ont dit Les Néerlandais calvinistes. Jean Calvin était un théologien français pour qui tout être était prédestiné (au salut où à l'enfer). Les fidèles calvinistes vont donc chercher dans leur travail et la réussite sociale une confirmation de leur prédestination. La richesse devient un signe de piété et la recherche méthodique de richesses devient parfois une obsession.[^1]
+La culture néerlandaise est souvent rapprochée à la tradition calviniste. Jean Calvin était un théologien français pour qui tout être était prédestiné (au salut où à l'enfer). Les fidèles calvinistes vont donc chercher dans leur travail et la réussite sociale une confirmation de leur prédestination. La richesse devient un signe de piété et la recherche méthodique de richesses devient parfois une obsession.[^1]
 
 On peut aussi trouver dans *la réforme permanente'' du protestantisme cette propension à écouter les avis divergeant. La démocratie de polder est aussi un signe de société protestante.
 

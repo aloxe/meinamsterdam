@@ -8,7 +8,7 @@
     {% include "src/_assets/js/404email.js" %}
   {% endset %}
   <script>
-    {{ js | jsmin | safe }}
+    {{ js | safe }}
   </script>
 
 {% endblock %}

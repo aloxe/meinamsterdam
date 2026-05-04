@@ -2,7 +2,7 @@
 layout: base
 title: On peut enfin choisir son Instagram et son facebook
 description: 
-categorie: ik-ben-frans
+categorie: nederlandjes
 tags:
  - internet
  - politique
@@ -13,12 +13,11 @@ image_alt: Téléphones, logo et Meta et marteau de juge
 permalink: choisir-instagram-facebook/
 date: 2026-02-13
 update: 2026-02-13
-TODO: no image, no image alt
 ---
 
 **Il y a un moment que je n'ai pas parlé de réseaux sociaux sur ce blog et c'est vraisemblablement parce que je ne les fréquente plus, ils ont mal tourné. Le nombre d'articles décrivant leurs agissements néfastes depuis les révélations de [Frances haugen](https://fr.wikipedia.org/wiki/Frances_Haugen) ne manquent pas. Je n'ai guère besoin d'en rajouter.**
 
-{# Zach Vorhies not on Wikipedia??? #}
+<!-- Zach Vorhies not on Wikipedia??? -->
 
 ## Protéger les mineurs…
 
@@ -26,7 +25,7 @@ Face aux méfaits qui perdurent et qui causent des problèmes de santé mentale 
 
 Tout va bien, les enfants vont être protégés et mon article peut s'arrêter là.
 
-En fait non..
+En fait non…
 
 <!--excerpt-->
 

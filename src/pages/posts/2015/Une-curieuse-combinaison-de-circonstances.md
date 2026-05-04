@@ -29,7 +29,7 @@ La suite de ce conte *Een Bizarre Samenloop van Omstandigheden* se passe de trad
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe src="//player.vimeo.com/video/30016983?title=0&amp;byline=0&amp;portrait=0&amp;color=9c0a0d" align="center" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/30016983">Een Bizarre Samenloop van Omstandigheden</a> from <a href="http://vimeo.com/firestarter">Firestarter</a>.</p>
+<iframe src="//player.vimeo.com/video/30016983?title=0&amp;byline=0&amp;portrait=0&amp;color=9c0a0d" title="Een Bizarre Samenloop van Omstandigheden on Vimeo" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/30016983">Een Bizarre Samenloop van Omstandigheden</a> from <a href="http://vimeo.com/firestarter">Firestarter</a>.</p>
 </div>
 <!-- / HTML -->
 

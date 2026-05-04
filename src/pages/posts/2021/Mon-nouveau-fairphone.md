@@ -26,7 +26,7 @@ Mais voilà, Fairphone a annoncé le lancement de son nouvel appareil, le **fair
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fgtxGWX1QwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgtxGWX1QwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Everything you need to know about Fairphone 4 | Our Launch Event Highlights"></iframe>
 </div>
 <!-- / HTML -->
 

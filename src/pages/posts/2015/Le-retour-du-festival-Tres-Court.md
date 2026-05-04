@@ -25,7 +25,7 @@ update: 2015-07-07
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X0NV8y0DU58" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X0NV8y0DU58" frameborder="0" allowfullscreen title="17e Trailer Très Court"></iframe>
 </div>
 <!-- / HTML -->
 

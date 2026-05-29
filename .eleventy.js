@@ -1,5 +1,4 @@
 const path = require("path");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const htmlmin = require("html-minifier-terser");
 const postCss = require('postcss');
 const autoprefixer = require('autoprefixer')
@@ -34,6 +33,7 @@ module.exports = async function(eleventyConfig) {
   }
 
   // rss plugin
+  const { default: pluginRss } = await import("@11ty/eleventy-plugin-rss");
   eleventyConfig.addPlugin(pluginRss);
 
   // markdown 

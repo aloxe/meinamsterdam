@@ -2,7 +2,13 @@
 layout: base
 title: Amsterdam - Prague en train de nuit
 categorie: toering
-tags: ["Amsterdam", "Belgique", "La Haye", "Rotterdam", "transports"]
+tags: 
+- Amsterdam
+- Belgique
+- La Haye
+- Rotterdam
+- transports
+- train
 isMarkdown: true
 thumbnail: trace_european-sleeper.jpg
 image_alt: Projet European Sleeper Bruxelles - Prague

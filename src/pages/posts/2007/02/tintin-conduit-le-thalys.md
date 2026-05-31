@@ -6,6 +6,7 @@ categorie: dagelijks
 tags:
  - transports
  - Thalys
+ - train
 isMarkdown: true
 thumbnail: kuifje-thalys-tintin-100.jpg
 image_alt: dupont et dupond sur le Thalys

@@ -15,7 +15,7 @@
     {% include "src/_assets/js/emailform.js" %}
   {% endset %}
   <script>
-    {{ js | jsmin | safe }}
+    {{ js | safe }}
   </script>
 
 {% endblock %}

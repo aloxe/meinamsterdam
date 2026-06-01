@@ -30,7 +30,7 @@ L'histoire du livre **Bike Nation** est résumée en moins d'une dizaine de twee
 <!--Gone:  (http://leforum.nl/index.php/report-section/39-reportages/315-lhistorique-des-pistes-cyclables-neerlandaises). -->
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XuBdf9jYj7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen title="video-voitures"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuBdf9jYj7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen title="How the Dutch got their cycle paths"></iframe>
 </div>
 <!-- / HTML -->
 <!--excerpt-->
@@ -61,7 +61,7 @@ Les investissements les plus spectaculaires se portent aujourd'hui sur la constr
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fweffrancais%2Fvideos%2F1577103105676161%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fweffrancais%2Fvideos%2F1577103105676161%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" title="Les Pays-Bas ont construit une autoroute réservée aux vélos"></iframe>
 </div>
 <!-- / HTML -->
 

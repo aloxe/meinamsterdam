@@ -18,8 +18,10 @@ update: 2024-12-10
 L'histoire qui suit est née d'un petit *skeet* (un post sur le réseau bluesky) de Bert Hubert signalant que l'AIVD envoie une notification à Google à chaque fois qu'un candidat postule pour cette agence.
 
 <div class="flex flex-col items-center">
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:gxyehbdrd7oxjj4nfbwxbtoz/app.bsky.feed.post/3lfknkqpm2c26" data-bluesky-cid="bafyreieh6hdf5oseqfzx6xrr5ivpx23zqne7h4c4x5jgb3szoiusflyauq" data-bluesky-embed-color-mode="system"><p lang="nl">Het is 2025 en je kunt nog steeds niet bij de AIVD solliciteren zonder dat er expliciet bericht naar Google gaat. We zeuren hier al drie jaar over, maar er is kennelijk Niets Aan Te Doen. Er is een speciale aparte knop voor AIVD sollicitaties, maar ook die meldt zich eerst bij Google.<br><br><a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">[image or embed]</a></p>&mdash; Bert Hubert 🇺🇦🇪🇺🇺🇦 (<a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz?ref_src=embed">@berthub.eu</a>) <a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">12 January 2025 at 17:33</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:gxyehbdrd7oxjj4nfbwxbtoz/app.bsky.feed.post/3lfknkqpm2c26" data-bluesky-cid="bafyreieh6hdf5oseqfzx6xrr5ivpx23zqne7h4c4x5jgb3szoiusflyauq" data-bluesky-embed-color-mode="system"><p lang="nl">Het is 2025 en je kunt nog steeds niet bij de AIVD solliciteren zonder dat er expliciet bericht naar Google gaat. We zeuren hier al drie jaar over, maar er is kennelijk Niets Aan Te Doen. Er is een speciale aparte knop voor AIVD sollicitaties, maar ook die meldt zich eerst bij Google.<br><br><a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed" title="toot de Bert Hubert 🇺🇦🇪🇺🇺🇦">[image or embed]</a></p>&mdash; Bert Hubert 🇺🇦🇪🇺🇺🇦 (<a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz?ref_src=embed">@berthub.eu</a>) <a href="https://bsky.app/profile/did:plc:gxyehbdrd7oxjj4nfbwxbtoz/post/3lfknkqpm2c26?ref_src=embed">12 January 2025 at 17:33</a></blockquote>
+<script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script> 
 </div>
+
 
 Les copies d'écran montrent les requêtes envoyées par les candidats à `google-analytics.com`. Il n'y a rien de bien malicieux ici, il s'agit d'une requête pour compter les clics et pouvoir produire des analyses de fréquentation du site. Des millions de sites utilisent *Google Analytics* à cette fin. Même le blog que vous lisez l'a utilisé il y a quelques années ce qui m'a permis de [vous partager quelques tendances](/mon-black-friday/).
 
@@ -68,7 +70,7 @@ Cet épisode rappelle un débat récurent dans toute l'Europe où le manque de m
 
 Ces questions animent la société néerlandaise à l'heure où l'administration des États-Unis use ostensiblement de la dépendance en ses produits technologiques. En mai 2025, Karim Khan, procureur général de la Cour pénale internationale siégeant à la Haye, a perdu l’accès à son compte Microsoft 365, incluant sa messagerie professionnelle, à la suite de sanctions imposées par l’administration de Donald Trump.
 
-La perte de souveraineté n'est pas juste une théorie pour politicien en mal d'argument anti-américain. C'est un risque réel et certain en font l’expérience douloureuse.
+La perte de souveraineté n'est pas juste une théorie pour politicien en mal d'argument anti-américain. C'est un risque réel et certain en font la douloureuse expérience.
 
 ## GA4 supprimé en douce
 

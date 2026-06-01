@@ -26,7 +26,7 @@ Pour berner son monde, Zilla a simplement alimenté sa page facebook, son twitte
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe src="https://player.vimeo.com/video/68079152" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/68079152" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="Sjezus zeg, Zilla - Skype on Vimeo"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -34,7 +34,7 @@ Une autre vidéo de la blagueuse montre ses famille et amis devant l'annonce de 
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe src="https://player.vimeo.com/video/69182140" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/69182140" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="Sjezus zeg, Zilla - de onthulling/reacties on Vimeo"></iframe>
 </div>
 <!-- / HTML -->
 

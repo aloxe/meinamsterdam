@@ -2,7 +2,13 @@
 layout: base
 title: Amsterdam - Prague en train de nuit
 categorie: toering
-tags: ["Amsterdam", "Belgique", "La Haye", "Rotterdam", "transports"]
+tags: 
+- Amsterdam
+- Belgique
+- La Haye
+- Rotterdam
+- transports
+- train
 isMarkdown: true
 thumbnail: trace_european-sleeper.jpg
 image_alt: Projet European Sleeper Bruxelles - Prague
@@ -27,7 +33,7 @@ J'ai déjà parlé ici de l'historique de cette liaison ferroviaire depuis [la C
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MRP7RPy1g5M?si=zFixSwBXoIvGjVF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRP7RPy1g5M?si=zFixSwBXoIvGjVF9" title="Lineas 186 455 komt met European Sleeper nachttrein door Voorhout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 

@@ -39,10 +39,6 @@ TODO Le Waddendobber
 http://www.waddendobber.nl/
 http://www.bulletins-electroniques.com/actualites/65677.htm
 
-Nettoyage des océans
-https://mrmondialisation.org/le-premier-systeme-de-nettoyage-des-oceans-va-etre-lance-en-2016/
-et les français?
-
 Optimisation fiscale néerlandaise
 https://www.youtube.com/watch?v=eJwLU0yWO00&feature=youtu.be
 La Fin ? http://www.lesechos.fr/journal20141210/lec1_monde/0204002400163-les-pays-bas-prets-a-demanteler-leur-paradis-fiscal-1073454.php#gauche_article

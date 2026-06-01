@@ -2,7 +2,12 @@
 layout: base
 title: Le retour du train de nuit
 categorie: toering
-tags: ["sociétés", "transports", "travaux", "écologie"]
+tags: 
+- sociétés
+- transports
+- travaux
+- écologie
+- train
 isMarkdown: true
 thumbnail: trace_-european-sleeper.jpg
 image_alt: Projet European Sleeper Bruxelles - Prague

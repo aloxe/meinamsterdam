@@ -21,7 +21,7 @@ Le Keukenhof attire les foules, chaque jour de mars à mai ce sont des milliers 
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0VXJL1AT4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0VXJL1AT4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="We will bring Keukenhof to you! - Keukenhof Virtually Open"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -32,7 +32,7 @@ L;ouverture s'est donc faite le 24 mars avec une petite capsule musicale d'à pe
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dqMA5s-N1Uw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqMA5s-N1Uw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Enjoy the park! - Keukenhof virtually open"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -40,7 +40,10 @@ Jusque là rien de nouveau par rapport aux bandes annonces que le jardin diffusa
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AGbAagV005s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGbAagV005s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title=" Managing Director Bart Siemerink about the different types of tulips - Keukenhof virtually open
+Visit Keukenhof
+22.6K subscribers
+"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -52,7 +55,7 @@ Le véritable clou de cette chaîne est arrivée aujourd'hui avec une capsule de
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUeI2iINhpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUeI2iINhpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="360° Keukenhof 2020 5K 🌷 - Keukenhof Virtually Open"></iframe>
 </div>
 <!-- / HTML -->
 

@@ -5,6 +5,7 @@ categorie: dagelijks
 tags: 
  - photos
  - transports
+ - train
  - Thalys
 isMarkdown: true
 thumbnail: texas-is-biger-than-france.jpg

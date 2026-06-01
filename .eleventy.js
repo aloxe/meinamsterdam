@@ -1,5 +1,4 @@
 const path = require("path");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const htmlmin = require("html-minifier-terser");
 const postCss = require('postcss');
 const autoprefixer = require('autoprefixer')
@@ -34,6 +33,7 @@ module.exports = async function(eleventyConfig) {
   }
 
   // rss plugin
+  const { default: pluginRss } = await import("@11ty/eleventy-plugin-rss");
   eleventyConfig.addPlugin(pluginRss);
 
   // markdown 
@@ -148,18 +148,6 @@ module.exports = async function(eleventyConfig) {
     // rawText = rawText.replace("/\[^([^\]]*)\]/", ' ', rawText); // remove footer ref
     rawText = rawText.replace(/\[\^[0-9]*\]/g, ' ', rawText); // remove footer ref
     return mdLib.render(rawText);
-  });
-
-    // filter to minify inline js
-  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (code, callback) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error("Terser error: ", err);
-      // Fail gracefully.
-      callback(null, code);
-    }
   });
 
   // allows to include subfooters
@@ -388,7 +376,7 @@ const postcssFilter = (cssCode, done) => {
   postCss([
     tailwind(), // process tailwind with postcss
     autoprefixer,
-    cssnano({ preset: 'default' }) // minify css
+   cssnano({ preset: 'default' }) // minify css
   ])
     .process(cssCode, {
       from: './src/_layouts/css/tailwind.css'

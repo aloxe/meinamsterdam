@@ -21,7 +21,7 @@ Il y a d'abord eu cette campagne de crowdfounding menée par l'[économetriste](
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1EhvTsdR0iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EhvTsdR0iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Maak basisinkomen mogelijk!"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -32,7 +32,7 @@ Le titre du *tegenlicht* du 25 avril 2015 était **argent gratuit** (*Gratis gel
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKf48XCojeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKf48XCojeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="VPRO TEGENLICHT: Gratis Geld"></iframe>
 </div>
 <!-- / HTML -->
 

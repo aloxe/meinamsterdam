@@ -27,7 +27,7 @@ L'étude est disponible [en ligne ici](https://www.cbs.nl/nl-nl/nieuws/2018/17/i
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" title="video" src="https://www.youtube-nocookie.com/embed/AOoFtjSIFA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="video" src="https://www.youtube-nocookie.com/embed/AOoFtjSIFA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Meer verkeersdoden op de fiets dan in de auto"></iframe>
 </div>
 <!-- / HTML -->
 

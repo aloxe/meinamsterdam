@@ -3,7 +3,8 @@ layout: base
 title: Mario Draghi
 description: Voilà un sujet que je voulais traiter depuis longtemps. Un sujet qui touche pres
 categorie: dagelijks
-tags: []
+tags:
+ - monnaie
 isMarkdown: true
 thumbnail: signature-mario-draghi.jpg
 image_alt: la signature de Mario

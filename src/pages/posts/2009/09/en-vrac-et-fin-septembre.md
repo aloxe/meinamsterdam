@@ -2,7 +2,7 @@
 layout: base
 title: En vrac et fin septembre
 categorie: dagelijks
-tags: ["météo"]
+tags: ["météo", "monnaie"]
 isMarkdown: true
 thumbnail: 
 image_alt: 

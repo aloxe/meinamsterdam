@@ -5,6 +5,7 @@ description: Voilà trois ans que je raconte mes aventures dans la capitale Bata
 categorie: dagelijks
 tags: 
  - blog
+ - monnaie
 isMarkdown: true
 thumbnail: 
 image_alt: 

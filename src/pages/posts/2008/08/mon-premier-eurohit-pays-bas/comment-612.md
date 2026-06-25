@@ -8,6 +8,6 @@ permalink: false
 ---
 
 <p>
-Merci à <b>syllho</b> pour son <a href="http://fr.eurobilltracker.eu/profile/?user=130930&referer=31378">inscription</a> et bon tracking de billets en Europe...
+Merci à <b>syllho</b> pour son <a href="http://fr.eurobilltracker.com/profile/?user=130930&referer=31378">inscription</a> et bon tracking de billets en Europe...
 </p>
 ---

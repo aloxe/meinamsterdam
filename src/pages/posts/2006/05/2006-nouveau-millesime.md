@@ -3,7 +3,8 @@ layout: base
 title: 2006, nouveau millésime
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - monnaie
 isMarkdown: true
 thumbnail: centimes-2006-s.png
 image_alt: "centimes d'euro 2006"

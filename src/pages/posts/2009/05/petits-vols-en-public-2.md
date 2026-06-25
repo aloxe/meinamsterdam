@@ -3,7 +3,8 @@ layout: base
 title: Encore de petits vols en public
 description: 
 categorie: dagelijks
-tags: []
+tags: 
+ - monnaie
 isMarkdown: true
 thumbnail: ING-postbank.png
 image_alt: logo Postbank et ING

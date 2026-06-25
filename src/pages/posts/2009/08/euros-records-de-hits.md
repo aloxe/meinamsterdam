@@ -3,7 +3,8 @@ layout: base
 title: "Euros: records de hits"
 description: "Je suis très chanceux ces derniers temps. En plus d'avoir gagné au loto, je me retrouve à faire plein de hits sur eurobilltracker. Mais que ce passe-t-il ?"
 categorie: dagelijks
-tags: []
+tags: 
+ - monnaie
 isMarkdown: true
 thumbnail: 
 image_alt: 

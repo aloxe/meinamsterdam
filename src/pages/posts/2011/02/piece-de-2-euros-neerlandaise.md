@@ -3,7 +3,8 @@ layout: base
 title: La nouvelle pièce de 2 euros néerlandaise
 description: 
 categorie: nederlandjes
-tags: []
+tags: 
+ - monnaie
 isMarkdown: true
 thumbnail: Commemo-NL-2011.jpg
 image_alt: pièce commémorative de 2 euros des Pays-Bas 2011

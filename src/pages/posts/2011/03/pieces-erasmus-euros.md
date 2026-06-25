@@ -2,7 +2,8 @@
 layout: base
 title: Fans des pièces Érasme de 2 euros
 categorie: nederlandjes
-tags: []
+tags: 
+ - monnaie
 isMarkdown: true
 thumbnail: euro-erasmus.jpg
 image_alt: Ma pièce de 2 euros Erasme

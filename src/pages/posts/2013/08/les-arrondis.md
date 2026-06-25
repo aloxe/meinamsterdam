@@ -8,6 +8,7 @@ tags:
  - poste
  - économie
  - shopping
+ - monnaie
 isMarkdown: true
 thumbnail: ticket-Halford-afronding.jpg
 image_alt: 

@@ -12,11 +12,11 @@ isMarkdown: true
 thumbnail: Women_Prins_Hendrikkade.jpg
 image_alt: Des femmes qui passent dans la rue
 permalink: amsterdam-fin-vacances-en-avion/
-date: 2026-07-20
-update: 2026-07-20
+date: 2026-07-21
+update: 2026-07-21
 ---
 
-*Amsterdam met fin aux vacances en avion*. Ce n'est pas moi qui le dis c'est *Le Figaro* qui titre [Pourquoi Amsterdam est devenue la première capitale à interdire la publicité pour des vacances en avion](https://www.lefigaro.fr/voyages/guides/pourquoi-amsterdam-est-devenue-la-premiere-capitale-a-interdire-la-publicite-pour-des-vacances-en-avion-20260624). Bon, l'article n'explique que brièvement pourquoi et souligne que les incitations à changer de voiture et à consommer de la viande sont aussi interdites de publicité, mais faire un article sur les vacances en avion, c'est plutôt vendeur pour un article d'été. Alors je reprends l'idée.
+*Amsterdam met fin aux vacances en avion*. Ce n'est pas moi qui le dis c'est *Le Figaro* qui titre [Pourquoi Amsterdam est devenue la première capitale à interdire la publicité pour des vacances en avion](https://www.lefigaro.fr/voyages/guides/pourquoi-amsterdam-est-devenue-la-premiere-capitale-a-interdire-la-publicite-pour-des-vacances-en-avion-20260624). Bon, l'article n'explique que brièvement pourquoi et souligne que les incitations à changer de voiture et à consommer de la viande, à souscrire un abonnement au gaz sont aussi interdites de publicité, mais faire un article sur les vacances en avion, c'est plutôt vendeur pour un article d'été. Alors je reprends l'idée.
 
 Donc, depuis un arrêté municipal (*Algemene Plaatselijke Verordening*) du 1er mai 2026, les affiches vantant les vols pas chers, les croisières ou les *bitterballen* vont disparaître du paysage amstellodamois. Une première pour une capitale mondiale, mais qui s’inscrit dans une tendance plus large : des villes comme Haarlem, Utrecht, Tilburg ou encore Bloemendaal avaient déjà adopté des règlements similaires dès 2024-2025.
 
@@ -57,7 +57,7 @@ Quant à l’application de l’interdiction de la publicité, c’est un autre 
 ![quatre femmes marchent dans la rue et passent à coté d'une affiche pour un spectacle](Women_Prins_Hendrikkade.jpg)
 __Une affiche autorisée sur Prins Hendrikkade__
 
-Une mesure municipale (*Algemene Plaatselijke Verordening*) comme celle d’Amsterdam n’affecte pas, il est vrai, les publicités des magazines ou de la télévision nationale, et son impact reste donc plus limité qu’une législation nationale. Cela dit, ces petites mesures municipales, multipliées par le nombre de villes, devraient finir par avoir un effet, tout en montrant que des choix clairs[^3] peuvent être faits pour peu qu’on en ait la volonté.
+Une mesure municipale comme celle d’Amsterdam n’affecte pas, il est vrai, les publicités des magazines ou de la télévision nationale. En bas de l'article du Précité j'ai pu cliquer sur un lien me vantant l'exotisme d'une croisière. L'impact de cette mesure reste donc plus limité qu’une législation nationale. Cela dit, ces petites mesures municipales, multipliées par le nombre de villes, devraient finir par avoir un effet, tout en montrant que des choix clairs[^3] peuvent être faits pour peu qu’on en ait la volonté.
 
 ---
 [^1]: Les 150 membres de la convention ont voté pour chacune des 149 propositions, et une seule a été rejetée : *« Réduire le temps de travail sans perte de salaire dans un objectif de sobriété et de réduction des gaz à effet de serre. »*

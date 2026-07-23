@@ -63,3 +63,10 @@ Une mesure municipale comme celle d’Amsterdam n’affecte pas, il est vrai, le
 [^1]: Les 150 membres de la convention ont voté pour chacune des 149 propositions, et une seule a été rejetée : *« Réduire le temps de travail sans perte de salaire dans un objectif de sobriété et de réduction des gaz à effet de serre. »*
 [^2]: Pour les distraits, un rappel que l’[Accord de Paris sur le climat](https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat) a été adopté en 2015.
 [^3]: Il est vrai que dans [Panneaux : besoin de traduction](https://meinamsterdam.nl/panneaux-besoin-de-traduction/), j’exposais plutôt le manque de clarté des règlements municipaux. Mais c’était en 2006, à l’époque je ne parlais pas néerlandais du tout et j’allais en vacances en avion.
+
+<!---
+https://commons.wikimedia.org/wiki/File:Billboard.jpg
+
+source photos:
+https://commons.wikimedia.org/wiki/File:A_group_of_women_is_walking_over_the_pavement_of_the_sidewalk_along_the_road_Prins_Hendrikkade_under_a_grey_and_cloudy_sky;_free_photo_Amsterdam_by_Fons_Heijnsbroek,_April_2010.tif
+----->

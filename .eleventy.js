@@ -8,7 +8,6 @@ const mdit = require('markdown-it');
 const mditAttrs = require('markdown-it-attrs');
 const mditFtNote = require('markdown-it-footnote');
 const hljs = require('highlight.js/lib/core');
-const Image = require('@11ty/eleventy-img');
 const { execSync } = require('child_process');
 const crypto = require('crypto');
 
@@ -35,6 +34,20 @@ module.exports = async function(eleventyConfig) {
   // rss plugin
   const { default: pluginRss } = await import("@11ty/eleventy-plugin-rss");
   eleventyConfig.addPlugin(pluginRss);
+ 
+const { default: Image, eleventyImageTransformPlugin } = await import("@11ty/eleventy-img");
+
+eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+  formats: Images.FORMATS,
+  widths: Images.WIDTHS,
+  htmlOptions: {
+    imgAttributes: {
+      decoding: "async",
+      sizes: Images.SIZES,
+    }
+  }
+});
+
 
   // markdown 
   const mditOptions = {
@@ -72,49 +85,33 @@ module.exports = async function(eleventyConfig) {
   mdLib.renderer.rules.image = (tokens, idx, options, env) => {
 
     if (Object.keys(env).length === 0) {
-      return ""; //"<!--"+ tokens[idx].attrGet('src') + "-->";
+      return "";
     }
 
+    const token = tokens[idx];
+    const imgPath = token.attrGet('src');
+    const isGlobal = imgPath.slice(0, env.meta.public_folder.length) === env.meta.public_folder;
 
-    const token = tokens[idx]
-    const imgPath = token.attrGet('src')
-    const isGlobal = imgPath.slice(0, env.meta.public_folder.length) === env.meta.public_folder
-    const imgSrc = isGlobal 
-      ? "./" + env.meta.media_folder + imgPath.slice(env.meta.public_folder.length)
-      : imgPath.slice(0,1) === "/" 
-        ? env.eleventy.directories.input.slice(0, -1) + imgPath
-        : env.page.inputPath.substring(0, env.page.inputPath.lastIndexOf('/')+1) + imgPath
-      // TODO: check if imgPath.slice(0,1) === "/" ? really necessary?
-    const imgAlt = token.content
-    const imgTitle = token.attrGet('title') ?? ''
-    const className = token.attrGet('class')
-    if (!env.page.outputPath) {
-      // comments don't have output path for images we create it with the comment folder name
-      const output = env.page.inputPath.split("/");
-      env.page.outputPath = env.eleventy.directories.output + output[output.length-2] + "/index.html"
-    }
-    const ImgOptions = getImgOptions(env.page, imgSrc, imgAlt, className, Images.WIDTHS, Images.FORMATS, Images.SIZES);
-    const htmlOptions = {
+    const imgSrc = isGlobal
+      ? "/" + env.meta.media_folder + imgPath.slice(env.meta.public_folder.length)
+      : imgPath;
+
+    const imgAlt = token.content;
+    const imgTitle = token.attrGet('title') ?? '';
+    const className = token.attrGet('class');
+    const isLazy = className?.includes('lazy');
+
+    const attrs = stringifyAttributes({
+      src: imgSrc,
       alt: imgAlt,
       class: className,
-      sizes: Images.SIZES,
-      loading: className?.includes('lazy') ? 'lazy' : undefined,
+      title: imgTitle || undefined,
+      loading: isLazy ? 'lazy' : undefined,
       decoding: 'async',
-      title: imgTitle
-    }
-    Image(imgSrc, ImgOptions)
-    const metadata = Image.statsSync(imgSrc, ImgOptions)
-    const picture = Image.generateHTML(metadata, htmlOptions)
+      sizes: Images.SIZES,
+    });
 
-    // DEBUG IMAGES WITH:
-    // if (token.attrs[0][1] === "IMAGE NAME") {
-    //   console.log(token.attrs[0][1]);
-    //   console.log(token, Images.WIDTHS);
-    //   console.log(metadata, picture);
-    //   console.log("::::::::::::: ::::::::::::");
-    // }
-
-    return picture
+    return `<img ${attrs}>`;
   }
   eleventyConfig.setLibrary('md', mdLib)
 

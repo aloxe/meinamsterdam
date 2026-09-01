@@ -9,7 +9,8 @@ permalink: false
 
 <p>
 Il y a aussi autre photo<br />
-<img src="http://www.bbc.co.uk/blogs/newsnight/dutchgirl_270.jpg" />
+<img src="http://www.bbc.co.uk/blogs/newsnight/dutchgirl_270.jpg" eleventy:ignore />
 </p>
-<!-- http://www.teldesign.nl/index.php/new/blog/zo_nu_eerst/ -->
----
+<!-- http://www.teldesign.nl/index.php/new/blog/zo_nu_eerst/  
+TODO find back
+-->

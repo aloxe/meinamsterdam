@@ -8,6 +8,7 @@ permalink: false
 ---
 
 <p>
-<br/><img src="http://farm4.static.flickr.com/3317/3188635831_c6cee0a2ab.jpg?v=0"/><br/>
+<br/><img src="http://farm4.static.flickr.com/3317/3188635831_c6cee0a2ab.jpg?v=0" eleventy:ignore/><br/>
 </p>
----
+
+<!--TODO: find back-->

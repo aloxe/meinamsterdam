@@ -14,7 +14,7 @@ permalink: false
 <br />
 <strong>@Frank:</strong> Tiens, au fait, j'ai reçu ça:<br />
 <br />
-<a href="http://twitgoo.com/21bzh2"><img src="http://i52.twitgoo.com/2psg68g.jpg" /></a><br />
+<a href="http://twitgoo.com/21bzh2"><img src="http://i52.twitgoo.com/2psg68g.jpg"  eleventy:ignore /></a><br />
 C'est le gros package que tu reçois quand tu commandes ta pièce de 2 euros chez Nederlandse Munhuis... à part la facture c'est un gros paquet de pub, alors j'ai tout jeté.
 </p>
 ---

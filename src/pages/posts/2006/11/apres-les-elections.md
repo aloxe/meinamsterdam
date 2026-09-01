@@ -17,7 +17,6 @@ TODO: no image, no image alt, shortened desc
 
 <p>Les élections législatives Néerlandais ont eu lieu hier. Ce matin, la télé disait que le CDA (<em>Christen-Democratisch Appèl</em>, les démocrates chrétiens) restait le premier parti à la deuxième chambre mais que c'était le SP (<em>Socialistische Partij</em>, Un peu plus à gauche que son homologue français du même nom) le grand vainqueur de ces élections avec 17 sièges de plus.</p>
 
-<div style="width:252px; float:right; padding:0.5em;"><a class="internal" href="http://fr.wikipedia.org/wiki/Image:Netherlands_municipalities_results_2006.png" title="Parti le plus important par commune:"><img alt="Carte des Pays-Bas avec les partis les plus importants par commune" height="288" longdesc="/wiki/Image:Netherlands_municipalities_results_2006.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Netherlands_municipalities_results_2006.png/250px-Netherlands_municipalities_results_2006.png" width="250" /></a> <strong>Parti le plus important par commune:</strong>
 <p style="margin:0;font-size:90%"><span style="border:none;background-color:#00CC1B;color:#00CC1B;">??</span>&nbsp;CDA</p>
 
 <p style="margin:0;font-size:90%"><span style="border:none;background-color:#FF000C;color:#FF000C;">??</span>&nbsp;PvdA</p>

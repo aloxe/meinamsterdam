@@ -93,8 +93,14 @@ eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     const isGlobal = imgPath.slice(0, env.meta.public_folder.length) === env.meta.public_folder;
 
     const imgSrc = isGlobal
-      ? "/" + env.meta.media_folder + imgPath.slice(env.meta.public_folder.length)
-      : imgPath;
+    ? "/" + env.meta.media_folder + imgPath.slice(env.meta.public_folder.length)
+    : imgPath.slice(0, 1) === "/"
+      ? imgPath
+      : "/" + path.relative(
+          env.eleventy.directories.input,
+          path.join(path.dirname(env.page.inputPath), imgPath)
+        );
+
 
     const imgAlt = token.content;
     const imgTitle = token.attrGet('title') ?? '';
@@ -109,6 +115,7 @@ eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
       loading: isLazy ? 'lazy' : undefined,
       decoding: 'async',
       sizes: Images.SIZES,
+      'eleventy:output': env.page.url, // fixed, absolute — always the originating post's own folder (even if used elsewhere)
     });
 
     return `<img ${attrs}>`;

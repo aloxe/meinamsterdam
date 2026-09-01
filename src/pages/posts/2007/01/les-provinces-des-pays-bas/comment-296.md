@@ -9,6 +9,6 @@ permalink: false
 
 <p>
 une nouvelle carte avec toutes les provinces des Pays-Bas. Vous ne pouvez pas dire que je ne vous aide pas<br/>
-<img src="http://upload.wikimedia.org/wikipedia/commons/6/6f/ProvincesOfTheNetherlands.gif" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/6/6f/ProvincesOfTheNetherlands.gif" eleventy:ignore />
 </p>
 ---

@@ -32,5 +32,5 @@ voir aussi **[Albert Hein Bonuskaart](/les-semaines-du-hamster)** et [On schtrou
 [^3]: voir : [Koninklijk, le prédicat royal](/koninklijk-le-predicat-royal)
 [^4]: C'est d'ailleurs l'entreprise elle même qui a signalé cette fraude au fisc.
 <!-- post notes:
-http://eccentricity.m78.com/images/2004/Thalys.jpg
+https://web.archive.org/web/20081118221701/http://eccentricity.m78.com/images/2004/Thalys.jpg
 --->

@@ -29,6 +29,6 @@ Avant 2006, les discours et le contenu de la valise était donné en avance aux 
 
 Cette année, le premier ministre Balkenende a décidé de maintenir l'embargo sur les textes jusqu'à leur présentation à la deuxième chambre. Officiellement c'est pour redonner à cette journée son coté solennel mais c'est aussi un choix judicieux de reporter les critiques quand les télés ne sont pas braquées sur ce qui se passe à la deuxième chambre. Cette présentation des perspectives pour l'année à venir est la dernière pour l'actuel gouvernement et tout le monde est déjà en campagne électorale... Élections prévues en novembre.
 
-[Le site de l'ambassade de France a couvert ce sujet](http://www.ambafrance.nl/article.php?id_article=7698). dans sa revue de presse.
+<!--[Le site de l'ambassade de France a couvert ce sujet](http://www.ambafrance.nl/article.php?id_article=7698). dans sa revue de presse.-->
 
 Lire aussi [Encore un troisième mardi de septembre](/encore-un-troisieme-mardi-de-septembre)

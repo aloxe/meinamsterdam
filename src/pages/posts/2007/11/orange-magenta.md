@@ -25,7 +25,7 @@ Mais il y a plus drole, cette histoire de couleurs ne s'arrête pas là.
 
 ## Une histoire de couleurs
 
-![](merkwaaier.jpg){.right}
+![nuancier pantone avec toutes les couleurs revendiqués par un logo](merkwaaier.jpg){.right}
 Il y a deux ans, quand Monsieur Stelios a lancé [Easymobile](http://www.easymobile.com/) au Royaume-Uni, il a été [ataqué par Orange](http://www.coolsmartphone.com/news1301.html), ce dernier l'accusant d'utiliser **sa** couleur pour semer le trouble dans le marché. T-Mobile ayant racheté Orange, les méthodes d'une entreprise peuvent être aussi employées dans l'autre quite à répéter les conneries. T-Mobile a récement attaqué quelques marques néerlandaises[^1] utiliseant **son** Magenta dans leur logo. Selon [le blog qui m'a filé l'info](http://www.adverblog.com/archives/003298.htm), T-Mobile argue qu'elle a déposé cette couleur comme marque commerciale aurpès de l'[oami](http://oami.europa.eu/en/default.htm). Je ne vais pas commencer un débat ici sur le droit des marques[^2] on voit bien que ce dépot de marque est nul et que ces poursuites sont idiotes. De nombreux activistes s'en offusquent à commencer par les premier à utiliser le magenta: les designers. Ainsi, le site [freemagenta.nl](http://www.freemagenta.nl/) est un brillant homage coloré à la couleur source du litige, tandis que d'autres signent une pétition pour [qu'on leur rende le magenta](http://www.adverblog.com/archives/003298.htm).
 
 ---

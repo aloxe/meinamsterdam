@@ -8,6 +8,6 @@ permalink: false
 ---
 
 <p>
-<a href="https://snipperscomic.files.wordpress.com/2014/06/6.jpg"><img src="http://snipperscomic.files.wordpress.com/2014/06/6.jpg?w=580&h=190" /></a>
+<a href="https://snipperscomic.files.wordpress.com/2014/06/6.jpg"><img src="http://snipperscomic.files.wordpress.com/2014/06/6.jpg?w=580&h=190"  eleventy:ignore /></a>
 </p>
 ---

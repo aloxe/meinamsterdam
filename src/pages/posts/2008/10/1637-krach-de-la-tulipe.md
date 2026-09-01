@@ -27,13 +27,13 @@ C'est bien joli tout ça, ça me rappelle les jolies photos de bouquets à pas c
 
 <!-- HTML -->
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/434146736/" title="Rood tulpen"><img src="http://farm1.static.flickr.com/180/434146736_310a42d9cb_s.jpg" width="75" height="75" alt="Rood tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/434146736/" title="Rood tulpen"><img src="http://farm1.static.flickr.com/180/434146736_310a42d9cb_s.jpg" width="75" height="75" alt="Rood tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/420216121/" title="Houten kleurrijke tulpen"><img src="http://farm1.static.flickr.com/182/420216121_3ee33723d7_s.jpg" width="75" height="75" alt="Houten kleurrijke tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/420216121/" title="Houten kleurrijke tulpen"><img src="http://farm1.static.flickr.com/182/420216121_3ee33723d7_s.jpg" width="75" height="75" alt="Houten kleurrijke tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/438423918/" title="Oud tulpen"><img src="http://farm1.static.flickr.com/175/438423918_8797f4a369_s.jpg" width="75" height="75" alt="Oud tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/438423918/" title="Oud tulpen"><img src="http://farm1.static.flickr.com/175/438423918_8797f4a369_s.jpg" width="75" height="75" alt="Oud tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/437327893/" title="Roze tulpen"><img src="http://farm1.static.flickr.com/171/437327893_3d3abbb4bc_s.jpg" width="75" height="75" alt="Roze tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/437327893/" title="Roze tulpen"><img src="http://farm1.static.flickr.com/171/437327893_3d3abbb4bc_s.jpg" width="75" height="75" alt="Roze tulpen"  eleventy:ignore /></a></p>
 
 <div style="clear:both;"></div>
 <!-- / HTML -->

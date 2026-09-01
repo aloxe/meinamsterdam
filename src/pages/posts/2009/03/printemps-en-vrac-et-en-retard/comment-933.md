@@ -11,7 +11,7 @@ permalink: false
 Bonjour Corine,<br/><br/>
 C'est bien la <b>chambre 902</b>, pour preuve une autre photo de l'expo Nico Koster qui m'a permis d'illustrer cet article. Je pense que le photographe se souvient mieux du numéro de la chambre que Yahoo etc. les gros sites qui font croire qu'ils font des news mais ne vérifient pas l'information...
 <br/><br/>
-<img src="hhttps://meinamsterdam.nl/printemps-en-vrac-et-en-retard/hair-peace-bed-peace-426w.jpeg"  alt="Expo John Lennon et Yoko Ono par Nico Koster" align="center"/>
+<img src="hhttps://meinamsterdam.nl/printemps-en-vrac-et-en-retard/hair-peace-bed-peace-426w.jpeg"  alt="Expo John Lennon et Yoko Ono par Nico Koster" align="center" eleventy:ignore />
 <br/><br/>
 Véronique m'écrit au sujet de la procession silencieuse:
 </p>

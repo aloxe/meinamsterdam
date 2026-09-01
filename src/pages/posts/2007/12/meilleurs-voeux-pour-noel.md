@@ -15,6 +15,6 @@ subfooters:
  - noel
 ---
 
-Une courte intervention avant le reveillon pour présenter mes voeux à ceux qui ne les ont pas encore reçu.
+Une courte intervention avant le reveillon pour présenter mes vœux à ceux qui ne les ont pas encore reçu.
 
 ![prettige kerst](prettige-kerst.png){.center}

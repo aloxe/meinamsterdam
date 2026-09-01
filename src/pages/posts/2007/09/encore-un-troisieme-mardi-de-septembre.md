@@ -13,7 +13,7 @@ update: 2015-09-15
 
 ![Derde Dinsdag in September](miljardenkoffertje_op_het_Binnenhof.jpg){.center}
 
-Ceux qui suivent ce blog, savent bien ce que représente le troisime mardi de septembre aux Pays-Bas. J'ai expliqué l'année dernière que ce jour était [le jour du Prinsjesdag](/le-jour-du-prinsjesdag), la journée très protocolaire de présentation du budget. L'année dernière je regardais tranquilement la diffusion de cet évènement à la télé. **Gerrit Zalm** le libéral du VVD se balladait dans les rues avec sa valise en bois et la reine a fait un discours dans une salle ou toutes les femmes participaient au concours du plus beau chapeau.
+Ceux qui suivent ce blog, savent bien ce que représente le troisime mardi de septembre aux Pays-Bas. J'ai expliqué l'année dernière que ce jour était [le jour du Prinsjesdag](/le-jour-du-prinsjesdag), la journée très protocolaire de présentation du budget. L'année dernière je regardais tranquilement la diffusion de cet évènement à la télé. **Gerrit Zalm** le libéral du VVD se balladait dans les rues avec sa valise en bois et la reine a fait un discours dans une salle où toutes les femmes participaient au concours du plus beau chapeau.
 
 Cette année beaucoup de choses ont changé...
 

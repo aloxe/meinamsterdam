@@ -43,7 +43,7 @@ Voici donc quelques photos de hareng et de hollandais...
 
 </td><td align=center>
 
-![couple qui mange prè d'une roulotte](hollandse-nieuwe-haring_8441carre200.jpg)  
+![couple qui mange près d'une roulotte](hollandse-nieuwe-haring_8441carre200.jpg)  
 **Harengs pour le goûter**  
 ([agrandir](http://www.flickr.com/photos/13274211@N00/542053717/ ))
 

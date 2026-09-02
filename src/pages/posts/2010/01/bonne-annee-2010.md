@@ -31,7 +31,7 @@ update: 2010-01-04
 	  </P>
 <!-- / HTML -->
 
-<!--Gone  <img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;" /> 
+<!--Gone  <img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;"  eleventy:ignore /> 
 
 TODO: find back image ☝
 +resize with MD

@@ -23,14 +23,14 @@ La Hollande, pays connu pour [ses moulins](/les-moulins-d-amsterdam) ses [vélos
 ***Fiets*** veut dire vélo. C'est un mot singulier parce qu'en néerlandais, le pluriel les mots au pluriel se terminent par *en*  (**les vélos : *fietsen***)
 
 <!-- HTML -->
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/1460208022/" title="Fietsflat"><img src="http://farm2.static.flickr.com/1258/1460208022_daca704389_s.jpg" width="75" height="75" alt="Fietsflat" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/1460208022/" title="Fietsflat"><img src="http://farm2.static.flickr.com/1258/1460208022_daca704389_s.jpg" width="75" height="75" alt="Fietsflat"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/271214885/" title="Amsterdam colored bikes"><img src="http://farm1.static.flickr.com/111/271214885_4ec9ede525_s.jpg" width="75" height="75" alt="Amsterdam colored bikes" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/271214885/" title="Amsterdam colored bikes"><img src="http://farm1.static.flickr.com/111/271214885_4ec9ede525_s.jpg" width="75" height="75" alt="Amsterdam colored bikes"  eleventy:ignore /></a></p>
 
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="/les-velos-en-couleur" title="Fiets in de Vondelpark"><img src="http://farm4.static.flickr.com/3233/2649371288_3a236104a4_s.jpg" width="75" height="75" alt="Kleurijke fietsen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="/les-velos-en-couleur" title="Fiets in de Vondelpark"><img src="http://farm4.static.flickr.com/3233/2649371288_3a236104a4_s.jpg" width="75" height="75" alt="Kleurijke fietsen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/409185064/" title="Vele dode fietsen"><img src="http://farm1.static.flickr.com/102/409185064_e881d732b4_s.jpg" width="75" height="75" alt="Vele dode fietsen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/409185064/" title="Vele dode fietsen"><img src="http://farm1.static.flickr.com/102/409185064_e881d732b4_s.jpg" width="75" height="75" alt="Vele dode fietsen"  eleventy:ignore /></a></p>
 <div style="clear:both;"></div>
 <!-- / HTML -->
 
@@ -40,14 +40,14 @@ La Hollande, pays connu pour [ses moulins](/les-moulins-d-amsterdam) ses [vélos
 
 <!-- HTML -->
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/707403921/" title="De Otter molen"><img src="http://farm2.static.flickr.com/1027/707403921_700b84f0be_s.jpg" width="75" height="75" alt="De Otter molen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/707403921/" title="De Otter molen"><img src="http://farm2.static.flickr.com/1027/707403921_700b84f0be_s.jpg" width="75" height="75" alt="De Otter molen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/634276388/" title="De Bloem molen"><img src="http://farm2.static.flickr.com/1063/634276388_b1f62dd7f2_s.jpg" width="75" height="75" alt="De Bloem molen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/634276388/" title="De Bloem molen"><img src="http://farm2.static.flickr.com/1063/634276388_b1f62dd7f2_s.jpg" width="75" height="75" alt="De Bloem molen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/2652656290/" title="Oud en nieuw, met de wind"><img src="http://farm4.static.flickr.com/3240/2652656290_ae718390ec_s.jpg" width="75" height="75" alt="De Bloem molen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/2652656290/" title="Oud en nieuw, met de wind"><img src="http://farm4.static.flickr.com/3240/2652656290_ae718390ec_s.jpg" width="75" height="75" alt="De Bloem molen"  eleventy:ignore /></a></p>
 
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/2275226657/" title="VDe 1100 Roe"><img src="http://farm3.static.flickr.com/2173/2275226657_6084d390a7_s.jpg" width="75" height="75" alt="De 1100 Roe" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/2275226657/" title="VDe 1100 Roe"><img src="http://farm3.static.flickr.com/2173/2275226657_6084d390a7_s.jpg" width="75" height="75" alt="De 1100 Roe"  eleventy:ignore /></a></p>
 
 <div style="clear:both;"></div>
 <!-- / HTML -->
@@ -59,13 +59,13 @@ Vous avez compris le principe ? essayez-donc avec le mot tulipe :
 
 <!-- HTML -->
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/434146736/" title="Rood tulpen"><img src="http://farm1.static.flickr.com/180/434146736_310a42d9cb_s.jpg" width="75" height="75" alt="Rood tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/434146736/" title="Rood tulpen"><img src="http://farm1.static.flickr.com/180/434146736_310a42d9cb_s.jpg" width="75" height="75" alt="Rood tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/420216121/" title="Houten kleurrijke tulpen"><img src="http://farm1.static.flickr.com/182/420216121_3ee33723d7_s.jpg" width="75" height="75" alt="Houten kleurrijke tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/420216121/" title="Houten kleurrijke tulpen"><img src="http://farm1.static.flickr.com/182/420216121_3ee33723d7_s.jpg" width="75" height="75" alt="Houten kleurrijke tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/438423918/" title="Oud tulpen"><img src="http://farm1.static.flickr.com/175/438423918_8797f4a369_s.jpg" width="75" height="75" alt="Oud tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/438423918/" title="Oud tulpen"><img src="http://farm1.static.flickr.com/175/438423918_8797f4a369_s.jpg" width="75" height="75" alt="Oud tulpen"  eleventy:ignore /></a></p>
 
-<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/437327893/" title="Roze tulpen"><img src="http://farm1.static.flickr.com/171/437327893_3d3abbb4bc_s.jpg" width="75" height="75" alt="Roze tulpen" /></a></p>
+<p style="float: left; padding: 4px 4px 4px 4px; border: 1px solid #ddd; background: #fff; margin: 2px;"><a href="http://www.flickr.com/photos/13274211@N00/437327893/" title="Roze tulpen"><img src="http://farm1.static.flickr.com/171/437327893_3d3abbb4bc_s.jpg" width="75" height="75" alt="Roze tulpen"  eleventy:ignore /></a></p>
 
 <div style="clear:both;"></div>
 <!-- / HTML -->

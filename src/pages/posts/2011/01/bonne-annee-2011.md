@@ -42,7 +42,7 @@ border:3px solid black;
 <h2>Head Uut Aastat</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree02.jpg" alt="adopt a tree" width="500" height="314" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree02.jpg" alt="adopt a tree" width="500" height="314"  eleventy:ignore /><br />
 standing and lying
 
 </p>
@@ -51,7 +51,7 @@ standing and lying
 <h2>&#4306;&#4312;&#4314;&#4317;&#4330;&#4304;&#4309;&#4311; &#4304;&#4334;&#4304;&#4314; &#4332;&#4308;&#4314;&#4321;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree03.jpg" alt="adopt a tree" width="500" height="326" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree03.jpg" alt="adopt a tree" width="500" height="326"  eleventy:ignore /><br />
 freshly cut
 </p>
 
@@ -60,7 +60,7 @@ freshly cut
 
 <p>
 
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree04.jpg" alt="adopt a tree" width="500" height="309" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree04.jpg" alt="adopt a tree" width="500" height="309"  eleventy:ignore /><br />
 leaves as a tree
 </p>
 
@@ -68,7 +68,7 @@ leaves as a tree
 <h2>&#1057; &#1053;&#1086;&#1074;&#1099;&#1084; &#1043;&#1086;&#1076;&#1086;&#1084;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree05.jpg" alt="adopt a tree" width="500" height="342" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree05.jpg" alt="adopt a tree" width="500" height="342"  eleventy:ignore /><br />
 couldn't cross the street
 </p>
 
@@ -76,14 +76,14 @@ couldn't cross the street
 <h2>&#352;&#357;astn&#253; nov&#253; rok</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree01.JPG" alt="adopt a tree" width="500" height="309" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree01.JPG" alt="adopt a tree" width="500" height="309"  eleventy:ignore /><br />
 lying and standing
 </p>
 
 <h2>feliz a&ntilde;o nuevo</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree06.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map2" />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree06.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map2"  eleventy:ignore />
 <map name="Map2" id="Map2">
   <area shape="poly" coords="482,303,369,329,245,329,217,283,193,233,238,190,311,138,349,194,406,194,423,229,471,237" href="/eugene-poubelle-prefet-amsterdam"  />
 </map><br />
@@ -95,7 +95,7 @@ carbonised
 <h2>&#1587;&#1575;&#1604; &#1606;&#1608; &#1605;&#1576;&#1575;&#1585;&#1705;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree07.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map" />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree07.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map"  eleventy:ignore />
 <map name="Map" id="Map"><area shape="rect" coords="349,66,453,171" href="http://www.facebook.com/pages/Drooderfiets/111290696004" alt="Drooderfiets facebook page"  />
 </map><br />
 sponsored by <a href="https://pixelfed.social/drooderfiets">drooderfiets</a>
@@ -105,7 +105,7 @@ sponsored by <a href="https://pixelfed.social/drooderfiets">drooderfiets</a>
 <h2>Gle&#240;ilegt n&#253;&#225;r</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree08.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map3" />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree08.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map3"  eleventy:ignore />
 <map name="Map3" id="Map3"><area shape="rect" coords="375,192,485,282" href="/les-demenageurs-futes"  />
 </map><br />
 ready to move
@@ -115,7 +115,7 @@ ready to move
 <h2>&#35504;&#12418;&#12364;&#24184;&#12379;&#12394;&#26032;&#24180;&#12434;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree09.JPG" alt="adopt a tree" width="500" height="335" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree09.JPG" alt="adopt a tree" width="500" height="335"  eleventy:ignore /><br />
 
 small but still standing
 </p>
@@ -124,7 +124,7 @@ small but still standing
 <h2>godt nyt&aring;r</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree10.JPG" alt="adopt a tree" width="500" height="333" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree10.JPG" alt="adopt a tree" width="500" height="333"  eleventy:ignore /><br />
 roasted
 </p>
 
@@ -132,14 +132,14 @@ roasted
 <h2>&#49352;&#54644; &#48373;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree22.JPG" alt="adopt a tree" width="500" height="198" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree22.JPG" alt="adopt a tree" width="500" height="198"  eleventy:ignore /><br />
 caught in the act
 </p>
 
 <h2>Ch&uacute;c m&#7915;ng n&#259;m</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree11.JPG" alt="adopt a tree" width="500" height="323" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree11.JPG" alt="adopt a tree" width="500" height="323"  eleventy:ignore /><br />
 various colour and shape
 </p>
 
@@ -147,7 +147,7 @@ various colour and shape
 <h2>feliz ano novo</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree12.JPG" alt="adopt a tree" width="500" height="333" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree12.JPG" alt="adopt a tree" width="500" height="333"  eleventy:ignore /><br />
 hiding behind and in plastic bags
 </p>
 
@@ -155,7 +155,7 @@ hiding behind and in plastic bags
 <h2>Mutlu Y&#305;llar</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree13.JPG" alt="adopt a tree" width="500" height="340" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree13.JPG" alt="adopt a tree" width="500" height="340"  eleventy:ignore /><br />
 murdered and cut in pieces
 </p>
 
@@ -163,7 +163,7 @@ murdered and cut in pieces
 <h2>&epsilon;&upsilon;&tau;&upsilon;&chi;&iota;&sigma;&mu;&#941;&nu;&omicron; &tau;&omicron; &nu;&#941;&omicron; &#941;&tau;&omicron;&sigmaf;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree14.JPG" alt="adopt a tree" width="500" height="333" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree14.JPG" alt="adopt a tree" width="500" height="333"  eleventy:ignore /><br />
 the trams drivers celebrate 2011
 </p>
 
@@ -171,14 +171,14 @@ the trams drivers celebrate 2011
 <h2>bonne ann&eacute;e &agrave; tous</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree19.JPG" alt="adopt a tree" width="500" height="318" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree19.JPG" alt="adopt a tree" width="500" height="318"  eleventy:ignore /><br />
 they want to be recycled
 </p>
 
 
 <h2>manigong bagong taon</h2>
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree20.JPG" alt="adopt a tree" width="500" height="310" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree20.JPG" alt="adopt a tree" width="500" height="310"  eleventy:ignore /><br />
 ready and shaved
 </p>
 
@@ -186,14 +186,14 @@ ready and shaved
 <h2>buon anno</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree21.JPG" alt="adopt a tree" width="500" height="333" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree21.JPG" alt="adopt a tree" width="500" height="333"  eleventy:ignore /><br />
 big and sewed
 </p>
 
 <h2>&#26032;&#24180;&#22909;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree15.JPG" alt="adopt a tree" width="500" height="326" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree15.JPG" alt="adopt a tree" width="500" height="326"  eleventy:ignore /><br />
 on top of a mountain of rubbish
 </p>
 
@@ -201,7 +201,7 @@ on top of a mountain of rubbish
 <h2>gutes neues Jahr</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree16.JPG" alt="adopt a tree" width="500" height="328" border="0" usemap="#Map4" />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree16.JPG" alt="adopt a tree" width="500" height="328" border="0" usemap="#Map4"  eleventy:ignore />
 <map name="Map4" id="Map4">
   <area shape="poly" coords="215,299,243,327,291,311,297,282,265,254,224,272" href="/les-bruits-du-nouvel-an"  />
 </map><br />
@@ -212,7 +212,7 @@ after having played with fireworks
 <h2>&#1587;&#1606;&#1577; &#1580;&#1583;&#1610;&#1583;&#1577; &#1587;&#1593;&#1610;&#1583;&#1577;</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree17.JPG" alt="adopt a tree" width="500" height="333" /><br />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree17.JPG" alt="adopt a tree" width="500" height="333"  eleventy:ignore /><br />
 old and bold
 
 </p>
@@ -221,7 +221,7 @@ old and bold
 <h2>Happy New Year</h2>
 
 <p>
-<img src="http://alix.guillard.fr/voeux/2011/adoptatree18.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map5" />
+<img src="http://alix.guillard.fr/voeux/2011/adoptatree18.JPG" alt="adopt a tree" width="500" height="333" border="0" usemap="#Map5"  eleventy:ignore />
 <map name="Map5" id="Map5"><area shape="rect" coords="101,82,454,320" href="/plein-de-velos"  />
 </map><br />
 already adopted

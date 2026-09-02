@@ -65,7 +65,7 @@ longdesc="/wiki/Image:Flag_of_Portugal.svg" />
 </tr>
 <tr align="center">
 <td>2</td>
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/20px-Flag_of_Scotland.svg.png" alt="Écosse" width="20" height="12" longdesc="/wiki/Image:Flag_of_Scotland.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/20px-Flag_of_Scotland.svg.png" alt="Écosse" width="20" height="12" longdesc="/wiki/Image:Flag_of_Scotland.svg"  eleventy:ignore /></td>
 <td><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Celtic.gif/20px-Celtic.gif" alt="" width="20" height="20" longdesc="/wiki/Image:Celtic.gif" /--> Celtic de Glasgow</td>
 <td>0-0</td>
 <td>0-<b>1</b></td>
@@ -84,7 +84,7 @@ longdesc="/wiki/Image:Flag_of_Italy.svg" /></td>
 </tr>
 <tr align="center">
 <td>3</td>
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" alt="Pays-Bas" width="20" height="13" longdesc="/wiki/Image:Flag_of_the_Netherlands.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" alt="Pays-Bas" width="20" height="13" longdesc="/wiki/Image:Flag_of_the_Netherlands.svg"  eleventy:ignore /></td>
 <td bgcolor="#EAEAEA"><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PSV.gif/20px-PSV.gif" alt="" width="20" height="15" longdesc="/wiki/Image:PSV.gif" /--> PSV Eindhoven</td>
 <td><b>1</b>-0</td>
 <td><b>2</b>-1</td>
@@ -95,11 +95,11 @@ src="http://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Arsenal_FC-1-.png/20px-
 alt="" width="20" height="23" longdesc="/wiki/Image:Arsenal_FC-1-.png"
 /--> Arsenal</td>
 
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg"  eleventy:ignore /></td>
 </tr>
 <tr align="center">
 <td>4</td>
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" alt="France" width="20" height="13" longdesc="/wiki/Image:Flag_of_France.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" alt="France" width="20" height="13" longdesc="/wiki/Image:Flag_of_France.svg"  eleventy:ignore /></td>
 <td><!--img
 src="http://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/LilleOSC.gif/23px-LilleOSC.gif"
 alt="" width="23" height="19" longdesc="/wiki/Image:LilleOSC.gif" /-->
@@ -114,11 +114,11 @@ src="http://upload.wikimedia.org/wikipedia/fr/thumb/8/80/ManUtd.gif/23px-ManUtd.
 alt="" width="23" height="23" longdesc="/wiki/Image:ManUtd.gif" /-->
 Manchester United</td>
 
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg"  eleventy:ignore /></td>
 </tr>
 <tr align="center">
 <td>5</td>
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italie" width="20" height="13" longdesc="/wiki/Image:Flag_of_Italy.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italie" width="20" height="13" longdesc="/wiki/Image:Flag_of_Italy.svg"  eleventy:ignore /></td>
 <td bgcolor="#EAEAEA"><!--img
 src="http://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Asrome.gif/18px-Asrome.gif"
 alt="" width="18" height="23" longdesc="/wiki/Image:Asrome.gif" /-->
@@ -134,7 +134,7 @@ alt="France" width="20" height="13" /></td>
 </tr> 
 <tr align="center">
 <td>6</td>
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg"  eleventy:ignore /></td>
 
 <td><!--img
 src="http://upload.wikimedia.org/wikipedia/fr/thumb/5/54/140px-FC_Barcelona_logo.gif/17px-140px-FC_Barcelona_logo.gif"
@@ -148,30 +148,30 @@ src="http://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Liverpoolfc.gif/18px-Li
 alt="" width="18" height="24" longdesc="/wiki/Image:Liverpoolfc.gif"
 /--> Liverpool FC</td>
 
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" alt="Angleterre" width="20" height="12" longdesc="/wiki/Image:Flag_of_England.svg"  eleventy:ignore /></td>
 </tr>
 
 <tr align="center">
 <td>7</td>
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg"  eleventy:ignore /></td>
 <td><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Real.gif/20px-Real.gif" alt="" width="20" height="20" longdesc="/wiki/Image:Real.gif" /--> Real Madrid</td>
 <td><b>3</b>-2</td>
 <td>4-<b>4</b></td>
 <td>1-<b>2</b></td>
 <td bgcolor="#EAEAEA"><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/e/ec/BayernMunich.gif/21px-BayernMunich.gif" alt="" width="21" height="21" longdesc="/wiki/Image:BayernMunich.gif" /--> Bayern de Munich</td>
 
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="Allemagne" width="20" height="12" longdesc="/wiki/Image:Flag_of_Germany.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="Allemagne" width="20" height="12" longdesc="/wiki/Image:Flag_of_Germany.svg"  eleventy:ignore /></td>
 </tr>
 <tr align="center">
 <td>8</td>
-<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italie" width="20" height="13" longdesc="/wiki/Image:Flag_of_Italy.svg" /></td>
+<td><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="Italie" width="20" height="13" longdesc="/wiki/Image:Flag_of_Italy.svg"  eleventy:ignore /></td>
 <td><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/3/32/Inter.gif/21px-Inter.gif" alt="" width="21" height="20" longdesc="/wiki/Image:Inter.gif" /--> Inter Milan</td>
 <td>2-2</td>
 <td>2-<b>2</b></td>
 <td>0-0</td>
 <td bgcolor="#EAEAEA"><!--img src="http://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Valencia_cf.gif/17px-Valencia_cf.gif" alt="" width="17" height="25" longdesc="/wiki/Image:Valencia_cf.gif" /--> Valence CF</td>
 
-<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg" /></td>
+<td bgcolor="#EAEAEA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="Espagne" width="20" height="13" longdesc="/wiki/Image:Flag_of_Spain.svg"  eleventy:ignore /></td>
 </tr>
 </table>
 <!-- / HTML -->

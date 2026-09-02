@@ -14,8 +14,8 @@ const crypto = require('crypto');
 // sizes and formats of resized images to make them responsive
 // it can be overwriten when using the "Picture" short code
 const Images = {
-  WIDTHS: [426], // WIDTHS: [426, 460, 580, 768, 1200], // sizes of generated images
-  FORMATS: ['jpeg'], // ['webp', 'jpeg'], // formats of generated images
+  WIDTHS: [426, 460, 580, 852], // sizes of generated images
+  FORMATS: ['webp', 'jpeg'], // formats of generated images
   SIZES: '(max-width: 1200px) 70vw, 1200px' // size of image rendered
 }
 

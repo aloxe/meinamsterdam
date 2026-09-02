@@ -1,10 +1,10 @@
 when:
 #  - event: manual #secret "USERNAME" is not allowed to be used with pipeline event "manual"
-  - event: push
+  - event: [push, manual]
     branch: test
 steps:
   - name: Use Node et 🛠️ Install 
-    image: node
+    image: node:24
     commands:
      - npm install
      - npm run build

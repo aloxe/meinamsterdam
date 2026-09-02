@@ -4,7 +4,7 @@ when:
 
 steps:
   - name: ⛓️ Use Node et 🛠️ Install 
-    image: node
+    image: node:24
     commands:
      - npm install
      - npm run build

@@ -17,7 +17,9 @@ update: 2010-01-04
 </p> 
  
 <p style="background-color:#000000; color:#FFFFFF; text-align:center; width:100%; font-size:smaller; padding:5px;">
-<img alt="feux d'artifices à Rotterdam" class="center" loading="undefined" decoding="async" title="" src="/bonne-annee-2010/bonne-annee-2010-426w.jpeg" width="800" height="531" srcset="/bonne-annee-2010/bonne-annee-2010-426w.jpeg 426w, /bonne-annee-2010/bonne-annee-2010-800w.jpeg 800w" sizes="(max-width: 1200px) 70vw, 1200px">
+
+
+<img alt="feux d'artifices à Rotterdam" class="center" loading="undefined" decoding="async" src="bonne-annee-2010.jpg" eleventy:ignore >
 <a href="http://www.flickr.com/photos/rubenvanstaveren/4232640613/" style="color:#f4cab9;"><i>Oud en Nieuw bij Rotterdam</i></a>. Photo by: <a href="http://ruben.is.verweg.com/" style="color:#f4cab9;">Ruben van Staveren</a>
 </p> 
  
@@ -29,4 +31,8 @@ update: 2010-01-04
 	  </P>
 <!-- / HTML -->
 
-<!--Gone  <img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;" /> -->
+<!--Gone  <img src="http://alix.guillard.fr/voeux/2010/bonne-annee-2010-noir.jpg" alt="Photo Bonne Ann&eacute;e 2010" style="display:block; margin:0 auto; border:0;"  eleventy:ignore /> 
+
+TODO: find back image ☝
++resize with MD
+-->

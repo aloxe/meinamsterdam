@@ -8,5 +8,5 @@ permalink: false
 ---
 
 <p>Les hamsters de Albert Hein. Ils sont horribles</p>
-<p><img src="https://scontent-b.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10390487_10152204229748388_8726296401782494537_n.jpg" /></p>
+<p><img src="https://scontent-b.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10390487_10152204229748388_8726296401782494537_n.jpg"  eleventy:ignore /></p>
 ---

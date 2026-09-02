@@ -28,7 +28,7 @@ On n'invite pas des ingénieurs du monde entier sans faire en sorte qu'ils quitt
 
 ## Le groupe de travail caché
 <!-- HTML -->
-<a href="http://bert.secret-wg.org/ReadBy.html" title="READ By Certification"> <img src="http://bert.secret-wg.org/ReadBy-small.jpg" border="0" alt="READ BY Certification" style="float:right;"></a>
+<a href="http://bert.secret-wg.org/ReadBy.html" title="READ By Certification"> <img src="http://bert.secret-wg.org/ReadBy-small.jpg" border="0" alt="READ BY Certification" style="float:right;" eleventy:ignore ></a>
 
 C'est paraît-il une tradition, [à chaque meeting](http://bert.secret-wg.org/), un groupe de travail non prévu au programme présente à la plénière de cloture le résultat de ses travaux. Les sujets sont généralement les sujets chauds du moment mais ces derniers sont abordés sous un angle plus relaché après quoi, tout le monde de repartir avec le sourire. Je me permet de vous faire partager ce moment ou l'épuisement des adresses IPv4 est abordé en chanson par le groupe de travail secret[^4] Ca s'appelle **The Day The Routers Died...** (ai-je dit que le chanteur bossait chez Cisco?).
 

@@ -13,7 +13,7 @@ permalink: false
 Alleen via het Postkantoor!<br/>
 MAAK KANS OP EEN PRIJS VAN  50.000,- 
 <br/><br/>
-<img src="/me-in-amsterdam/images/scans/Decemberkraszegel.jpg" alt="Decemberkraszegel" />
+<img src="/me-in-amsterdam/images/scans/Decemberkraszegel.jpg" alt="Decemberkraszegel" eleventy:ignore />
 <br/><br/>
 20 winkansen voor  3,- toeslag
 De unieke Decemberkraszegels hebben het voordelige decembertarief van

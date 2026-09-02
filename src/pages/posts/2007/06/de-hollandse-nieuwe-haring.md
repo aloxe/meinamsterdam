@@ -5,8 +5,8 @@ description:
 categorie: nederlandjes
 tags: []
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: hollandse-nieuwe-haring_8441carre200.jpg
+image_alt: couple qui mange près d'une roulotte
 permalink: de-hollandse-nieuwe-haring/
 date: 2007-06-09
 update: 2007-07-07

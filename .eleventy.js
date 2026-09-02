@@ -101,6 +101,10 @@ eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
           path.join(path.dirname(env.page.inputPath), imgPath)
         );
 
+    // comments and unpublished don't have a resolved page.url yet at render time
+    // fall back to the containing folder name.
+    const pageUrl = env.page.url
+    || "/" + env.page.inputPath.split("/").slice(-2, -1)[0] + "/";
 
     const imgAlt = token.content;
     const imgTitle = token.attrGet('title') ?? '';
@@ -115,7 +119,7 @@ eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
       loading: isLazy ? 'lazy' : undefined,
       decoding: 'async',
       sizes: Images.SIZES,
-      'eleventy:output': env.page.url, // fixed, absolute — always the originating post's own folder (even if used elsewhere)
+      'eleventy:output': pageUrl, // fixed, absolute — always the originating post's own folder (even if used elsewhere)
     });
 
     return `<img ${attrs}>`;

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Amsterdam met fin aux vacances en avion
-description: Amsterdam interdit les pubs pour les vols et la viande, une leçon de pragmatisme climatique face à l’inaction française. Décryptage des mesures néerlandaises et des occasions ratées en France. 
+description: Amsterdam interdit les pubs pour les vols et la viande (pas les vols de viande), une leçon de pragmatisme climatique face à l’inaction française. Décryptage des mesures néerlandaises et des occasions ratées en France. 
 categorie: nederlandjes
 tags:
  - avion

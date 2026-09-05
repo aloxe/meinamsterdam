@@ -41,6 +41,9 @@ eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
   formats: Images.FORMATS,
   widths: Images.WIDTHS,
   htmlOptions: {
+  failOnError: false,
+  concurrency: 4, // fewer simultaneous connections = less chance of hitting a stale keep-alive socket
+
     imgAttributes: {
       decoding: "async",
       sizes: Images.SIZES,

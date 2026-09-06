@@ -33,15 +33,11 @@ Avant 2021, j'offrais mon flux RSS au travers d'un service qui s'appelait FeedBu
 
 FeedBurner a été racheté par Google en 2007 qui l'a maintenu sans le modifier jusqu'en 2021. Après cela, Google a annoncé que le service allait changer pour une structure plus stable et moderne (comprenez *sera bientôt supprimé*) et que les personnes qui s'en servaient pour la newsletter devaient trouver une alternative au plus vite.
 
-![Hi Alix,
-FeedBurner has been a part of Google for almost 14 years, and we're making several upcoming changes to support the product's next chapter. 
-Here's what you can expect to change and what you can do now to ensure you're prepared.
-Starting in July, we are transitioning FeedBurner onto a more stable, modern infrastructure. This will keep the product up and running for all users, but it also means that we will be turning down most non-core feed management features, including email subscriptions, at that time.
-For those who use FeedBurner email subscriptions, we recommend downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
+![Hi Alix, FeedBurner has been a part of Google for almost 14 years, and we’re making several upcoming changes to support the product’s next chapter. Here’s what you can expect to change and what you can do now to ensure you’re prepared. Starting in July, we are transitioning FeedBurner onto a more stable, modern infrastructure. This will keep the product up and running for all users, but it also means that we will be turning down most non-core feed management features, including email subscriptions, at that time. For those who use FeedBurner email subscriptions, we recommend downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
 
 J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Hélas le nouveau service a très vite commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface moche. *Follow it* a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
 
-![capture d'écran d'une alerte Follow.it](follow.it-promotion.png){.center}
+![capture d’écran d’une alerte Follow.it](follow.it-promotion.png){.center}
 
 Il fallait donc que j’arrête d’utiliser ce service. J’ai pensé utiliser un service comme *Mailchimp* ou *Brevo* pour partager mes contenus, mais c’était à nouveau m’appuyer sur un service qui pouvait se transformer au moment où je m’y attends le moins.
 

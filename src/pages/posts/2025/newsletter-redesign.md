@@ -29,7 +29,7 @@ Tout blog qui se respecte offre un flux RSS ([le mien est ici](https://meinamste
 
 Avant 2021, j'offrais mon flux RSS au travers d'un service qui s'appelait FeedBurner. Ce service permettait aussi de recevoir les nouveaux articles par mail. C'est grâce à cela que j'ai commencé à offrir un service de newsletter.
 
-![capture d'écran "abonnez-vous"](abonnez-vous.png){.center}
+![capture d'écran « abonnez-vous »](abonnez-vous.png){.center}
 
 FeedBurner a été racheté par Google en 2007 qui l'a maintenu sans le modifier jusqu'en 2021. Après cela, Google a annoncé que le service allait changer pour une structure plus stable et moderne (comprenez *sera bientôt supprimé*) et que les personnes qui s'en servaient pour la newsletter devaient trouver une alternative au plus vite.
 

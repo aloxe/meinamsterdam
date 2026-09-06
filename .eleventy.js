@@ -401,6 +401,15 @@ const postcssFilter = (cssCode, done) => {
 /** Maps a config of attribute-value pairs to an HTML string
  * representing those same attribute-value pairs.
  */
+
+const escapeHtmlAttr = (value) => {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+};
+
 const stringifyAttributes = (attributeMap) => {
   return Object.entries(attributeMap)
     .map(([attribute, value]) => {

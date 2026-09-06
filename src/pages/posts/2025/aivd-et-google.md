@@ -75,7 +75,7 @@ La perte de souveraineté n'est pas juste une théorie pour politicien en mal d'
 ## GA4 supprimé en douce
 
 <!-- https://www.politico.eu/article/the-netherlands-shuts-off-google-tracking-spy-job-listings/ -->
-!["Google mag niet meer meekijken bij sollicitaties geheime dienst" avec une infographie qui montre un demi Trump faisant le big brother sur un écran](google-sollicitatie.ftm.png){.center}
+![« Google mag niet meer meekijken bij sollicitaties geheime dienst » avec une infographie qui montre un demi Trump faisant le big brother sur un écran](google-sollicitatie.ftm.png){.center}
 C'est dans ce contexte que le magazine d'investigation en ligne *Follow the Money* (ftm.nl) [a révélé](https://www.ftm.nl/artikelen/stop-google-tracking-sollicitatie-aivd-mivd) le 3 décembre 2025 que Google ne peut plus suivre les candidats qui postulent pou un emploi auprès des services secrets néerlandais. La plateforme de recrutement werkenvoornederland.nl ainsi que le site du ministère des affaires étrangères ont été modifiés pour supprimer les traceurs de Google Analytics.
 
 Cependant, l’article ajoute qu'il est possible que d'autres prestataires aient encore accès à des données personnelles ce qui fait que les risques de fuite persistent.

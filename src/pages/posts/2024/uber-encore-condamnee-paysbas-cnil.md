@@ -42,16 +42,16 @@ C'est une année record et cela place la France dans le peloton de tête des aut
 
 ![Tableau avec les montant des plus fortes amendes par pays](montant-des-amendes-edpb.png){.center}
 
-Les chiffres diffusés dans [le rapport annuel](https://www.edpb.europa.eu/our-work-tools/our-documents/annual-report/edpb-annual-report-2023_fr "EDPB Annual Report 2023") de l'organisme européen fédérant toutes les autorités nationales (EDBP) sont à prendre avec du recul. Ils ne traduisent pas forcément l'efficacité ou la sévérité de telle ou telle autorité nationale. Les chiffres élevés néerlandais et iIrlandais traduisent surtout la forte présence dans ces pays [facilitant la fraude fiscale|/Evasion-fiscale-aux-Pays-Bas|fr|Evasion fiscale aux Pays-Bas], de multinationales au chiffre d'affaires élevé. On peut même être tenté de penser que ceux qui font de l'optimisation fiscale sont aussi ceux qui tentent de contourner le plus le RGPD.
+Les chiffres diffusés dans [le rapport annuel](https://www.edpb.europa.eu/our-work-tools/our-documents/annual-report/edpb-annual-report-2023_fr "EDPB Annual Report 2023") de l'organisme européen fédérant toutes les autorités nationales (EDBP) sont à prendre avec du recul. Ils ne traduisent pas forcément l'efficacité ou la sévérité de telle ou telle autorité nationale. Les chiffres élevés néerlandais et irlandais traduisent surtout la forte présence dans ces pays [facilitant la fraude fiscale](/Evasion-fiscale-aux-Pays-Bas/), de multinationales au chiffre d'affaires élevé. On peut même être tenté de penser que ceux qui font de l'optimisation fiscale sont aussi ceux qui tentent de contourner le plus le RGPD.
 
 Mais pour en revenir à l'évaluation de la sévérité de la CNIL on peut regarder en détail le rapport annuel de l'EDPB qui explique que l'autorité française a prononcé 37 sanctions pour un montant de 79.164.500 €. Oui les chiffres sont différents sans que je puisse expliquer la différence. Par contre, l'EDPB liste les deux sanctions de 2023 les plus importantes, 5,2 milions d'euros d'amende pour **Clearview AI** pour ne s'être pas conformé à une décision de 2022 et 40 millions d'euros pour **CRITEO** pour absence de collecte du consentement, avec des plaintes venant d'ailleurs en Europe.
-
 
 *aeris* souligne justement qu'il n'y a que dans le cadre européen que la CNIL sait se montrer sévère et c'est parce qu'avec le principe de guichet unique, les décisions, bien qu'instruites en France, sont suivies par d'autres autorités européennes, souvent à l'origine de la plainte. Une autorité nationale peut demander à une autre de revoir son jugement parce que ne protégeant pas assez les utilisateurs de son pays. La procédure est menée par l'EDPB et la CNIL doit revoir sa copie en prononçant une amende plus élevée.  C'est ce qui est arrivé en 2022 quand les autorités espagnole, polonaise, britannique ainsi que celles de Sarre et de Basse-Saxe ont contraint la CNIL de revoir à la hausse la sanction du groupe **Accord** pour non-respect de plusieurs règles du RGPD.
 
 Avec 290 millions d’euros d'amende, la CNIL ne devrait pas avoir à utiliser la même procédure pour le cas Uber.
 
-<!-- post notes:
+<!-- 
+post notes:
 Les sanctions sont calculées de la même manière dans toute l'Union avec un maximum de 4% du chiffre d'affaires global de l'entreprise sanctionnée. 
 https://www.edpb.europa.eu/system/files/2024-04/edpb_annual_report_2023_en.pdf 
 

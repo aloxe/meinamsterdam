@@ -16,7 +16,7 @@ update: 2012-09-11
 
 
 
-Lors des élections générales aux Pays-Bas, [j'ai rapidement abordé](/election-j-30) les sites d'aide à la décision politique. [Anne Vicky présentait StemWijzer](http://annevickycarlier.blogspot.com/2006/10/in-metro-dans-metro.html), [Laurent Chambon présentait Kieskompas](http://laurentchambon.blogspot.com/2006/11/un-outil-pas-trop-mal-fait.html). Le principe est toujours le même, comme les tests de personnalité des magasines féminins: Un QCM sur des sujets de société et de gouvernement puis le verdict sous forme de *nom_du_candidat*.
+Lors des élections générales aux Pays-Bas, [j'ai rapidement abordé](/election-j-30) les sites d'aide à la décision politique. [Anne Vicky présentait StemWijzer](http://annevickycarlier.blogspot.com/2006/10/in-metro-dans-metro.html), [Laurent Chambon présentait Kieskompas](http://laurentchambon.blogspot.com/2006/11/un-outil-pas-trop-mal-fait.html). Le principe est toujours le même, comme les tests de personnalité des magazines féminins: Un QCM sur des sujets de société et de gouvernement puis le verdict sous forme de *nom_du_candidat*.
 
 A l'approche des élections présidentielles, le web Français ne pouvais pas éviter de présenter des outils analogues. Cette élection étant suivie dans le monde entier, il y a même un outil [en néerlandais offert par StemWijzer](http://www.stemwijzer.nl/frankrijk2007/index.html) permettant aux bataves de faire leur choix eux aussi. Cet outil est en fait la traduction de mon-vote-a-moi, l'un des trois sites d'aide à la décision que je vais vous présenter maintenant.
 

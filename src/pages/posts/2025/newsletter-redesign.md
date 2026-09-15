@@ -35,7 +35,7 @@ FeedBurner a été racheté par Google en 2007 qui l'a maintenu sans le modifier
 
 ![Hi Alix, FeedBurner has been a part of Google for almost 14 years, and we’re making several upcoming changes to support the product’s next chapter. Here’s what you can expect to change and what you can do now to ensure you’re prepared. Starting in July, we are transitioning FeedBurner onto a more stable, modern infrastructure. This will keep the product up and running for all users, but it also means that we will be turning down most non-core feed management features, including email subscriptions, at that time. For those who use FeedBurner email subscriptions, we recommend downloading your email subscribers so that you can migrate to a new email subscription service.](google-feedburner.png){.center}
 
-J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Hélas le nouveau service a très vite commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface moche. *Follow it* a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
+J'ai donc cherché un autre service qui envoyait des newsletters à partir du flux RSS et j'ai transféré les abonnements sur **Follow.it** qui semblait bien fonctionner. Hélas le nouveau service a très vite commencé à tronquer les mails pour forcer les abonnés à lire la suite sur leur interface moche. *Follow.it* a ensuite rajouté des pubs dans les mails si bien qu'à la fin, ça ne ressemblait plus à une newsletter.
 
 ![capture d’écran d’une alerte Follow.it](follow.it-promotion.png){.center}
 
@@ -43,13 +43,13 @@ Il fallait donc que j’arrête d’utiliser ce service. J’ai pensé utiliser 
 
 ## Mon service de newsletter
 
-Après moult hésitations, je me suis décidé à gérer moi même l'envoi des nouveaux articles par mail. J'ai installé [Listmonk](https://listmonk.app/), un logiciel complet de newsletter qui ne fera que ce que je lui demande et ne s'arrêtera que si je le décide.
+Après moult hésitations, je me suis décidé à gérer moi-même l'envoi des nouveaux articles par mail. J'ai installé [Listmonk](https://listmonk.app/), un logiciel complet de newsletter qui ne fera que ce que je lui demande et ne s'arrêtera que si je le décide.
 
 J'y ai ajouté les adresses mail abonnées à ma newsletter sur mon ancien service et j'ai mis à jour mon [formulaire de souscription](https://meinamsterdam.nl/newsletter/).
 
 Ensuite, me souvenant des changements concernant les commentaires, j’ai aussi abonné toutes les personnes qui suivaient les commentaires de mon blog. Depuis des mois qu’elles n’ont rien reçu de moi, il est possible que cela les surprenne.
 
-Cet article est le premier à être partagé par la nouvelle newsletter, Si vous êtes surpris de trouver cet article dans votre boîte aux lettres, en voici donc toute l'explication. Il est possible que ce choix ne vous convienne plus. Dans ce cas le lien de désabonnement en bas du message reçu est pour vous. Pour tous les autres, *welkom*.
+Cet article est le premier à être partagé par la nouvelle newsletter. Si vous êtes surpris de trouver cet article dans votre boîte aux lettres, en voici donc toute l'explication. Il est possible que ce choix ne vous convienne plus. Dans ce cas le lien de désabonnement en bas du message reçu est pour vous. Pour tous les autres, *welkom*.
 
 ## Et les réseaux sociaux
 
@@ -69,6 +69,6 @@ ou même encore
 
 Inutile de vous dire que ça ne correspond pas du tout à ma ligne éditoriale. J’ai donc préféré ne plus compter sur ces réseaux sociaux. Ne pas y traîner apporte d’ailleurs plus de quiétude à mon âme.
 
-Il reste que je voudrais rester ouvert à la discussion. Le mail est pour cela la solution idéale et il suffit pour cela de répondre au mail envoyé par la newsletter. Mais certaines discussions veulent être publiques, il est vrai, dans ce cas, qu’un réseau social peut y aider.
+Il reste que je voudrais rester ouvert à la discussion. Le mail est pour cela la solution idéale et il suffit pour cela de répondre au mail envoyé par la newsletter. Mais il est vrai que certaines discussions veulent être publiques. Dans ce cas, un réseau social peut y aider.
 
-C'est pourquoi, j'ai ouvert [un compte mastodon](https://piaille.fr/@meinamsterdam) *me in Amsterdam* qui, lui aussi, partage mes derniers articles. Mastodon utilise le protocole ActivityPub ; il est ainsi possible de commenter depuis n'importe quel réseau utilisant le même protocole. La discussion peut donc continuer.
+C'est pourquoi, j'ai ouvert [un compte Mastodon](https://piaille.fr/@meinamsterdam) *me in Amsterdam* qui, lui aussi, partage mes derniers articles. Mastodon utilise le protocole ActivityPub ; il est ainsi possible de commenter depuis n'importe quel réseau utilisant le même protocole. La discussion peut donc continuer.

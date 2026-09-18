@@ -11,7 +11,7 @@ date: 2019-11-18
 update: 2019-11-25
 ---
 
-Je vous ai parlé de ce [curieux tic de langage](/doei) *Doei doei* que ce lançaient les amstelodamois pour se saluer avant de se quitter. Il semblerait que ce soit un phénomène local et que le "Salut" néerlandais se décline de nombreuses manières différentes selon la ~~région~~ province. 
+Je vous ai parlé de ce [curieux tic de langage](/doei) *Doei doei* que ce lançaient les Amstelodamois pour se saluer avant de se quitter. Il semblerait que ce soit un phénomène local et que le "Salut" néerlandais se décline de nombreuses manières différentes selon la ~~région~~ province. 
 
 Ailleurs, on se salue plutôt à base de *Moi*, *adieë*, *daag* ou même *salu*. Lisez plutôt:
 

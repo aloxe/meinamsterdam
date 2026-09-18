@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Encore des manifs
-description: Je ne pensais pas parler de protestations deux fois de suite sur ce blog mais voilà. Une semaine après que je parle de la manifestation Amstelodamoise contre 
+description: Je ne pensais pas parler de protestations deux fois de suite sur ce blog mais voilà. Une semaine après que je parle de la manifestation Amstelodamoise contre les restrictions liées à la crise sanitaire.
 categorie: ik-ben-frans
 tags: ["Amsterdam", "musique", "politique"]
 isMarkdown: true
@@ -13,7 +13,7 @@ update: 2021-02-03
 TODO: no image, no image alt, shortened desc
 ---
 
-Je ne pensais pas parler de protestations deux fois de suite sur ce blog mais voilà. Une semaine après que je parle de la manifestation Amstelodamoise contre le confinement, Tournedisk, un duo local bien connu m'a envoyé son dernier tube : Cyclone dont le clip vient de sortir.
+Je ne pensais pas parler de protestations deux fois de suite sur ce blog mais voilà. Une semaine après que je parle de la manifestation amstelodamoise contre le confinement, Tournedisk, un duo local bien connu m'a envoyé son dernier tube : Cyclone dont le clip vient de sortir.
 
 <!-- HTML -->
 <div class="flex flex-col items-center">

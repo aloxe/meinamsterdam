@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "La mouche de Schiphol, une source d'économie ?"
-description: "C'est le nudge le plus connu du monde selon le Parisien et Europe 1 qui font référence en apprentissage de l'anglais. Les nudges est donc le nouveau mot pour "
+description: "C'est le nudge le plus connu du monde selon le Parisien et Europe 1 qui font référence en apprentissage de l'anglais. Nudge est donc le nouveau mot pour quqlifier les incitations douces."
 categorie: toering
 tags: ["animaux", "schiphol", "économie"]
 isMarkdown: true
@@ -17,11 +17,11 @@ subfooters:
 
 ### Un nudge
 
-C'est le *nudge* le plus connu du monde selon [le Parisien](http://www.leparisien.fr/oise-60/des-exemples-de-nudges-qui-ont-fait-leurs-preuves-12-04-2016-5706295.php) et [Europe 1](https://www.europe1.fr/societe/nudges-ils-sont-partout-mais-a-quoi-servent-ils-3506750) qui font référence en apprentissage de l'anglais. Les *nudges* est donc le nouveau mot pour qualifier les incitations douces à faire quelque chose, invitation ludique ou compétitive utilisée en *marketing* ou en *design* urbain pour inciter les gens à adopter le comportement souhaité.
+C'est le *nudge* le plus connu du monde selon [Le Parisien](http://www.leparisien.fr/oise-60/des-exemples-de-nudges-qui-ont-fait-leurs-preuves-12-04-2016-5706295.php) et [Europe 1](https://www.europe1.fr/societe/nudges-ils-sont-partout-mais-a-quoi-servent-ils-3506750) qui font référence en apprentissage de l'anglais. *nudges* est donc le nouveau mot pour qualifier les incitations douces à faire quelque chose, invitation ludique ou compétitive utilisée en *marketing* ou en *design* urbain pour inciter les gens à adopter le comportement souhaité.
 
-La remise en 2017, du prix nobel d'économie à Richard Thaler, auteur d'un livre théorisant le *nudge* n'est sûrement pas étrangère à cette vague d'explication d'un concept pas si récent avec un nouveau mot anglais.
+La remise, en 2017, du prix nobel d'économie à Richard Thaler, auteur d'un livre théorisant le *nudge* n'est sûrement pas étrangère à cette vague d'explication d'un concept pas si récent avec un nouveau mot anglais.
 
-La mouche de Schiphol est citée comme le *nudge* le plus connu du monde. Le dessin d'un petite mouche noire imprimée dans le fond des urinoirs de l'aéroport permettrait des économies de nettoyage des toilettes en incitant les hommes à viser quand il font pipi. Cette idée toute simple pour réduire les coûts de nettoyage. Les journaux français n’expliquent pas d'où vient cette idée ni si ça marche vraiment alors nous allons le voir ici.
+La mouche de Schiphol est citée comme le *nudge* le plus connu du monde. Le dessin d'une petite mouche noire imprimée dans le fond des urinoirs de l'aéroport permettrait des économies de nettoyage des toilettes en incitant les hommes à viser quand ils font pipi. Une idée toute simple qui réduit les coûts de nettoyage, les journaux français n’expliquent pas d'où vient cette idée ni si ça marche vraiment alors nous allons le voir ici.
 
 ![La mouche de Schiphol](mouche-urinoir-schiphol.jpg){.center}
 *Fly etched in Urinal at Amsterdam Schiphol Airport cc-by-sa [Vincent Lau](https://www.flickr.com/photos/viciousv/58631583/)*

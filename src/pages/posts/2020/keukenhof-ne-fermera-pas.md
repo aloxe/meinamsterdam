@@ -13,7 +13,7 @@ update: 2020-10-09
 TODO: no image, no image alt
 ---
 
-**Keukenhof**, Lisse, dans le nord de la Hollande Méridionale est le plus grand jardin du monde et le plus visité du pays. J'ai décidé de faire écho à ma présentation de [ce jardin en mai 2006](/les-derniers-jours-de-keukenhof) alors que j'annonçais sa fermeture imminente. Cette année le jardin ne fermera pas ses portes. Pour cause, il ne les a pas ouvertes, la faute au coronavirus qui nous contraint d'éviter les regroupements de personnes. Mais toutes les fleurs et les bulbes du jardin n'ont pas été plantées en vain, le jardin viens de proposer une visite en réalité virtuelle sur sa chaîne Youtube que je vous présente aujourd'hui.
+**Keukenhof**, Lisse, dans le nord de la Hollande Méridionale est le plus grand jardin du monde et le plus visité du pays. J'ai décidé de faire écho à ma présentation de [ce jardin en mai 2006](/les-derniers-jours-de-keukenhof) alors que j'annonçais sa fermeture imminente. Cette année le jardin ne fermera pas ses portes. Pour cause, il ne les a pas ouvertes, la faute au coronavirus qui nous contraint d'éviter les regroupements de personnes. Mais toutes les fleurs et les bulbes du jardin n'ont pas été plantées en vain, le jardin vient de proposer une visite en réalité virtuelle sur sa chaîne Youtube que je vous présente aujourd'hui.
 
 ### Sans les foules
 

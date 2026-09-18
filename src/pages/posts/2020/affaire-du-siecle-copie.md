@@ -11,13 +11,13 @@ date: 2020-12-07
 update: 2022-05-17
 ---
 
-La France est le pays de **la COP21** conférence sur le climat qui a eu lieu à Paris en novembre et décembre 2015 et a débouché sur [l'accord de Paris sur le climat](https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat) signé le 22 avril 2016, ratifié et entré en vigueur en novembre de la même année. C'est à ce jour l'accord international qui a été ratifié le plus rapidement vu l'urgence du changement climatique. Dans cet accord, **les états signataires s'engagent à réduire leurs émissions de gaz à effet de serre pour limiter le réchauffement de la planète à 1,5°c** d'ici la fin du siècle. Un premier point d'étape est prévu en 2020 pour revoir si possible les ambitions de l'accord à la hausse.
+La France est le pays de **la COP21** conférence sur le climat qui a eu lieu à Paris en novembre et décembre 2015 et a débouché sur [l'accord de Paris sur le climat](https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat) signé le 22 avril 2016, ratifié et entré en vigueur en novembre de la même année. C'est à ce jour l'accord international qui a été ratifié le plus rapidement vu l'urgence du changement climatique. Dans cet accord, **les états signataires s'engagent à réduire leurs émissions de gaz à effet de serre pour limiter le réchauffement de la planète à 1,5°C** d'ici la fin du siècle. Un premier point d'étape est prévu en 2020 pour revoir si possible les ambitions de l'accord à la hausse.
 
 ![logo de la COP 21, une tour Eiffel dans une feuille verte](cop21-conference-logo.jpg){.center}
 
 Bon bien on est en 2020 et le compte n'y est pas. En fait c'est pire, l'agence météo des Nations Unies indique [qu'on pourrait atteindre le seuil de 1,5°C avant 2024](https://abcnews.go.com/Technology/wireStory/world-hit-15-degree-warming-threshold-years-71687896). La France qui a tant œuvré en 2015 pour aboutir à un accord et trouver un maximum de signataires ne semble pas du  tout montrer l'exemple pour atteindre les objectifs. Tout porte à croire que tout le monde s'en fout.
 
-Tout le monde ? non # Une petite fondation dans un petit pays sans montagne, a pût contraindre son gouvernement de prendre des mesures réelles par voie de justice : l'affaire [Urgenda contre le gouvernement es Pays-Bas](/le-gouvernement-doit-proteger-les-gens). Un précédent. Et si ça se faisait en France aussi ?
+Tout le monde ? Non ! Une petite fondation dans un petit pays sans montagne, a pu contraindre son gouvernement à prendre des mesures réelles par voie de justice : l'affaire [Urgenda contre le gouvernement des Pays-Bas](/le-gouvernement-doit-proteger-les-gens). Un précédent. Et si ça se faisait en France aussi ?
 
 <!--excerpt-->
 ## Ailleurs dans le monde 

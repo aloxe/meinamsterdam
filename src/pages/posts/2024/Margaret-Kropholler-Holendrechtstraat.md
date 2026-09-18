@@ -11,7 +11,7 @@ date: 2024-10-11
 update: 2025-04-01
 ---
 
-Une fois n'est pas coutume, c'est [pizzaroquette](https://piaille.fr/@pizza_roquette "compte mastodon de pizzaroquette") qui est à l'origine d'un nouveau post ici. Il y a deux semaines il a lancé un défi sur mastodon:
+Une fois n'est pas coutume, c'est [pizzaroquette](https://piaille.fr/@pizza_roquette "compte mastodon de pizzaroquette") qui est à l'origine d'un nouveau post ici. Il y a deux semaines elle a lancé un défi sur Mastodon:
 
 > Choisissez 20 bâtiments en brique qui sont restés avec vous ou vous ont influencé(e). Un par jour pendant 20 jours, sans ordre particulier. #mastobriques #20Briques20Jours #20Bricks20Days
 

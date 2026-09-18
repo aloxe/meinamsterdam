@@ -11,7 +11,7 @@ date: 2020-01-12
 update: 2021-01-01
 ---
 
-Le jugement que la cour suprême *de Hoge Raad* des Pays-Bas vient de rendre le 20 décembre dans l'affaire **Urgenda** est historique. C'est la première fois qu'un gouvernement est contraint par la justice de son pays à lutter contre le réchauffement climatique et à respecter ses engagements de réductions des émissions de gaz à effet de serre. Ceci peut paraître évident si comme dans le titre de ce post, la mission du gouvernement est de protéger son peuple mais il a fallut 7 ans pour que la décision soit confirmée par la justice… Résumé de 7 ans d'action de l'association Urgenda qui a déjà fait des petits dans le monde :
+Le jugement que la cour suprême *de Hoge Raad* des Pays-Bas vient de rendre le 20 décembre dans l'affaire **Urgenda** est historique. C'est la première fois qu'un gouvernement est contraint par la justice de son pays à lutter contre le réchauffement climatique et à respecter ses engagements de réductions des émissions de gaz à effet de serre. Ceci peut paraître évident si comme dans le titre de ce post, la mission du gouvernement est de protéger son peuple mais il a falut 7 ans pour que la décision soit confirmée par la justice… Résumé de 7 ans d'action de l'association Urgenda qui a déjà fait des petits dans le monde :
 
 <!--excerpt-->
 ## Il y a urgence: Urgenda

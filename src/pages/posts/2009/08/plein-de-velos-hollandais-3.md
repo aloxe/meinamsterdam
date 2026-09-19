@@ -37,7 +37,7 @@ Cette vieille marque Néerlandaise de vélos était elle aussi productrice de mo
 
 ![Azor](azor.png){.right}
 ## Azor
-Cette marque de vélo a une diffusion beaucoup plus confidentielle (environ 11.000 vélos produits par an) et son histoire est toute récente puisque sa création date de 1998. Un marchand de vélo m'a raconté que son créateur, Jan Rijkeboer, était technicien chez Gazelle et a pensé un jour qu'il pouvait faire des vélos de meilleure qualité. Les pièces sont choisies pour leur robustesse plus que pour leur prix et la peinture est aussi de très bonne facture. Les modèles sont de conception récente mais d'inspiration hollandaise classique. L'usine, situé à Hoogeveen dans le [Drente|] produit les vélos Azor mais aussi les bakfiets de marque **Bakfiets**, les tandems **Onderwaterfiets** et les moederfiets **er-go**.
+Cette marque de vélo a une diffusion beaucoup plus confidentielle (environ 11.000 vélos produits par an) et son histoire est toute récente puisque sa création date de 1998. Un marchand de vélo m'a raconté que son créateur, Jan Rijkeboer, était technicien chez Gazelle et a pensé un jour qu'il pouvait faire des vélos de meilleure qualité. Les pièces sont choisies pour leur robustesse plus que pour leur prix et la peinture est aussi de très bonne facture. Les modèles sont de conception récente mais d'inspiration hollandaise classique. L'usine, situé à Hoogeveen dans le [Drente](/les-provinces-des-pays-bas) produit les vélos Azor mais aussi les bakfiets de marque **Bakfiets**, les tandems **Onderwaterfiets** et les moederfiets **er-go**.
 
 ----
 

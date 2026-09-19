@@ -4,8 +4,8 @@ title: Haliade-X, le gratte-ciel qui brasse du vent
 categorie: toering
 tags: ["Rotterdam", "sociétés", "économie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: haliade-x.png
+image_alt: "montage de l'éolienne Haliade-X"
 permalink: Haliade-X-gratte-ciel-qui-brasse-du-vent/
 date: 2021-08-27
 update: 2021-08-27

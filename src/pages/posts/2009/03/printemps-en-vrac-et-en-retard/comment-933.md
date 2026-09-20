@@ -22,6 +22,6 @@ pragmatique ou hypocrite (?), laissait la procession avoir lieu mais la nuit
 et en silence!!! Elle n'en est devenue que plus célèbre! Bien fait!
 </blockquotes>
 <p>
-En fait, elle a raison, cette histoire est très ancienne, elle est racontée sur <a href="http://www.messecatholiqueamsterdam.org/histoire.html">la page d'histoire</a> de la chapelle du Béguinage.
+En fait, elle a raison, cette histoire est très ancienne, elle est racontée sur <a href="https://web.archive.org/web/20080330232515/http://www.messecatholiqueamsterdam.org/histoire.html">la page d'histoire</a> de la chapelle du Béguinage.
 </p>
 ---

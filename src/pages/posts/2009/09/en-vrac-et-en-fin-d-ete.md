@@ -28,9 +28,13 @@ La fin de l'été est propice à tous les marronniers de la rentrée. Cette ann�
 C'est aussi la rentrée culturelle. La semaine dernière, le centre-ville d'Amsterdam était congestionné par des stands des barnums, des tentes, des scènes et des podiums. Les visiteurs venaient voir les concerts mais aussi découvrir ce que sera la saison de danse, théâtre, musique... C'était le [UIT Markt](http://www.amsterdamsuitburo.nl/uitmarkt/). Je ne sais pas si ce genre de manifestation est utile mais en tout cas les concert on du succès.
 
 ## Et les français ?
-Les français ne sont pas en reste, eux aussi suivent les modes et font leur rentrée. Dans les cercles saisonniers, de nouvelles têtes apparaissent alors qu'on en avait vu partir au mois de juin dernier. C'est le chassé-croisé des expatriés. La saison culturelle s'est ouverte ce samedi avec la [journée portes ouvertes de la maison Descartes](http://www.maisondescartes.com/site/institut/journee-portes-ouvertes.html). Les cours de français vont reprendre et il y aura aussi des cours de néerlandais. À [la paroisse catholique francophone](http://www.messecatholiqueamsterdam.org/index.html), les enfants sont de retour et la garderie ne devrait pas tarder à se remettre en place.
+Les français ne sont pas en reste, eux aussi suivent les modes et font leur rentrée. Dans les cercles saisonniers, de nouvelles têtes apparaissent alors qu'on en avait vu partir au mois de juin dernier. C'est le chassé-croisé des expatriés. La saison culturelle s'est ouverte ce samedi avec la journée portes ouvertes de la maison Descartes. Les cours de français vont reprendre et il y aura aussi des cours de néerlandais. À [la paroisse catholique francophone](https://paroisseamsterdam.wordpress.com/), les enfants sont de retour et la garderie ne devrait pas tarder à se remettre en place.
 
-L'événement français de cette rentrée est l'ouverture de l'école française d'Amsterdam dans ses [nouveaux locaux de Rustenburgerstraat](http://www.lyceevangogh.nl/lycee/amsterdamnew.html). La branche amstelodamoise du [Lycée Van Gogh](/van-gogh-fete-ses-60-ans) de La Haye assure désormais les classes du primaire dans un vrai bâtiment au cœur du Pijp. La rentrée a eu lieu le 3 septembre pour les 8 classes de la petite section au CM2.
+L'événement français de cette rentrée est l'ouverture de l'école française d'Amsterdam dans ses nouveaux locaux de Rustenburgerstraat. La branche amstelodamoise du [Lycée Van Gogh](/van-gogh-fete-ses-60-ans) de La Haye assure désormais les classes du primaire dans un vrai bâtiment au cœur du Pijp. La rentrée a eu lieu le 3 septembre pour les 8 classes de la petite section au CM2.
 
 ---
 [^1]: Voir [les provinces des Pays-Bas](/les-provinces-des-pays-bas).
+
+<!---
+http://www.lyceevangogh.nl/lycee/amsterdamnew.html
+----->

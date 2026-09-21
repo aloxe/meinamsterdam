@@ -11,9 +11,9 @@ date: 2020-11-08
 update: 2021-01-06
 ---
 
-**Le gouvernement néerlandais (kabinet), vient de demander aux patrons de plusieurs organisations de télévision de revoir leur salaire à la baisse avec un plafond fixé tout de même à 148.000 euros.**
+**Le gouvernement néerlandais (kabinet) vient de demander aux patrons de plusieurs organisations de télévision de revoir leur salaire à la baisse avec un plafond fixé tout de même à 148.000 euros.**
 
-C'est cette [petite news de l'AD](https://www.ad.nl/politiek/kabinet-wnl-en-powned-bazen-moeten-salaris-inleveren~a95ee321) qui me pousse aujourd'hui à faire un billet parce qu'elle aborde deux thèmes que j'aurais aimé aborder depuis des années: **La télévision publique néerlandaise** et **les revenus des dirigeants** aux Pays-bas. Ces deux thèmes marquent une énorme différence avec la France et mériterait d'être approfondis. Je vais tenter ici un résumé pour vous expliquer le contexte de cette nouvelle, pas si anodine.
+C'est cette [petite news de l'AD](https://www.ad.nl/politiek/kabinet-wnl-en-powned-bazen-moeten-salaris-inleveren~a95ee321) qui me pousse aujourd'hui à faire un billet parce qu'elle aborde deux thèmes que j'aurais aimé aborder depuis des années: **La télévision publique néerlandaise** et **les revenus des dirigeants** aux Pays-Bas. Ces deux thèmes marquent une énorme différence avec la France et mériteraient d'être approfondis. Je vais tenter ici un résumé pour vous expliquer le contexte de cette nouvelle, pas si anodine.
 
 <!--excerpt-->
 # NPO La télévision publique

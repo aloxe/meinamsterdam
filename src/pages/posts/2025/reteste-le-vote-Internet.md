@@ -17,7 +17,7 @@ update: 2025-11-12
 
 Les Français résidant hors de France vont à nouveau retourner aux urnes en 2026 pour élire leurs conseillers consulaires, élection que j'ai déjà couverte [en 2014](/Les-nouveaux-conseillers-consulaires/) et [en 2022](/Les-nouveaux-conseillers-des-francais-des-Pays-Bas/) en expliquant le rôle (plutôt limité) de ces élus.
 
-En 2026 l'option de voter par Internet va à nouveau être présentée comme une option de vote, Le vote à l'urne est conservée avec sa limitation de lieu et de temps bien connue,
+En 2026, l'option de voter par Internet va à nouveau être présentée comme une option de vote. Le vote à l'urne est conservée avec sa limitation de lieu et de temps bien connue.
 
 ## Un test pas si en grand et pas si nature
 
@@ -29,7 +29,7 @@ La mise en place du vote par internet pour l'ensemble des inscrits dans le monde
 
 #### Tester la résistance des serveurs
 
-Pour effectuer un test de charge des serveurs, une centaine de volontaires ne peut pas reproduire les millions des milliers d'inscrits lors d'une élection véritable. Je pense donc que ces tests de charges sont réalisés par des outils spécifiques qui permettent aussi de mesurer la résistance aux attaques extérieures comme les attaques DDoS.
+Pour effectuer un test de charge des serveurs, une centaine de volontaires ne peut pas reproduire les millions de requètes des milliers d'inscrits lors d'une élection véritable. Je pense donc que ces tests de charges sont réalisés par des outils spécifiques qui permettent aussi de mesurer la résistance aux attaques extérieures comme les attaques DDoS.
 
 #### Tester l'efficacité de la solution dans le monde entier
 
@@ -43,11 +43,11 @@ Enfin, le test grandeur nature permet de recueillir le retour d'utilisateurs en 
 
 Normalement ce genre de test est réalisé par des équipes spéciales de testeurs et d'ingénieurs qualité qui peuvent rendre un audit ou une liste de fonctionnalités à mettre à jour. 
 
-À mon avis le prestataire ne compte pas sur ce test grandeur nature pour améliorer la qualité de sa solution puisqu'**aucun formulaire de retour ou adresse de contact** n'est fournie aux volontaires. C'est d'ailleurs bien dommage parce que sur [les 13 pages de remarques](/teste-le-vote-Internet/) que j'ai envoyé après avoir fait le teste grandeur nature de 2022, seules deux ou trois améliorations avaient été implémentées avant l’élection.
+À mon avis le prestataire ne compte pas sur ce test grandeur nature pour améliorer la qualité de sa solution puisqu'**aucun formulaire de retour ou adresse de contact** n'est fournie aux volontaires. C'est d'ailleurs bien dommage parce que sur [les 13 pages de remarques](/teste-le-vote-Internet/) que j'ai envoyées après avoir fait le test grandeur nature de 2022, seules deux ou trois améliorations avaient été implémentées avant l’élection.
 
 ## La solution de 2026
 
-Pour les élections de 2026, le système en place ressemble beaucoup à ce que j'avais déjà utilisé en 2022. Le prestataire, auteur de la solution est d'ailleurs **Voxaly-Docaposte**, le même que pour la solution de 2022. Néanmoins, le MEAE, ayant tiré les enseignements des ratés durant les élections de 2022 a fait évoluer son cahier des charges.
+Pour les élections de 2026, le système en place ressemble beaucoup à ce que j'avais déjà utilisé en 2022. Le prestataire, auteur de la solution, est d'ailleurs **Voxaly-Docaposte**, le même que pour la solution de 2022. Néanmoins, le MEAE, ayant tiré les enseignements des ratés durant les élections de 2022 a fait évoluer son cahier des charges.
 
 En 2022 certains électeurs ne recevaient plus leur code de confirmation par mail rendant l’authentification impossible. Plusieurs grands fournisseurs de service mail comme Yahoo ou Verizon avaient tout bonnement bloqué le système de vote pour SPAM. Je suppose que le cahier des charges impose à la solution une obligation de moyens pour éviter que cela se reproduise. (*Je ne veux pas divulgacher la suite mais ce n’est pas le cas*)
 
@@ -57,7 +57,7 @@ De plus elle a demandé la mise en place de l’**authentification par France Id
 
 Cette nouvelle option est très judicieuse, car elle permet d'éviter de reposer sur des prestataires étrangers d'accès à internet et d'abonnement au téléphone pour certifier l'identité des électeurs.
 
-France Identité commence à être largement adopté en France parce que certaines personnes s'en servent pour prouver leur réservation de TGV ou retirer un colis à la poste. Hélas, il y a peu de cas d'usage hors de France (à vrai dire cette élection par Internet est le premier cas que je connaisse). De plus, l'ouverture d'un compte France Identité doit être validée, soit par le passage d'un facteur de la Poste qui n'est pas possible hors de France, soit par un compte France Connect qui, depuis de nombreuses années déjà, n'est pas accessible à tous les français résident hors de France.
+France Identité commence à être largement adopté en France parce que certaines personnes s'en servent pour prouver leur réservation de TGV ou retirer un colis à la poste. Hélas, il y a peu de cas d'usage hors de France (à vrai dire cette élection par Internet est le premier cas que je connaisse). De plus, l'ouverture d'un compte France Identité doit être validée, soit par le passage d'un facteur de la Poste qui n'est pas possible hors de France, soit par un compte France Connect qui, depuis de nombreuses années déjà, n'est pas accessible à tous les Français résident hors de France.
 
 ![fausse copie d'écran France Connect](france-connect.png)
 
@@ -65,7 +65,7 @@ Comme nombre de projets de numérisation des services publics, la simplification
 
 #### Ce qui ne change pas
 
-Dans mon rapport de 13 pages rédigé suite à mon test de 2022, j'avais plusieurs remarques. Celles-ci concernaient l'ergonomie, le choix des termes pour améliorer le sentiment de sécurité et quelques remarques techniques comme des pages manquantes, des certificats manquants des liens cassés.
+Dans mon rapport de 13 pages rédigé suite à mon test de 2022, j'avais plusieurs remarques. Celles-ci concernaient l'ergonomie, le choix des termes pour améliorer le sentiment de sécurité et quelques remarques techniques comme des pages manquantes, des certificats manquants ou des liens cassés.
 
 J'avais aussi suggéré de réduire le risque de coercition du vote en permettant aux électeurs de mettre à jour leur vote même après l'avoir validé.
 
@@ -77,7 +77,7 @@ Ainsi, le mail appelant au vote contenait deux liens vers des pages d'aide qui n
 
 En 2022, je signalais l'horreur de présenter les bulletins sur deux colonnes même sur un petit écran de téléphone ce qui rendait le nom des listes parfois impossible à lire en entier.
 
-En novembre 2025 le teste me montre des bulletins sur une seule colonne ou le nom de la liste, même très long, s'affiche sur l'écran en entier. Un grand progrès pour ceux qui vont voter depuis leur mobile.
+En novembre 2025 le test me montre des bulletins sur une seule colonne où le nom de la liste, même très long, s'affiche sur l'écran en entier. Un grand progrès pour ceux qui vont voter depuis leur mobile.
 
 ![copie d'écran de la liste des bulletins sur un écran de mobile](ecran-de-vote-listes-sur-mobile.png){.center}
 
@@ -85,7 +85,7 @@ En novembre 2025 le teste me montre des bulletins sur une seule colonne ou le no
 
 Seulement, la liste des bulletins souffre d'un autre problème d'accessibilité. 
 
-Les personnes ne pouvant utiliser la souris, surfent sur le web avec leur clavier. Elles naviguent entre les éléments activables d'une page avec la touche *tabulation* et cliquent avec la touche *entrée*. Or, sur la page des bulletins, seul le premier bulletin est sellectionable via la touche *tabulation*. Il est donc impossible pour les personnes sans souris de choisir un autre candidat que le premier de la liste.
+Les personnes ne pouvant utiliser la souris, surfent sur le web avec leur clavier. Elles naviguent entre les éléments activables d'une page avec la touche *tabulation* et cliquent avec la touche *entrée*. Or, sur la page des bulletins, seul le premier bulletin est sélectionnable via la touche *tabulation*. Il est donc impossible pour les personnes sans souris de choisir un autre candidat que le premier de la liste.
 
 <video controls src="/files/2025/bulletins-sellection-clavier.mp4" title="Exemple de navigation au clavier sur la liste des bulletins"></video>
 
@@ -93,7 +93,7 @@ Cette erreur est cruciale à corriger parce que les administrations sont légale
 
 #### Ce qui est nouveau et peut-être plus grave
 
-Dans mon rapport de 2022, j'avais constaté que tous les mails, (envoi d'identifiant, annonce d'ouverture du vote, code de confirmation…) n'étaient pas tous envoyés par la même adresse ce qui n'aidait pas à identifier les courriers authentiques d'éventuels spams et courriers d'hameçonnage administratifs que nous recevons tous.
+Dans mon rapport de 2022, j'avais constaté que tous les mails, (envoi d'identifiant, annonce d'ouverture du vote, code de confirmation…) n'étaient pas tous envoyés par la même adresse, ce qui n'aidait pas à identifier les courriers authentiques d'éventuels spams et courriers d'hameçonnage administratifs que nous recevons tous.
 
 Cette erreur a été corrigée. Tous les mails sont envoyés par 
 - **Ministère de l'Europe et des Affaires étrangères \<voteinternet@votezaletranger.gouv.fr>** ou 
@@ -103,7 +103,7 @@ Cette erreur a été corrigée. Tous les mails sont envoyés par
 
 > Attention, la suite est un peu technique
 
-Seulement, le diable se cachant dans les détails, j'ai remarqué que les mails envoyés par l'application (identifiant, mise à jour du mot de passe et code de confirmation…) étaient toujours identifiés comme spam par mon gestionnaire de mails. En essayant de savoir pourquoi, j'ai constaté que cette classification était due à un [Echec DMARC](https://fr.wikipedia.org/wiki/DMARC).
+Seulement, le diable se cachant dans les détails, j'ai remarqué que les mails envoyés par l'application (identifiant, mise à jour du mot de passe et code de confirmation…) étaient toujours identifiés comme spam par mon gestionnaire de mails. En essayant de savoir pourquoi, j'ai constaté que cette classification était due à un [échec DMARC](https://fr.wikipedia.org/wiki/DMARC).
 
 DMARC est une politique de traitement des mails après vérification d'informations fournies par le serveur du nom de domaine (DNS) de l'expéditeur du mail. 
 
@@ -115,21 +115,21 @@ Si aucune de ces vérifications n'est valide, il y a de fortes chances que l'adr
 
 Le mail d'annonce de l'ouverture du vote est envoyé par un autre prestataire étranger : Active Trail `i2.ms203.atmailsvr.net [91.199.29.203]`. Mais dans ce cas, la signature cryptographique dans l'entête du mail est validée lors de la requête au serveur du nom de domaine. Le courrier est donc considéré comme légitime et n'est pas étiqueté spam. Ce courrier est envoyé avec l'adresse d'expéditeur **\<voteinternet@votezaletranger.gouv.fr>** alors que l'envoi n'est pas parti du MEAE. Seulement l'outil d'envoi des mails chez Active Trail a été configuré correctement[^1].
 
-Il suffirait donc que l'outil d'envoi des mails avec **\<noreply@votezaletranger.gouv.fr>**, qui est hébergé par Mailjet, soit, lui aussi configuré correctement. Mailjet, entreprise américaine spécialisée dans le ~~spam~~ marketing digital, fourni même [un guide complet](https://documentation.mailjet.com/hc/fr/articles/360049641733-Guide-complet-d-authentification-des-domaines-avec-SPF-et-DKIM) pour aider à la configuration de ses outils. Suivre ce guide <!--(et bien configurer la zone `votezaletranger.gouv.fr`)--> est la meilleure garantie pour que les courriers d'envoi des identifiants aux électeurs ne soient pas à nouveau bloqués comme ce fut le cas en 2022.
+Il suffirait donc que l'outil d'envoi des mails avec **\<noreply@votezaletranger.gouv.fr>**, qui est hébergé par Mailjet, soit, lui aussi configuré correctement. Mailjet, entreprise américaine spécialisée dans le ~~spam~~ marketing digital, fournit même [un guide complet](https://documentation.mailjet.com/hc/fr/articles/360049641733-Guide-complet-d-authentification-des-domaines-avec-SPF-et-DKIM) pour aider à la configuration de ses outils. Suivre ce guide <!--(et bien configurer la zone `votezaletranger.gouv.fr`)--> est la meilleure garantie pour que les courriers d'envoi des identifiants aux électeurs ne soient pas à nouveau bloqués comme ce fut le cas en 2022.
 
 > Attention, la suite est un peu politique
 
-Le Ministère de l'Europe et des Affaires étrangères français a confié à une entreprise française **Voxaly-Docaposte**, le soin de gérer la solution de vote par Internet. Cela me permet de penser que les données personnelles que j'ai confiées à mon consulat pour pouvoir exercer mon droit de vote, ne quitteraient pas le territoire français.
+Le Ministère de l'Europe et des Affaires étrangères français a confié à une entreprise française **Voxaly-Docaposte**, le soin de gérer la solution de vote par Internet. Cela me permet de penser que les données personnelles que j'ai confiées à mon consulat, pour pouvoir exercer mon droit de vote, ne quitteraient pas le territoire français.
 
-En grattant un peu les données techniques dans les entêtes des courriers que j'ai reçus, je constate que ces données sont passées par [un serveur en Israel](https://apps.db.ripe.net/db-web-ui/query?from=www&searchtext=91.199.29.203) et un autre est parti depuis la filiale française ([Mailjet SAS](https://apps.db.ripe.net/db-web-ui/query?from=www&searchtext=185.189.236.3)) d'une société américaine.
+En grattant un peu les données techniques dans les entêtes des courriers que j'ai reçus, je constate que ces données sont passées par [un serveur en Israël](https://apps.db.ripe.net/db-web-ui/query?from=www&searchtext=91.199.29.203) et un autre est parti depuis la filiale française ([Mailjet SAS](https://apps.db.ripe.net/db-web-ui/query?from=www&searchtext=185.189.236.3)) d'une société américaine.
 
 Ces deux entreprises indiquent bien respecter le RGPD — ce qui est la moindre des choses dans leur métier — mais je ne suis pas certain que mes données ne tombent pas sous le coup d'une loi extra-territoriale qui obligerait ces sociétés à déroger au RGPD suite à une requête judiciaire à leur siège. Pour le cas de la société américaine on sait depuis la jurisprudence *Schrems II* que c'est un risque à envisager. 
 
-Ce risque qui a été [confirmé aux Pays-Bas](/cloud-merite-notre-confiance/) en 2022. Quand il s’agit d'une opération aussi sensible qu'une élection, il est je pense préférable d’éviter ce risque en sous-traitant l'envoi des mails à des spécialistes français ou européens. *Brevo*, *Sarbacane* ou *eTarget* sont là pour nous rappeler qu'il n'en manque pas.
+Ce risque a été [confirmé aux Pays-Bas](/cloud-merite-notre-confiance/) en 2022. Quand il s’agit d'une opération aussi sensible qu'une élection, il est, je pense, préférable d’éviter ce risque en sous-traitant l'envoi des mails à des spécialistes français ou européens. *Brevo*, *Sarbacane* ou *eTarget* sont là pour nous rappeler qu'il n'en manque pas.
 
 ## En conclusion
 
-Après avoir validé mon vote, j'ai reçu un récépissé de vote avec un cachet électronique. J'ai déjà expliqué que ce genre de récépissé ne pouvait pas inspirer confiance si sa vérification n'était pas faite de manière transparente, il est possible que ceci évolue dans les mois à venir. [Mon récépissé](/files/2025/) se termine par une mention sibylline :
+Après avoir validé mon vote, j'ai reçu un récépissé de vote avec un cachet électronique. J'ai déjà expliqué que ce genre de récépissé ne pouvait pas inspirer confiance si sa vérification n'était pas faite de manière transparente. Il est possible que ceci évolue dans les mois à venir. [Mon récépissé](/files/2025/) se termine par une mention sibylline :
 
 > Contrôle du cachet électronique. Pour le TGN le service est indisponible.
 
@@ -139,7 +139,7 @@ En participant au test grandeur nature du vote par Internet, je pensais découvr
 
 ![Message d'erreur internet](erreur-interne.png)
 
-Je ne vais pas produire un rapport comme la dernière fois puisque je n'ai pas l'impression d'avoir effectué un test utile. Le nombre et l'étendue des soucis que j'ai rencontrés me conduit plutôt à recommander un audit plus rigoureux qu'un simple test étalé sur quatre jours.
+Je ne vais pas produire un rapport comme la dernière fois puisque je n'ai pas l'impression d'avoir effectué un test utile. Le nombre et l'étendue des soucis que j'ai rencontrés me conduisent plutôt à recommander un audit plus rigoureux qu'un simple test étalé sur quatre jours.
 
 <!-- https://www.senat.fr/questions/base/2025/qSEQ250605046.html 
 https://www.numerique.gouv.fr/sinformer/espace-presse/france-2030-la-strategie-nationale-cloud-senrichit-dun-nouvel-appel-a-projets/

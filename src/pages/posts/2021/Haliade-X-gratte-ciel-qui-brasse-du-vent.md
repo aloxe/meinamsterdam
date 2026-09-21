@@ -4,8 +4,8 @@ title: Haliade-X, le gratte-ciel qui brasse du vent
 categorie: toering
 tags: ["Rotterdam", "sociétés", "économie"]
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: haliade-x.png
+image_alt: "montage de l'éolienne Haliade-X"
 permalink: Haliade-X-gratte-ciel-qui-brasse-du-vent/
 date: 2021-08-27
 update: 2021-08-27
@@ -13,14 +13,14 @@ TODO: no image, no image alt
 ---
 
 
-J'ai souvent parlé des moulins de Hollande dans ce blog ([d'Amsterdam](/la-carte-des-moulins-d-amsterdam) et d'[ailleurs](/a-nouveau-en-zelande))  et bien moins souvent des éoliennes que je trouvais pourtant fascinantes quand, il y a 20 ans, il y en avait si peu en France qu'elles donnaient un attrait touristique supplémentaire aux Pays-Bas. Tout-juste ai-je recyclé une vieille photo dans [un article récent sur le climat](/le-gouvernement-doit-proteger-les-gens) où je pointait du doigt la faiblesse de la production de ces engins.
+J'ai souvent parlé des moulins de Hollande dans ce blog ([d'Amsterdam](/la-carte-des-moulins-d-amsterdam) et d'[ailleurs](/a-nouveau-en-zelande))  et bien moins souvent des éoliennes que je trouvais pourtant fascinantes quand, il y a 20 ans, il y en avait si peu en France qu'elles donnaient un attrait touristique supplémentaire aux Pays-Bas. Tout-juste ai-je recyclé une vieille photo dans [un article récent sur le climat](/le-gouvernement-doit-proteger-les-gens) où je pointais du doigt la faiblesse de la production de ces engins.
 
-Depuis les *Vestas* et autres modèles ont poussé dans nos campagnes et ces grands moulins blancs élancés n'impressionnent plus guère, pourtant ils continuent de représenter une prouesse technique complexe qui fait de l'énergie avec du vent. Quand aux rendements que je décriais plus haut, une installation dans le port de Rotterdam montre qu'il y a longtemps que le seuil des 2 MW est dépassé c'est **Haliade-X** qui promet de produire six fois plus.
+Depuis les *Vestas* et autres modèles ont poussé dans nos campagnes et ces grands moulins blancs élancés n'impressionnent plus guère, pourtant ils continuent de représenter une prouesse technique complexe qui fait de l'énergie avec du vent. Quant aux rendements que je décriais plus haut, une installation dans le port de Rotterdam montre qu'il y a longtemps que le seuil des 2 MW est dépassé c'est **Haliade-X** qui promet de produire six fois plus.
 
 <!--excerpt-->
 ## Une éolienne record du monde
 
-Haliade-X est un prototype de nouveau modèle d'éolienne conçu par General Electric promettant de délivrer 12 MW. Ce prototype a été installé sur le port de Rotterdam habitué aux engins de grande taille, halls de stockage, grues portuaires, barges, portiques et porte-conteneurs parmi les plus grands du monde. La grue a été installée il y a plus d'un an, en novembre 2019 et avec ses 248  mètres de haut, et ses pales de plus de 100m, elle domine largement ces installations portuaires. Sa mise en place a nécessité plusieurs grues dépassant en taille l'emblématique [tour de Meuse](https://fr.wikipedia.org/wiki/Tour_de_la_Meuse) (*Maastoren*).
+Haliade-X est un prototype de nouveau modèle d'éolienne conçu par General Electric promettant de délivrer 12 MW. Ce prototype a été installé sur le port de Rotterdam habitué aux engins de grande taille, halls de stockage, grues portuaires, barges, portiques et porte-conteneurs parmi les plus grands du monde. La grue a été installée il y a plus d'un an, en novembre 2019 et avec ses 248  mètres de haut, et ses pales de plus de 100m, elle domine largement ces installations portuaires. Sa mise en place a nécessité plusieurs grues dépassant en taille l'emblématique [tour de la Meuse](https://fr.wikipedia.org/wiki/Tour_de_la_Meuse) (*Maastoren*).
 
 <!-- HTML -->
 <div class="flex flex-col items-center">

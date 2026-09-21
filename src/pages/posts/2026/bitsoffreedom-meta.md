@@ -15,7 +15,7 @@ date: 2026-02-13
 update: 2026-02-13
 ---
 
-**Il y a un moment que je n'ai pas parlé de réseaux sociaux sur ce blog et c'est vraisemblablement parce que je ne les fréquente plus, ils ont mal tourné. Le nombre d'articles décrivant leurs agissements néfastes depuis les révélations de [Frances haugen](https://fr.wikipedia.org/wiki/Frances_Haugen) ne manquent pas. Je n'ai guère besoin d'en rajouter.**
+**Il y a un moment que je n'ai pas parlé de réseaux sociaux sur ce blog et c'est vraisemblablement parce que je ne les fréquente plus, ils ont mal tourné. Les articles décrivant leurs agissements néfastes depuis les révélations de [Frances Haugen](https://fr.wikipedia.org/wiki/Frances_Haugen) ne manquent pas. Je n'ai guère besoin d'en rajouter.**
 
 <!-- Zach Vorhies not on Wikipedia??? -->
 
@@ -61,7 +61,7 @@ Finalement, le report est accordé par le juge mais seulement jusqu’au 31 déc
 
 ## Un changement pour 2026
 
-Dès le 1er janvier 2026, les utilisateurs néerlandais découvrent enfin un changement majeur dans leur interface Facebook et Instagram : ils peuvent choisir entre la timeline algorithmique *voor jouw* (« **Pour toi** ») et une timeline chronologique *Volgend* (« **Suivis** ») — et ce choix est enregistré, même après une fermeture de l’application.
+Dès le 1er janvier 2026, les utilisateurs néerlandais découvrent enfin un changement majeur dans leur interface Facebook et Instagram : ils peuvent choisir entre la timeline algorithmique *voor jou* (« **Pour toi** ») et une timeline chronologique *Volgend* (« **Suivis** ») — et ce choix est enregistré, même après une fermeture de l’application.
 
 ![capture d'écran du nouveau menu avec volgend sur un écran mobile](volgend-5g.png){.center}
 __*Extrait de [la vidéo](https://www.bitsoffreedom.nl/wp-content/uploads/2026/01/META-VOLGEND-FEED-HOW-TO.mp4) annonçant la nouvelle et montrant le nouveau menu*__
@@ -70,7 +70,7 @@ Le choix *Volgend* permet de n'afficher que les posts des personnes et groupes s
 
 > Geen *endless scroll*. Geen *rabbit hole*. Geen *time drain*. Kortom: meer grip op waar je aandacht heen gaat.
 
-Certains de ces termes sont un peu trop imagés pour être compréhensibles. En gros, les utilisateurs qui font le bon choix ne seront plus pris dans une spirale de contenu dans fin dans laquelle ils sont entraînés, souvent de manière involontaire, par des recommandations algorithmiques toujours plus ciblées et addictives. Cette spirale infinie aspire leur temps et leur énergie.
+Certains de ces termes sont un peu trop imagés pour être compréhensibles. En gros, les utilisateurs qui font le bon choix ne seront plus pris dans une spirale de contenu sans fin dans laquelle ils sont entraînés, souvent de manière involontaire, par des recommandations algorithmiques toujours plus ciblées et addictives. Cette spirale infinie aspire leur temps et leur énergie.
 
 ## Et ailleurs en Europe ?
 
@@ -93,15 +93,15 @@ Enfin, il est possible d’utiliser Facebook comme avant : en restant connecté 
 </td></tr>
 </table>
 
-## Et ailleurs en Europe ?
+## Et donc, ailleurs en Europe ?
 
 Faudra-t-il que d'autres associations attaquent Meta dans les autres pays européens ? Au vu de l'attitude peu enthousiaste de cette entreprise à respecter la loi, j'en ai bien peur.
 
-Alors pourquoi la Quadrature du Net[^3] ne suit pas encore les traces Bits of Freedom ?
+Alors pourquoi la Quadrature du Net[^3] ne suit pas encore les traces de Bits of Freedom ?
 
 Pour le moment, il faut attendre, parce que le jugement néerlandais ne peut pas encore faire jurisprudence, comme le rappelle sur son site Bits of Freedom [en faisant le point](https://www.bitsoffreedom.nl/2026/02/11/waar-staan-we-met-ons-juridische-gevecht-voor-jouw-keuzevrijheid-in-metas-apps/) le 11 février. En octobre, Meta a fait appel de la décision, qu’elle doit néanmoins exécuter avant même de connaître le verdict de cet appel. 
 
-**L’audience en appel** a eu lieu le 28 janvier dernier. Bien que l’entreprise étasunienne annonçait vouloir contester la décision de justice sur le fond, elle s’est contentée d’accepter le principe selon lequel elle devait respecter le DSA. Elle a simplement interrogé la cour sur la filiale de Meta juridiquement responsable de ces manquements, ainsi que sur le caractère urgent de la décision. Une nouvelle tactique juridique pour gagner du temps…
+**L’audience en appel** a eu lieu le 28 janvier dernier. Bien que l’entreprise étasunienne ait annoncé vouloir contester la décision de justice sur le fond, elle s’est contentée d’accepter le principe selon lequel elle devait respecter le DSA. Elle a simplement interrogé la cour sur la filiale de Meta juridiquement responsable de ces manquements, ainsi que sur le caractère urgent de la décision. Une nouvelle tactique juridique pour gagner du temps…
 
 Le jugement en appel sera rendu le 4 avril. L’affaire n’est donc pas terminée.
 

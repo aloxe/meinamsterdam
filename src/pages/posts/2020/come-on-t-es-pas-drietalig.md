@@ -13,7 +13,7 @@ update: 2020-09-23
 TODO: no image, no image alt
 ---
 
-Voici un petit texte qui circule chez les Belges mais beaucoup de français vivant aux Pays-Bas (et qui lisent ce blog) peuvent  aussi le lire avec *plezier*. Donc je le partage aussi.
+Voici un petit texte qui circule chez les Belges mais beaucoup de Français vivant aux Pays-Bas (et qui lisent ce blog) peuvent  aussi le lire avec *plezier*. Donc je le partage aussi.
 
 <!-- HTML -->
 <h3 style="margin: 0;padding: 0.8em;background-color: lightgoldenrodyellow;color: black;font-style: normal;font-size: 1.5em;">

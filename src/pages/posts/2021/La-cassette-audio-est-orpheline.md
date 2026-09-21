@@ -12,7 +12,7 @@ date: 2021-04-27
 update: 2021-11-19
 ---
 
-On la croyait morte mais la voilà qui redevient un produit demandé. La cassette audio a vu le nombre de ses ventes doubler en 2020 ([du moins au Royaume Uni](https://www.nme.com/news/music/cassette-sales-have-more-than-doubled-in-2020-2711274)) entraîné par une mode rétro et ceux qui ne veulent plus parler à leur assistant Alexasiri-OkéGoogle parce qu'il les espionne dans leur confinement. C'est ce moment que **Lou Ottens**, l'inventeur de la cassette a choisit pour nous quitter. Il s'est éteint à l'age de 94 ans dans sa ville de Duizel.
+On la croyait morte mais la voilà qui redevient un produit demandé. La cassette audio a vu le nombre de ses ventes doubler en 2020 ([du moins au Royaume-Uni](https://www.nme.com/news/music/cassette-sales-have-more-than-doubled-in-2020-2711274)) entraîné par une mode rétro et ceux qui ne veulent plus parler à leur assistant Alexasiri-OkéGoogle parce qu'il les espionne dans leur confinement. C'est ce moment que **Lou Ottens**, l'inventeur de la cassette a choisi pour nous quitter. Il s'est éteint à l'âge de 94 ans dans sa ville de Duizel.
 
 <!--excerpt-->
 Les nécros qui ont accompagné le départ de **Lodewijk Frederik Ottens** ingénieur chez **Philips** qui était à la tête  de la R&D sur le site d'Hasselt en Belgique de 1960 à 1969. C'est là que Philips sort l'enregistreur à cassette EL 3300 qui a été sur toutes les bureaux d'enfants de mon age et la fameuse cassette compacte présentée au salon IFA de Berlin en 1963. Ça n'a pas tout de suite été l'engouement d'autant que de nombreux fabricants ont aussi proposé [des systèmes comparables](https://www.cassetterecorder-museum.com/fr/surcassette.html) de lecteurs à bande qu'on n'avais plus besoin de rembobiner.

@@ -7,7 +7,4 @@ tags: comment
 permalink: false
 ---
 
-<p>
-Excellent, il faut aussi dire au gens de venir pour <b>la messe des rameaux</b>. Elle promet d'être haute en couleurs cette année 2009. Puisque c'est le premier dimanche du mois, il y aura la chorale africaine. Sinon, tous les horaires sont sur <a href="http://www.messecatholiqueamsterdam.org/index.html">la page de garde</a>, on ne peut plus dire qu'on ne savait pas. 
-</p>
----
+Excellent, il faut aussi dire au gens de venir pour <b>la messe des rameaux</b>. Elle promet d'être haute en couleurs cette année 2009. Puisque c'est le premier dimanche du mois, il y aura la chorale africaine. Sinon, tous les horaires sont sur [la page de garde](https://paroisseamsterdam.wordpress.com/), on ne peut plus dire qu'on ne savait pas. 

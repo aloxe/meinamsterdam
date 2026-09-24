@@ -27,7 +27,7 @@ Hij/zij leve lang hoera hoera
 ## Explication de texte
 
 *Il y a un anniversaire ici hourra hourra*   
-*On voit bien aue c'est le sien/la sienne*   
+*On voit bien que c'est le sien/la sienne*   
 *Et on le/la trouve bien joli(e) oui oui*
 
 Bon ça veut dire qu'en général la personne dont c'est l'anniversaire est affublé d'un chapeau ridicule mais comme tout le monde chante en son honneur, il est très content de son chapeau. Je ne vous montrerais pas la chapeau ridicule que j'ai du porter hier alors que personne ne chantait...

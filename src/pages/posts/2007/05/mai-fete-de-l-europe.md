@@ -31,7 +31,9 @@ Sur toute l'Europe, je constate que de nombreuses activités sont prévues **à 
 
 > Op Europadag zelf wordt het in de hele EU een feest van muziek en kleur. Er zijn speciale concerten in Luxemburg , Barcelona , Tallinn en vele andere steden. In Oostenrijk Deutsch  is de hele avond op de gevel van de Weense Staatsopera een lichtspel te zien onder het motto ?Samen sinds 1957 ? 50 jaar Europese Unie?. In Slovenië vaart een boot in de kleuren van het verjaardagslogo op de Ljubljanica, die door het centrum van Ljubljana stroomt.
 
-Il est question de **Luxemburg**, **Barcelona**, **Tallinn**, **Oostenrijk** et **Ljubljana**. rien sur Amsterdam. Décidément, on dirait que je suis dans un pays qui a rejeté le projet de constitution européenne. Ce n'est pas en ne montrant pas l'Europe que la mentalité du pays est prêt d'évoluer...
+Il est question de **Luxemburg**, **Barcelona**, **Tallinn**, **Oostenrijk** et **Ljubljana**. rien sur Amsterdam. Décidément, on dirait que je suis dans un pays qui a rejeté le projet de constitution européenne. 
+
+Ce n'est pas en cachant l'Europe, que la mentalité du pays est prêt d'évoluer.
 
 <!-- ![](http://www.ambafrance.nl/IMG/jpg/europe_bandeau.jpg)TODO: Add image alt{.center} -->
 

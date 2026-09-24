@@ -7,8 +7,8 @@ tags:
  - banque
  - football
 isMarkdown: true
-thumbnail: 
-image_alt: 
+thumbnail: blauw-oranje-op-de-brug.png
+image_alt: Oranje en blauw op de brug sur un vélo
 permalink: les-bleus-et-les-oranges/
 date: 2008-06-10
 update: 2008-12-13
@@ -23,7 +23,7 @@ La *Postbank*, banque postale des Pays-Bas existe sous sa forme actuelle depuis 
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/EgMaueKOROU&hl=en"></param><embed src="http://www.youtube.com/v/EgMaueKOROU&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EgMaueKOROU?si=ChjkXdTITIYi14xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 
@@ -31,10 +31,10 @@ Il semble que la coupe d'Europe soit l'occasion pour ING d'annoncer que son logo
 
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yfbIWME0LtI&hl=nl"></param><embed src="http://www.youtube.com/v/yfbIWME0LtI&hl=nl" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfbIWME0LtI?si=y4nHeppCei5teo4L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- / HTML -->
 
-... et aussi parler de la banque ING.
+… et aussi parler de la banque ING.
 
 En Avril déjà [les deux lions faisaient les cons](/les-lions-cons)

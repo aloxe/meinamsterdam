@@ -20,7 +20,7 @@ Je l'ai appris pendant les présidentielles mais il est possible pour un frança
 
 Pour se réinscrire sur les listes le français de l'étranger a le choix entre sa dernière commune de résidence, sa commune de naissance, la commune de naissance de ses parents ou bien une commune où il est propriétaire paye la taxe foncière. J'avais donc le choix et j'ai choisit le plus facile qui était de rester inscrit sur ma dernière commune résidence. C'est interessant d'autant qu'à Paris, les enjeux des élections locales sont interessants.
 
-Dernière précision que j'ai appris [au consulat](http://www.consulfrance-amsterdam.org/article.php3?id_article=491), la procuration que j'ai faite pour les dernières présidentielles est encore valable pour les législatives. Il ne me reste plus qu'à comprendre ce qu'il se passe dans ma 21ème circonscription de Paris pour donner une bonne consigne de vote.
+Dernière précision que j'ai appris [au consulat](https://nl.diplomatie.gouv.fr/fr/service), la procuration que j'ai faite pour les dernières présidentielles est encore valable pour les législatives. Il ne me reste plus qu'à comprendre ce qu'il se passe dans ma 21ème circonscription de Paris pour donner une bonne consigne de vote.
 
 Les sondages ne donnent pas d'estimation du taux de participation pour les législatives il y aura donc au moins une surprise.
 

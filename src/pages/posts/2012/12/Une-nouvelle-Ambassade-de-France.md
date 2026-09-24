@@ -29,7 +29,7 @@ Le 12 novembre dernier, l'Ambassadeur Pierre Ménat et la conseillère municipal
 ## Mise à jour d'adresse.
 Aujourd'hui, 1er décembre, lorsque j'écris cet article, il semble que tout le monde ne soit pas au courant de ce changement. **Une recherche dans Google me donne toujours l'ancienne adresse** avec la route pour m'y rendre et tout et tout. 
 
-**Le consulat à Amsterdam non plus ne semble pas être au courant** puisque le site annonce toujours l'[ancienne adresse](http://www.consulfrance-amsterdam.org/Ambassade-de-France-a-La-Haye). Heureusement, on peut cliquer sur les liens offert par ces deux sites et retrouver la nouvelle adresse et des jolies photos [sur le site de l'Ambassade](http://www.ambafrance-nl.org/Nouvelle-adresse-pour-l-Ambassade).
+**Le consulat à Amsterdam non plus ne semble pas être au courant** puisque le site annonce toujours l'ancienne adresse. Heureusement, on peut cliquer sur les liens offert par ces deux sites et retrouver la nouvelle adresse et des jolies photos [sur le site de l'Ambassade](https://nl.diplomatie.gouv.fr/fr/presence-francaise/ambassade-de-france-aux-pays-bas).
 
 On peut aussi aller sur Wikipedia, l'[ambassade de France y est référencée](http://fr.wikipedia.org/wiki/Ambassade_de_France_aux_Pays-Bas) avec sa nouvelle adresse. La modification y a été faite [le 22 novembre](http://fr.wikipedia.org/w/index.php?title=Ambassade_de_France_aux_Pays-Bas&diff=85641771&oldid=81685258) par [213.148.236.81](http://www.concepts.nl/). Du coup, je me demande quel est le fournisseur d'accès internet de l'Ambassade[^1].
 

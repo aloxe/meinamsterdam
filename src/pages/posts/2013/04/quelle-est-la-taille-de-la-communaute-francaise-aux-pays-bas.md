@@ -13,7 +13,7 @@ update: 2013-04-11
 
 
 
-C'est une question que l'on m'a souvent posée et les réponses que j'ai pu lire ça et là ne se basaient pas sur des études précises. Jusqu'au jour où notre consul général nous a envoyé un petit encadré pour remplir sa [lettre d'informations consulaires](http://www.consulfrance-amsterdam.org/Lettres-d-informations-consulaires). La réponse est étayée :
+C'est une question que l'on m'a souvent posée et les réponses que j'ai pu lire ça et là ne se basaient pas sur des études précises. Jusqu'au jour où notre consul général nous a envoyé un petit encadré pour remplir sa [lettre d'informations consulaires](https://nl.diplomatie.gouv.fr/fr/service). La réponse est étayée :
 
 <!--excerpt-->
 
@@ -37,4 +37,4 @@ Compte tenu de ces éléments, o**n peut donc raisonnablement estimer la taille 
 
 Je pense que depuis mars 2011, les informations ont peu évoluées et on peut penser qu'en 2013, le nmbre de français aux Pays-Bas se situent dans la même fourchette. Quand à connaitre la socioloie de ces français des Pays-Bas, il s'aggit d'une affaire encore plus difficile que de les cmoptabiliser. Le consulat qui voit passer les dossiers de bourses scolaires ou les demandes d'aide sociale peut en avoir une petite idée mais bien incomplète. 
 
-La Maison des français de l'étranger qui [réalise réguilièrement un sondage](/qui-es-tu-expatrie-francais) devrait un savoir un peu plus. Encore faudrait-elle qu'elle partage les données récoltées.
+La Maison des français de l'étranger qui [réalise réguilièrement un sondage](/qui-es-tu-expatrie-francais/) devrait un savoir un peu plus. Encore faudrait-elle qu'elle partage les données récoltées.

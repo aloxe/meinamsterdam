@@ -35,7 +35,7 @@ On constate l'organisation pratique des Pays-Bas qui permet de s'inscrire sur le
 
 Je suis d'autant plus satisfait de ce résultat que j'avais aussi rempli un formulaire pour les élections des waterschapen et que je n'ai rien reçu en retour. Ma faiblesse linguistique ne m'a pas permit de rechercher si j'avais fait une erreur ou si l'administration était en tord. Cela fait partie des petits désagréments (comme les [petits vols publics](/petits-vols-en-public)) qu'il est préférable de laisser courir pour avoir une vie tranquille.
 
-Que les petits malins qui pensent qu'il est possible de profiter de ce choix offert aux expatriés pour voter dans les deux pays à la fois, ne se réjouissent pas si vite. [Le site du consulat](http://www.consulfrance-amsterdam.org/article.php3?id_article=491) rappelle comment les vérifications sont faites dans tous les pays européens. La mairie d'Amsterdam rappelle aussi les sanctions encourues en cas de fraude avérée. Le montant des amendes est plutôt dissuasif.
+Que les petits malins qui pensent qu'il est possible de profiter de ce choix offert aux expatriés pour voter dans les deux pays à la fois, ne se réjouissent pas si vite. [Le site du consulat](https://nl.diplomatie.gouv.fr/fr/service) rappelle comment les vérifications sont faites dans tous les pays européens. La mairie d'Amsterdam rappelle aussi les sanctions encourues en cas de fraude avérée. Le montant des amendes est plutôt dissuasif.
 
 ---
 [^1]: Il faut aussi noter que le dépliant explicatif, pour remplir le formulaire d'inscription, était rédigé dans toutes les langues officielles de l'Union et que la version française était très bien rédigée. Chapeau bas!

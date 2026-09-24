@@ -30,4 +30,4 @@ Pour le moment, l'essentiel des communications à ce sujet rappellent l'importan
 
 ### Pour s'inscrire sur les listes électorales il faut contacter son consulat
 
-Pour les français résidents aux Pays-Bas, le consulat est le **Consulat Général de France à Amsterdam**. Pour ceux qui ne sont pas inscrits, les modalités sont expliqué sur [une seule page](http://www.consulfrance-amsterdam.org/article.php3?id_article=491). Pour ceux qui sont déjà inscrits, il est préférable de vérifier cette inscription. Le 30 décembre, il sera trop tard.
+Pour les français résidents aux Pays-Bas, le consulat est le **Consulat Général de France à Amsterdam**. Pour ceux qui ne sont pas inscrits, les modalités sont expliqué sur [une seule page](https://nl.diplomatie.gouv.fr/fr/citoyennete/voter-letranger). Pour ceux qui sont déjà inscrits, il est préférable de vérifier cette inscription. Le 30 décembre, il sera trop tard.

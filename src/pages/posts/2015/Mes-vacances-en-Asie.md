@@ -40,9 +40,9 @@ Une autre vidéo de la blagueuse montre ses famille et amis devant l'annonce de 
 
 ## Une nouvelle approche des médias sociaux ?
 
-Pourtant, on peut dire que tout le monde le sait, les média sociaux ne sont pas le miroir de la vérité. Il véhicule plutôt une image que chacun se sculpte plus ou moins consciencieusement, plus ou moins consciemment. Zilla a expliqué à la publication de son projet que « tous le monde sait que les images des mannequins sont trafiquées mais nous oublions souvent que nous trafiquons aussi la réalité avec nos propres vies ». Au delà des images, c'est notre vie entière que nous passons sous le filtre des média sociaux et l'expérience de Zilla montre jusqu'à quel point cela peut aller[^3].
+Pourtant, on peut dire que tout le monde le sait, les média sociaux ne sont pas le miroir de la vérité. Ils véhiculent plutôt une image que chacun se sculpte plus ou moins consciencieusement, plus ou moins consciemment. Zilla a expliqué à la publication de son projet que « tous le monde sait que les images des mannequins sont trafiquées mais nous oublions souvent que nous trafiquons aussi la réalité avec nos propres vies ». Au delà des images, c'est notre vie entière que nous passons sous le filtre des média sociaux et l'expérience de Zilla montre jusqu'à quel point cela peut aller[^3].
 
-Si la blague de Zilla est un gros mensonge assumé, combien d'entre nous archivent une image mensongère de leur propre vie sur les réseaux sociaux sans vraiment l'assumer ? La question reste ouverte mais cela nous rappelle qu'il est préférable de prendre les messages que nous recevons en ligne avec parfois plus de pincette que nous ne le faisons habituellement.
+Si la blague de Zilla est un gros mensonge assumé, combien d'entre nous archivent une image mensongère de leur propre vie sur les réseaux sociaux sans vraiment l'assumer ? La question reste ouverte mais cela nous rappelle qu'il est préférable de prendre les messages que nous recevons en ligne avec parfois plus de pincettes que nous ne le faisons habituellement.
 
 ## Les vacances
 

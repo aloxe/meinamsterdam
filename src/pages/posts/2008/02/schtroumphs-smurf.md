@@ -3,7 +3,11 @@ layout: base
 title: On schtroumphe bien les smurfs
 description: "Albert Hein veut à nouveau nous rendre nostalgiques des années 80. Après les wuppies en 2006 à l'occasion de la coupe du monde, voici que l'anniversaire des"
 categorie: dagelijks
-tags: []
+tags: 
+ - publicité
+ - sociétés
+ - shopping
+ - mots
 isMarkdown: true
 thumbnail: smurf1203630008.gif
 image_alt: 

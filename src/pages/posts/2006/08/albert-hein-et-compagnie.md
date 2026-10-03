@@ -3,7 +3,9 @@ layout: base
 title: Albert Hein et compagnie
 description: "Albert Heijn est un épicier bien connu au Pays-Bas. Contrairement à Félix Potin en France, on y revient souvent parce qu'il est omniprésent."
 categorie: nederlandjes
-tags: []
+tags: 
+ - shopping
+ - société
 isMarkdown: true
 thumbnail: Ahold_Logo.jpg
 image_alt: Koninklijke Ahold

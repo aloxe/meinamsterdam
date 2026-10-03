@@ -3,7 +3,9 @@ layout: base
 title: De la suite dans UPC
 description: "  Quand j'ai changé de domicile, j'ai du résilier mon abonnement internet par le câble qui m'avait causé tant de déboires. Vous vous souvenez peut-être de"
 categorie: dagelijks
-tags: []
+tags: 
+ - internet
+ - publicité
 isMarkdown: true
 thumbnail: upc.png
 image_alt: upc

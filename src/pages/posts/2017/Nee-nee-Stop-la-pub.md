@@ -3,7 +3,10 @@ layout: base
 title: Nee nee ! Stop la pub !
 description: "Les tracts qui encombrent la boîte aux lettre c'est sympa pour apprendre le néerlandais$$Et pour illustrer des articles sur les traditions locales.$$ mais on "
 categorie: nederlandjes
-tags: ["panneaux", "pratique"]
+tags:
+ - publicité
+ - panneaux
+ - pratique
 isMarkdown: true
 thumbnail: 
 image_alt: 

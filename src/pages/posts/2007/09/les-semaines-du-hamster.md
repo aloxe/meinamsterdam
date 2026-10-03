@@ -2,7 +2,11 @@
 layout: base
 title: Les semaines du Hamster
 categorie: dagelijks
-tags: ["produits", "sociétés", "shopping"]
+tags: 
+ - produits
+ - sociétés
+ - shopping
+ - publicité
 isMarkdown: true
 thumbnail: albert-hein-bonuskaart.jpg
 image_alt: Albert Hein Bonus Kaart

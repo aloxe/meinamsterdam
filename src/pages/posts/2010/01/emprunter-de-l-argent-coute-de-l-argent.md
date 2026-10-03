@@ -5,6 +5,7 @@ categorie: nederlandjes
 tags: 
  - banque
  - immobilier
+ - publicité
  - économie
 isMarkdown: true
 thumbnail: letop-geld-lenen-kost-geld.png

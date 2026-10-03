@@ -6,6 +6,7 @@ categorie: dagelijks
 tags: 
  - poste
  - sociétés
+ - shopping
 isMarkdown: true
 thumbnail: tnt-post-fermeture.jpg
 image_alt: Fermeture du bureau de poste de Ceintuurbaan

@@ -5,6 +5,7 @@ description:
 categorie: dagelijks
 tags: 
  - monnaie
+ - shopping
 isMarkdown: true
 thumbnail: ING-postbank.png
 image_alt: logo Postbank et ING

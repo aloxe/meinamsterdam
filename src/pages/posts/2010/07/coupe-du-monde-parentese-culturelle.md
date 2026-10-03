@@ -7,6 +7,7 @@ tags:
  - football
  - bière
  - sociétés
+ - publicité
 isMarkdown: true
 thumbnail: chapeau-tambour.JPG
 image_alt: chapeau tambour

@@ -2,7 +2,12 @@
 layout: base
 title: Ja Ja, stop la pub
 categorie: nederlandjes
-tags: ["Amsterdam", "La Haye"]
+tags: 
+ - panneaux
+ - pratique
+ - Amsterdam
+ - La Haye
+ - publicité
 isMarkdown: true
 thumbnail: Ja-Sticker.png
 image_alt: sticket Ja, rond blanc sur carré vert

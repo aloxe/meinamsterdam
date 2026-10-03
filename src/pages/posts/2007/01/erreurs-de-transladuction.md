@@ -2,7 +2,7 @@
 layout: base
 title: Quelques erreurs de transladuction
 categorie: ik-ben-frans
-tags: ["cartes", "coutumes", "humour", "web"]
+tags: ["cartes", "coutumes", "humour", "web", "publicité"]
 isMarkdown: true
 thumbnail: toilette-250.jpg
 image_alt: toilette

@@ -3,7 +3,9 @@ layout: base
 title: Les lampes vélo HEMA
 description: "Après avoir parlé des lampes pour vélos obligatoires et des lampes pour vélos amovibles, vous pensiez que j'avais épuisé le sujet. Mais non, voici les lam"
 categorie: nederlandjes
-tags: ["vélo"]
+tags: 
+ - vélo
+ - shopping
 isMarkdown: true
 thumbnail: loos-lampjes-hema.jpg
 image_alt: Lampes vélo HEMA

@@ -2,7 +2,8 @@
 layout: base
 title: "L'horrible moment Albert Hein"
 categorie: nederlandjes
-tags: []
+tags: 
+ - shopping
 isMarkdown: true
 thumbnail: terrible-time.png
 image_alt: AH youtube screenshot

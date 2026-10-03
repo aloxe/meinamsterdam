@@ -3,7 +3,9 @@ layout: base
 title: Wanadoo devient Orange
 description: Annoncé via moult publicités en France au printemps dernier, la dilution de la marque Wanadoo dans Orange a aussi eu lieu dans le pays dont la couleur nationa
 categorie: ik-ben-frans
-tags: []
+tags: 
+ - publicité
+ - internet 
 isMarkdown: true
 thumbnail: 150px-Orange.png
 image_alt: logo orange

@@ -5,6 +5,8 @@ description: "Les coupes de football se suivent et se ressemblent. Les grandes e
 categorie: nederlandjes
 tags: 
  - football
+ - publicité
+ - shopping
 isMarkdown: true
 thumbnail: 
 image_alt: 

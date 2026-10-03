@@ -3,7 +3,9 @@ layout: base
 title: Appellez moi gratuitement
 description: Depuis décembre 2005 Free a annoncé la gratuité de certains appels internationnaux avec la freebox. Neuf a emboité le pas quelque temps après avec une offr
 categorie: ik-ben-frans
-tags: ["administration"]
+tags: 
+ - administration
+ - internet
 isMarkdown: true
 thumbnail: 
 image_alt: 

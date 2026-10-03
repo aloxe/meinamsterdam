@@ -6,6 +6,7 @@ categorie: nederlandjes
 tags: 
  - football
  - fleurs
+ - shopping
 isMarkdown: true
 thumbnail: WK2010-banieres.jpg
 image_alt: "Banière café jusqu'au toit"

@@ -2,13 +2,17 @@
 layout: base
 title: "DSB Bank: c'est la fin"
 categorie: nederlandjes
-tags: []
+tags: 
+ - banque 
+ - publicité
 isMarkdown: true
 thumbnail: gagnants-DSB-Bank.png
 image_alt: "L'eequipe des Pays-Bas gagne avec DSB Bank"
 permalink: dsb-bank-c-est-la-fin/
 date: 2009-10-20
 update: 2009-10-28
+subfooters:
+ - banques
 ---
 
 La **DSB Bank** est officiellement en faillite depuis plusieurs jours. Les derniers plans de sauvetage n'ont pas marché: la banque DSB pue trop. Cet été encore personne ne s'inquiétait pour cette banque. Que c'est-il donc passé?
@@ -27,9 +31,9 @@ En 2006, DSB obtient une licence d'établissement bancaire et devient **DSB Bank
 DSB Bank ne fait pas parler d'elle pendant que le gouvernement débloque des milliards d'euros pour aider les grandes banques du pays (ABN AMRO, Fortis[^3], ING). Même si la clientèle cible de DSB Bank est la même que pour les *subprimes*, les offres de crédit du groupe sont encore plus alléchantes avec la baisse des taux et tout le monde est content.
 
 Tout le monde? Non. Il semblerait que certains clients se plaignent de frais excessifs que la banque leur a décomptés avec leur crédit hypothécaire. L'association *Stichting Hypotheekleed* représente 7 de ces clients floués et le célèbre économiste **Pieter Lakeman** devient leur porte-parole en août. Ce dernier passe à l'émission matinale 
-*Goedemorgen Nederland* le 1er octobre et [appelle tous les épargnants](http://goedemorgennederland.kro.nl/uitzending-fragment.aspx?id=229396 DSB moet faillite) à retirer en masse l?argent qu?ils ont placé dans la banque DSB afin de provoquer sa faillite. Ça peut paraître dingue mais l'appel est fortement suivit et les rumeurs de mauvaise santé de la banque n'arrange pas les choses. Tout le monde s'exprime sur la question.
+*Goedemorgen Nederland* le 1er octobre et [appelle tous les épargnants](http://goedemorgennederland.kro.nl/uitzending-fragment.aspx?id=229396) à retirer en masse l'argent qu'ils ont placé dans la banque DSB afin de provoquer sa faillite (* DSB moet faillite*). Ça peut paraître dingue mais l'appel est fortement suivit et les rumeurs de mauvaise santé de la banque n'arrange pas les choses. Tout le monde s'exprime sur la question.
 
-La 12 Octobre, 40 millions d?euros retirés entre minuit et neuf heures et demie du matin. [Cela suffit suffi à convaincre le tribunal d'Amsterdam de placer DSB Bank sous curatelle](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11374) . À partir de ce moment, **Dirk Scheringa** se démène pour trouver de l'aide accusant le monde entier de vouloir le couler. Il demande de l'aide de la part du gouvernement mais **Wouter Bos** (le ministre des finances remplacé Gerit Zalm et qui lui as plus tard offert un siège au conseil d'administration d'**ABN AMRO**) lui oppose une fin de non recevoir arguant que ce sont les pratiques de la DSB Bank qui sont la caus de sa perte[^4]. Dirk Scheringa a aussi fait la tournée des grandes banques néerlandaises, celles là même qui ont été sauvées par le gouvernement il y a quelque mois. Aucune d'entre elles n'acceptent de reprendre la DSB Bank et ses actifs pourris. Le 16 octobre le tribunal d'Amsterdam déclare la faillite de la banque. Un repreneur texan semble s'intéresser un temps à DSB mais finalement jette l'éponge. [Le 19 octobre](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11388), la faillite de la banque est effective et tous les journaux en font leur une. Les gens qui n'ont pas retiré leurs sous n'ont plus d'espoir, l'état couvre les particuliers à hauteur de 100.000 euros en cas de faillite bancaire mais pas au plus.
+La 12 Octobre, 40 millions d?euros retirés entre minuit et neuf heures et demie du matin. [Cela suffit suffi à convaincre le tribunal d'Amsterdam de placer DSB Bank sous curatelle](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11374) . À partir de ce moment, **Dirk Scheringa** se démène pour trouver de l'aide accusant le monde entier de vouloir le couler. Il demande de l'aide de la part du gouvernement mais **Wouter Bos** (le ministre des finances qui a remplacé Gerit Zalm, qui lui a plus tard offert un siège au conseil d'administration d'**ABN AMRO**) lui oppose une fin de non recevoir arguant que ce sont les pratiques de la DSB Bank qui sont la cause de sa perte[^4]. Dirk Scheringa a aussi fait la tournée des grandes banques néerlandaises, celles là même qui ont été sauvées par le gouvernement il y a quelques mois. Aucune d'entre elles n'acceptent de reprendre la DSB Bank et ses actifs pourris. Le 16 octobre le tribunal d'Amsterdam déclare la faillite de la banque. Un repreneur texan semble s'intéresser un temps à DSB mais finalement jette l'éponge. [Le 19 octobre](http://www.ambafrance-nl.org/france_paysbas/spip.php?article11388), la faillite de la banque est effective et tous les journaux en font leur une. Les gens qui n'ont pas retiré leurs sous n'ont plus d'espoir, l'état couvre les particuliers à hauteur de 100.000 euros en cas de faillite bancaire mais pas au delà.
 
 Voilà ou nous en sommes aujourd'hui. Mais l'affaire ne devrait pas s'arrêter là, les personnalités que j'ai évoquées sont suffisamment médiatiques et le préjudice suffisamment important pour promettre des procès qui défrayent la chronique. On n'a pas fini d'en entendre parler, mais maintenant, vous ne pouvez pas dire que je ne vous ai pas aidé à comprendre.
 

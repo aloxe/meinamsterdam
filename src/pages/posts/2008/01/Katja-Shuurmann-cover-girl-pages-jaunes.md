@@ -3,7 +3,9 @@ layout: base
 title: Katja Shuurmann, la cover girl des pages jaunes
 description: "Je vous avais dit que j'étais dans l'annuaire mais j'ai oublié de préciser quel annuaire. Celui d'Amsterdam, celui avec Katja Shuurmann en couverture. Ici le"
 categorie: nederlandjes
-tags: ["panneaux"]
+tags: 
+ - panneaux
+ - publicité
 isMarkdown: true
 thumbnail: 
 image_alt: 

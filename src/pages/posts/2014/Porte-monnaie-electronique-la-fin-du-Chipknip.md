@@ -6,6 +6,7 @@ categorie: nederlandjes
 tags: 
  - sociétés
  - banque
+ - monnaie
 isMarkdown: true
 thumbnail: Einde-Chipknip.png
 image_alt: Logo pour annoncer la fin du Chipknip

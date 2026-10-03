@@ -2,7 +2,9 @@
 layout: base
 title: "Qu'allons nous faire de nos wuppies ?"
 categorie: nederlandjes
-tags: []
+tags: 
+ - shopping
+ - publicité
 isMarkdown: true
 thumbnail: Wk_wuppies.JPG
 image_alt: des Wuppies

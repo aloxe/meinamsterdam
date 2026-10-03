@@ -3,7 +3,9 @@ layout: base
 title: Pénurie sur les liquides
 description: 
 categorie: dagelijks
-tags: ["produits"]
+tags: 
+ - produits
+ - shopping
 isMarkdown: true
 thumbnail: Albert-Hein-liquides-vide.jpg
 image_alt: rayon liquide vide

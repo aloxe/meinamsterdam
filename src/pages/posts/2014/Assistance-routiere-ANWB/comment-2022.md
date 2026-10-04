@@ -7,5 +7,4 @@ tags: comment
 permalink: false
 ---
 
-Non je ne vois pas, est ce que ça a un rapport avec le président d'une république septentrionale ? Je n'ai pas trop envie d'aller dans ses roues non.<br />
----
+<p>Non je ne vois pas, est ce que ça a un rapport avec le président d'une république mérodionale ? Je n'ai pas trop envie d'aller dans ses roues non.</p>

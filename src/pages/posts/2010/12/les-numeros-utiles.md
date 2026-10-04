@@ -3,7 +3,10 @@ layout: base
 title: Les numéros utiles
 description: 
 categorie: dagelijks
-tags: ["administration", "sociétés"]
+tags: 
+ - administration
+ - sociétés
+ - pratique
 isMarkdown: true
 thumbnail: 
 image_alt: 
@@ -14,8 +17,6 @@ TODO: no image, no image alt,
 subfooters:
  - telephone
 ---
-
-
 
 Vous connaissez tous les numéros en 0-800-machin... Les anciens numéros verts indigos et autres couleurs se sont multipliés un peu partout sur le même modèle. Aux Pays-Bas les numéros de service commencent par **0-900**. Peu d'entre eux sont gratuits, nombre d'entre eux sont surtaxés. Les néerlandais sont plus fort en commerce qu'en service, alors le coup de fil pour vous aider, ils ne vont pas vous l'offrir...
 

@@ -7,5 +7,4 @@ tags: comment
 permalink: false
 ---
 
-<p>Bon mais alors c'était quoi, cette panne ?</p>
----
+Bon mais alors c'était quoi, cette panne ?

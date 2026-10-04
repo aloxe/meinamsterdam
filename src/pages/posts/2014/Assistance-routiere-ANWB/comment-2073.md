@@ -7,4 +7,4 @@ tags: comment
 permalink: false
 ---
 
-<p>Quand même, c'est pas gentil de se moquer :-(</p>
+Quand même, c'est pas gentil de se moquer :-(

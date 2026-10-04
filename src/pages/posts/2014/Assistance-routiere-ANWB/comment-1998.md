@@ -7,5 +7,4 @@ tags: comment
 permalink: false
 ---
 
-<p>Si tu n'as pas eu l'assistance alors comment es tu rentré?</p>
----
+Si tu n'as pas eu l'assistance alors comment es tu rentré?

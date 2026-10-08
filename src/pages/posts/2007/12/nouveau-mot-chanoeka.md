@@ -3,7 +3,7 @@ layout: base
 title: "Nouveau mot: Chanoeka"
 description: "///html  <div style='margin:3px; padding:1px; border:1px solid black; float:left; font-size:10px; text-align:center;'><a href='http://commons.wikimedia.org/wiki"
 categorie: toering
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: Hanukiyot-Attribution-Beth-Brewer.jpg
 image_alt: lumières d'Hannuka

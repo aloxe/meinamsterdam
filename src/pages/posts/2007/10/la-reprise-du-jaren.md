@@ -2,7 +2,7 @@
 layout: base
 title: La reprise du Jaren
 categorie: dagelijks
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: de-jaren.jpg
 image_alt: De Jaren meeting

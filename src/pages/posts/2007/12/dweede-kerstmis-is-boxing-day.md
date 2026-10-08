@@ -5,6 +5,7 @@ categorie: dagelijks
 tags: 
  - Noël
  - religion
+ - mots
 isMarkdown: true
 thumbnail: kerstpaket.jpg
 image_alt: Mon cadeau de Noël

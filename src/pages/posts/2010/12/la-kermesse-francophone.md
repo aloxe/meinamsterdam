@@ -3,7 +3,7 @@ layout: base
 title: La kermesse francophone
 description: "J'en ai parlé récemment, la kermesse francophone, à La Haye, est une institution. Depuis 40 ans, c'est le plus gros évènement de charité francophone en pa"
 categorie: ik-ben-frans
-tags: ["La Haye"]
+tags: ["La Haye", "mots"]
 isMarkdown: true
 thumbnail: kermesse_8496.JPG
 image_alt: 

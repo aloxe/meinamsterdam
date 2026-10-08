@@ -3,7 +3,7 @@ layout: base
 title: La note des millions et sa valise
 description: 
 categorie: nederlandjes
-tags: ["La Haye", "coutumes", "politique"]
+tags: ["La Haye", "coutumes", "politique", "mots"]
 isMarkdown: true
 thumbnail: Witteveen__H.J._-_SFA003000443_s.jpg
 image_alt: Witteveen H.J. et sa valisette

@@ -2,7 +2,7 @@
 layout: base
 title: "Je suis dans l'annuaire"
 categorie: dagelijks
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: 
 image_alt: 

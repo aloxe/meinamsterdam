@@ -3,7 +3,7 @@ layout: base
 title: Une heure sans vélo
 description: "Pour le nouvel an, je suis allé en France en Thalys. J'ai pédalé jusqu'à la gare centrale (Amsterdam Centraal Station) et j'ai garé mon vélo dans cet imme"
 categorie: toering
-tags: ["architecture", "vélo"]
+tags: ["architecture", "vélo", "mots"]
 isMarkdown: true
 thumbnail: fietsenflat.jpg
 image_alt: "Gardien du parking des vélos avec l'église Saint Nicolas au loin"

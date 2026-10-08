@@ -3,7 +3,7 @@ layout: base
 title: "Nouveau mot : IJ (2)"
 description: 
 categorie: toering
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: amsterdam-ij.png
 image_alt: "Vue satellite du bassin de l'IJ et Amsterdam"

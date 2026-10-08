@@ -3,7 +3,7 @@ layout: base
 title: "Nouveau mot : Kermesse, pardon, Kermis"
 description: 
 categorie: nederlandjes
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: grande-roue-dam.jpg
 image_alt: 

@@ -6,6 +6,7 @@ tags:
  - transports
  - train 
  - Allemagne
+ - mots
 isMarkdown: true
 thumbnail: Prague-Amsterdam-CNL.jpg
 image_alt: Panneau de wagon 173 avec destination Prague

@@ -2,7 +2,7 @@
 layout: base
 title: Les tournesols
 categorie: dagelijks
-tags: ["fleurs"]
+tags: ["fleurs", "mots"]
 isMarkdown: true
 thumbnail: les-tournessols-300.jpg
 image_alt: les tournesols

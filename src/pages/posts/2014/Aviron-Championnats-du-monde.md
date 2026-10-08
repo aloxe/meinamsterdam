@@ -4,6 +4,7 @@ title: "Aviron : Championnats du monde d'Amsterdam"
 categorie: toering
 tags: 
  - sport
+ - mots
 isMarkdown: true
 thumbnail: roeinen-op-amstel.png
 image_alt: "Aviron sur l'Amstel (Roeien op Amstel)"

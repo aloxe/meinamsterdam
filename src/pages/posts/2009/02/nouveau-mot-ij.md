@@ -3,7 +3,7 @@ layout: base
 title: "Nouveau mot : IJ"
 description: "Aujourd'hui le nouveau mot n'est pas un mot c'est une lettre. Une  lettre inconnue dans l'alphabet français mais largement utilisée en  néerlandais: le ?."
 categorie: nederlandjes
-tags: []
+tags: ["mots"]
 isMarkdown: true
 thumbnail: plaque-de-byenkorf.jpg
 image_alt: plaque en métal dubyenkorf

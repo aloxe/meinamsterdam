@@ -8,25 +8,26 @@ tags:
  - économie
  - santé
 isMarkdown: true
-thumbnail: impact-intervention-covid-19.png
-image_alt: Impact des interventions légales sur la propagation de la COVID19
+thumbnail: datagueule-coronavirus.png
+image_alt: capture de la première image du film de Datagueule avec des coronavirus partout sur fond bleu
 permalink: Coronavirus-horde-le-marteau-et-la-danse/
 date: 2020-03-22
-update: 2020-03-23
-TODO: no image, no image alt
+update: 2026-10-10
 ---
-
 
 
 Face au coronavirus le gouvernement néerlandais n'a toujours pas opté pour appeler au confinement. Ce choix est justifié par la stratégie de  l’«immunité collective», souvent qualifiée de stratégie de la horde qui ne semble pas faire l'unanimité au point qu'aujourd'hui il envisage maintenant de fermer les magasins. Si cette option est tant décriée pourquoi est elle mise en avant par ceux qui ont la charge du pays et de la sécurité de tous ses habitants. Est-elle si mauvaise que ça ?
 
 ## L'avance du Coronavirus
 
-Je ne vais pas vous faire une énième point sur cette pandémie qu'on  observe déjà depuis deux mois. Il est très contagieux et la réduction des interactions sociales est le moyen pour réduire sa progression. Non pas pour éradiquer le virus mais déjà pour permettre aux service de soin de faire face à la forte demande engendrée par la nouvelle maladie et ainsi sauver des vies. [#DATAGUEULE](https://peertube.datagueule.tv/videos/overview) l'explique mieux que moi.
+Je ne vais pas vous faire une énième point sur cette pandémie qu'on  observe déjà depuis deux mois. Il est très contagieux et la réduction des interactions sociales est le moyen pour réduire sa progression. Non pas pour éradiquer le virus mais déjà pour permettre aux service de soin de faire face à la forte demande engendrée par la nouvelle maladie et ainsi sauver des vies. [#DATAGUEULE](https://www.youtube.com/@datagueule) l'explique mieux que moi.
 
+<!-- https://peertube.datagueule.tv/videos/overview 
+
+-->
 <!-- HTML -->
 <div class="flex flex-col items-center">
-<iframe width="560" height="315" title="video Datagueule" sandbox="allow-same-origin allow-scripts allow-popups" src="https://peertube.datagueule.tv/videos/embed/077002d4-7a80-4f0e-a46c-1b9a949cd36a" frameborder="0" allowfullscreen title="DTG Coronavirus,  confinements solidaires - DataGueule"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FDataGueuleOfficiel%2Fvideos%2F1555488751274705%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </div>
 <!-- / HTML -->
 
@@ -47,7 +48,7 @@ Les exemples de Lombardie ou du Grand Est devraient être connues de Mark Rutte 
 
 La réponse est peut-être dans une courbe publiée dans un article de The Imperial College UK ([PDF](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)) montrant cette résurgence du nombre de cas après une levée des mesures prises pour stopper le virus. 
 
-![Suppressionstrategy  scenarios  for GBshowing ICUbed  requirements.  The  black  line  shows  the unmitigated epidemic. Green shows a suppressionstrategy incorporating closure of schools and universities, case isolation and population-wide social distancingbeginning in late March 2020. The orange line shows a containment   strategy   incorporating   case   isolation,   household   quarantine   and population-wide social distancing. The red line is the estimated surge ICU bedcapacity in GB.  The blue shading shows the 5-month period in which these interventions are assumed to remain in place. ](impact-intervention-covid-19.png){.center}
+![Suppressionstrategy  scenarios  for GBshowing ICUbed  requirements.  The  black  line  shows  the unmitigated epidemic. Green shows a suppressionstrategy incorporating closure of schools and universities, case isolation and population-wide social distancingbeginning in late March 2020. The orange line shows a containment   strategy   incorporating   case   isolation,   household   quarantine   and population-wide social distancing. The red line is the estimated surge ICU bedcapacity in GB.  The blue shading shows the 5-month period in which these interventions are assumed to remain in place.](impact-intervention-covid-19.png){.center}
 
 Cette courbe a sûrement été sur la table des cabinets de crise et retenu l'attention des gouvernements américains, britaniques et néerlandais les incitant à choisir une stratégie pour en finir au plus tôt malgré le coût plutôt que de faire des efforts et d'avoir des morts après.
 

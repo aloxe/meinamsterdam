@@ -50,8 +50,7 @@ Le **Thalys neige** est le premier service spécial de [l'histoire de Thalys](ht
 </div>
 <!-- / HTML -->
 
-Les wagons sont plein mais ils ne sont pas que pleins de passagers. Les carrés voyageurs ne sont pas réservés aux voyageurs mais utilisés comme espaces bagages supplémentaires pour bagages. Quand des bataves partent en vacances pour une semaine, ils emmènent la moitié de la maison. Ajoutez les skis et chaussures et vous comprendrez que ces espaces bagages ne sont pas de trop.
-
+Les wagons sont plein mais ils ne sont pas que pleins de passagers. Les carrés voyageurs ne sont pas réservés aux voyageurs mais utilisés comme espaces bagages supplémentaires. Quand des bataves partent en vacances pour une semaine, ils emmènent la moitié de la maison dans des énormes valises. Ajoutez les skis et chaussures et vous comprendrez que ces espaces bagages ne sont pas de trop.
 
 ## Le trajet retour
 

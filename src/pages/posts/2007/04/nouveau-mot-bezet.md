@@ -22,5 +22,16 @@ Je pense qu'avec la phrase et la photo ci dessus, vous conprendrez que *bezet* s
 
 Durant *Koninginedag* (la fête de la reine), le commerce est autorisé pour tout le monde sans avoir bsoin de patente. Les trottoirs de toutes les villes des Pays-Bas se transforment alors en véritable brocante.
 
-* voir aussi [Le guide de la fête de la reine](http://www.iamsterdam.com/visiting_exploring/culture/annual_cultural_0/queen's_day)
 * [préparatifs en orange](/preparatifs-oranges)
+
+**Pour rappel**
+
+* [Koninginnedag (la fête de la reine)](/koninginnedag/)
+* [Quelques panoramiques](/pas-de-fete-du-travail/)
+* [Après koninginnedag](/apres-koninginnedag/)
+* [Ma collection de chapeaux](/hoeden/), plein de photos
+
+<!-- 
+
+* voir aussi [Le guide de la fête de la reine](http://www.iamsterdam.com/visiting_exploring/culture/annual_cultural_0/queen's_day)
+-->>

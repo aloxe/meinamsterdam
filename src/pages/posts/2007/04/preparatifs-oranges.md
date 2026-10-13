@@ -20,9 +20,12 @@ Cette année la Reine effectuera sa visite dans la ville brabançonne de *Den Bo
 
 **Pour rappel**
 
-* [Koninginnedag (la fête de la reine)](/koninginnedag)
-* [Quelques panoramiques](/pas-de-fete-du-travail)
-* [Après koninginnedag](/apres-koninginnedag)
-* [Ma collection de chapeaux](/hoeden), plein de photos
+* [Koninginnedag (la fête de la reine)](/koninginnedag/)
+* [Quelques panoramiques](/pas-de-fete-du-travail/)
+* [Après koninginnedag](/apres-koninginnedag/)
+* [Ma collection de chapeaux](/hoeden/), plein de photos
 
-* voir aussi [Le guide de la fête de la reine](http://www.iamsterdam.com/visiting_exploring/culture/annual_cultural_0/queen's_day)
+**Et aussi**
+* [Premier Koningsdag](/Premier-Koningsdag/)
+* [Nouveau mot : Bezet : réservé](/nouveau-mot-bezet/)
+* [Préparatifs oranges](/preparatifs-oranges/)

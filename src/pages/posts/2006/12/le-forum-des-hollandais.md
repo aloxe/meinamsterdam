@@ -25,5 +25,5 @@ Je suis déjà rentré à Paris en covoiturage grâce à la rubrique [se déplac
 La rubrique [Bon plan et sorties](http://www.leforum.nl/phpBB/viewforum.php?f=6) accueille les propositions des expats francophones qui veulent se retrouver autour d'un verre ou dans un resto. Il y a plein de propositions dans plusieurs villes des Pays-Bas mais je n'ai pas encore eu l'occasion de participer à l'une d'elle. Une soirée cependant est à marquer d'une pierre blanche dans la vie du français aux Pays-bas, c'est celle du [Beaujolais nouveau](http://www.leforum.nl/phpBB/viewtopic.php?t=6165) où, au delà des habitués du forum, tout plein de monde profite de cette occasion pour boire et rencontrer des gens. Les francophones viennent de tous les Pays-Bas[^2] pour boire un coup à Amsterdam. J'y étais et ... [c'était très bien](http://www.leforum.nl/phpBB/viewtopic.php?t=6821&start=0&postdays=0&postorder=asc&highlight=).
 
 ---
-[^1]: [Logiciel libre](http://www.reunionweb.org/about/logiciels-libres) qui a fait ses preuves...
+[^1]: [Logiciel libre](https://www.reunionweb.org/about/logiciels-libres/) qui a fait ses preuves...
 [^2]: Vous trouverez sur [la carte des membres l'éparpillement francophone aux Pays-Bas](http://www.leforum.nl/phpBB/gmap.php).

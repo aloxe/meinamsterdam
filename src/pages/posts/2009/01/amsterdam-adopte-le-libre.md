@@ -34,7 +34,7 @@ Un groupe a donc été mis en place pour préparer la ville à cette migration. 
 On voit ici toute la mesure de la politique Néerlandaise[^3], volontaire mais pragmatique. Bien loin des gesticulations que j'ai pu suivre quand j'étais à Paris. Je ne sais pas ou en est Paris dans la gestion de son informatique mais je vous donnerais des nouvelles d'Amsterdam dès que j'en aurais.
 
 ---
-[^1]: [Qu'est ce qu'un logiciel libre ?](http://www.reunionweb.org/about/logiciels-libres) écrit par moi il y a longtemps...
+[^1]: [Qu'est ce qu'un logiciel libre ?](https://reunionweb.org/about/logiciels-libres/) écrit par moi il y a longtemps mais toujours valable.
 [^2]: Première ville européenne à avoir publiquement choisit de migrer vers le Logiciel Libre il y a quelques années mais dont la transition a été longue et mouvementée.
 [^3]: La motion était présentée par une conseillère verte, une libérale et une socio-démocrate, alliance typique du [modèle de Polder](/modele-de-polder).
 

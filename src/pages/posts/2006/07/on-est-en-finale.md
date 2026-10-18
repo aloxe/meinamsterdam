@@ -26,4 +26,8 @@ Pour la coupe du monde de football, beaucoup de néerlandais [ont fait des paris
 
 ---
 [^1]: des fois je me demande si gagner par pénalty ou [aux tirs aux buts](http://www.menteur.com/chronik/060705.html) est vraiment mérité...
-[^2]: moi je vais au Coco outbacks, sur Rembrandtplein mais il y a [d'autres lieux de rendez-vous](http://www.leforum.nl/phpBB/viewtopic.php?p=63204#63204).
+[^2]: moi je vais au Coco outbacks, sur Rembrandtplein mais il y a d'autres lieux de rendez-vous sur le forum des hollandais.
+
+<!---
+http://www.leforum.nl/phpBB/viewtopic.php?p=63204#63204
+----->

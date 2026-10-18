@@ -1,7 +1,7 @@
 ---
 date: 2007-07-20
 author: Le forum
-email: leforum@leforum.nl
+email: 
 site: 
 tags: comment
 permalink: false

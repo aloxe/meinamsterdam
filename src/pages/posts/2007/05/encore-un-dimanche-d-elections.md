@@ -22,7 +22,7 @@ Une petite visite au consulat m'a permis de constater que, ici aussi, les bureau
 
 <!--excerpt-->
 
-Après le scrutin les français s'étaient donnés plusieurs rendez-vous. [Amsterdam](http://www.leforum.nl/phpBB/viewtopic.php?t=9268&postdays=0&postorder=asc&start=0), [Den Haag](http://www.leforum.nl/phpBB/viewtopic.php?t=9239&start=0&postdays=0&postorder=asc&highlight=), [Rotterdam](http://www.leforum.nl/phpBB/viewtopic.php?t=9187). Pour la première fois il y avait un rendez-vous dans [un QG typique](http://www.leforum.nl/phpBB/viewtopic.php?t=9311). La crêperie bretonne *Bon Appétit* sur [Albert Cuyp](/albert-cuyp-le-marche) près de chez nous était bondé de gens rivés sur un petit écran avec les images de [TV5MONDE](http://tv5.org/TV5Site/elections2007/). Il y avait là des gens de tout bords et l'ambiance était bonne même si les royalistes étaient un peu tristes.
+Après le scrutin les français s'étaient donnés plusieurs rendez-vous. [Amsterdam](https://web.archive.org/web/20091010004221/http://www.leforum.nl/phpBB/viewtopic.php?t=9268&postdays=0&postorder=asc&start=0), [Den Haag](https://web.archive.org/web/20091010004215/http://www.leforum.nl/phpBB/viewtopic.php?t=9239&start=0&postdays=0&postorder=asc&highlight=), [Rotterdam](https://web.archive.org/web/20091010004210/http://www.leforum.nl/phpBB/viewtopic.php?t=9187). Pour la première fois il y avait un rendez-vous dans un QG typique. La crêperie bretonne *Bon Appétit* sur [Albert Cuyp](/albert-cuyp-le-marche) près de chez nous était bondé de gens rivés sur un petit écran avec les images de **TV5MONDE**. Il y avait là des gens de tout bords et l'ambiance était bonne même si les royalistes étaient un peu tristes.
 
 ![dans la crêperie bretonne](resultats2-img_9711.jpg){.center}
 
@@ -40,4 +40,4 @@ Après le scrutin les français s'étaient donnés plusieurs rendez-vous. [Amste
 
 **Nicolas Sarkozy** : 1637 voix soit **40,3%**
 
-source: [Ministère des affaires étrangères](http://www.diplomatie.gouv.fr/fr/IMG/pdf/MAE_Resultats_2eme_tour.pdf)
+source: [Ministère des affaires étrangères](https://web.archive.org/web/20071024050300/http://www.diplomatie.gouv.fr/fr/IMG/pdf/MAE_Resultats_2eme_tour.pdf)

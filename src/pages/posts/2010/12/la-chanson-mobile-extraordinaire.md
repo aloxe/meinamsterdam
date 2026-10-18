@@ -25,7 +25,7 @@ C'est justement un film qui regroupe automobile et voix françaises dans lequel 
 </div>
 <!-- / HTML -->
 
-En fait c'est une rencontre fortuite et ferroviaire, entre [Angie](http://www.leforum.nl/phpBB/memberlist.php?mode=viewprofile&u=2687) du forum et Matijn le réalisateur de la vidéo. Angie est venue à la maison le temps d'une sortie à vélo dans les tulipes[^1]. Elle a donc pensé à moi quand Martijn lui a dit qu'il cherchait une voix français masculine. Le soir après la randonnée j'ai donc donné un peu de mon temps libre pour lire un texte dans un studio.
+En fait c'est une rencontre fortuite et ferroviaire, entre **Angie** du forum et **Matijn** le réalisateur de la vidéo. Angie est venue à la maison le temps d'une sortie à vélo dans les tulipes[^1]. Elle a donc pensé à moi quand Martijn lui a dit qu'il cherchait une voix français masculine. Le soir après la randonnée j'ai donc donné un peu de mon temps libre pour lire un texte dans un studio.
 
 Comme Angie écrit sur le portail du forum, j'ai même eu droit à [un reportage sur cette anecdote](http://leforum.nl/index.php/report-section/39-reportages/189-la-chanson-mobile-extraordinaire). C'est la gloire hein ?
 

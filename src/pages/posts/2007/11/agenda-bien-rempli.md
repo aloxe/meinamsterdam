@@ -17,7 +17,7 @@ TODO: no image, no image alt
 
 J'aurais bian aimé vous présenter le festival du cinéma français ([cinépremières Frans Filmfestival](http://www.cinepremieres.nl/2007/)) qui se déroule en ce moment dans plusieurs villes des Pays-Bas ; vous redire que c'est une rare occasion de voir autre chose que des films anglo-saxons tant que je n'arrive pas à lire les sous-titres Néerlandais. Je vous ai déja parlé de [cinépremières l'année dernière](/du-cinema-en-francais) alors j'ai peur de me répéter...
 
-Le programme est aussi [annoncé sur le forum des Hollandais](http://www.leforum.nl/phpBB/viewtopic.php?t=11987) que je vous ai aussi [présenté l'année dernière](/le-forum-des-hollandais). Vous savez donc déjà que vous pouvez organiser vos sorties cinéma (et autres) en utilisant ce forum.
+Le programme est aussi [annoncé sur le forum des Hollandais](https://web.archive.org/web/20091010004134/http://www.leforum.nl/phpBB/viewtopic.php?t=11987) que je vous ai aussi [présenté l'année dernière](/le-forum-des-hollandais/). Vous savez donc déjà que vous pouvez organiser vos sorties cinéma (et autres) en utilisant ce forum.
 
 Que vous présenter d'autre pour remplir votre agenda de français aux Pays-Bas ?
 

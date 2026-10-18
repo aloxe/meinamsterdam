@@ -13,7 +13,7 @@ update: 2017-10-18
 TODO: no image, no image alt, shortened desc
 ---
 
-Voilà deux ans que je vais à la sortie printanière dans les tulipes, [organisée sur le forum](http://www.leforum.nl/forum/viewtopic.php?f=18&t=26243). C'était bien parti, la semaine avait été ensoleillée et le temps promettait de faire reluire les couleurs des fleurs dans les champs. 
+Voilà deux ans que je vais à la sortie printanière dans les tulipes, [organisée sur le forum](/le-forum-des-hollandais/). C'était bien parti, la semaine avait été ensoleillée et le temps promettait de faire reluire les couleurs des fleurs dans les champs. 
 
 C'était sans compter sur la batavitude du moment. Samedi a été la seule journée couverte ces derniers jours. Le lendemain, dimanche des rameaux, il faisait à nouveau beau. Voilà pourquoi il n'y a pas de ciel bleu sur les photos ci-dessous mais C'était quand même une belle journée avec de jolies couleurs dans les champs et sur nos visages.
 

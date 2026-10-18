@@ -9,6 +9,6 @@ permalink: false
 
 <p>
 Il y a un plan B, un plan de repli<br />
-<a href="http://www.leforum.nl/phpBB/viewtopic.php?f=6&amp;t=24668&amp;p=379673#p379683">voir sur le forum</a>
+voir sur le forum
 </p>
 ---

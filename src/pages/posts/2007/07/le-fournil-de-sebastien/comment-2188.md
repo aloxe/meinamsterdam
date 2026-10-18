@@ -7,5 +7,4 @@ tags: comment
 permalink: false
 ---
 
-<p>&nbsp;&nbsp;&nbsp; Excellentissime, terrible pour mon programme CDR!!</p>
----
+Excellentissime, terrible pour mon programme CDR!!

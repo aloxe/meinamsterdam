@@ -14,7 +14,7 @@ TODO: no image, no image alt
 
 Hier, c'était [le troisième mardi de Septembre, jour du Prinsjesdag](/le-jour-du-prinsjesdag). Cette journée folklorique marque la rentré politique. Mais actuellement le gouvernement en place est sortant et le gouvernement suivant tarde à se former. Comment cela s'est-il donc passé ?
 
-Le forum des Hollandais [parle du Prinsjesdag](http://www.leforum.nl/index.php/events-section/38-evenements/224-prinsjesdag) cette année sur son portail. Le cérémoniel est bien expliqué (discours de la reine et note des millions ou Miljoenennota''), et la particularité du Prinsjesdag de 2010 est aussi évoquée.
+Le forum des Hollandais [parle du Prinsjesdag](https://web.archive.org/web/20101214062011/http://www.leforum.nl/index.php/events-section/38-evenements/224-prinsjesdag) cette année sur son portail. Le cérémoniel est bien expliqué (discours de la reine et note des millions ou Miljoenennota''), et la particularité du Prinsjesdag de 2010 est aussi évoquée.
 
 <!--excerpt-->
 
@@ -26,7 +26,7 @@ La particularité de cette année est que le Discours du Trône, et donc le proj
 </div>
 <!-- / HTML -->
 
-En effet, suite aux élections générales du mois de juin, les nouveaux partis les mieux représentés ne se sont toujours pas accordés pour former un gouvernement. Après une [alliance centriste](/apres-le-orange-le-violet) c'est [une alliance de droite qui est envisagée](/un-gouvernement-minoritaire) depuis début août, mais les partis en présence ont du mal à s'accorder. Les extremistes ont du mal à lâcher certaines de leurs promesses et les chrétiens démocrates sont divisés sur le fait de dicuter avec les fachos.
+En effet, suite aux élections générales du mois de juin, les nouveaux partis les mieux représentés ne se sont toujours pas accordés pour former un gouvernement. Après une [alliance centriste](/apres-le-orange-le-violet/) c'est [une alliance de droite qui est envisagée](/un-gouvernement-minoritaire/) depuis début août, mais les partis en présence ont du mal à s'accorder. Les extremistes ont du mal à lâcher certaines de leurs promesses et les chrétiens démocrates sont divisés sur le fait de dicuter avec les fachos.
 
 **La note des millions** propose donc cette année des mesurettes qui ne seront pas appliquées par le gouvernement à venir. La revue de presse de l'ambassade reprends le Trouw et indique que
 <!-- HTML -->

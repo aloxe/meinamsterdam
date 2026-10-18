@@ -25,9 +25,8 @@ Seulement cela n'a pas toujours été le cas et **cette pratique du vélo est le
 </div>
 <!-- / HTML -->
 
-L'histoire du livre **Bike Nation** est résumée en moins d'une dizaine de tweets mais pour les *réfractwitters*, il y avait possibilité de connaître cette histoire grâce à un article de *dadine* sur le portail de leforum.nl. L'article inspiré d'un blogpost en anglais reprenait le film suivant, centré sur les infrastructures où l'on voit un Amsterdam du début du siècle avec des tacots qui se joignent aux bicyclettes dans le trafic urbain naissant.
+L'histoire du livre **Bike Nation** est résumée en moins d'une dizaine de tweets mais pour les *réfractwitters*, il y avait possibilité de connaître cette histoire grâce à un article de *dadine* sur le portail de le forum.nl. L'article inspiré d'un blogpost en anglais reprenait le film suivant, centré sur les infrastructures où l'on voit un Amsterdam du début du siècle avec des tacots qui se joignent aux bicyclettes dans le trafic urbain naissant.
 
-<!--Gone:  (http://leforum.nl/index.php/report-section/39-reportages/315-lhistorique-des-pistes-cyclables-neerlandaises). -->
 <!-- HTML -->
 <div class="flex flex-col items-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuBdf9jYj7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen title="How the Dutch got their cycle paths"></iframe>

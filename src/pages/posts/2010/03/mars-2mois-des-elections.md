@@ -34,6 +34,8 @@ Il est fort probable que je ne participe pas à ce scrutin parce que j'ai été 
 
 **9 juin 2010 : élections générales**. Avec [la chute du gouvernement](/balkenende-iv-est-tombe), la reine a convoqué des élections générales le 19 juin prochain pour en une nouvelle chambre des députés (deuxième chambre) . J'aurais le temps de vous parler à nouveau de ce scrutin.
 
+<!---
+
 ## Quelques liens supplémentaires pour vous préparer à ces élections
 
 * Sur le Forum : [Le 3 mars, n'oubliez pas votre carte d'électeur et pièce d'identité](http://leforum.nl/index.php/events-section/38-evenements/167-les-elections-municipales-du-3-mars-2010)
@@ -42,6 +44,7 @@ Il est fort probable que je ne participe pas à ce scrutin parce que j'ai été 
 * Kreukreuscopie : [Le vote occidental](http://kreukreuscopie.blogspot.com/2010/02/le-vote-occidental.html)
 * Kreukreuscopie : [Aller voter](http://kreukreuscopie.blogspot.com/2010/02/aller-voter.html)
 * Sur le forum : [discussion sur les élections municipales](http://www.leforum.nl/forum/viewtopic.php?f=5&t=22328)
+-->
 
 ## La suite :
 [A voté](/a-vote)

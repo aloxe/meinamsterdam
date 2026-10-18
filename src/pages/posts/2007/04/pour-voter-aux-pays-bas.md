@@ -16,8 +16,6 @@ update: 2012-09-11
 TODO: no image, no image alt
 ---
 
-
-
 Je ne sais pas si vous êtes au courant mais ce dimanche c'est le premier tour des élections présidentielles. En France. Les quelques 2 millions de français à l'étranger participent aussi au scrutin. Il suffit pour celà d'être inscrit sur les listes électorales, au consulat de son pays de résidence. [J'en ai déjà parlé](/carte-inutile/), les démarches sont simples mais pour choisir un [des 12 candidats](http://www.cnccep.fr/candidats.htm) de ces présidentielles, c'est un peu tard...
 
 Aux Pays-Bas, 5 bureaux de votes sont ouverts. Deux à l'ambassade à La Haye et 3 à Amsterdam répartis entre le consulat et à la maison Descartes juste à coté. La répartition est inégale et on peut dire que tous les français aux Pays-Bas voteront à Amsterdam à l'exception de ceux dont les codes postaux suivent :
@@ -36,11 +34,13 @@ Ceux qui habitent à Nimègue, Groningue où Maastricht auront quelques kilomèt
 
 ## Après le scrutin
 
-Certains se donnent déjà rendez-vous après le scrutin pour pour un coup et peut-être parler politique, c'est sur le forum que ça se passe: [Amsterdam](http://www.leforum.nl/phpBB/viewtopic.php?t=9029) - [La Haye](http://www.leforum.nl/phpBB/viewtopic.php?t=9006). Il y a aussi possibilité de participer au dépouillement après 18 heures. Dans les bureaux de vote à l'étranger aussi ce sont les citoyens qui sont scrutateurs et aident au dépouillement. C'est toujours un moment interessant où on ne parle pas politique (on n'ose pas) mais où on en a plein les doigts.
+Certains se donnent déjà rendez-vous après le scrutin pour pour un coup et peut-être parler politique, c'est sur [le forum]((/le-forum-des-hollandais/)) que ça se passe avec des pots prévus à Alsterdam et La Haye. Il y a aussi possibilité de participer au dépouillement après 18 heures. Dans les bureaux de vote à l'étranger aussi ce sont les citoyens qui sont scrutateurs et aident au dépouillement. C'est toujours un moment interessant où on ne parle pas politique (on n'ose pas) mais où on en a plein les doigts.
 
 <!-- post notes:
 
 https://web.archive.org/web/20060624023239/http://www.consulfrance-amsterdam.org/IMG/pdf/public_fusion.pdf
 
 http://www.consulfrance-amsterdam.org/IMG/pdf/public_droitdevote.pdf 
+
+: [Amsterdam](http://www.leforum.nl/phpBB/viewtopic.php?t=9029) - [La Haye](http://www.leforum.nl/phpBB/viewtopic.php?t=9006)
 --->

@@ -40,8 +40,6 @@ Wikipedia
 "Si on laccusait par exemple de comportement dictatorial au sein du groupe parlementaire, il ne leffacerait certainement pas, comme cela sest produit sur la page sur Jan Marijnissen, du SP. Le 14 février, un passage moins positif sur le leader du SP, à propos dune querelle avec son collègue de parti Lazrak, y a été supprimé : Ce député accuse Marijnissen de comportement dictatorial. Et les lecteurs de Wikipedia, brusquement, navaient plus le droit de savoir que le SP, en 2006, a subi une défaite électorale à Oss, lieu de résidence de Marijnissen." 
 http://www.ambafrance.nl/article.php?id_article=8838 
 
-http://www.leforum.nl/phpBB/viewtopic.php?p=186079 
-
 http://www.youtube.com/watch?v=Hp8ugz5a7sU 
 http://www.rue89.com/2007/08/17/pour-wikipedia-le-wikiscanner-est-un-outil-formidable 
 article du monde sur le sujet http://www.mondialisation.ca/index.php?context=va&aid=6565

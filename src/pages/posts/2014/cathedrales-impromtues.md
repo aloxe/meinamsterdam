@@ -18,7 +18,6 @@ J'avais posé une question [sur le forum](/le-forum-des-hollandais) pour découv
 ![cailloux au premier plan et barage delta project à l'arrière](Neeltje-Jans-delta.jpg){.center}
 <!-- source https://www.flickr.com/photos/chogenbo/3946438087/ -->
 
-<!-- gone: http://www.leforum.nl/phpBB/viewtopic.php?f=9&t=6204&p=340670 -->
 
 <!-- gone: ![https://farm1.staticflickr.com/218/518315259_39dffa439d.jpg](la cathédrale de Reims sur Neeltje Jans (photo : Max Froumentin)){.center}  -->
 

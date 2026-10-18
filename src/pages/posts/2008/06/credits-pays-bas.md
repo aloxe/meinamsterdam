@@ -23,7 +23,7 @@ Le [forum des hollandais](/le-forum-des-hollandais) explique sur sa page Devenir
 
 * Les Néerlandais connaissent beaucoup de constructions de prêts faits pour maximiser l?avantage fiscal. Il est possible de ne pas rembourser le principal du prêt de façon à garder un maximum d?intérêts déductibles...
 
-Tout est bien expliqué [sur cette page](http://www.leforum.nl/lewiki/index.php/Devenir_propri%C3%A9taire) où l'on comprend mieux pourquoi **les Pays-Bas sont le pays d'Europe ou les ménages sont le plus endêtés**[^1]. Je vais néamoins ressortir quelques termes barbares et bataves auquels j'ai été confronté dernièrement.
+Tout est bien expliqué [sur cette page](https://web.archive.org/web/20081115192904/http://www.leforum.nl/lewiki/index.php/Devenir_propri%C3%A9taire) où l'on comprend mieux pourquoi **les Pays-Bas sont le pays d'Europe ou les ménages sont le plus endêtés**[^1]. Je vais néamoins ressortir quelques termes barbares et bataves auquels j'ai été confronté dernièrement.
 
 ## Aflossingsvrij
 C'est le nom du prêt à terme, ou prêt *in fine*. Le principe est simple. Seul les intérêts sont remboursés mensuelement. Le capital restant dû est à rembourser au terme du crédit. Comme les offre de prêts sont sur trente ans, les intérêts sont élevés mais il y a de fortes chances pour qu'au bout de 30 ans le capital dû soit bien inférieur à la valeur du bien. Pour couvrir les risques de ce genre de crédit, la banque hypotèque le bien acheté avec le prêt. La plupart du temps les banques Néerlandaises propose un prêt *Aflossingsvrij* adossé à une autre forme de prêt.

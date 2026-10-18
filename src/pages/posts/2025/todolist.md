@@ -49,9 +49,6 @@ http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Electricity_and_
 http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/File:Half-yearly_electricity_and_gas_prices_2014s1.png
 http://www.overstapgids.nl/energieprijzen/kwh/
 
-Taxe autos 
-http://www.leforum.nl/forum/viewtopic.php?f=7&t=18342&p=457949&e=457949
-
 où sortirà Amsterdam
 http://www.vanupied.com/amsterdam/sortir-amsterdam/
 

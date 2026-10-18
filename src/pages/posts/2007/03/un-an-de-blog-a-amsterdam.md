@@ -28,7 +28,7 @@ Pour ceux qui aiment les chiffres, depuis un an, ce blog a publié
 * **178 billets** 
 * **181 commentaires** (que j'ai jugé utile de garder).
 J'ai aussi pondu :
-* **182 messages** sur [le forum de Hollandais](http://www.leforum.nl)
+* **182 messages** sur [le forum de Hollandais](/le-forum-des-hollandais/)
 * **41 photos** sur [mon compte flickr](http://flickr.com/photos/13274211@N00/)
 * **9 nouveaux articles** sur [Wikipedia](http://fr.wikipedia.org/wiki/Portail:Pays-Bas) 
 

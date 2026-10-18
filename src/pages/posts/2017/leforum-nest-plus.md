@@ -13,7 +13,7 @@ update: 2017-11-03
 
 ![forum-des-hollandais.png](forum-des-hollandais.png){.center}
 
-Je vous ai [présenté le forum des Hollandais](/le-forum-des-hollandais) dès mon arrivée à Amsterdam en 2006 et je n'ai cessé de le citer depuis. Le pot organisé à l'époque et que j'ai immortalisé d'une photo de table n'a pas été le seul. Il y eu des rencontres irremplaçables et des discussions dans des fils sans fin. Pour mes [un an de ce blog](/un-an-de-blog-a-amsterdam), je citais le nombre de posts sur le forum comme gage de ma présence active entre les canaux. Ce forum va fermer ses portes au 1er janvier 2018, comme annoncé par [un message de Zungo](http://www.leforum.nl/forum/viewtopic.php?f=5&t=47785&p=474961#p474917). **Toute bonne chose a une fin**.
+Je vous ai [présenté le forum des Hollandais](/le-forum-des-hollandais) dès mon arrivée à Amsterdam en 2006 et je n'ai cessé de le citer depuis. Le pot organisé à l'époque et que j'ai immortalisé d'une photo de table n'a pas été le seul. Il y eu des rencontres irremplaçables et des discussions dans des fils sans fin. Pour mes [un an de ce blog](/un-an-de-blog-a-amsterdam), je citais le nombre de posts sur le forum comme gage de ma présence active entre les canaux. Ce forum va fermer ses portes au 1er janvier 2018, comme annoncé par un message de *Zungo*. **Toute bonne chose a une fin**.
 
 Le forum a ouvert un wiki en 2008 basé sur le logiciel Wikimedia ce qui permettait d'archiver tous les détails pratiques qui pouvaient être répétés plusieurs fois dans le mois. Pas toujours évident à tenir à jour tant les procédures administratives peuvent changer d'une année à l'autre mais cela a servit à pas mal de gens aussi.
 

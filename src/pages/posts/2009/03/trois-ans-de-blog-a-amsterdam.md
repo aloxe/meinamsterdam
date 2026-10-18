@@ -37,7 +37,7 @@ Pour ceux qui aiment encore les chiffres, depuis trois ans, ce blog utilise
 
 
 
-* **539 messages** sur [le forum des Hollandais](http://www.leforum.nl)
+* **539 messages** sur [le forum des Hollandais](/le-forum-des-hollandais/)
 * **130 photos** sur [mon compte flickr spécial Pays-Bas](http://flickr.com/photos/13274211@N00/)
 * **50 tweets** sur [twitter](http://twitter.com/meinamsterdam) et tout ça
 * **26 photos** utiles sur [Wikimedia commons](http://toolserver.org/~daniel/WikiSense/Gallery.php?wikifam=commons.wikimedia.org&wikilang=en&order=-img_timestamp&img_user_text=Aloxe&ofs=0&max=100)

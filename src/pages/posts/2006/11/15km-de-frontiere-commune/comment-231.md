@@ -2,7 +2,7 @@
 date: 2008-11-14
 author: pwi
 email: 
-site: http://www.leforum.nl/phpBB/viewtopic.php?f=5&amp;t=1462&amp;p=276316#p276316
+site: 
 tags: comment
 permalink: false
 ---
@@ -16,4 +16,8 @@ dit<br />
 l'article V de ces accords de Concordia dit<br />
 <br />
 &quot;Art.5 - Que la chasse, la pêche, les salines, les rivières, étangs, eaux douces, bois de teinture, mines ou mineraux, ports et rades, et autres comodités de ladite île, seront communes, et ce pour subvenir à la nécessité des habitants.&quot; (source: <a href="http://fr.wikipedia.org/wiki/Accords_de_Concordia)" title="http://fr.wikipedia.org/wiki/Accords_de_Concordia)" rel="nofollow">fr.wikipedia.org/wiki/Acc...</a></p>
----
+
+
+<!---
+http://www.leforum.nl/phpBB/viewtopic.php?f=5&amp;t=1462&amp;p=276316#p276316
+----->

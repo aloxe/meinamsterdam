@@ -7,9 +7,6 @@ tags: comment
 permalink: false
 ---
 
-<p>Est ce qu'à Schiphol on voit passer des Airbus Beluga comme à Toulouse?</p>
+Est ce qu'à Schiphol on voit passer des Airbus Beluga comme à Toulouse?
 
-<figure style="margin: 0 auto; display: table;"><a class="media-link" href="/public/images/scans/screenshots/airbus-beluga.png" eleventy:ignore /><img alt="airbus-beluga.png" class="media" src="/public/images/scans/screenshots/.airbus-beluga_m.png" eleventy:ignore /></a>
-
-<figcaption> </figcaption>
-</figure>
+![airbus-beluga capturé sur flight radar 24 faisant des ovales sur la carte](airbus-beluga.png)

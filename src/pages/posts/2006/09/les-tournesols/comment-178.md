@@ -1,11 +1,10 @@
 ---
 date: 2006-09-28
-author: VVG
+author: Vincent
 email: 
 site: http://commons.wikimedia.org/wiki/Image:Paul_Gauguin_104.jpg
 tags: comment
 permalink: false
 ---
 
-aucun rapport <a href="http://www.leerdamkristal.nl/ned/pict/vaas_zonnebloem_schilderij.jpg">avec ça</a> <a href="http://www.poster.net/vangogh/vgo21.jpg">ou ça</a> ?
----
+aucun rapport <a href="https://commons.wikimedia.org/wiki/File:Zonnebloemen_-_s0031V1962_-_Van_Gogh_Museum.jpg">avec ça</a> <a href="https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_128.jpg">ou ça</a> ?

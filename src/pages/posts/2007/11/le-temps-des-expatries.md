@@ -28,13 +28,13 @@ Puisqu'il semblerait que l'automne soit le meilleur moment pour choyer l'expatri
 <!-- HTML -->
 <div style="boder:1px solid black; background-color:#FFFFFF; color:#000065; text-align:center; margin:auto; padding:5px;">
 
-Les **aspects culturels** de la vie aux Pays?Bas: présentation de modèles   
-qui permettent d?expliquer les différences culturelles.    
+Les **aspects culturels** de la vie aux Pays-Bas: présentation de modèles   
+qui permettent d’expliquer les différences culturelles.    
 Les aspects liés au **droit du travail** et les différences avec la France:    
 le contrat de travail, la couverture sociale.   
 La **fiscalité** des sociétés et des personnes, le 30% regeling.   
-Le séminaire se termine par un **témoignage** d?un chef d?entreprise français    
-travaillant aux Pays?Bas.   
+Le séminaire se termine par un **témoignage** d’un chef d’entreprise français    
+travaillant aux Pays-Bas.   
 
 </div>
 <!-- / HTML -->

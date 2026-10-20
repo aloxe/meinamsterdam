@@ -21,7 +21,7 @@ Le [forum des hollandais](/le-forum-des-hollandais) explique sur sa page Devenir
 
 * Vous n?êtes pas tenus de faire un apport personnel si vos revenus sont suffisants. En théorie il est donc possible de s?endetter à hauteur de 110 % de la valeur du logement. 
 
-* Les Néerlandais connaissent beaucoup de constructions de prêts faits pour maximiser l?avantage fiscal. Il est possible de ne pas rembourser le principal du prêt de façon à garder un maximum d?intérêts déductibles...
+* Les Néerlandais connaissent beaucoup de constructions de prêts faits pour maximiser l’avantage fiscal. Il est possible de ne pas rembourser le principal du prêt de façon à garder un maximum d’intérêts déductibles...
 
 Tout est bien expliqué [sur cette page](https://web.archive.org/web/20081115192904/http://www.leforum.nl/lewiki/index.php/Devenir_propri%C3%A9taire) où l'on comprend mieux pourquoi **les Pays-Bas sont le pays d'Europe ou les ménages sont le plus endêtés**[^1]. Je vais néamoins ressortir quelques termes barbares et bataves auquels j'ai été confronté dernièrement.
 

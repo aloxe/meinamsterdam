@@ -18,7 +18,7 @@ Alors que le froid se fait de plus en plus pugnace, que l'hiver approche à gran
 ![Kermesse Francophone](Logo-Kermesse-Francophone.png){.right}
 
 ## La Kermesse Francophone
-J'ai déjà évoqué [la kermesse francophone](http://www.kermessefrancophone.nl/navigatie1.htm) [il y a deux ans](/une-semaine-francaise). Cette année, encore, la kermesse francophone rassemblera les petits et les grands autour de nombreux stands ludiques et appétissants. Ça se passe aujourd'hui (samedi 27 novembre 2010) de 12h00 à 18h30, à **La Haye**, Sorgvliet Gymnasium, Johan de Wittlaan 22 (en face de l?Omniversum et du Museon).
+J'ai déjà évoqué [la kermesse francophone](http://www.kermessefrancophone.nl/navigatie1.htm) [il y a deux ans](/une-semaine-francaise). Cette année, encore, la kermesse francophone rassemblera les petits et les grands autour de nombreux stands ludiques et appétissants. Ça se passe aujourd'hui (samedi 27 novembre 2010) de 12h00 à 18h30, à **La Haye**, Sorgvliet Gymnasium, Johan de Wittlaan 22 (en face de l’Omniversum et du Museon).
 
 ## Le Téléthon
 

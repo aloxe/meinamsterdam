@@ -21,7 +21,7 @@ Autre première, c'est la première fois que les Pays-Bas émettent une pièce c
 
 <!--excerpt-->
 
-La pièce a été frappée à l'occasion du 500e anniversaire de l'impression de **L?Éloge de la folie** par **Érasme** (*Erasmus*). On y voit l'écrivain de Rotterdam écrivant les premiers mots de son livre (*Laus Stultitiae* ?) ainsi que effigie de la **la reine Beatrix** et son titre *Beatrix Koningin der Nederlanden*, la reine des Pays-Bas.
+La pièce a été frappée à l'occasion du 500e anniversaire de l'impression de **L’Éloge de la folie** par **Érasme** (*Erasmus*). On y voit l'écrivain de Rotterdam écrivant les premiers mots de son livre (*Laus Stultitiae* ?) ainsi que effigie de la **la reine Beatrix** et son titre *Beatrix Koningin der Nederlanden*, la reine des Pays-Bas.
 
 En 2007 quand la banque centrale européenne propose l'idée d'une émission commune, le gouvernement néerlandais doit amender sa loi parce que cette dernière indique que **les pièces de monnaie doivent comporter une effigie du monarque**. L'amendement de cette loi n'étant valable que pour les émissions communes, on retrouve la reine aux cotés de l'écrivain. Les Pays-Bas évitent ainsi de devoir se plier à l'une des nouvelles règles pour la conception des euros qui exige que le nom du pays émetteur figure sur la pièce.
 

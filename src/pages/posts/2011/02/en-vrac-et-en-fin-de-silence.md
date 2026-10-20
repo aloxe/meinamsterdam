@@ -23,7 +23,7 @@ Pendant ces trois semaines j'aurais bien aimé quelques festivals de cinéma que
 Le second festival est je crois le plus connu aux Pays-Bas, c'est l'[International Film Festival Rotterdam](http://www.filmfestivalrotterdam.com/nl/), (IFFR pour les intimes). Il a eu lieu du 26 janvier au 6 février. Comme à Cannes, le logo du festival est aussi le nom de la récompense. Cette année les tigres ont été attribués à The Journals of Musan de Park Jung-Bum, Finisterrae de Sergio Caballero et Eternity de Sivaroj Kongsakul. Je n'ai vu aucun de ces films puisque je n'ai pas profité du festival.
 
 ## La mode oscille
-Depuis que [Viktor & Rolf](http://fr.wikipedia.org/wiki/Viktor_%26_Rolf) sont mondialement connus, Amsterdam veut devenir une capitale de la mode. Deux fois par an, les collections de la saison suivante dont présentés aux visiteurs venant du monde entier. La ville en assure largement la promotion et il est bien de se montrer aux différentes soirées organisées à l?occasion. Je n'y suis pas allé et c'est pour ça que je vous en parle.
+Depuis que [Viktor & Rolf](http://fr.wikipedia.org/wiki/Viktor_%26_Rolf) sont mondialement connus, Amsterdam veut devenir une capitale de la mode. Deux fois par an, les collections de la saison suivante dont présentés aux visiteurs venant du monde entier. La ville en assure largement la promotion et il est bien de se montrer aux différentes soirées organisées à l’occasion. Je n'y suis pas allé et c'est pour ça que je vous en parle.
 
 **Mais qu'ai-je donc bien pu faire pour ne pas avoir le temps de mettre à jour mon blog ?**
 

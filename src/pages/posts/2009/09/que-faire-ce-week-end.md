@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Que faire ce week end?
+title: Que faire ce week end ?
 description: "Un petit billet histoire de dire que je ne suis pas en retard pour vous donner des conseils de sorties. C'est ce week end qu'ont lieu les journées du patrimoine."
 categorie: dagelijks
 tags: ["sortir"]

@@ -35,7 +35,7 @@ Deuxième pôle attractif de ma ville, le sexe. après un an et demi je n'ai tou
 Après leur passage, il faut refaire sa garde-robe. Seulement aux Pays-Bas, la mode a parfois ses tendances locales. Un jour vous présenterais-je les particularités vestimentaires des hollandais.
 
 ### 2008 année des mythes
-Séquence culture : Coté arts plastiques, les Pays-Bas ont de bonnes références, de ce coté là c'est bon mais coté littérature, c'est pas gagné. Connaissez-vous les contes et légendes Hollandais?
+Séquence culture : Coté arts plastiques, les Pays-Bas ont de bonnes références, de ce coté là c'est bon mais coté littérature, c'est pas gagné. Connaissez-vous les contes et légendes Hollandais ?
 
 ### 2008 année des visites
 Qui va venir nous voir cette année ?

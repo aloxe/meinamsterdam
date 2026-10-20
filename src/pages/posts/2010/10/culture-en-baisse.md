@@ -12,7 +12,7 @@ update: 2016-02-10
 TODO: no image, no image alt
 ---
 
-Je vous ai présenté [le nouveau gouvernement début octobre](/en-vrac-et-debut-octobre). Les mesures de l'accort de gouvernement montrent que c'est un gouvernement bien à droite et soutenu par l?extrême droite. Accord que le premier Ministre Rutte a présenté devant le parlement ce mardi. La gauche n'est pas contente du tout.
+Je vous ai présenté [le nouveau gouvernement début octobre](/en-vrac-et-debut-octobre). Les mesures de l'accort de gouvernement montrent que c'est un gouvernement bien à droite et soutenu par l’extrême droite. Accord que le premier Ministre Rutte a présenté devant le parlement ce mardi. La gauche n'est pas contente du tout.
 
 Dans les semaines à venir je vais tenter de détailler quelques points de cet accord de gouvernement et de les remettre dans leur contexte local. Aujourd'hui la politique culturelle du gouvernement.
 

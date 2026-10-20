@@ -42,7 +42,7 @@ La presse néerlandaise du [13 août](http://www.ambafrance-nl.org/france_paysba
 <!-- HTML -->
 <div style="border:1px solid grey; background-color:#FFFFEE; padding:10px;">
 <!-- / HTML -->
-« Le leader VVD Mark Rutte, 43 ans, ne sera pas le premier ministre le plus jeune de l?histoire des Pays-Bas », remarque le quotidien à grand tirage De Telegraaf à la une. « S?il avait voulu être le benjamin des premiers ministres son gouvernement aurait dû poser aujourd?hui sur le perron de la Reine Beatrix. La formation du gouvernement prend tellement de temps que le chrétien-démocrate Ruud Lubbers reste le détenteur du record. »
+« Le leader VVD Mark Rutte, 43 ans, ne sera pas le premier ministre le plus jeune de l’histoire des Pays-Bas », remarque le quotidien à grand tirage De Telegraaf à la une. « S?il avait voulu être le benjamin des premiers ministres son gouvernement aurait dû poser aujourd’hui sur le perron de la Reine Beatrix. La formation du gouvernement prend tellement de temps que le chrétien-démocrate Ruud Lubbers reste le détenteur du record. »
 « Rutte voulait avoir un gouvernement le 1er juillet, mais le résultat des élections a compliqué les choses. C'est aujourd'hui le 65e jour de la formation. »
 <!-- HTML -->
 </div>

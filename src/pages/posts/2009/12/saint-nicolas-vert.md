@@ -53,4 +53,4 @@ La campagne porte ses fruits, le *Groene Sint* a été reçu à la chambre basse
 </div>
 <!-- / HTML -->
 
-Et pour Noël, vous allez acheter du chocolat?
+Et pour Noël, vous allez acheter du chocolat ?

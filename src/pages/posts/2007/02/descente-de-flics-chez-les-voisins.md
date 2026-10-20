@@ -18,7 +18,7 @@ update: 2013-03-20
 
 
 
-[Selon global360](http://www.global360.com/international/french/customers/success_stories/), **First Alliance Trust** est l?une des plus grandes sociétés fiduciaires des Pays-Bas. Elle gère des *gros volumes de travail générés par les exigences d?ordre légal, fiscal et administratif de ses clients*. Cette société est installée dans l'[une des tours](http://www.fat.nl/verhuisbericht.html) les plus prestigieuses d'Amsterdam. En fait, elle a ces bureaux quelques étages au dessus de la société dans laquelle je travaille, en plein [Zuidas](/un-buurt-nomme-zuidas).
+[Selon global360](http://www.global360.com/international/french/customers/success_stories/), **First Alliance Trust** est l’une des plus grandes sociétés fiduciaires des Pays-Bas. Elle gère des *gros volumes de travail générés par les exigences d’ordre légal, fiscal et administratif de ses clients*. Cette société est installée dans l'[une des tours](http://www.fat.nl/verhuisbericht.html) les plus prestigieuses d'Amsterdam. En fait, elle a ces bureaux quelques étages au dessus de la société dans laquelle je travaille, en plein [Zuidas](/un-buurt-nomme-zuidas).
 
 ## Nouveau mot: Trustkantoor
 

@@ -18,7 +18,7 @@ Avec le changement de statut des Antilles Néerlandaises entré en vigueur le 10
 L'ISO a donc publié les [mises à jour](http://www.iso.org/iso/iso_3166-1_newsletter_vi-8_split_of_the_dutch_antilles_final-en.pdf) de sa table 3166 le 15 décembre dernier et outre les corrections de diverses coquilles, la newsletter contient les nouveaux codes du à l'éclatement des Antilles Néerlandaises. Les nouveaux codes sont:
 
 * **BQ** pour les 3 nouvelles municipalités à statut spécial qu'on appelle «BES» pour **Bonaire**, **Saint-Eustache** et **Saba**. 3 petites îles-communes, deux au nord de la Guadeloupe et une au large du Vénézuela.
-* **CW** pour **Curaçao**, l?emblématique île néerlandaise au large des côtes du Vénézuela.
+* **CW** pour **Curaçao**, l’emblématique île néerlandaise au large des côtes du Vénézuela.
 * **SX** pour la [partie néerlandaise de Saint-Martin](/15km-de-frontiere-commune), notée aussi **Sint-Maarten** en anglais dans la nomenclature de l'ISO.
 
 * **AN** le code des **Antilles Néerlandaises** disparait puisque les Antilles Néerlandaises ne sont plus.

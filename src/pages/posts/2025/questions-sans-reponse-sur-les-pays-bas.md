@@ -36,7 +36,7 @@ Questions avec réponses
 
 ## 7- La fête nationale est l'anniversaire du roi. Ça veut dire qu'ils changent de date à chaque changement de monarque ?
 
-## 8- Pourquoi dit-on **les** Pays-Bas alors que ce n'est qu'un seul (petit) pays?
+## 8- Pourquoi dit-on **les** Pays-Bas alors que ce n'est qu'un seul (petit) pays ? 
 ---
 <!-- post notes:
 2- Et Que dire du Benin, la capitale est Porto-Novo et le gouvernement siège dans la plus grande ville de Cotonou.

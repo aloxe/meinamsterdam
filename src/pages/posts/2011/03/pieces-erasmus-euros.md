@@ -13,7 +13,7 @@ update: 2012-09-21
 ---
 
 ![Ma pièce de 2 euros Erasme](euro-erasmus.jpg){.right}
-Depuis mon annonce de la sortie de la [nouvelle pièce commémorative néerlandaise](http://meinamsterdam.nl/piece-de-2-euros-neerlandaise), j'ai découvert deux sites intéressants. Le premier est *[Ik heb hem](http://www.ikhebhem.nl/)* qui peut se traduire par **« J'en ai une   ! »**. Sur ce site, les gens pouvaient photographier leur pièce à effigie d?Érasme et peut être gagner un lingot de 100g d'argent massif.
+Depuis mon annonce de la sortie de la [nouvelle pièce commémorative néerlandaise](http://meinamsterdam.nl/piece-de-2-euros-neerlandaise), j'ai découvert deux sites intéressants. Le premier est *[Ik heb hem](http://www.ikhebhem.nl/)* qui peut se traduire par **« J'en ai une   ! »**. Sur ce site, les gens pouvaient photographier leur pièce à effigie d’Érasme et peut être gagner un lingot de 100g d'argent massif.
 
 <!--excerpt-->
 
